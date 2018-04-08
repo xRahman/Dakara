@@ -1,0 +1,111 @@
+﻿Vážná zranění jsou stále moc komplikovaná a navíc to možná zbytečně postavu vyřazuje z akce (má postih a ještě navíc ztrátu kondice)
+- možné řešení: Nelockovat hpčka, držet jen postih (dokud není vážné zranění vyléčeno).
+
+---------------------------------------------------------------
+
+Přebírání spotligtu, když si víc hráčů vezme stejnou důležitou dovevnost (otevírání zámků).
+- řešením by mohlo být balíčkování dovedností (classy), ale popravdě minimálně u starých jazyků to nepůjde, protože to je jak info-gathering skill tak i spellcasting skill.
+
+
+Možná se vykašlat na získávání nových dovendostí při levelování a zredukovat to na jednu dovednost pro každou postavu?
+- lock picking
+- tracking and hunting
+- reading and writing
+- healing
+- 
+
+Další možné řešení je, pořádně zohlednit spolupráci
+- to je zrovna při čtení starých textů k ničemu (ale to zas můžeš řešit to, když bude starých jazyků víc).
+
+Další možnost by byla, vykašlat se na skilly a znalosti úplně a navázat to čistě na minulost postavy.
+- odpadly by tak i věci jako "umím staroelfsky, protože jsem si to vzal při tvorbě postavy".
+
+- znalosti starých jazyků by šlo vyřešit předmětama (čelenka staroelfštiny nebo překladový slovník)
+
+Dovednosti, které by fakt neměl umět každej:
+---------
+plavání
+čtení a psaní
+
+léčitelství (protože to je z profese? Na druhou stranu vypáčit zámek taky může každej, kdo na to má nástroje).
+
+
+=> Udělám to pře balíčky s minulostí, tím se to celé ještě víc zrychlí a zjenoduší
+---------
+
+Lovec, stopař
+- lovecký nůž
+- krátký luk, toulec s pěti šípy
+- stopování, orientace a přežití v divočině, atd.
+- znalost goblinštiny
+Žoldák, voják, gladiátor, gardista
+- lehká zbroj
+- dýka
+- kopí
+Písař, učenec, kněz
+- čtení a psaní
+- inkoust a psací potřeby, 10 archů papíru, pouzdro na svitky, podložka na psaní
+- lucerna na svíci, 6 lojových svíček
+Kovář
+- kleště, kladivo, pilník, průbojník
+- klubko drátu
+Tesař
+- dláto, kladivo, sekera, páčidlo, pytlík skob a hřebů
+Kameník
+- majzlík, kamenická palice, kamenická špice
+Lupič
+- páčidlo
+- sada paklíčů a šperháků
+- dva vrhací nože
+- kotvička a 5 metrů lana
+Léčitel, kněz
+- léčitelské potřeby
+- léčitelství (zahrnuje znalost účinků jedů)
+
+Kněz?
+Nádeník
+- lopata nebo krumpáč
+Námořník?
+Farmář?
+- vidle nebo motyka
+Ranař?
+- Dva metry řetězu
+Dřevorubec?
+- sekera
+
+
+Výbava na výběr:
+- olejová lampa a 2 lahve oleje (každá na 12 hodin svícení)
+- velký pytel
+- 5 metrů lana
+- poutnická hůl
+- 10 loučí (každá svítí 20 minut) (zapálená jde použít jako zbraň 1/0)
+
+
+
+Povolání říká, co postava dělala celý život, takže to zná a umí opravdu dobře. Neznamená to ale, že by jen kovář mohl pracovat s železem nebo jen lovec mohl hledat stopy. Kdokoliv může dělat cokoliv, na co má potřebné nástroje. Výjimkou je goblinština, kterou zná jen lovec, a čtení a psaní, které umí jen písař.
+
+I přes to, že každá postava může dělat prakticky cokoliv, je ale vhodné, nechat to dělat hráče, jehož postava má přílušné povolání. Dává to smysl - tesař určitě zvládne postavit výdřevu lépe a rychleji než písař. Povolání také pomáhají zapojit do hry všechny hráče - když by všechno dělal jen jeden z vás, ostatní byste se nejspíš nudili a to určitě není dobře.
+
+
+------------------------------------------------------------------------------------
+
+K léčitelství
+
+
+------------------------------------------------------------------------------------
+
+
+
+Je třeba rozhodnout, jestli je možné připoutat předmět, který má připoutaný někdo jiný.
+- zatím to hrajeme tak, že to nejde
+
+Detekce magických předmětů dotykem (protože je cítit mravenčení)
+
+
+
+------------------------------------------------------------------------------------
+
+IMPORTANT: Vytvoření nevýhody
+
+- stačí přehodit o 3

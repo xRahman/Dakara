@@ -1,0 +1,49 @@
+﻿Laborku démonologie přejmenovat na laborku přivolávání.
+
+Upravit short verzi pravidel a ceníku
+- dořešit jedy
+
+Předělat mapu dungu do epodoby.
+
+Dát do textů hinty k pastem a trezorům.
+
+Zamyslet se nad zajímavějšími předměty.
+- co to znamená?
+-- interakce s jinými předměty (set bonusy? interakce mezi postavami?)
+-- postupné odemykání vlastností předmětů (unlocking triggers?)
+   - hráč by mohl dostat kartu se seznamem triggerů ke sledování (bez toho, co se stane).
+
+
+- víc aktivačních formulí
+	(z nichž ty další se musí někde najít - například v zápiscích výzkumníků)
+
+- hůlka žáru: 1 kolo nabíjení soustředěním, v dalším to udělá aoečko (ohnivou kouli)
+
+
+
+
+
+- Za -2 k hodu se můžeš pokusit o dvě akce současně (například dostat se z nevýhody a rovnou zaútočit).
+
+- Zanícení zranění (1 z 6 při neošetření).
+
+
+- Hod X ze 6 použijte pouze když žádná postava výsledek nemůže nijak ovlivnit.
+
+
+
+Gobliní kouzla a rituály
+- jasná podmínka je znalost goblinštiny.
+- Jsou ta kouzla ale psaná? Asi by neměla být, nedává to smysl. Goblini určitě žádná lejstra nevedou, elfské knihy ostatně používají jako srapír (to ale taky může být tím, že jsou v elfštině).
+  - nevýhoda tohohle přístupu je, že si pak goblinskou magii nikdy neužijou postavy.
+- Alternativa: An item is a spell (stejně jako u elfů, že). Nevadí, že to není text a dokonce asi tudíž ani nevadí, že postava neumí goblinštinu.
+  - Respektive... pořád je asi potřeba zaklínací formule (v goblinštině), ale tu lze odposlechnout od šamana.
+Ok. Takže kouzlo je nějaký předmět - amulet, váček s medicínou, atd. Jde ho normálně připoutat - buď něco dělá rovnou (pasivně), nebo je k tomu potřeba aktivační formule v goblinštině.
+
+Co goblinské rituály? U těch je asi keců víc, ale základ může být podobný. Kouzlem je zřejmě nějaký totem nebo modla. Ingredience jsou různé obětiny a tak. A říkat je u toho potřeba to, co říká gobliní šaman (čili ho odposlechnout a třeba si to zapsat).
+- někde by mohly být k nalezení poznámky někoho, kdo tyhle goblinské rituály pozoruje a zapisuje si to.
+TODO: Vymyslet zaklínací formule pro kouzla gobliního šamana - ať to hráči mohou zkusit použít.s
+
+Neměly by se gobliní rituály dělat spíš venku? V tom případě by dávalo smysl, ale byla někde venku socha jedho z gobliních bohů...
+- asi to přece jen bude spíš v dungeonu. Sice to nejspíš znamená, že hráči nebudou mít možnost vidět rituál "při akci", ale to by se stejně špatně časovalo.
+- pořád tam mohou být zbytky dětských koster a tak.
