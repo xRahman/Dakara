@@ -1,4 +1,46 @@
-﻿Laborku démonologie přejmenovat na laborku přivolávání.
+﻿
+TODO: vytisknout si seznam bohů
+
+TODO: Karty zbraní a obecných předmětů (na vyzkoušení).
+
+- na karty dát asi jen základní staty zbraně
+  (určitě tam bude prázdné místo, takže si tam hráč celkové BČ může
+   napsat, když bude chtít, ale u boxové verze by asi byl s psaním
+   na karty problém - nenapadá mě, jak je doplňovat)
+
+- věci jako elfský meč se liší jen cenou.
+  Možná bych to mohl vyřešit nějakým tagem (podřadný/obyčejný/honosný)
+  - s tím, že "obyčejný" tam psát nemusím, to je default.
+  - tag by násobil základní cenu předmětu.
+Provedení: honosné
+
+============================================================
+
+Dungeon-keep
+==============
+
+TODO: Karty kouzel a předmětů:
+
+Hojivý rituál
+Světlo
+Přenos myšlenek
+Vzplanutí
+Kulový blesk
+
+Lektvar ohnivého dechu
+Léčivý lektvar
+Očarování rukavic ze srsti huňáče
+Rukavice ze srsti huňáče
+Sérotvorný flakón
+
+Oslepovací tinktura?
+
+============================================================
+
+Dungeon-Labs
+=============
+
+Laborku démonologie přejmenovat na laborku přivolávání.
 
 Upravit short verzi pravidel a ceníku
 - dořešit jedy
