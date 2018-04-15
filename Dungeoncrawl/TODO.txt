@@ -5,8 +5,21 @@ TODO: vytisknout si seznam bohů
 
 TODO: Vymyslet pro každou postavu pár relevantních NPCček a kontaktů
 (jména a tak)
+- Realisticky: Pro každého hráče jeden konktakt.
+[done]
 TODO: Poslat to hráčům do mailu.
+[done]
 TODO: Vytisknout si to (a možná i hráčům?).
+[done]
+
+TODO: Updatnout si seznam NPCček.
+[done]
+TODO: Vytisknout dovednosti.
+[done]
+TODO: Napsat Orbitovi něco o historii města + jeho kontakty.
+[done]
+TODO: Vytisknout si eventy (nebo updatnout starší verzi).
+[done]
 
 Pár zápletek a eventů.
 - možná nějaký tajemný předmět (to by ale spíš chtělo v nějakém dungeonu),
