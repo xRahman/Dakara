@@ -57,11 +57,12 @@ Kulový blesk
 
 Lektvar ohnivého dechu
 Léčivý lektvar
-Očarování rukavic ze srsti huňáče
-Rukavice ze srsti huňáče
+Očarování nabíjecích rukavic
+Nabíjecí rukavice
 Sérotvorný flakón
 
 Oslepovací tinktura?
+- to asi v tomhle dungeonu není jak použít
 
 ============================================================
 
