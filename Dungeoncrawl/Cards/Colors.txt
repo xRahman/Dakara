@@ -1,0 +1,3 @@
+﻿Základní písmo na kartě: rgb(50, 50, 50)
+Oheň:                    rgb(255, 100, 0)
+Blesk:                   rgb(100, 130, 255)

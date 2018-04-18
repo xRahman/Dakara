@@ -50,7 +50,7 @@ Dungeon-keep
 TODO: Karty kouzel a předmětů:
 
 Hojivý rituál
-Světlo
+//Světlo
 Přenos myšlenek
 Vzplanutí
 Kulový blesk
