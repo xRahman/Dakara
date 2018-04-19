@@ -49,11 +49,11 @@ Dungeon-keep
 
 TODO: Karty kouzel a předmětů:
 
-Hojivý rituál
-//Světlo
-Přenos myšlenek
-Vzplanutí
-Kulový blesk
++Hojivý rituál
++//Světlo
++Přenos myšlenek
++Vzplanutí
++Kulový blesk
 
 Lektvar ohnivého dechu
 Léčivý lektvar
@@ -63,6 +63,13 @@ Sérotvorný flakón
 
 Oslepovací tinktura?
 - to asi v tomhle dungeonu není jak použít
+
+
++Dlouhý meč (ten teda nepotřebuju, ale co už)
++Meč
++Dýka
++Elfský meč
++Elfská dýka
 
 ============================================================
 
