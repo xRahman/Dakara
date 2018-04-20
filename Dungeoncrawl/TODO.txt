@@ -61,7 +61,7 @@ Očarování nabíjecích rukavic
 Nabíjecí rukavice
 Sérotvorný flakón
 
-Oslepovací tinktura?
+//Oslepovací tinktura?
 - to asi v tomhle dungeonu není jak použít
 
 
@@ -71,11 +71,11 @@ Oslepovací tinktura?
 +Elfský meč
 +Elfská dýka
 
-Dlouhý luk
-Krátký luk
-Vrhací nože?
-Kopí
-Lehká zbroj
++Dlouhý luk
++Krátký luk
++Vrhací nože
++Kopí
++Lehká zbroj
 
 Orkské zbraně?
   Orkská obouruční palice
@@ -83,7 +83,7 @@ Orkské zbraně?
   Orkská kamenná sekera
   Orkská kožená zbroj
 
-IDEA: Různé barvy pozadí pro lidské/elfské/orcské/trpaslické zbraně a předměty.
+IDEA: Různé barvy pozadí pro lidské/elfské/orkské/trpaslické zbraně a předměty.
 
 
 Možná by se přemíra zbraní dala řešit jednou kartou s počítadlem
