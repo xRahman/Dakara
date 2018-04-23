@@ -76,12 +76,16 @@ Sérotvorný flakón
 +Vrhací nože
 +Kopí
 +Lehká zbroj
+kuše
+Malý štít
+Velký štít
 
 Orkské zbraně?
-  Orkská obouruční palice
-  Orkský jednoruční kyj
-  Orkská kamenná sekera
-  Orkská kožená zbroj
+  +Pazourkový nůž
+  +Dvojruční kyj
+  +Jednoruční kyj
+  +Kamenná palice
+  +Orkská lehká zbroj
 
 IDEA: Různé barvy pozadí pro lidské/elfské/orkské/trpaslické zbraně a předměty.
 
