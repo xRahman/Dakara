@@ -77,8 +77,8 @@ Sérotvorný flakón
 +Kopí
 +Lehká zbroj
 kuše
-Malý štít
-Velký štít
++Malý štít
++Velký štít
 
 Orkské zbraně?
   +Pazourkový nůž
@@ -86,6 +86,7 @@ Orkské zbraně?
   +Jednoruční kyj
   +Kamenná palice
   +Orkská lehká zbroj
+  +Velký orkský štít (možná jen +1 proti střelbě)
 
 IDEA: Různé barvy pozadí pro lidské/elfské/orkské/trpaslické zbraně a předměty.
 
