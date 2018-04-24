@@ -76,7 +76,7 @@ Sérotvorný flakón
 +Vrhací nože
 +Kopí
 +Lehká zbroj
-kuše
++kuše
 +Malý štít
 +Velký štít
 
@@ -90,6 +90,33 @@ Orkské zbraně?
 
 IDEA: Různé barvy pozadí pro lidské/elfské/orkské/trpaslické zbraně a předměty.
 
+ROZMYSLET si názvosloví
+- problém je, že když budu říkat novoorským zbraňím např. Orkská sekera,
+  bude se to tlouct se staroelfskými a staroorkskými předměty.
+- zatím orkským zbraním neříkám orkské, ale porušuju to u zbroje a štítu.
+  Možná jim říkat "primitivní"?
+(Tzn "Orský meč" by znamenal staroorkský, stejně jako "Elfský meč"
+je staroelfský).
+- Na druhou stranu "orkská" taky může znamenat, že je velikostně na orka.
+Jo, tohle bude asi lepší. "Eflský", "Orkský", "Trpaslický", "Kudůcký" a pod.
+bude označovat velikost (a taky trochu styl zpracování), nikoliv to, jak je
+ta zbraň stará.
+
+TODO: Obecně zavést velikosti:
+- trpaslická (trpaslík, kudůk, goblin)
+- lidská (člověk, elf)
+- orkská
+- trollí
+- obří
+Pravidla:
+- zbraně jdou použít ob jeden stupeň velikosti, takže trpaslíci a kudůci mohou
+  bojovat lidskými zbraněmi, ale ne orskými.
+- zbroje musí být na příslušnou velikost, takže trpaslík nemůže použít zbroj
+  lidské velikosti a naopak.
+Mohou kudůci a trpaslíci střílet z dlouhého luku?
+- spíš ne
+Ještě bych to mohl pojmenovávat trochu víc stylově, tzn. Dórská těžká zbroj
+místo Lidská těžká zbroj (ale pak by zas ta velikost nebyla zřejmá z názvu).
 
 Možná by se přemíra zbraní dala řešit jednou kartou s počítadlem
   (gumovatelná pera řeší fakt kde co).
