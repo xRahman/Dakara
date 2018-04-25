@@ -76,7 +76,8 @@ Sérotvorný flakón
 +Vrhací nože
 +Kopí
 +Lehká zbroj
-+kuše
++Kuše
++Opakovací kuše
 +Malý štít
 +Velký štít
 
