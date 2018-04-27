@@ -42,6 +42,10 @@ TODO: Karty zbraní a obecných předmětů (na vyzkoušení).
   - tag by násobil základní cenu předmětu.
 Provedení: honosné
 
+
+TODO: Na kartách kouzel (a vlastně všude) psát v útoku explicitně použitý
+  atribut, tzn. třeba: útok ohněm proti Síle: Duše + 1/k6
+
 ============================================================
 
 Dungeon-keep
@@ -57,8 +61,8 @@ TODO: Karty kouzel a předmětů:
 
 Lektvar ohnivého dechu
 Léčivý lektvar
-Očarování nabíjecích rukavic
-Nabíjecí rukavice
++Očarování nabíjecích rukavic
++Nabíjecí rukavice
 Sérotvorný flakón
 
 //Oslepovací tinktura?
