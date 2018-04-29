@@ -51,7 +51,23 @@ TODO: Na kartách kouzel (a vlastně všude) psát v útoku explicitně použit�
 Dungeon-keep
 ==============
 
+TODO: Karty protivníků
+
+Obří pavouk
+Huňáči
+Socha s kopím
+Socha s mečem a štítem
+Přízrak s kopím
+Goblin
+Vlk (worg)
+Ork
+Varan
+
+
 TODO: Karty kouzel a předmětů:
+
+Amulet ve tvaru štítu (obsahuje životní esenci elfského strážce).
+Beleronův amulet (nejlíp ve tvaru klečícího rytíře s čelem opřeným o meč.)
 
 +Hojivý rituál
 +//Světlo
