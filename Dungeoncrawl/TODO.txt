@@ -116,9 +116,10 @@ Orkské zbraně?
 
 Goblinské zbraně
   (pazourkový nůž už mám)
-  Oštěp
-  Goblinský luk
-  Možná zbroj?
+  +Kostěný nůž
+  +Oštěp
+  +Goblinský luk
+  -Možná zbroj (na tu spíš do prvního dungeonu kašlat)?
 
 IDEA: Různé barvy pozadí pro lidské/elfské/orkské/trpaslické zbraně a předměty.
 
