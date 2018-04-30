@@ -75,8 +75,8 @@ Beleronův amulet (nejlíp ve tvaru klečícího rytíře s čelem opřeným o m
 +Vzplanutí
 +Kulový blesk
 
-Lektvar ohnivého dechu
-Léčivý lektvar
++Lektvar ohnivého dechu
++Léčivý lektvar
 +Očarování nabíjecích rukavic
 +Nabíjecí rukavice
 Sérotvorný flakón
