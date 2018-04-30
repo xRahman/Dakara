@@ -48,6 +48,10 @@ TODO: Na kartách kouzel (a vlastně všude) psát v útoku explicitně použit�
 
 ============================================================
 
+TODO: Kolonku "Bojové číslo" u zbraní přejmenovat na "Útok"
+(a u kouzel dost možná taky, bude to kratší řádek než Eekt: útok blabla)
+[done]
+
 Dungeon-keep
 ==============
 
@@ -66,8 +70,9 @@ Varan
 
 TODO: Karty kouzel a předmětů:
 
-Amulet ve tvaru štítu (obsahuje životní esenci elfského strážce).
-Beleronův amulet (nejlíp ve tvaru klečícího rytíře s čelem opřeným o meč.)
++Amulet ve tvaru štítu (obsahuje životní esenci elfského strážce).
+- nejde připoutat, protože je připoutaný.
++Beleronův amulet (nejlíp ve tvaru klečícího rytíře s čelem opřeným o meč.)
 
 +Hojivý rituál
 +//Světlo
@@ -79,7 +84,7 @@ Beleronův amulet (nejlíp ve tvaru klečícího rytíře s čelem opřeným o m
 +Léčivý lektvar
 +Očarování nabíjecích rukavic
 +Nabíjecí rukavice
-Sérotvorný flakón
++Sérotvorný flakón
 
 //Oslepovací tinktura?
 - to asi v tomhle dungeonu není jak použít
@@ -108,6 +113,12 @@ Orkské zbraně?
   +Kamenná palice
   +Orkská lehká zbroj
   +Velký orkský štít (možná jen +1 proti střelbě)
+
+Goblinské zbraně
+  (pazourkový nůž už mám)
+  Oštěp
+  Goblinský luk
+  Možná zbroj?
 
 IDEA: Různé barvy pozadí pro lidské/elfské/orkské/trpaslické zbraně a předměty.
 
