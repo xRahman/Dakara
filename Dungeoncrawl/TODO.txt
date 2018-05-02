@@ -1,26 +1,5 @@
 ﻿Aktuální kampaň:
 
-TODO: vytisknout si seznam bohů
-[done]
-
-TODO: Vymyslet pro každou postavu pár relevantních NPCček a kontaktů
-(jména a tak)
-- Realisticky: Pro každého hráče jeden konktakt.
-[done]
-TODO: Poslat to hráčům do mailu.
-[done]
-TODO: Vytisknout si to (a možná i hráčům?).
-[done]
-
-TODO: Updatnout si seznam NPCček.
-[done]
-TODO: Vytisknout dovednosti.
-[done]
-TODO: Napsat Orbitovi něco o historii města + jeho kontakty.
-[done]
-TODO: Vytisknout si eventy (nebo updatnout starší verzi).
-[done]
-
 Pár zápletek a eventů.
 - možná nějaký tajemný předmět (to by ale spíš chtělo v nějakém dungeonu),
   u kterého by hráči mohli zkoumat, co je zač.
@@ -28,29 +7,6 @@ Pár zápletek a eventů.
 - někdo postavám likviduje kontakty
 
 ============================================================
-
-TODO: Karty zbraní a obecných předmětů (na vyzkoušení).
-
-- na karty dát asi jen základní staty zbraně
-  (určitě tam bude prázdné místo, takže si tam hráč celkové BČ může
-   napsat, když bude chtít, ale u boxové verze by asi byl s psaním
-   na karty problém - nenapadá mě, jak je doplňovat)
-
-- věci jako elfský meč se liší jen cenou.
-  Možná bych to mohl vyřešit nějakým tagem (podřadný/obyčejný/honosný)
-  - s tím, že "obyčejný" tam psát nemusím, to je default.
-  - tag by násobil základní cenu předmětu.
-Provedení: honosné
-
-
-TODO: Na kartách kouzel (a vlastně všude) psát v útoku explicitně použitý
-  atribut, tzn. třeba: útok ohněm proti Síle: Duše + 1/k6
-
-============================================================
-
-TODO: Kolonku "Bojové číslo" u zbraní přejmenovat na "Útok"
-(a u kouzel dost možná taky, bude to kratší řádek než Eekt: útok blabla)
-[done]
 
 Dungeon-keep
 ==============
@@ -62,10 +18,11 @@ Huňáči
 Socha s kopím
 Socha s mečem a štítem
 Přízrak s kopím
-Goblin
-Vlk (worg)
-Ork
-Varan
++Goblin s kopím
++Goblin s lukem
++Lítý vlk
++Ork s kyjem
++Varan
 
 
 TODO: Karty kouzel a předmětů:
@@ -112,44 +69,13 @@ Orkské zbraně?
   +Jednoruční kyj
   +Kamenná palice
   +Orkská lehká zbroj
-  +Velký orkský štít (možná jen +1 proti střelbě)
+  +Velký orkský štít
 
 Goblinské zbraně
-  (pazourkový nůž už mám)
   +Kostěný nůž
   +Oštěp
   +Goblinský luk
-  -Možná zbroj (na tu spíš do prvního dungeonu kašlat)?
-
-IDEA: Různé barvy pozadí pro lidské/elfské/orkské/trpaslické zbraně a předměty.
-
-ROZMYSLET si názvosloví
-- problém je, že když budu říkat novoorským zbraňím např. Orkská sekera,
-  bude se to tlouct se staroelfskými a staroorkskými předměty.
-- zatím orkským zbraním neříkám orkské, ale porušuju to u zbroje a štítu.
-  Možná jim říkat "primitivní"?
-(Tzn "Orský meč" by znamenal staroorkský, stejně jako "Elfský meč"
-je staroelfský).
-- Na druhou stranu "orkská" taky může znamenat, že je velikostně na orka.
-Jo, tohle bude asi lepší. "Eflský", "Orkský", "Trpaslický", "Kudůcký" a pod.
-bude označovat velikost (a taky trochu styl zpracování), nikoliv to, jak je
-ta zbraň stará.
-
-TODO: Obecně zavést velikosti:
-- trpaslická (trpaslík, kudůk, goblin)
-- lidská (člověk, elf)
-- orkská
-- trollí
-- obří
-Pravidla:
-- zbraně jdou použít ob jeden stupeň velikosti, takže trpaslíci a kudůci mohou
-  bojovat lidskými zbraněmi, ale ne orskými.
-- zbroje musí být na příslušnou velikost, takže trpaslík nemůže použít zbroj
-  lidské velikosti a naopak.
-Mohou kudůci a trpaslíci střílet z dlouhého luku?
-- spíš ne
-Ještě bych to mohl pojmenovávat trochu víc stylově, tzn. Dórská těžká zbroj
-místo Lidská těžká zbroj (ale pak by zas ta velikost nebyla zřejmá z názvu).
+  +Lehká goblinská zbroj
 
 Možná by se přemíra zbraní dala řešit jednou kartou s počítadlem
   (gumovatelná pera řeší fakt kde co).
@@ -161,9 +87,6 @@ Dungeon-Labs
 =============
 
 Laborku démonologie přejmenovat na laborku přivolávání.
-
-Upravit short verzi pravidel a ceníku
-- dořešit jedy
 
 Předělat mapu dungu do epodoby.
 
@@ -184,16 +107,6 @@ Zamyslet se nad zajímavějšími předměty.
 
 
 
-
-- Za -2 k hodu se můžeš pokusit o dvě akce současně (například dostat se z nevýhody a rovnou zaútočit).
-
-- Zanícení zranění (1 z 6 při neošetření).
-
-
-- Hod X ze 6 použijte pouze když žádná postava výsledek nemůže nijak ovlivnit.
-
-
-
 Gobliní kouzla a rituály
 - jasná podmínka je znalost goblinštiny.
 - Jsou ta kouzla ale psaná? Asi by neměla být, nedává to smysl. Goblini určitě žádná lejstra nevedou, elfské knihy ostatně používají jako srapír (to ale taky může být tím, že jsou v elfštině).
@@ -209,3 +122,94 @@ TODO: Vymyslet zaklínací formule pro kouzla gobliního šamana - ať to hráč
 Neměly by se gobliní rituály dělat spíš venku? V tom případě by dávalo smysl, ale byla někde venku socha jedho z gobliních bohů...
 - asi to přece jen bude spíš v dungeonu. Sice to nejspíš znamená, že hráči nebudou mít možnost vidět rituál "při akci", ale to by se stejně špatně časovalo.
 - pořád tam mohou být zbytky dětských koster a tak.
+
+===============================================================================
+************************************ DONE *************************************
+===============================================================================
+
+TODO: vytisknout si seznam bohů
+[done]
+
+TODO: Vymyslet pro každou postavu pár relevantních NPCček a kontaktů
+(jména a tak)
+- Realisticky: Pro každého hráče jeden konktakt.
+[done]
+TODO: Poslat to hráčům do mailu.
+[done]
+TODO: Vytisknout si to (a možná i hráčům?).
+[done]
+
+TODO: Updatnout si seznam NPCček.
+[done]
+TODO: Vytisknout dovednosti.
+[done]
+TODO: Napsat Orbitovi něco o historii města + jeho kontakty.
+[done]
+TODO: Vytisknout si eventy (nebo updatnout starší verzi).
+[done]
+
+- na karty dát asi jen základní staty zbraně
+  (určitě tam bude prázdné místo, takže si tam hráč celkové BČ může
+   napsat, když bude chtít, ale u boxové verze by asi byl s psaním
+   na karty problém - nenapadá mě, jak je doplňovat)
+- je tam napsáno, jak se počítá BČ s danou zbraní
+[done]
+
+- věci jako elfský meč se liší jen cenou.
+  Možná bych to mohl vyřešit nějakým tagem (podřadný/obyčejný/honosný)
+  - s tím, že "obyčejný" tam psát nemusím, to je default.
+  - tag by násobil základní cenu předmětu.
+Provedení: honosné
+- mám na to připravený zlatý rámeček
+[done]
+
+TODO: Na kartách kouzel (a vlastně všude) psát v útoku explicitně použitý
+  atribut, tzn. třeba: útok ohněm proti Síle: Duše + 1/k6
+- nepíšu tam 1k6 + něco, to už by bylo moc dlouhé.
+[done]
+
+TODO: Kolonku "Bojové číslo" u zbraní přejmenovat na "Útok"
+(a u kouzel dost možná taky, bude to kratší řádek než Eekt: útok blabla)
+[done]
+
+TODO: Obecně zavést velikosti:
+- trpaslická (trpaslík, kudůk, goblin)
+- lidská (člověk, elf)
+- orkská
+- trollí
+- obří
+Pravidla:
+- zbraně jdou použít ob jeden stupeň velikosti, takže trpaslíci a kudůci mohou
+  bojovat lidskými zbraněmi, ale ne orskými.
+- zbroje musí být na příslušnou velikost, takže trpaslík nemůže použít zbroj
+  lidské velikosti a naopak.
+Mohou kudůci a trpaslíci střílet z dlouhého luku?
+- spíš ne
+Ještě bych to mohl pojmenovávat trochu víc stylově, tzn. Dórská těžká zbroj
+místo Lidská těžká zbroj (ale pak by zas ta velikost nebyla zřejmá z názvu).
+[done]
+
+ROZMYSLET si názvosloví
+- problém je, že když budu říkat novoorským zbraňím např. Orkská sekera,
+  bude se to tlouct se staroelfskými a staroorkskými předměty.
+- zatím orkským zbraním neříkám orkské, ale porušuju to u zbroje a štítu.
+  Možná jim říkat "primitivní"?
+(Tzn "Orský meč" by znamenal staroorkský, stejně jako "Elfský meč"
+je staroelfský).
+- Na druhou stranu "orkská" taky může znamenat, že je velikostně na orka.
+Jo, tohle bude asi lepší. "Eflský", "Orkský", "Trpaslický", "Kudůcký" a pod.
+bude označovat velikost (a taky trochu styl zpracování), nikoliv to, jak je
+ta zbraň stará.
+- nápad sice hezký, ale nefunguje - u zbrojí to označuje velikost, ale
+  elfský meč je zjevně staroelfský.
+Asi na to zatím kašlat, ono se to snad časem vyvrbí.
+[on hold]
+
+- Za -2 k hodu se můžeš pokusit o dvě akce současně (například dostat se z nevýhody a rovnou zaútočit).
+[rozhodl jsem se zatím to nekomplikovat]
+
+- Zanícení zranění (1 z 6 při neošetření).
+[na to kašlat]
+
+IDEA: Různé barvy pozadí pro lidské/elfské/orkské/trpaslické zbraně a předměty.
+[done]
