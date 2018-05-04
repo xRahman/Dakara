@@ -1,3 +1,5 @@
 ﻿Základní písmo na kartě: rgb(50, 50, 50)
 Oheň:                    rgb(255, 100, 0)
 Blesk:                   rgb(100, 130, 255)
+Jed:                     rgb(139, 166, 14)
+Žíravina:                rgb(195, 179, 70)
