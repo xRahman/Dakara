@@ -18,10 +18,16 @@ Kamenická špice
 Kamenická palice
 Kovářské kladivo
 
+Elfská lucerna na svíci.
 
-Obří pavouk
-Huňáči
-Socha s kopím
+TODO: Přidat pavoukovi zamotání do pavučin: vytvoření nevýhody
+  s vysokým útokem (vysvobození je akce).
+
+TODO: Žíravé ještěry přejmenovat na Plivající ještěry (mládě a dospělec).
+TODO: Žíravý ještěr může znovu plivnout až po jednom kole přípravy.
++Obří pavouk
++Huňáči
++Socha s kopím a štítem
 -Socha s mečem a štítem (na tu asi kašlat)
 +Přízrak s kopím
 +Goblin s kopím
