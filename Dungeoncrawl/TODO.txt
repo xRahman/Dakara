@@ -11,12 +11,18 @@ Pár zápletek a eventů.
 Dungeon-keep
 ==============
 
-TODO: Karty protivníků
+TODO: Karty
+
+Kamenické dláto
+Kamenická špice
+Kamenická palice
+Kovářské kladivo
+
 
 Obří pavouk
 Huňáči
 Socha s kopím
-Socha s mečem a štítem
+-Socha s mečem a štítem (na tu asi kašlat)
 +Přízrak s kopím
 +Goblin s kopím
 +Goblin s lukem
