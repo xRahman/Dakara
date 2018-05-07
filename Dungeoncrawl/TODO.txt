@@ -13,18 +13,21 @@ Dungeon-keep
 
 TODO: Karty
 
-Kamenické dláto
-Kamenická špice
-Kamenická palice
-Kovářské kladivo
++Kamenické dláto
++Kamenická špice
++Kamenická palice
++Kovářské kladivo
 
-Elfská lucerna na svíci.
++Elfská lucerna na svíci.
 
 TODO: Přidat pavoukovi zamotání do pavučin: vytvoření nevýhody
-  s vysokým útokem (vysvobození je akce).
+  s vysokým útokem (strhání pavučin je akce).
+[done]
 
 TODO: Žíravé ještěry přejmenovat na Plivající ještěry (mládě a dospělec).
-TODO: Žíravý ještěr může znovu plivnout až po jednom kole přípravy.
+[done]
+TODO: Žíravý ještěr může znovu plivnout až po jednom kole nabíjení.
+[done]
 +Obří pavouk
 +Huňáči
 +Socha s kopím a štítem
