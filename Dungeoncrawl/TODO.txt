@@ -13,6 +13,9 @@ Dungeon-keep
 
 TODO: Karty
 
+TODO: U potvor psát do útoku použitý atribut
+  (páč ho někdo může potvoře debuffnout)
+
 +Kamenické dláto
 +Kamenická špice
 +Kamenická palice
