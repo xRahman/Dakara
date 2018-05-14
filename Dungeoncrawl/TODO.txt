@@ -14,9 +14,11 @@ Dungeon-keep
 TODO: Karty
 
 TODO: U karty obřího pavouka umravnit text, vylézá mi z rámečku.
+  [done]
 
 TODO: U potvor psát do útoku použitý atribut
   (páč ho někdo může potvoře debuffnout)
+[done]
 
 +Kamenické dláto
 +Kamenická špice
