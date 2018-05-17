@@ -13,6 +13,13 @@ Dungeon-keep
 
 TODO: Karty
 
+Přesýpací hodiny (měří 10 minut).
+
+Možná karty s lootem (poklady?)
+  Horský křišťál (5 st, váží 1 kilo).
+  Lahvička se stříbrným inkoustem (2 zl).
+
+
 TODO: U karty obřího pavouka umravnit text, vylézá mi z rámečku.
   [done]
 
