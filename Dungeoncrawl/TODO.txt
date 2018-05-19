@@ -18,6 +18,7 @@ TODO: Karty
 Možná karty s lootem (poklady?)
   +Horský křišťál (5 st, váží 1 kilo).
   Lahvička se stříbrným inkoustem (2 zl).
+  Harfa ze slonoviny (20 zl).
 
 
 TODO: U karty obřího pavouka umravnit text, vylézá mi z rámečku.
@@ -108,6 +109,70 @@ Goblinské zbraně
 
 Možná by se přemíra zbraní dala řešit jednou kartou s počítadlem
   (gumovatelná pera řeší fakt kde co).
+
+
+
+Finishovací TODO:
+-----------------
+
+TODO: Do prostředního patra boční věže přidat popis poškozeného mechanismu,
+  kterým se sklápěla část schodů.
+
+- Dopsat texty místností
+  - Vymyslet, jak se bude hledat a otevírat tajný vchod do Kaple [done]
+  - Sloučit popisy stejných místností (toalety, obytné místnosti)
+    (jen na stejném patře).
+- Rozmístit mrtvé elfy
+  - popsat, co mají u sebe
+- Rozmístit loot
+  - Možná bude potřeba dodělat karty pro poklady.
+- Rozmístit zbylé texty
+- Rozhodnout, kolik nakonec bude bohů Řádu a Chaosu [snad done]
+  - Vážně zvažuju, že by byli jen 3 a 3.
+    (tak ne, je to 5 a 5, ale elfští jsou jen 3).
+  - Finálně rozmístit modlitby k bohům Řádu [done]
+  - Upravit text v Beleronově kapli.
+- Projít a zprocesit TODO v úvodu modulu.
+- Projít a zprocesit TODOs v popisech místností.
+- Zkontrolovat, že jsou všude dobře popsané dveře.
+- Vyrobit nové charsheety (jeden prázdný a po jednom pro každou classu).
+- Doplnit značky do mapy (sudy apod).
+  - Toalety vypadají divně, btw.
+    - Vrátit místnosti na čtvercové, nechat dveře otevírat do chodby
+      a udělat sedátko menší (ne přes celou místnost).
+- Dodělat zdi pro PJ verzi mapy.
+
+- Všechno vytisknout.
+
+- Přidat poznámku, že postavy tu nejsou samy.
+  - poblíž mají tábor, kde zůstalo pár jejich přátel, kterým se do ruin
+    nechtělo.
+  [done]
+
+
+Kam se dostali elfové
+---------------------
+
+Dostali se do laborky?
+- možná by mohla být zamčená. Kde je pak klíč?
+
+Dveře do zbrojnice (C17) by měly být otevřené, tam určitě byli.
+
+Nejspíš nebyli v kuchyni ani v jídelně.
+- na druhou starnu by bylo fajn, kdyby se dostali až k mříži, aby věděli,
+  že se tamtudy nejspíš dá utéct.
+- taky mohli zkusit točit rumpálem, aniž by věděli, co přesně udělá.
+
+Jeden z elfů by mohl mít šaty poleptané od kyseliny (byl se podívat u ještěrů).
+Určitě musí mít nejmíň 2 luky (raději 3).
+
+Dveře k závalu (C9-d1) možná elfové otevřeli a zase zavřeli
+  (byly by tam stopy po otevření).
+
+Hmmm... že by některý z elfů u sebe měl mapku?
+- sakra to by asi fakt dávalo smysl.
+  Ale asi kašlat na to, bylo by to zbytečně moc explicitní a musel bych
+  ji nakreslit.
 
 
 ============================================================
