@@ -21,6 +21,7 @@ Možná karty s lootem (poklady?)
   Špulka se stříbrnou nití (1 zl) (Luxury item).
   Harfa ze slonoviny (20 zl). (Luxury item).
   Jednoduché zlaté náušnice (Luxury item).
+  Lano (5 metrů).
 
 Karta s léčitelskými potřebami? (To asi není potřeba).
 
