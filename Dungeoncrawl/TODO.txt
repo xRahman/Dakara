@@ -17,9 +17,12 @@ TODO: Karty
 
 Možná karty s lootem (poklady?)
   +Horský křišťál (5 st, váží 1 kilo).
-  Lahvička se stříbrným inkoustem (2 zl).
-  Harfa ze slonoviny (20 zl).
+  Lahvička se stříbrným inkoustem (2 zl) (Luxury item).
+  Špulka se stříbrnou nití (1 zl) (Luxury item).
+  Harfa ze slonoviny (20 zl). (Luxury item).
+  Jednoduché zlaté náušnice (Luxury item).
 
+Karta s léčitelskými potřebami? (To asi není potřeba).
 
 TODO: U karty obřího pavouka umravnit text, vylézá mi z rámečku.
   [done]
@@ -115,8 +118,13 @@ Možná by se přemíra zbraní dala řešit jednou kartou s počítadlem
 Finishovací TODO:
 -----------------
 
+TODO: Do receptu na vytvoření nabíjecích rukavic přidat buď stříbrný inkoust,
+  nebo ještě lépe stříbrnou niť (možná by se na to hodila karta).
+[done]
+
 TODO: Do prostředního patra boční věže přidat popis poškozeného mechanismu,
   kterým se sklápěla část schodů.
+[done]
 
 TODO: Klíč od laborky bude mít mág v pokoji na posteli
   (původně byl pod matrací)
@@ -127,17 +135,25 @@ TODO: Klíč od laborky bude mít mág v pokoji na posteli
   - Vymyslet, jak se bude hledat a otevírat tajný vchod do Kaple [done]
   - Sloučit popisy stejných místností (toalety, obytné místnosti)
     (jen na stejném patře).
+  [done]
 - Rozmístit mrtvé elfy
   [done]
   - popsat, co mají u sebe
+    [done]
 - Rozmístit loot
+  [done]
   - Možná bude potřeba dodělat karty pro poklady.
 - Rozmístit zbylé texty
 - Rozhodnout, kolik nakonec bude bohů Řádu a Chaosu [snad done]
   - Vážně zvažuju, že by byli jen 3 a 3.
     (tak ne, je to 5 a 5, ale elfští jsou jen 3).
+    [done]
   - Finálně rozmístit modlitby k bohům Řádu [done]
+    [done]
   - Upravit text v Beleronově kapli.
+    [done]
+  TODO: Asi tam budu muset dát všech 5 bohů Řádu, včetně trpaslických.
+    Se třema by ten "puzzle" byl příliš triviální.
 - Projít a zprocesit TODO v úvodu modulu.
 - Projít a zprocesit TODOs v popisech místností.
 - Zkontrolovat, že jsou všude dobře popsané dveře.
@@ -146,7 +162,7 @@ TODO: Klíč od laborky bude mít mág v pokoji na posteli
   [done]
 - Zkontrolovat všechny odkazy na místnosti.
 - Vymyselt a nakreslit na mapu značky zamčených dveří
-  (ideálně se symbolem pro klíč, který do dveří pasuje).
+  (ideálně se symbolem (písmenem) pro klíč, který do dveří pasuje).
 - Vyrobit nové charsheety (jeden prázdný [done] a po jednom pro každou classu).
 - Doplnit značky do mapy (sudy apod).
   - Toalety vypadají divně, btw.
@@ -154,6 +170,11 @@ TODO: Klíč od laborky bude mít mág v pokoji na posteli
       a udělat sedátko menší (ne přes celou místnost).
 - Dodělat zdi pro PJ verzi mapy.
 
+  - Vyrobit tisková plata na karty
+  - Vyrobit tisková plata na texty
+  - Vyrobit tiskový soubor na popis dungeonu
+    (stačej mi místnosti, nepotřebuju kecy kolem)
+  - Vyrobit tiskové varianty mapy (pro PJ a pro hráče)
 - Všechno vytisknout.
 
 - Přidat poznámku, že postavy tu nejsou samy.
