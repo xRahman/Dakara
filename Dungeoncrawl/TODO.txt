@@ -118,11 +118,17 @@ Finishovací TODO:
 TODO: Do prostředního patra boční věže přidat popis poškozeného mechanismu,
   kterým se sklápěla část schodů.
 
+TODO: Klíč od laborky bude mít mág v pokoji na posteli
+  (původně byl pod matrací)
+  - ocelový klíč s hlavou ve tvaru elfské runy A.
+[done]
+
 - Dopsat texty místností
   - Vymyslet, jak se bude hledat a otevírat tajný vchod do Kaple [done]
   - Sloučit popisy stejných místností (toalety, obytné místnosti)
     (jen na stejném patře).
 - Rozmístit mrtvé elfy
+  [done]
   - popsat, co mají u sebe
 - Rozmístit loot
   - Možná bude potřeba dodělat karty pro poklady.
@@ -135,6 +141,12 @@ TODO: Do prostředního patra boční věže přidat popis poškozeného mechani
 - Projít a zprocesit TODO v úvodu modulu.
 - Projít a zprocesit TODOs v popisech místností.
 - Zkontrolovat, že jsou všude dobře popsané dveře.
+- Zkontrolovat, že jsou v textu popsané všechny otevřené dveře.
+- Zkontrolovat na mapě označení otevřených/zavřených dveří (šedivě)
+  [done]
+- Zkontrolovat všechny odkazy na místnosti.
+- Vymyselt a nakreslit na mapu značky zamčených dveří
+  (ideálně se symbolem pro klíč, který do dveří pasuje).
 - Vyrobit nové charsheety (jeden prázdný [done] a po jednom pro každou classu).
 - Doplnit značky do mapy (sudy apod).
   - Toalety vypadají divně, btw.
@@ -155,24 +167,26 @@ Kam se dostali elfové
 
 Dostali se do laborky?
 - možná by mohla být zamčená. Kde je pak klíč?
+- na posteli v mágově obytné místnosti
+[done]
 
 Dveře do zbrojnice (C17) by měly být otevřené, tam určitě byli.
-
-Nejspíš nebyli v kuchyni ani v jídelně.
-- na druhou starnu by bylo fajn, kdyby se dostali až k mříži, aby věděli,
-  že se tamtudy nejspíš dá utéct.
-- taky mohli zkusit točit rumpálem, aniž by věděli, co přesně udělá.
+[done]
 
 Jeden z elfů by mohl mít šaty poleptané od kyseliny (byl se podívat u ještěrů).
-Určitě musí mít nejmíň 2 luky (raději 3).
+[done]
+
+Elfové určitě musí mít nejmíň 2 luky (raději 3).
 
 Dveře k závalu (C9-d1) možná elfové otevřeli a zase zavřeli
   (byly by tam stopy po otevření).
+  [scratch this]
 
 Hmmm... že by některý z elfů u sebe měl mapku?
 - sakra to by asi fakt dávalo smysl.
   Ale asi kašlat na to, bylo by to zbytečně moc explicitní a musel bych
   ji nakreslit.
+[scratch this]
 
 
 ============================================================
