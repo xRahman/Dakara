@@ -135,7 +135,7 @@ TODO: Do prostředního patra boční věže přidat popis poškozeného mechani
 - Projít a zprocesit TODO v úvodu modulu.
 - Projít a zprocesit TODOs v popisech místností.
 - Zkontrolovat, že jsou všude dobře popsané dveře.
-- Vyrobit nové charsheety (jeden prázdný a po jednom pro každou classu).
+- Vyrobit nové charsheety (jeden prázdný [done] a po jednom pro každou classu).
 - Doplnit značky do mapy (sudy apod).
   - Toalety vypadají divně, btw.
     - Vrátit místnosti na čtvercové, nechat dveře otevírat do chodby
