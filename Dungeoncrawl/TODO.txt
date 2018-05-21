@@ -343,3 +343,102 @@ Asi na to zatím kašlat, ono se to snad časem vyvrbí.
 
 IDEA: Různé barvy pozadí pro lidské/elfské/orkské/trpaslické zbraně a předměty.
 [done]
+
+
+==========================================================
+
+Do deníku: Oblečení, startovní hotovost, věci osobní potřeby:
+
+Balíček karet, hrací kostky, píšťalka, flétna, placatka s alkoholem, dýmka.
+
+Startovní postavy
+==================
+
+
+Lovec, stopař
++ prostý lovecký oděv
++ cestovní výbava
+- lovecký nůž
+- velký pytel
+- krátký luk, toulec s tuctem šípů
+
+Žoldák, voják, gladiátor, gardista
+- prostý vojenský oděv
+- cestovní výbava
+- lehká zbroj
+- dýka
+- kopí
+- nůž
+
+Písař, učenec  (kněz)
+- prostý oděv
+- cestovní výbava
+- křída
+- inkoust a psací potřeby, 10 archů papíru, pouzdro na svitky, podložka na psaní
+- lucerna na svíci, 6 lojových svíček
+- nůž
+
+Kovář
+- prostý řemeslnický oděv, kovářská zástěra
+- cestovní výbava
+- kleště, kladivo, pilník, průbojník
+- klubko drátu
+- nůž
+
+Tesař
+- prostý řemeslnický oděv
+- dláto, kladivo, sekera, páčidlo, pytlík skob a hřebů
+- 5 metrů lana
+- nůž
+
+Lupič
+- prostý oděv
+- páčidlo
+- sada paklíčů a šperháků
+- dva vrhací nože
+- kotvička a 5 metrů lana
+- velký pytel
+- nůž
+
+Léčitel, kněz
+- prostý oděv
+- poutnická hůl
+- léčitelské potřeby
+- léčitelství (zahrnuje znalost účinků jedů)
+- nůž
+
+
+Výbava na výběr:
+- olejová lampa a 2 lahve oleje (každá na 12 hodin svícení)
+- velký pytel
+- 5 metrů lana
+- poutnická hůl
+- 10 loučí (každá svítí 20 minut) (zapálená jde použít jako zbraň 1/0)
+
+
+Cestovní výbava:
+Torna
+Přikrývka
+Troud a křesadlo
+Trvanlivé jídlo na týden
+Dva měchy na vodu (každý na 1 den)
+3 lojové svíčky
+	(každá na 3 hodiny)
+
+--------------------------------
+
+Kameník
+- prostý řemeslnický oděv
+- majzlík, kamenická palice, kamenická špice
+- 5 metrů lana
+
+Kněz?
+Nádeník
+- lopata nebo krumpáč
+Námořník?
+Farmář?
+- vidle nebo motyka
+Ranař?
+- Dva metry řetězu
+Dřevorubec?
+- sekera
