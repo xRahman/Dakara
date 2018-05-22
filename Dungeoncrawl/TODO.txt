@@ -361,9 +361,9 @@ Startovní postavy
 Lovec, stopař
 + prostý lovecký oděv
 + cestovní výbava
-- lovecký nůž
-- velký pytel
-- krátký luk, toulec s tuctem šípů
++ lovecký nůž
++ velký pytel
++ krátký luk, toulec s tuctem šípů
 
 Žoldák, voják, gladiátor, gardista
 - prostý vojenský oděv
@@ -393,6 +393,7 @@ Tesař
 - dláto, kladivo, sekera, páčidlo, pytlík skob a hřebů
 - 5 metrů lana
 - nůž
+- louče
 
 Lupič
 - prostý oděv
