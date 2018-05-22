@@ -13,6 +13,9 @@ Dungeon-keep
 
 TODO: Karty
 
+TODO: 1 jeden štít
+TODO: Meč bude těžká zbraň.
+
 +Přesýpací hodiny (měří 10 minut).
 
 Možná karty s lootem (poklady?)
