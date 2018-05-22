@@ -382,11 +382,10 @@ Písař, učenec  (kněz)
 - nůž
 
 Kovář
-- prostý řemeslnický oděv, kovářská zástěra
-- cestovní výbava
-- kleště, kladivo, pilník, průbojník
-- klubko drátu
-- nůž
++ kovářský pracovní oděv
++ cestovní výbava
++ kleště, kladivo, pilník, průbojník
++ klubko drátu
 
 Tesař
 - prostý řemeslnický oděv
