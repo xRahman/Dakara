@@ -14,7 +14,10 @@ Dungeon-keep
 TODO: Karty
 
 TODO: 1 jeden štít
+[done]
+
 TODO: Meč bude těžká zbraň.
+[done]
 
 +Přesýpací hodiny (měří 10 minut).
 
@@ -416,7 +419,7 @@ Výbava na výběr:
 - velký pytel
 - 5 metrů lana
 - poutnická hůl
-- 10 loučí (každá svítí 20 minut) (zapálená jde použít jako zbraň 1/0)
+- 10 loučí (každá svítí 20 minut)
 
 
 Cestovní výbava:
@@ -435,7 +438,7 @@ Dva měchy na vodu (každý na 1 den)
 +HealerCharsheet.xcf
 +HunterCharsheet.xcf
 +MercenaryCharsheet.xcf
-ScribeCharsheet.xcf
++ScribeCharsheet.xcf
 
 --------------------------------
 
