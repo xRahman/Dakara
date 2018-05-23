@@ -388,20 +388,21 @@ Kovář
 + klubko drátu
 
 Tesař
-- prostý řemeslnický oděv
-- dláto, kladivo, sekera, páčidlo, pytlík skob a hřebů
-- 5 metrů lana
-- nůž
-- louče
++ prostý řemeslnický oděv
++ dláto, kladivo, sekera, pytlík skob a hřebů
++ 5 metrů lana
+/* - nůž (hodil by se, ale už takhle má tesař 3 zbraně...)*/
++ 6 loučí
 
-Lupič
-- prostý oděv
-- páčidlo
-- sada paklíčů a šperháků
-- dva vrhací nože
-- kotvička a 5 metrů lana
-- velký pytel
-- nůž
+Zámečník
++ prostý řemeslnický oděv
++ páčidlo (zbraň)
++ pilník
++ sada paklíčů a šperháků
+/* - dva vrhací nože */
+/* - kotvička a 5 metrů lana */
+/* - velký pytel */
+-+ nůž
 
 Léčitel, kněz
 - prostý oděv
@@ -427,6 +428,15 @@ Trvanlivé jídlo na týden
 Dva měchy na vodu (každý na 1 den)
 3 lojové svíčky
 	(každá na 3 hodiny)
+
++BlacksmithCharsheet.xcf
++BlankCharsheet.xcf
++LocksmithCharsheet.xcf
++CarpenterCharsheet.xcf
+HealerCharsheet.xcf
++HunterCharsheet.xcf
+MercenaryCharsheet.xcf
+ScribeCharsheet.xcf
 
 --------------------------------
 
