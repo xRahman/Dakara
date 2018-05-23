@@ -366,20 +366,18 @@ Lovec, stopař
 + krátký luk, toulec s tuctem šípů
 
 Žoldák, voják, gladiátor, gardista
-- prostý vojenský oděv
-- cestovní výbava
-- lehká zbroj
-- dýka
-- kopí
-- nůž
++ prostý vojenský oděv
++ cestovní výbava
++ lehká zbroj
++ dýka
++ kopí
 
 Písař, učenec  (kněz)
-- prostý oděv
-- cestovní výbava
-- křída
-- inkoust a psací potřeby, 10 archů papíru, pouzdro na svitky, podložka na psaní
-- lucerna na svíci, 6 lojových svíček
-- nůž
++ prostý oděv
++ cestovní výbava
++ inkoust a psací potřeby, 10 archů papíru, pouzdro na svitky, podložka na psaní
++ lucerna na svíci, 6 lojových svíček
++ nůž
 
 Kovář
 + kovářský pracovní oděv
@@ -393,6 +391,7 @@ Tesař
 + 5 metrů lana
 /* - nůž (hodil by se, ale už takhle má tesař 3 zbraně...)*/
 + 6 loučí
++ křída
 
 Zámečník
 + prostý řemeslnický oděv
@@ -403,13 +402,13 @@ Zámečník
 /* - kotvička a 5 metrů lana */
 /* - velký pytel */
 -+ nůž
++ olůvko na kreslení
 
 Léčitel, kněz
-- prostý oděv
-- poutnická hůl
-- léčitelské potřeby
-- léčitelství (zahrnuje znalost účinků jedů)
-- nůž
++ prostý oděv
++ poutnická hůl
++ léčitelské potřeby
++ nůž
 
 
 Výbava na výběr:
@@ -433,9 +432,9 @@ Dva měchy na vodu (každý na 1 den)
 +BlankCharsheet.xcf
 +LocksmithCharsheet.xcf
 +CarpenterCharsheet.xcf
-HealerCharsheet.xcf
++HealerCharsheet.xcf
 +HunterCharsheet.xcf
-MercenaryCharsheet.xcf
++MercenaryCharsheet.xcf
 ScribeCharsheet.xcf
 
 --------------------------------
