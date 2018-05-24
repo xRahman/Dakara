@@ -23,8 +23,8 @@ TODO: Meč bude těžká zbraň.
 
 Možná karty s lootem (poklady?)
   +Horský křišťál (5 st, váží 1 kilo).
-  Lahvička se stříbrným inkoustem (2 zl) (Luxury item).
-  Špulka se stříbrnou nití (1 zl) (Luxury item).
+  +Lahvička se stříbrným inkoustem (2 zl) (Luxury item).
+  +Špulka se stříbrnou nití (1 zl) (Luxury item).
   Harfa ze slonoviny (20 zl). (Luxury item).
   Jednoduché zlaté náušnice (Luxury item).
   Lano (5 metrů).
