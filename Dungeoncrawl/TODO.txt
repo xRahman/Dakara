@@ -22,12 +22,20 @@ TODO: Meč bude těžká zbraň.
 +Přesýpací hodiny (měří 10 minut).
 
 Možná karty s lootem (poklady?)
-  +Horský křišťál (5 st, váží 1 kilo).
-  +Lahvička se stříbrným inkoustem (2 zl) (Luxury item).
-  +Špulka se stříbrnou nití (1 zl) (Luxury item).
-  Harfa ze slonoviny (20 zl). (Luxury item).
-  Jednoduché zlaté náušnice (Luxury item).
-  Lano (5 metrů).
+  +Horský křišťál (5 st, váží 1 kilo)
+  +Lahvička se stříbrným inkoustem (2 zl) (Luxury item)
+  +Špulka se stříbrnou nití (1 zl) (Luxury item)
+  Elfská lyra (20 zl) (Luxury item)
+  Jednoduché zlaté náušnice (Luxury item)
+  Náušnice s perlou (stříbrná a jen jedna)
+  Lano (5 metrů)
+  Lucerna na svíci
+  Krabička se šňupací povzbuzující drogou (6 dávek)
+    Způsobuje omamný pocit síly a nezranitelnosti. Zhruba po hodině účinek vyprchá a na další hodinu zbude nepříjemná hořká pachuť v ústech.
+  Velká čtyřhraná stříbrná mince s vyobrazeným západem slunce (5 st).
+  kožený obojek se vsazenými leštěnými polodrahokamy
+  trojramený mosazný svícen (3 zl)
+  mosazným svícen (1 zl)
 
 Karta s léčitelskými potřebami? (To asi není potřeba).
 
@@ -188,6 +196,12 @@ TODO: Klíč od laborky bude mít mág v pokoji na posteli
   - poblíž mají tábor, kde zůstalo pár jejich přátel, kterým se do ruin
     nechtělo.
   [done]
+
+TODO: Ceník na konci dobrodružství
+
+TODO: Projít všechny výskyty (karta) v textu dungeonu a zkontrolovat, že:
+- příslušná karta existuje
+- odkaz je skutečně název karty
 
 
 Kam se dostali elfové
@@ -360,7 +374,6 @@ Balíček karet, hrací kostky, píšťalka, flétna, placatka s alkoholem, dým
 Startovní postavy
 ==================
 
-
 Lovec, stopař
 + prostý lovecký oděv
 + cestovní výbava
@@ -457,3 +470,116 @@ Ranař?
 - Dva metry řetězu
 Dřevorubec?
 - sekera
+
+
+Klíče v B1
+-----------
+- od B1
+- od B4-d1
+klíč se symbolem ‚D’
+klíč se symbolem ‚S’
+klíč se symbolem ‚K’
+[done]
+
+(Ještě by mohl být ‚L’ laboratoř a ‚M’ mages room)
+
+
+Ceník na konci dungeonu:
+---------------------------
+
+Svitky s kouzly se sice v zásadě dají prodat, ale o tom, že existují kouzla,
+nikdo neví, a nikdo jiný než postavy je nedokáže použít. Hoď si 1k6 - tolik
+stříbrných zrovna ten který obchodník postavám nabídne za každý svitek.
+
+6x lehká orkská zbroj (karta)
+  /* Tady jsou karty možná zbytečné, postavy to stejně nemůžou použít
+     a bylo by to 6 plonkovejch karet */
+8x pazourkový nůž (karta) /* Karet asi není nutně potřeba 8 */
+dřevěná krabička s odsouvacím víkem (karta)
+3x kamenná palice (karta)
+4x jednoruční kyj (karta)
+dvojruční kyj (karta)
+1x lehká zbroj (karta) (2 zl)
+kamenické dláto (karta)
+kamenická špice (karta)
+kamenická palice (karta)
+špulka se stříbrnou nití (karta) (1 zl)
+kovářské kladivo (karta)
+2x elfská lucerna (karta)
+dlouhý luk (karta)
+zlaté náušnice (karta) (6 zl)
+stříbrný amulet s motivem klečícího bojovníka v plné zbroji (1 zl)
+3x dýka (karta)
+léčivý lektvar (karta) (10 zl)
+elfský meč (karta) (3 zl)
+elfská dýka (karta) (1 zl)
+stříbrná náušnice s perlou (karta) (2 zl)
+lucerna na svíci (karta) (1 st)
+2x krátký luk (karta)
+5 metrů lana (karta)
+amulet ve tvaru štítu (karta) (5 st) /* magický předmět s esencí přízraku */
+meč (karta)
+dýka (karta)
+Velká čtyřhraná stříbrná mince s vyobrazeným západem slunce (karta) (5 st).
+kožený obojek se vsazenými leštěnými polodrahokamy (karta) (1 zl)
+elfská lyra (karta) (20 zl)
+přesýpací hodiny (karta) (5 zl)
+horský křišťál (karta) (5 st)
+Lektvar ohnivého dechu (karta) (5 zl)
+stříbrný inkoust (karta) (2 zl)
+
+
+Potrhaný měšťanský šat (1 zl)
+Kvalitní ženské cestovní oblečení (2,5 zl)
+Celta (5 st)
+zubák, šalírka, pemrlice, kružítko, hrst klínků
+pilník, kleště, průbojník
+malá kovadlina
+velký kotel
+Dva velké kovové hrnce.
+16 keramických talířů.
+17 keramických misek.
+17 sad mosazných příborů (lžíce, nůž, vidlička, lžička)
+Malý železný vozík
+trojramený mosazný svícen (3 zl)
+mosazným svícen (1 zl)
+kožené pouzdro na svitky
+léčitelské potřeby
+toulec (1 st)
+dřevěná flétna (2 st)
+nůžky, špachtle, rydla
+vosková svíce (2 st)
+1 dávka vlčího moru (5 st)
+
+
+Karty potvor:
+--------------
+2x dospělý huňáč
+5x kotě huňáče
+mimik
+3x obří pavouk
+3x socha
+2x mládě plivajícího ještěra
+
+Texty:
+-------
+B9-r1
+B9-r2
+B9-r3
+B13-r1
+B13-r2
+B13-r3
+C13-r1
+C15-r1
+C15-r2
+
+Karty kouzel a magických předmětů:
+-----------------------------------
+přenos myšlenek (karta)
+hojivý rituál (karta)
+léčivý lektvar (karta)
+amulet ve tvaru štítu (karta)
+lektvar ohnivého dechu (karta)
+očarování rukavic (karta)
+nabíjecí rukavice (karta)
+sérotvorný flakón (karta)
