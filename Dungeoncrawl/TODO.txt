@@ -25,6 +25,7 @@ Finishovací TOOOOOODOOOOOOOOOOOOOO:
 Nakreslit na mapu značky zamčených dveří
  (ideálně se symbolem (písmenem) pro klíč, který do dveří pasuje).
 
+
 Dodělat karty pro poklady.
 
   - Vyrobit tisková plata na karty
@@ -33,7 +34,11 @@ Dodělat karty pro poklady.
   - Vyrobit tiskový soubor na popis dungeonu
     (stačej mi místnosti, nepotřebuju kecy kolem)
   - Vyexportovat tiskové varianty mapy (pro PJ a pro hráče)
+    [done]
 - Všechno vytisknout.
+
+Vytisknout popis dungeonu
+Vytisknout deníky
 
 TODO: Ceník na konci dobrodružství
 
@@ -60,7 +65,7 @@ Možná karty s lootem (poklady?)
   +Lahvička se stříbrným inkoustem (2 zl) (Luxury item)
   +Špulka se stříbrnou nití (1 zl) (Luxury item)
   Elfská lyra (20 zl) (Luxury item)
-  Jednoduché zlaté náušnice (Luxury item)
+TODO  +Jednoduché zlaté náušnice (Luxury item)
   Náušnice s perlou (stříbrná a jen jedna)
   Lano (5 metrů)
   Lucerna na svíci
@@ -227,6 +232,8 @@ TODO: Klíč od laborky bude mít mág v pokoji na posteli
     nechtělo.
   [done]
 
+TODO: Dát orkům štíty [done]
+TODO: Přidat do deníků staty pro dualwield [done]
 
 ============================================================================
 
@@ -517,44 +524,49 @@ Svitky s kouzly se sice v zásadě dají prodat, ale o tom, že existují kouzla
 nikdo neví, a nikdo jiný než postavy je nedokáže použít. Hoď si 1k6 - tolik
 stříbrných zrovna ten který obchodník postavám nabídne za každý svitek.
 
-6x lehká orkská zbroj (karta)
-  /* Tady jsou karty možná zbytečné, postavy to stejně nemůžou použít
-     a bylo by to 6 plonkovejch karet */
-8x pazourkový nůž (karta) /* Karet asi není nutně potřeba 8 */
-dřevěná krabička s odsouvacím víkem (karta)
-3x kamenná palice (karta)
-4x jednoruční kyj (karta)
-dvojruční kyj (karta)
-1x lehká zbroj (karta) (2 zl)
-kamenické dláto (karta)
-kamenická špice (karta)
-kamenická palice (karta)
-špulka se stříbrnou nití (karta) (1 zl)
-kovářské kladivo (karta)
-2x elfská lucerna (karta)
-dlouhý luk (karta)
-zlaté náušnice (karta) (6 zl)
-stříbrný amulet s motivem klečícího bojovníka v plné zbroji (1 zl)
-3x dýka (karta)
-léčivý lektvar (karta) (10 zl)
-elfský meč (karta) (3 zl)
-elfská dýka (karta) (1 zl)
-stříbrná náušnice s perlou (karta) (2 zl)
-lucerna na svíci (karta) (1 st)
-2x krátký luk (karta)
-5 metrů lana (karta)
-amulet ve tvaru štítu (karta) (5 st) /* magický předmět s esencí přízraku */
-meč (karta)
-dýka (karta)
-Velká čtyřhraná stříbrná mince s vyobrazeným západem slunce (karta) (5 st).
-kožený obojek se vsazenými leštěnými polodrahokamy (karta) (1 zl)
-elfská lyra (karta) (20 zl)
-přesýpací hodiny (karta) (5 zl)
-horský křišťál (karta) (5 st)
-Lektvar ohnivého dechu (karta) (5 zl)
-stříbrný inkoust (karta) (2 zl)
+
+Loot s kartami:
+----------------
+.+6x pazourkový nůž (2 karty)
+.+3x kamenná palice (2 karty)
+.+4x jednoruční kyj (2 karty kyj)
+.2x orkský štít (karta) (4 st)
+
+.+dvojruční kyj (karta)
+.+1x lehká zbroj (karta) (2 zl)
+.+kamenické dláto (karta)
+.+kamenická špice (karta)
+.+kamenická palice (karta)
+.+kovářské kladivo (karta)
+.+špulka se stříbrnou nití (karta stříbrná nit) (1 zl)
+.+stříbrný amulet s motivem klečícího bojovníka ve zbroji (karta amulet) (1 zl)
+
+.+2x elfská lucerna (karta)
+.+2x krátký luk (karta)
+.+4x dýka (karta)
+
+.+dlouhý luk (karta)
+.+meč (karta)
+.+elfský meč (karta) (3 zl)
+.+elfská dýka (karta) (1 zl)
+.+elfská lyra (karta) (10 zl)
+.+přesýpací hodiny (karta) (2 zl)
+.+horský křišťál (karta) (5 st)
+.+stříbrný inkoust (karta) (2 zl)
+
++TODO lucerna na svíci (karta lucerna) (1 st)
++TODO stříbrná náušnice s perlou (karta náušnice s perlou) (2 zl)
++TODO zlaté náušnice (karta TODO) (6 zl)
++TODO průbojník (karta)
++TODO 5 metrů lana (karta lano)
++TODO Velká čtyřhraná stříbrná mince s vyobrazeným západem slunce (karta čtyřhranná mince) (5 st).
++TODO náhrdelník z polodrahokamů (karta TODO) (1 zl)
++TODO dřevěná krabička s odsouvacím víkem (karta dřevěná krabička)
 
 
+Loot bez karet
+-----------------
+6x lehká orkská zbroj
 Potrhaný měšťanský šat (1 zl)
 Kvalitní ženské cestovní oblečení (2,5 zl)
 Celta (5 st)
@@ -567,8 +579,8 @@ Dva velké kovové hrnce.
 17 keramických misek.
 17 sad mosazných příborů (lžíce, nůž, vidlička, lžička)
 Malý železný vozík
-trojramený mosazný svícen (3 zl)
-mosazným svícen (1 zl)
+trojramený mosazný svícen (2 zl)
+TODO mosazným svícen (1 zl)
 kožené pouzdro na svitky
 léčitelské potřeby
 toulec (1 st)
@@ -580,12 +592,16 @@ vosková svíce (2 st)
 
 Karty potvor:
 --------------
-2x dospělý huňáč
-5x kotě huňáče
-mimik
++2x dospělý huňáč
++5x kotě huňáče
 3x obří pavouk
-3x socha
+3x socha elfa
 2x mládě plivajícího ještěra
+1x plivající ještěr
+1x mimik
+1x přízrak
+
+TODO: Pro jistotu si přihodit pár orků, goblinů, vlků a varana.
 
 Texty:
 -------
@@ -601,11 +617,13 @@ C15-r2
 
 Karty kouzel a magických předmětů:
 -----------------------------------
-přenos myšlenek (karta)
-hojivý rituál (karta)
-léčivý lektvar (karta)
-amulet ve tvaru štítu (karta)
-lektvar ohnivého dechu (karta)
-očarování rukavic (karta)
-nabíjecí rukavice (karta)
-sérotvorný flakón (karta)
+.+vzplanutí (karta)
+.+kulový blesk (karta)
+.+přenos myšlenek (karta)
+.+hojivý rituál (karta)
+.+léčivý lektvar (karta) (10 zl)
+.+amulet ve tvaru štítu (karta elfský amulet) (5 st) /* magický předmět s esencí přízraku */
+.+lektvar ohnivého dechu (karta) (5 zl)
+.+očarování rukavic (karta)
+.+nabíjecí rukavice (karta)
+.+sérotvorný flakón (karta)

@@ -1,0 +1,14 @@
+﻿Tisk dvou A5 na A4:
+--------------------
+
+1) V print dialogu Libre Officu kliknout na properties tiskárny
+   - V záložce PageSetup nastavit:
+       Paper Size: A4
+       Orientation: Landscape
+
+2) V print dialogu Libre Officu v záložce Options zaškrnout
+      "Use only paper size from printer preferences"
+
+3) V print dialogu Libre Officu v záložce Page Laout nastavit:
+   "Pages per sheet": 2
+   "Order": left to right, then down
