@@ -1,4 +1,13 @@
-﻿Aktuální kampaň:
+﻿TODO k dungeon-keep po Gameconu:
+-----------------------------------
+
+2. K magickým předmětům dát odkaz na kapitolu v pravidlech, která popisuje, jak je postavy mohou použít.
+3. Postavy rozumí staroelfštině a starotrpasličtině – psané i mluvené formě. Neumí staroelfsky ani starotrpaslicky psát, a to ani písař (může se to samozřejmě naučit).
+
+
+============================================================
+
+Aktuální kampaň:
 
 Pár zápletek a eventů.
 - možná nějaký tajemný předmět (to by ale spíš chtělo v nějakém dungeonu),
@@ -7,6 +16,31 @@ Pár zápletek a eventů.
 - někdo postavám likviduje kontakty
 
 ============================================================
+
+Finishovací TOOOOOODOOOOOOOOOOOOOO:
+--------------------------------------
+
+- Zkontrolovat, že jsou všude dobře popsané dveře.
+- Zkontrolovat, že jsou v textu popsané všechny otevřené dveře.
+Nakreslit na mapu značky zamčených dveří
+ (ideálně se symbolem (písmenem) pro klíč, který do dveří pasuje).
+
+Dodělat karty pro poklady.
+
+  - Vyrobit tisková plata na karty
+  - Vyrobit tisková plata na texty
+    [done]
+  - Vyrobit tiskový soubor na popis dungeonu
+    (stačej mi místnosti, nepotřebuju kecy kolem)
+  - Vyexportovat tiskové varianty mapy (pro PJ a pro hráče)
+- Všechno vytisknout.
+
+TODO: Ceník na konci dobrodružství
+
+TODO: Projít všechny výskyty (karta) v textu dungeonu a zkontrolovat, že:
+- příslušná karta existuje
+- odkaz je skutečně název karty
+
 
 Dungeon-keep
 ==============
@@ -157,8 +191,8 @@ TODO: Klíč od laborky bude mít mág v pokoji na posteli
     [done]
 - Rozmístit loot
   [done]
-  - Možná bude potřeba dodělat karty pro poklady.
 - Rozmístit zbylé texty
+[done]
 - Rozhodnout, kolik nakonec bude bohů Řádu a Chaosu [snad done]
   - Vážně zvažuju, že by byli jen 3 a 3.
     (tak ne, je to 5 a 5, ale elfští jsou jen 3).
@@ -169,42 +203,34 @@ TODO: Klíč od laborky bude mít mág v pokoji na posteli
     [done]
   TODO: Asi tam budu muset dát všech 5 bohů Řádu, včetně trpaslických.
     Se třema by ten "puzzle" byl příliš triviální.
+  [done]
 - Projít a zprocesit TODO v úvodu modulu.
+  [done]
 - Projít a zprocesit TODOs v popisech místností.
-- Zkontrolovat, že jsou všude dobře popsané dveře.
-- Zkontrolovat, že jsou v textu popsané všechny otevřené dveře.
+  [done]
 - Zkontrolovat na mapě označení otevřených/zavřených dveří (šedivě)
   [done]
 - Zkontrolovat všechny odkazy na místnosti.
-- Vymyselt a nakreslit na mapu značky zamčených dveří
-  (ideálně se symbolem (písmenem) pro klíč, který do dveří pasuje).
+  [done]
 - Vyrobit nové charsheety (jeden prázdný [done] a po jednom pro každou classu).
+  [done]
 - Doplnit značky do mapy (sudy apod).
+  [done]
   - Toalety vypadají divně, btw.
     - Vrátit místnosti na čtvercové, nechat dveře otevírat do chodby
       a udělat sedátko menší (ne přes celou místnost).
+    [done]
 - Dodělat zdi pro PJ verzi mapy.
-
-  - Vyrobit tisková plata na karty
-  - Vyrobit tisková plata na texty
-  - Vyrobit tiskový soubor na popis dungeonu
-    (stačej mi místnosti, nepotřebuju kecy kolem)
-  - Vyrobit tiskové varianty mapy (pro PJ a pro hráče)
-- Všechno vytisknout.
-
+[done]
 - Přidat poznámku, že postavy tu nejsou samy.
   - poblíž mají tábor, kde zůstalo pár jejich přátel, kterým se do ruin
     nechtělo.
   [done]
 
-TODO: Ceník na konci dobrodružství
 
-TODO: Projít všechny výskyty (karta) v textu dungeonu a zkontrolovat, že:
-- příslušná karta existuje
-- odkaz je skutečně název karty
+============================================================================
 
-
-Kam se dostali elfové
+Kam se dostali elfové [done]
 ---------------------
 
 Dostali se do laborky?
