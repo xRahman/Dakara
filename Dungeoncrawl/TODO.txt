@@ -1,4 +1,16 @@
-﻿TODO k dungeon-keep po Gameconu:
+﻿Opravy dungeon-keepu
+---------------------
+
+Zlaté náušnice by měly mít zlatý rámeček
+
+Beleronův amulet je moc malý, obrázek není vidět.
+  + radši dopsat i do textu, že to je
+    "Amulet s motivem klečícího bojovníka s mečem"
+
+
+============================================================
+
+TODO k dungeon-keep po Gameconu:
 -----------------------------------
 
 2. K magickým předmětům dát odkaz na kapitolu v pravidlech, která popisuje, jak je postavy mohou použít.
