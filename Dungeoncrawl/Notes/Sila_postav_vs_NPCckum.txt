@@ -1,0 +1,43 @@
+﻿Narazil jsem na klasický problém class&level, který jsem asi měl čekat, ale nějak jsem to podcenil: levely a atributy jsou fajn do dungeonů, ale nejsou moc dobře kompatibilní s uvěřitelným světem, v němž by se měla odehrávat kampaň.
+
+V dungeonu je to v pohodě, protože postavy čelí povětšinou nelidským protivníkům. Drak je mnohem silnější než obyčejný člověk, takže dává smysl, že pokud se s ním má postava nějak rozumně utkat, tak taky musí být mnohem silnější než obyčejný člověk.
+
+Jenže když tuhle nalevlovanou postavu vypustím do světa, tak ten svět najednou nemá prostředky, jak si s ní poradit - respektive musel by s ní nutně nakládat jako s tím drakem.
+
+Úzce to souvisí s tím, jak se konkrétní hráči staví k důsledkům jednání postav. Pokud to nechtějí řešit, tak to je v pohodě a ničemu nevadí, že je hrdina mnohem mocnější než všichni kolem. Pokud ale chtějí hrát uvěřitelný svět, tak se s tím nějak musí poprat a nastavení pravidel pak určuje, jaké bude mít svět v tomhle ohledu možnosti.
+
+
+ :arrow? Klasický DnDčkový a DrDčkový přístup je říct, že i obyčejní lidé mají úrovně. Král je na 12. úrovni, jeho ochranka na 8. Kde ty úrovně sebrali, se neřeší, ale matematicky to funguje.
+
+Tenhle přístup je fajn v tom, že je symetrický, tzn. nejsou potřeba extra pravidla pro NPCčka. Na druhou stranu pokud jsou hráčské postavy popsané hodně komplexně, tak je pak potřeba stejně komplexně popisovat i NPCčka.
+
+Druhej zásadní problém vidím v tom, že celý svět se pak nastavuje podle schopností dobrodruhů, místo aby se síla postav pohybovala na škále dané zbytkem světa.
+
+Tohle řešení bych samozřejmě mohl použít, ale hned z několika důvodů se mi nelíbi:
+
+- Vytvořit postavu na úrovni X není úplně jednoduché. Jsou to sice jen tři atributy, ale napuntíkovat je je v podstatě nutné po jednom - mohl bych teda říct, že se mezi atributy rozdělí (úroveň + 5) bodů, ale to je pořád řádově obtížnější než přístup "Je to čtyřkový strážce", na který jsem zvyklý.
+
+- Chtěl bych vědět, kde ta NPCčka své úrovně vzala.
+
+- Problém konkrétně tohohle systému je, že růst postav se projevuje přímo růstem vlastností, což znamená, že vysokolevelové postavy jsou reálně silnější, rychlejší a mocnější než obyčejní lidé. V Dračáku to bylo jinak, tam vlastnosti nerostly, takže dvacitelevelový kroll válečník byl pořád stejně silný jako prvolevelový (ve smyslu hrubé, fyzické síly), jen mnohem víc vydržel a měl brutální schopnosti.
+
+
+ :arrow? Druhý možný přístup je, vyjít z toho, co jsem používal doteď. Tedy že svět je namapovaný na stupnici 0-6, kde šestku mají ti nejlepší z nejlepších: Legendární válečníci, velmistři šermu, a podobně. Pak rovnou z fleku řeknu, že královská elitní garda má pětku, aniž bych musel cokoliv počítat.
+
+Problémy tohohle řešení jsou:
+
+- Není to moc dobře kompatibilní s atributovým systémem. Když kouzlo útočí na duši, čím si proti němu bude házet takový pětkový elitní gardista? Taky pětkou? V tom případě ale zmizí taktické rozhodnutí, čím se do něj opřít (jakou obranu by nemusel mít tak vysokou). Kdyby měl duševní obranu nulovou, tak by zas jednak měl míň než obyčejný člověk s atributy (protože nejmenší atribut je jednočkový) a navíc by byl duševními útoky brutálně zranitelný (pořád se může bránit tím, že ohrozí útočníka, ale když to nejde, tak zaručeně padne na ránu).
+
+- Neřeší to hpčka. To souvisí s předchozím bodem - hpčka se počítají ze Síly, kterou to jedno číslo nepostihuje (pětkový gardista nemusí být nutně obr nebo kulturista, stačí, když umí dobře bojovat).
+
+
+ :arrow? Třetí možnost, co mě napadá, je nějaká kombinace prvních dvou. Tj. dát NPCčkům tři základní vlastnosti stejně jako hráčským postavám a nestvůrám a pak nějak zohlednit, že jsou oproti postavám mnohem lépe vycvičeni.
+
+Důsledkem tohohle řešení bude, že NPCčka budou mít míň životů než postavy (protože budou mít Sílu jako obyčejní lidé, ne nadlidskou jako postavy), ale jelikož mi hpčka nerostou nijak závratně a všechny útoky musí nejdřív překonat obranu cíle, tak pořád budou pro postavy více než důstojnými (a nebezpečnými) protivníky. Nebude to tak rychlé a jednoduché jako "je to pětkový gardista", ale pořád to bude výrazně jednodušší, než poctivé vytváření postavy na úrovni X. Atributy obyčejných lidí jsou dostatečně jednoduché na zapamatování (2/2/2 nebo 3/2/1) a pokud tu "trénovanost" zohledním konstatnou, mělo by to být v pohodě použitelné za běhu.
+
+Pro herní svět to bude znamenat, že hráčské postavy nemají své schopnosti získané dlouhými lety výcviku a dřiny, ale nějakým nadpřirozeným způsobem. Což je fajn, protože tohle vždycky dělá problémy s uvěřitelností světa (neměly by postavy před přechodem na další úroveň aspoň pár měsíců trénovat?), nebo zpětně s konzistencí příběhu (jsme uprostřed zajímavých a důležitých událostí, ale na půl roku zmizíme z veškerého dění, protože potřebujeme nalevelovat). Je to konzistentní s mým původním konceptem, že postavy levelují tím, že získávají sílu z magických krystalů skrytých v různých dungeonech.
+
+Postavy v téhle variantě budou mít oproti obyčejným NPCčům pár výhod:
+
+- o trochu víc hpček (to už jsem zmínil), magickou výbavu a kouzla a možnost dělat nadlidské výkony - to se teda projeví asi hlavně u siláckých kousků, ostatní věci NPCčka doženou výcvikem.
+
