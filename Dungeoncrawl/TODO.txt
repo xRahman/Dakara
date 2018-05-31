@@ -1,4 +1,7 @@
-﻿Opravy dungeon-keepu
+﻿TODO: Wording kouzla "uzdrav lehká zranění": Léčí pouze ztracenou kondici,
+  neléčí vážná zranění.
+
+Opravy dungeon-keepu
 ---------------------
 
 Zlaté náušnice by měly mít zlatý rámeček
