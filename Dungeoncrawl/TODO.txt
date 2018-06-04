@@ -1,4 +1,15 @@
-﻿TODO: Wording kouzla "uzdrav lehká zranění": Léčí pouze ztracenou kondici,
+﻿TODO: Divný "pocit", který postavy někam táhne, by měl zahrnovat vize
+  zářícího krystalu. Hráči pak budou mít lepší představu, pro co vlastně
+  do dungeonu jdou.
+
+TODO: K číslům stránek (nebo místo nich) dát Kódy místností, ať se v tom
+  líp hledá.
+
+TODO: Zranitelnost potvor: Sochy by měly mít menší zbroj proti drcení,
+  Mimik proti sekeře (sekera by proti němu měla být lepší než meč).
+
+
+TODO: Wording kouzla "uzdrav lehká zranění": Léčí pouze ztracenou kondici,
   neléčí vážná zranění.
 
 Opravy dungeon-keepu
