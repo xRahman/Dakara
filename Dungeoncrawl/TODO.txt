@@ -1,4 +1,12 @@
-﻿TODO: Divný "pocit", který postavy někam táhne, by měl zahrnovat vize
+﻿
+TODO: Výduchy v místnosti, kam se vypouští plyn.
+TODO: Západky na pákách jen v poloze "vypnuto".
+TODO: Zadržení dechu.
+TODO: Když postavy páku překlopí zpět, plyn syčí dál.
+TODO: Páka se sama vrátí do polohy "vypnuto"
+  (jinak by po elfech nutně zůstala nahoře)
+
+TODO: Divný "pocit", který postavy někam táhne, by měl zahrnovat vize
   zářícího krystalu. Hráči pak budou mít lepší představu, pro co vlastně
   do dungeonu jdou.
 
