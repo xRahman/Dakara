@@ -1,4 +1,8 @@
-﻿
+﻿TODO: Hodit na fórum představení settingu.
+TODO: Poladit mapu.
+TODO: Updatovat náborové posty na fóru (rasy jsou jinak).
+
+
 TODO: Výduchy v místnosti, kam se vypouští plyn.
 TODO: Západky na pákách jen v poloze "vypnuto".
 TODO: Zadržení dechu.
