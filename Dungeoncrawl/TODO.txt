@@ -1,4 +1,9 @@
-﻿TODO: Hodit na fórum představení settingu.
+﻿TODO: Přízrak není slyšet (bez použití Přenosu myšlenek) ani ve svatyni.
+TODO: Postavy umí staroelfsky a starotrpaslicky i mluvit.
+Otázka je, jak to je s moderní elfštinou a trpasličtinou. Možná by mohla být podobná...
+
+
+TODO: Hodit na fórum představení settingu.
 TODO: Poladit mapu.
 TODO: Updatovat náborové posty na fóru (rasy jsou jinak).
 
