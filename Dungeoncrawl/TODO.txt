@@ -1,4 +1,5 @@
-﻿TODO: Vyrazitelnost dveří asi sjednotit v úvodu, nepsat ji ke každým dveřím zvlášť.
+﻿
+TODO: Vyrazitelnost dveří asi sjednotit v úvodu, nepsat ji ke každým dveřím zvlášť.
 (Bytelné a obyčejné dveře.)
 
 
@@ -115,6 +116,9 @@ vosková svíce (2 st)
 
 
 ===============================================================================================
+
+TODO: Varan by asi neměl mít duši (a vůbec bych to měl zkontrolovat u všech potvor).
+- zvířata by asi musela mít všechna jedničku, tzn. by byla strašně zranitelná duševním útokem.
 
 TODO: Vzdálenost mezi Vadorou a Abydosem, případně Vadorou a Baradrou, je zhruba 5 dní plavby.
 
