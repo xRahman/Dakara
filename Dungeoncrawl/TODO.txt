@@ -115,10 +115,12 @@ vosková svíce (2 st)
 1 dávka vlčího moru (5 st)
 
 
+
 ===============================================================================================
 
 TODO: Varan by asi neměl mít duši (a vůbec bych to měl zkontrolovat u všech potvor).
 - zvířata by asi musela mít všechna jedničku, tzn. by byla strašně zranitelná duševním útokem.
+[done]
 
 TODO: Vzdálenost mezi Vadorou a Abydosem, případně Vadorou a Baradrou, je zhruba 5 dní plavby.
 
