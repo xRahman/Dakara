@@ -1,4 +1,124 @@
-﻿TODO: Přízrak není slyšet (bez použití Přenosu myšlenek) ani ve svatyni.
+﻿TODO: Vyrazitelnost dveří asi sjednotit v úvodu, nepsat ji ke každým dveřím zvlášť.
+(Bytelné a obyčejné dveře.)
+
+
+Klíče v B1
+-----------
+- od B1
+- od B4-d1
+klíč se symbolem ‚D’
+klíč se symbolem ‚S’
+klíč se symbolem ‚K’
+[done]
+
+(Ještě by mohl být ‚L’ laboratoř a ‚M’ mages room)
+
+
+Loot s kartami:
+----------------
+TODO: Od každého druhu zbraně 1 karta (jsou na ní staty)
+6x pazourkový nůž (2 karty)
+3x kamenná palice (2 karty)
+4x jednoruční kyj (2 karty kyj)
+2x orkský štít (karta) (4 st)
+dvojruční kyj (karta)
+lehká zbroj (karta) (2 zl)
+kamenické dláto (karta)
+kamenická špice (karta)
+kamenická palice (karta)
+průbojník (karta)
+kovářské kladivo (karta)
+stříbrná nit (karta) (1 zl)
+amulet (karta) (1 zl) // beleronův amulet
+
+elfská lucerna
+2x krátký luk (karta)
+4x dýka (karta)
+
+dlouhý luk (karta)
+meč (karta)
+elfský meč (karta) (3 zl)
+elfská dýka (karta) (1 zl)
+elfská lyra (karta) (10 zl)
+přesýpací hodiny (karta) (2 zl)
+horský křišťál (karta) (5 st)
+stříbrný inkoust (karta) (2 zl)
+
+náušnice s perlou (karta)
+zlaté náušnice (karta)
+čtyřhranná mince (karta)
+náhrdelník z polodrahokamů (karta)
+TODO: dřevěná krabička (karta)
+TODO: povzbuzující droga (karta) // Identifikovaná verze.
+
+
+
+Karty potvor:
+--------------
+2x dospělý huňáč
+5x kotě huňáče
+1x obří pavouk
+1x poškozená socha s kopím a šítem
+2x mládě plivajícího ještěra
+1x plivající ještěr
+1x mimik
+1x přízrak
+
+Texty:
+-------
+B9-r1
+B9-r2
+B9-r3
+B13-r1
+B13-r2
+B13-r3
+C13-r1
+C15-r1
+C15-r2
+
+Karty kouzel a magických předmětů:
+-----------------------------------
+vzplanutí (karta)
+kulový blesk (karta)
+přenos myšlenek (karta)
+hojivý rituál (karta)
+léčivý lektvar (karta)
+amulet ve tvaru štítu (karta elfský amulet)
+lektvar ohnivého dechu (karta)
+očarování rukavic (karta)
+nabíjecí rukavice (karta)
+sérotvorný flakón (karta)
+
+
+Loot bez karet
+-----------------
+6x lehká orkská zbroj
+Potrhaný měšťanský šat (1 zl)
+Kvalitní ženské cestovní oblečení (2,5 zl)
+Celta (5 st)
+zubák, šalírka, pemrlice, kružítko, hrst klínků
+pilník, kleště, průbojník
+malá kovadlina
+velký kotel
+2x velký kovový hrnec.
+16 sad nádobí a příborů (talíř, miska, lžíce, nůž, vidlička, lžička)
+Malý železný vozík
+trojramený mosazný svícen (2 zl)
+TODO mosazným svícen (1 zl)
+kožené pouzdro na svitky
+léčitelské potřeby
+toulec (1 st)
+dřevěná flétna (2 st)
+nůžky, špachtle, rydla
+vosková svíce (2 st)
+1 dávka vlčího moru (5 st)
+
+
+===============================================================================================
+
+TODO: Vzdálenost mezi Vadorou a Abydosem, případně Vadorou a Baradrou, je zhruba 5 dní plavby.
+
+TODO: Přízrak není slyšet (bez použití Přenosu myšlenek) ani ve svatyni.
 TODO: Postavy umí staroelfsky a starotrpaslicky i mluvit.
 Otázka je, jak to je s moderní elfštinou a trpasličtinou. Možná by mohla být podobná...
 
@@ -6,12 +126,13 @@ Otázka je, jak to je s moderní elfštinou a trpasličtinou. Možná by mohla b
 TODO: Hodit na fórum představení settingu.
 TODO: Poladit mapu.
 TODO: Updatovat náborové posty na fóru (rasy jsou jinak).
+[done]
 
 
 TODO: Výduchy v místnosti, kam se vypouští plyn.
 TODO: Západky na pákách jen v poloze "vypnuto".
 TODO: Zadržení dechu.
-TODO: Když postavy páku překlopí zpět, plyn syčí dál.
+TODO: Když postavy páku překlopí zpět, plyn syčí dál - ee, zachrání se tím.
 TODO: Páka se sama vrátí do polohy "vypnuto"
   (jinak by po elfech nutně zůstala nahoře)
 
