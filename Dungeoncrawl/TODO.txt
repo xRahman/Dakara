@@ -7,23 +7,34 @@ Klíče v B1
 -----------
 - od B1
 - od B4-d1
-klíč se symbolem ‚D’
-klíč se symbolem ‚S’
-klíč se symbolem ‚K’
+
+Kroužek (karta kroužek s klíči):
+klíč s písmenem ‚D’
+klíč s písmenem ‚S’
+klíč s písmenem ‚K’
 [done]
 
-(Ještě by mohl být ‚L’ laboratoř a ‚M’ mages room)
+klíč s písmenem ‚Z’ (zbrojnice)
+klíč s písmenem ‚A’ (laborka)
+
+
+Karty klíčů:
+----------------
+
+kroužek s klíči (karta)
+klíč 'A' (karta)
+klíč 'Z' (karta)
 
 
 Loot s kartami:
 ----------------
-TODO: Od každého druhu zbraně 1 karta (jsou na ní staty)
-6x pazourkový nůž (2 karty)
-3x kamenná palice (2 karty)
-4x jednoruční kyj (2 karty kyj)
-2x orkský štít (karta) (4 st)
+
+pazourkový nůž (karta)
+kamenná palice (karta)
+jednoruční kyj (karta)
 dvojruční kyj (karta)
-lehká zbroj (karta) (2 zl)
+orkský štít (karta)
+lehká zbroj (karta)
 kamenické dláto (karta)
 kamenická špice (karta)
 kamenická palice (karta)
@@ -33,8 +44,8 @@ stříbrná nit (karta) (1 zl)
 amulet (karta) (1 zl) // beleronův amulet
 
 elfská lucerna
-2x krátký luk (karta)
-4x dýka (karta)
+krátký luk (karta)
+dýka (karta)
 
 dlouhý luk (karta)
 meč (karta)
@@ -49,9 +60,8 @@ náušnice s perlou (karta)
 zlaté náušnice (karta)
 čtyřhranná mince (karta)
 náhrdelník z polodrahokamů (karta)
-TODO: dřevěná krabička (karta)
-TODO: povzbuzující droga (karta) // Identifikovaná verze.
-
+dřevěná krabička (karta)
+povzbuzující droga (karta) // Identifikovaná verze.
 
 
 Karty potvor:
@@ -82,13 +92,13 @@ Karty kouzel a magických předmětů:
 vzplanutí (karta)
 kulový blesk (karta)
 přenos myšlenek (karta)
-hojivý rituál (karta)
-léčivý lektvar (karta)
 amulet ve tvaru štítu (karta elfský amulet)
 lektvar ohnivého dechu (karta)
 očarování rukavic (karta)
 nabíjecí rukavice (karta)
 sérotvorný flakón (karta)
+mast na popáleniny (karta)
+lektvar regenerace (karta)
 
 
 Loot bez karet

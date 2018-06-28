@@ -3,3 +3,7 @@ Oheň:                    rgb(255, 100, 0)
 Blesk:                   rgb(100, 130, 255)
 Jed:                     rgb(139, 166, 14)
 Žíravina:                rgb(195, 179, 70)
+
+Sek:			 rgb(100, 150, 170)
+Bod:			 rgb(200, 100, 0)
+Drcení:			 rgb(150, 100, 0)
