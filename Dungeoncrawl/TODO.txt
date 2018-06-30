@@ -1,4 +1,20 @@
-﻿
+﻿Gamecon TODO:
+--------------
+
+Udělat tisková plata na texty.
+Vytisknout texty. (Asi jen jednou?)
+- na zadní stranu si ručně napsat kódy.
+
+Zkusit projet mapy antialiasingem.
+Udělat tisková plata na mapy.
+Vytisknout mapy (jednou pro PJ, třikrát pro hráče)
+
+
+
+
+===============================================================================================
+
+
 TODO: Vyrazitelnost dveří asi sjednotit v úvodu, nepsat ji ke každým dveřím zvlášť.
 (Bytelné a obyčejné dveře.)
 
