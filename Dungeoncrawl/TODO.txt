@@ -17,79 +17,66 @@ Vytisknout mapy (jednou pro PJ, třikrát pro hráče)
 
 TODO: Vyrazitelnost dveří asi sjednotit v úvodu, nepsat ji ke každým dveřím zvlášť.
 (Bytelné a obyčejné dveře.)
-
-
-Klíče v B1
------------
-- od B1
-- od B4-d1
-
-Kroužek (karta kroužek s klíči):
-klíč s písmenem ‚D’
-klíč s písmenem ‚S’
-klíč s písmenem ‚K’
+- u bytelným dveřím jsem stejně raději poznámku o vyrážení a picklockování nechal,
+  ale nemusí být všude.
 [done]
-
-klíč s písmenem ‚Z’ (zbrojnice)
-klíč s písmenem ‚A’ (laborka)
 
 
 Karty klíčů:
 ----------------
 
-kroužek s klíči (karta)
-klíč 'A' (karta)
-klíč 'Z' (karta)
++kroužek s klíči (karta)
++klíč 'A' (karta)
++klíč 'Z' (karta)
 
 
 Loot s kartami:
 ----------------
 
-pazourkový nůž (karta)
-kamenná palice (karta)
-jednoruční kyj (karta)
-dvojruční kyj (karta)
-orkský štít (karta)
-lehká zbroj (karta)
-kamenické dláto (karta)
-kamenická špice (karta)
-kamenická palice (karta)
-průbojník (karta)
-kovářské kladivo (karta)
-stříbrná nit (karta) (1 zl)
-amulet (karta) (1 zl) // beleronův amulet
++pazourkový nůž (karta)
++kamenná palice (karta)
++jednoruční kyj (karta)
++dvojruční kyj (karta)
++orkský štít (karta)
++lehká zbroj (karta)
++kamenické dláto (karta)
++kamenická špice (karta)
++kamenická palice (karta)
++průbojník (karta)
++kovářské kladivo (karta)
++stříbrná nit (karta)
++amulet (karta) // beleronův amulet
 
-elfská lucerna
-krátký luk (karta)
-dýka (karta)
++krátký luk (karta)
++dýka (karta)
 
-dlouhý luk (karta)
-meč (karta)
-elfský meč (karta) (3 zl)
-elfská dýka (karta) (1 zl)
-elfská lyra (karta) (10 zl)
-přesýpací hodiny (karta) (2 zl)
-horský křišťál (karta) (5 st)
-stříbrný inkoust (karta) (2 zl)
++dlouhý luk (karta)
++meč (karta)
++elfský meč (karta)
++elfská dýka (karta)
++elfská lyra (karta)
++přesýpací hodiny (karta)
++horský křišťál (karta)
++stříbrný inkoust (karta)
 
-náušnice s perlou (karta)
-zlaté náušnice (karta)
-čtyřhranná mince (karta)
-náhrdelník z polodrahokamů (karta)
-dřevěná krabička (karta)
-povzbuzující droga (karta) // Identifikovaná verze.
++náušnice s perlou (karta)
++zlaté náušnice (karta)
++čtvercová mince (karta)
++náhrdelník (karta)
++dřevěná krabička (karta)
++povzbuzující droga (karta) // Identifikovaná verze.
 
 
 Karty potvor:
 --------------
-2x dospělý huňáč
-5x kotě huňáče
-1x obří pavouk
-1x poškozená socha s kopím a šítem
-2x mládě plivajícího ještěra
-1x plivající ještěr
-1x mimik
-1x přízrak
++2x dospělý huňáč
++5x kotě huňáče
++1x obří pavouk
++1x poškozená socha s kopím a šítem
++2x mládě plivajícího ještěra
++1x plivající ještěr
++1x mimik
++1x přízrak
 
 Texty:
 -------
@@ -105,16 +92,16 @@ C15-r2
 
 Karty kouzel a magických předmětů:
 -----------------------------------
-vzplanutí (karta)
-kulový blesk (karta)
-přenos myšlenek (karta)
-amulet ve tvaru štítu (karta elfský amulet)
-lektvar ohnivého dechu (karta)
-očarování rukavic (karta)
-nabíjecí rukavice (karta)
-sérotvorný flakón (karta)
-mast na popáleniny (karta)
-lektvar regenerace (karta)
++vzplanutí (karta)
++kulový blesk (karta)
++přenos myšlenek (karta)
++elfský amulet (karta)
++lektvar ohnivého dechu (karta)
++očarování rukavic (karta)
++nabíjecí rukavice (karta)
++sérotvorný flakón (karta)
++mast na popáleniny (karta)
++lektvar regenerace (karta)
 
 
 Loot bez karet
