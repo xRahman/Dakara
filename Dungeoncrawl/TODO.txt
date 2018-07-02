@@ -93,6 +93,9 @@ C15-r2
 
 Karty kouzel a magických předmětů:
 -----------------------------------
+
+TODO: Asi by se hodil celokartový obrázek amuletu ve tvaru štítu.
+
 .+vzplanutí (karta)
 .+kulový blesk (karta)
 .+přenos myšlenek (karta)
