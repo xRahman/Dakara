@@ -33,38 +33,39 @@ Karty klíčů:
 Loot s kartami:
 ----------------
 
-+pazourkový nůž (karta)
-+kamenná palice (karta)
-+jednoruční kyj (karta)
-+dvojruční kyj (karta)
-+orkský štít (karta)
-+lehká zbroj (karta)
-+kamenické dláto (karta)
-+kamenická špice (karta)
-+kamenická palice (karta)
-+průbojník (karta)
-+kovářské kladivo (karta)
-+stříbrná nit (karta)
-+amulet (karta) // beleronův amulet
+.+pazourkový nůž (karta)
+.+kamenná palice (karta)
+.+jednoruční kyj (karta)
+.+dvojruční kyj (karta)
+.+orkský štít (karta)
+.+lehká zbroj (karta)
+.+kamenické dláto (karta)
+.+kamenická špice (karta)
+.+kamenická palice (karta)
+.+průbojník (karta)
+.+kovářské kladivo (karta)
+.+stříbrná nit (karta)
+.+amulet (karta) // beleronův amulet
 
-+krátký luk (karta)
-+dýka (karta)
+.+krátký luk (karta)
+.+dýka (karta)
 
-+dlouhý luk (karta)
-+meč (karta)
-+elfský meč (karta)
-+elfská dýka (karta)
-+elfská lyra (karta)
-+přesýpací hodiny (karta)
-+horský křišťál (karta)
-+stříbrný inkoust (karta)
+.+dlouhý luk (karta)
+.+meč (karta)
+.+elfský meč (karta)
+.+elfská dýka (karta)
+.+elfská lyra (karta)
+.+elfská lucerna (karta)
+.+přesýpací hodiny (karta)
+.+horský křišťál (karta)
+.+stříbrný inkoust (karta)
 
-+náušnice s perlou (karta)
-+zlaté náušnice (karta)
-+čtvercová mince (karta)
-+náhrdelník (karta)
-+dřevěná krabička (karta)
-+povzbuzující droga (karta) // Identifikovaná verze.
+.+náušnice s perlou (karta)
+.+zlaté náušnice (karta)
+.+čtvercová mince (karta)
+.+náhrdelník (karta)
+.+dřevěná krabička (karta)
+.+povzbuzující droga (karta) // Identifikovaná verze.
 
 
 Karty potvor:
@@ -92,16 +93,16 @@ C15-r2
 
 Karty kouzel a magických předmětů:
 -----------------------------------
-+vzplanutí (karta)
-+kulový blesk (karta)
-+přenos myšlenek (karta)
-+elfský amulet (karta)
-+lektvar ohnivého dechu (karta)
-+očarování rukavic (karta)
-+nabíjecí rukavice (karta)
-+sérotvorný flakón (karta)
-+mast na popáleniny (karta)
-+lektvar regenerace (karta)
+.+vzplanutí (karta)
+.+kulový blesk (karta)
+.+přenos myšlenek (karta)
+.+elfský amulet (karta)
+.+lektvar ohnivého dechu (karta)
+.+očarování rukavic (karta)
+.+nabíjecí rukavice (karta)
+.+sérotvorný flakón (karta)
+.+mast na popáleniny (karta)
+.+lektvar regenerace (karta)
 
 
 Loot bez karet
