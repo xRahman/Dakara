@@ -55,7 +55,6 @@ Loot s kartami:
 .+elfský meč (karta)
 .+elfská dýka (karta)
 .+elfská lyra (karta)
-.+elfská lucerna (karta)
 .+přesýpací hodiny (karta)
 .+horský křišťál (karta)
 .+stříbrný inkoust (karta)
