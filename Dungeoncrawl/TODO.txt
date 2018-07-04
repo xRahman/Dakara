@@ -1,6 +1,9 @@
 ﻿Gamecon TODO:
 --------------
 
+Udělat tisková plata na karty
+- zkusit oboustranný tisk (oboustranné karty asi hodit na extra sheet)
+
 Udělat tisková plata na texty.
 Vytisknout texty. (Asi jen jednou?)
 - na zadní stranu si ručně napsat kódy.
