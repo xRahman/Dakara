@@ -2,17 +2,26 @@
 --------------
 
 Udělat tisková plata na karty
-- zkusit oboustranný tisk (oboustranné karty asi hodit na extra sheet)
+- zkusit oboustranný tisk (oboustranné karty asi hodit na extra sheet) - naprd
+[done]
 
 Udělat tisková plata na texty.
-Vytisknout texty. (Asi jen jednou?)
-- na zadní stranu si ručně napsat kódy.
+[done]
 
 Zkusit projet mapy antialiasingem.
 Udělat tisková plata na mapy.
-Vytisknout mapy (jednou pro PJ, třikrát pro hráče)
+Vytisknout mapy (jednou pro PJ, 5x pro hráče)
+[done]
 
+Vytisknout:
+- karty [done]
+- charsheety [done]
+- texty [done]
+ - na zadní stranu si ručně napsat kódy.
 
+Rozstříhat
+- texty
+- karty
 
 
 ===============================================================================================
@@ -38,48 +47,55 @@ Loot s kartami:
 
 .+pazourkový nůž (karta)
 .+kamenná palice (karta)
-.+jednoruční kyj (karta)
+.+kyj (karta)
+
 .+dvojruční kyj (karta)
 .+orkský štít (karta)
 .+lehká zbroj (karta)
 .+kamenické dláto (karta)
+
+
 .+kamenická špice (karta)
 .+kamenická palice (karta)
 .+průbojník (karta)
 .+kovářské kladivo (karta)
+
 .+stříbrná nit (karta)
 .+amulet (karta) // beleronův amulet
-
 .+krátký luk (karta)
 .+dýka (karta)
+
 
 .+dlouhý luk (karta)
 .+meč (karta)
 .+elfský meč (karta)
 .+elfská dýka (karta)
+
 .+elfská lyra (karta)
 .+přesýpací hodiny (karta)
 .+horský křišťál (karta)
 .+stříbrný inkoust (karta)
 
+
 .+náušnice s perlou (karta)
 .+zlaté náušnice (karta)
 .+čtvercová mince (karta)
 .+náhrdelník (karta)
+
 .+dřevěná krabička (karta)
 .+povzbuzující droga (karta) // Identifikovaná verze.
 
 
 Karty potvor:
 --------------
-+2x dospělý huňáč
-+5x kotě huňáče
-+1x obří pavouk
-+1x poškozená socha s kopím a šítem
-+2x mládě plivajícího ještěra
-+1x plivající ještěr
-+1x mimik
-+1x přízrak
+.+2x dospělý huňáč
+.+5x kotě huňáče
+.+1x obří pavouk
+.+1x poškozená socha s kopím a šítem
+.+2x mládě plivajícího ještěra
+.+1x plivající ještěr
+.+1x mimik
+.+1x přízrak
 
 Texty:
 -------
@@ -97,16 +113,20 @@ Karty kouzel a magických předmětů:
 -----------------------------------
 
 TODO: Asi by se hodil celokartový obrázek amuletu ve tvaru štítu.
+.+elfský amulet - picture (karta)
+.+elfský amulet (karta)
 
 .+vzplanutí (karta)
 .+kulový blesk (karta)
 .+přenos myšlenek (karta)
-.+elfský amulet (karta)
 .+lektvar ohnivého dechu (karta)
+
 .+očarování rukavic (karta)
 .+nabíjecí rukavice (karta)
 .+sérotvorný flakón (karta)
 .+mast na popáleniny (karta)
+
+
 .+lektvar regenerace (karta)
 
 
