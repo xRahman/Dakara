@@ -1,4 +1,23 @@
-﻿Gamecon TODO:
+﻿=======================================================
+
+Úvahy o magických předmětech
+-------------------------------
+
+ • Permanentní kouzla musí být připoutána k tomu, co (nebo koho) mají ovlivňovat.
+     ◦ Takže iluzorní zeď v dungeonu je ok, elfí boty si musí majitel připoutat.
+     ◦ Asi by mělo fungovat permanentní světlo, jen holt nebude všude (protože to není zrovna hračka vyrobit a oenchantit).
+ • Připoutávání magických předmětů:
+     ◦ Kouzlo může působit tam, kde je připoutané, neomezeně dlouho (možná až díky permanency?).
+     ◦ Když chceš kouzlo ovládat (zaklínací formulí nebo jakkkoliv jinak), nebo když chceš změnit, na co působí (třeba aby tiché boty působily na tebe), musíš si ho nejdřív připoutat.
+     ◦ Předseslání není to samé co připoutávání (uvažovat o tom jako o dvou věcech je intuitivnější).
+         ▪ Předsesílají se kouzla ze svitků, nikoliv z hůlek nebo holí (to je vcelku zřejmé, tzn. to je nastavené dobře). Kouzla z hůlek jsou slabší, kouzla ze holí jsou stejně silná jako kouzla ze svitků, ale spotřebovávají krystaly.
+         ▪ Úvaha ke svitkům s kouzly
+           Svitky se mohou vždycky předsesílat, respektive jednorázové seslání můžu asi zrušit. Tzn. bude stačit obecně umět připoutávat si magické předměty, kouzlo se pak sešle vyslovením aktivační formule, stejně jako se používá jakýkoliv jiný (elfský) předmět.
+
+
+=======================================================
+
+Gamecon TODO:
 --------------
 
 Udělat tisková plata na karty
