@@ -20,6 +20,8 @@
 Gamecon TODO:
 --------------
 
+
+
 Udělat tisková plata na karty
 - zkusit oboustranný tisk (oboustranné karty asi hodit na extra sheet) - naprd
 [done]
@@ -37,11 +39,16 @@ Vytisknout:
 - charsheety [done]
 - texty [done]
  - na zadní stranu si ručně napsat kódy.
+[done]
 
 Rozstříhat
-- texty
+- texty [done]
 - karty
 
+
+TODO: Opravit ceník. [done]
+
+TODO: Ujasněte si, kdo bude kreslit mapu.
 
 ===============================================================================================
 
