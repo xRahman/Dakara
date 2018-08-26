@@ -1,4 +1,69 @@
-﻿=======================================================
+﻿
+=======================================================
+
+Helm of telepathy?
+
+
+šipkový štít
+- vystřeluje ocelové šipky
+(to ale asi bude spíš mechanická trpaslická hračka)
+
+Bubnový štít
+- Na povel (formule)
+
+Žrout duší
+- Meč, nabíjí se zabíjením (musí dorazit a musí jít o protivníka s nenulovou duší).
+Když pohltí duši, na jílci mu žhne drahokam. Umožňuje pak použít jednu schopnost.
+Má několik schopností
+- Vysátí duše: duševní útok s krátkým dosahem, vážným zraněním způsobuje apatyi (nevýhoda na všechno a nechuť se o cokoliv zajímat).
+  Když je rána smrtelná, tak rovnou vysaje duši na další použití.
+
+Požírač kouzel
+- Štít, dá se s ním házet na obranu proti kouzlům, i když to normálně nejde
+  (tzn. i proti duševním a tak). /* To je asi moc silný. A chce to nějakou interaktivitu. */
+- Zvládne požrat jen jedno kouzlo, tím se nabije. Jak se vybíjí?
+
+TODO: Helma.
+- něco se sluchem
+- nějaká forma ESP. Ale jaká?
+- ochrana hlavy, hmm
+- možnost hlavou útočit...
+- hadi na helmě/koruně mohou ožít. To dává spíš smysl pro hůl (změní se v hada a ten zaútočí).
+
++Hadí maska
+- no eyeslits. Ha! Jasně - na helmě jsou hadi a koukáš jejich očima, takže vidíš i za sebe
+  (a můžeš bezpečně nahlížet za roh, jsou asi půl metru dlouzí). Nebo jen jeden had?
+
++Zbroj pomalého pádu
+(asi lehká goblinská zbroj)
+
++Zabiják elfů
+Krátký meč
+- žlutě žhne, když jsou poblíž (dlouhá vzdálenost) elfové
+- +1 zranění proti elfům
+
++Lektvar neviditelnosti
+
++Žezlo paralýzy (goblinská magie a goblinská sesílací formule)
+- 2dz (míň než ohnivá hůlka), 1 cíl. Zásah paralyzuje (místo vážného zranění znehybňuje končetiny)
+  trvání paralýzy: Dokud je hůlka připoutaná.
+  V jednu chvíli může paralyzovat jen 1 cíl.
+  Zranitelnost: Pouze živí tvorové.
+
++Koruna strachu
+- po dobu soustředění aura strachu z osoby, která má korunu.
+- nerozlišuje přátele a nepřátele.
+- netroufnou si na ni bez opravdu dobrého důvodu (ochrana svých dětí a podobně).
+  A i tak na tebe útočí s nevýhodou.
+
++Hromový palcát
+- při zásahu zahřmí
+- každý zásah odhodí protivníka (automaticky se bere jako zatlačení).
+
+TODO: Léčivé kouzlo pro úterní skupinu
+
+
+=======================================================
 
 O krystalech se ví, závodí se, kdo je najde.
 Tabulky na charakter
