@@ -1,0 +1,99 @@
+﻿Po včerejší hře padlo pár hodně zajímavých nápadů a připomínek. Pokusím se to nějak rekapitulovat:
+
+Motivace
+
+- Motivace postav pořád skřípe. Pokoušel jsem se do snu o krystalu zapojit představu postav v zářivé zbroji - a moc to nefunguje. Postavy jsou obyčejní lidé (tesař, kovář a tak) a o ničem takovém nemají důvod snít.
+
+Čili buď by postavy už musely být dobrodruzi (pak by pro ně ten sen dával smysl), nebo je to potřeba udělat jinak.
+
+
+- Problém motivace úzce souvisí s tím, nakolik se dungeoncrawl dá hrát in-character. Dokud bude motivace haprovat, tak to moc dobře nepůjde, protože první, na co hráči v dungeonu narazí, je spousta náznaků, že tady opravdu jde o držku (což je dobře - hráči by měli mít pocit, že prozkoumávají fakt nebezpečné podzemí). Otázka "proč to vlastně dělám" je tudíž naprosto na místě.
+
+
+- Nápad: Nepředepisovat motivaci striktně, dát hráčům pár možností pro inspiraci a nechat na nich, kterou z nich si vyberou. 
+
+Tohle by asi bylo celkem dobré řešení, kdyby to byly moduly koncipované pro použití do vlastních kampaní (tj. hráči mají rozjetou vlastní kampaň a tenhle dungeon si do ní nějak začlení). Což ovšem není můj případ.
+
+
+- Nápad: Krystal postavy vyloženě mindcontroluje ("Musím ho mít!").
+
+Tohle by asi fungovalo (tuhle možnost ostatně zvolil i Peca na Gameconu), ale popravdě se mi to moc nelíbí. Nechtěl bych asi hrát postavu, kterou něco takhle oblbuje (omezení player agency?).
+
+
+- Nápad: Za postavami se zavřou dveře/sesype strop.
+
+Tohle už taky padlo dřív. Tohle je určitě funkční možnost, ale kdyby takových "trap dungenů" bylo víc, tak by to byl asi pěknej opruz.
+
+Není to taky kompatibilní s dungeony, které mají víc přístupových cest.
+
+
+- Nápad: někde poblíž by měla být vesnice/město.
+
+To už taky padlo i dřív. Má to rozhodně svá pozitiva, na druhou stranu problém motivace to podle mě samo o sobě neřeší.
+
+
+- Nápad: O krystalech se ví, závodí se, kdo je najde.
+
+Tohle se mi zatím líbí s velkým náskokem nejvíc. Backstory by byla zhruba ve smyslu, že se probouzí prastará magie, někteří lidé jsou od požehnáni od bohů a hledají ukryté krystaly, které jim dávají zvláštní schonosti.
+
+Podstatné na tom je, že existence krystalů a také existence jedinců, kteří je dokáží vycítit, je common knowledge, takže postavy jasně vědí, proč krystaly hledají a co za to budou mít.
+
+To je už samo o sobě poměrně dobrá motivace: "Jsi někdo chudý a bezvýznamný, komu bohové dali šanci stát se někým důležitým. Na cestě tě ale čekají obtížné překážky a smrtelná nebezpečí."
+
+Další věc je, že se to dá pojmout i jako týmová soutěž: Každý krystal může použít jen jedna skupina, pak zmizí. Když ho "nevytěžíte" vy, vytěží ho někdo jiný. Tohle navíc přesně sedí s backstory Opuštěné pevnosti (původně to sice mělo trochu jiný důvod, ale s tímhle to je v pohodě kompatibilní).
+
+Důležitá na tom je týmovost: Odměnu dostanete všichni, takže není důvod se podrážet. Naopak ale soutěžíte s případnými jinými týmy, takže je žádoucí spolupracovat.
+
+
+Super na tom je, že to v podsatě nevyžaduje žádný supernaturální vliv. Sice pořád mluvím o "vyvolených" nebo "požehnaných" (protože se mi pořád hodí schopnost rozumět starým jazykům a možnost najít dungeon přes nadpřirozenou schopnost*), ale fungovalo by to i bez toho (byla by to v podstatě zlatá horečka, jen s magickými schopnostmi místo zlata).
+
+* Quentin ještě nadhodil, že tenhle "radar" by mohl mít krátký dosah, tzn. že postavy vycítí, že je někde poblíž krystal, ale nepřitáhne je to sem přes půl světa. Je teda otázka, jestli by pak ten "radar" byl vůbec potřeba - hledání zmínek ve starých knihách by asi fungovalo taky.
+
+
+
+Hraní postav
+
+Další várka úvah se týká tématu nakolik má být dungeoncrawl o hraní postav? A taky nakolik o něm být může.
+
+Klasický přístup oldschool dungeoncrawlu je "neprozkoumáváme charaktery postav, prozkoumáváme dungeon". Ono je to celkem logické - když se hraje stylem "meatgrinder", tak to ani jinak bejt nemůže. Na druhou stranu pak ale taková hra není moc zajímavá pro hráče příběhovitějších rpgček, což docela možná škoda. Dungeon sice určitě může fungovat i bez hraní charakterů, s ním je to ale nepochybně zábavnější.
+
+Tabulka na tvorbu charakterových rysů
+
+Pokud by nastavení hry bylo k hraní charakterů přívětivější (třeba kdyby postavy neumíraly), tak by pak asi dávalo smysl obohatit tvorbu postavy o nějaký jednoduchý generátor zajímavých rysů postav - třeba formou tabulky, ze které si hráč může vzít inspiraci, nebo si hodit a zkusit pak zahrát to, co mu to vylosuje. Tvorbu postav by to nijak zvlášť nezkomplikovalo a byla by to určitě užitečná pomůcka.
+
+
+
+Tvrdá smrt
+
+Další várka úvah se týkala tvrdé smrti a toho, co z ní vyplývá.
+
+- Koncept "šlo vás sem víc, ale část zůstala v táboře" pěkně hapruje. Když je pět hráčů a v táboře zůstanou třeba jen dvě postavy, tak to ještě jde, ale obráceně (pět zůstane v táboře, dvě se vydají do dungeonu) to je fakt divný (Quentin se fak poctivě snažil to nějak vysvětlovat a odehrávat, ale fundamentální nelogičnost toho konceptu se prostě moc okecat nedá).
+
+Když už by mělo být postav víc než hráčů, tak by asi bylo lepší hrát to stylem "meatgrinder", čili že každý hráč má od začátku postav víc.
+
+To má ale taky svoje problémy: Například že jednomu hráči nemusí umřít žádná postava a jinému třeba tři. Navíc hrát víc postav najednou taky není moc kompatibilní s prokreslováním jejich charakterů.
+
+- Umírání postav obecně komplikuje rozvíjení charakteru, zvlášť když se umírá fakt hodně. Je dost těžké se sžít s další postavou, když už mi dvě umřely.
+
+- Úzce to souvisí s motivací. Dokud je dungeon jen nebezpečný, tak se to ještě dá nějak překousnout. Jakmile mi ale umře kamarád (nebo třeba dokonce sourozenec), tak je fakt těžké hledat důvody, proč pokračovat dál.
+
+
+Plot immunity?
+
+Odstranění tvrdé smrty by zjevně mělo několik pozitivních efektů:
+
+- nebylo by potřeba řešit, jak udržet ve hře hráče, kterým umře postava.
+
+- odstranilo by to jednu z překážek ke hraní charakterů postav (druhou překážkou je slabá motivace, viz výše).
+
+
+Ale taky negativa:
+
+- odpadl by pocit reálného smrtelného nebezpečí.
+
+Pořád by ovšem ve hře zůstala možnost příjít o předměty, což je taky zatraceně nepříjemné, ale nezařízne to zajímavou postavu.
+
+A pořád by taky zůstala možnost přijít k vážným zraněním. Tomu se hráči rozhodně chtějí vyhnout, takže to nejspíš stačí na to, aby hráli opatrně.
+
+
+Otázka je, jak plot immunity pojmout. O tom později, už takhle je toho hodně.
