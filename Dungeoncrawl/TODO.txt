@@ -42,9 +42,9 @@ Krátký meč
 - žlutě žhne, když jsou poblíž (dlouhá vzdálenost) elfové
 - +1 zranění proti elfům
 
-+Lektvar neviditelnosti
+.+Lektvar neviditelnosti
 
-+Žezlo paralýzy (goblinská magie a goblinská sesílací formule)
+.+Žezlo paralýzy (goblinská magie a goblinská sesílací formule)
 - 2dz (míň než ohnivá hůlka), 1 cíl. Zásah paralyzuje (místo vážného zranění znehybňuje končetiny)
   trvání paralýzy: Dokud je hůlka připoutaná.
   V jednu chvíli může paralyzovat jen 1 cíl.
