@@ -30,14 +30,14 @@ TODO: Helma.
 - možnost hlavou útočit...
 - hadi na helmě/koruně mohou ožít. To dává spíš smysl pro hůl (změní se v hada a ten zaútočí).
 
-+Hadí maska
+.+Hadí maska
 - no eyeslits. Ha! Jasně - na helmě jsou hadi a koukáš jejich očima, takže vidíš i za sebe
   (a můžeš bezpečně nahlížet za roh, jsou asi půl metru dlouzí). Nebo jen jeden had?
 
-+Zbroj pomalého pádu
+.+Zbroj pomalého pádu
 (asi lehká goblinská zbroj)
 
-+Zabiják elfů
+.+Zabiják elfů
 Krátký meč
 - žlutě žhne, když jsou poblíž (dlouhá vzdálenost) elfové
 - +1 zranění proti elfům
