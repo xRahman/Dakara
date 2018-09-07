@@ -1,4 +1,43 @@
-﻿
+﻿=======================================================
+
+TODO: Domyslet itemy (budu asi rušit horský křišťál, možná budu něco dělat
+s lyrou - mohla by být kouzelná (na druhou stranu kdo by se s ní tahal)).
+
+Karty k úpravě:
+---------------
+
+Vzplanutí
+Kulový blesk
+Lektvar ohnivého dechu
+Nabíjecí rukavice
+
+(Sheet05)
+Kamenná palice
+Kyj
+Pazourkový nůž
+Dvojruční kyj
+Kamenické dláto
+Lehká zbroj
+Orkský štít
+
+(Sheet06)
+Kamenická palice
+Kamenická špice
+Kovářské kladivo
+Průbojník
+Dýka
+Krátký luk
+
+(Sheet06)
+Dlouhý luk
+Elfská dýka
+Elfský meč
+Meč
+
+
+
+
+
 =======================================================
 
 Helm of telepathy?
