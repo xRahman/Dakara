@@ -1,4 +1,6 @@
-﻿
+﻿Offtopic: http://codeperfectionist.com/articles/phaser-js-tutorial-building-a-polished-space-shooter-game-part-1/
+
+
 =======================================================
 
 Helm of telepathy?
