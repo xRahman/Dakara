@@ -1,9 +1,4 @@
-﻿
-==============================================================
-
-Offtopic: http://codeperfectionist.com/articles/phaser-js-tutorial-building-a-polished-space-shooter-game-part-1/
-
-==============================================================
+﻿==============================================================
 
 TODO: Domyslet itemy (budu asi rušit horský křišťál, možná budu něco dělat
 s lyrou - mohla by být kouzelná (na druhou stranu kdo by se s ní tahal)).
