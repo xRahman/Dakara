@@ -1,5 +1,56 @@
 ﻿==============================================================
 
+Pre-Žižcon TODO:
+-----------------
+
+    • Předělat karty potvor
+    • TODO: Vytvořit nová tisková plata (vyhodit kartu horský křišťál,
+        přidat kartu s full-card obrázkem orka).
+        - ork_picture mám, jen ho musím přidat do tiskových plat
+    • TODO: Vytvořit a vytisknout karty s rysy postav
+
+Text dungeonu asi upravovat a znova tisknout nebudu, nestíhám.
+
+TODO: Karty s klíči!
+
+Retisk:
+
+Vzplanutí
+Kulový blesk
+Lektvar ohnivého dechu
+Elfská lyra
+
+Kamenná palice
+Kyj
+Pazourkový nůž
+Dvojruční kyj
+
+
+Orkský štít
+Kamenické dláto
+Kamenická palice
+Kamenická špice
+
+Kovářské kladivo
+Průbojník
+Dýka
+Meč
+
+
+Krátký luk
+Dlouhý luk
+Elfská dýka
+Elfský meč
+
+Ork picture
+Klíč A
+Klíč Z
+Kroužek s klíči
+
+
+==============================================================
+
+
 TODO: Domyslet itemy (budu asi rušit horský křišťál, možná budu něco dělat
 s lyrou - mohla by být kouzelná (na druhou stranu kdo by se s ní tahal)).
 
