@@ -3,17 +3,23 @@
 Pre-Žižcon TODO:
 -----------------
 
-    • Předělat karty potvor
+TODO: Poskládat karty ze starého a nového setu
+  (vyhodit kartu pro horský křišťál).
+
+
+DONE
+    • Předělat karty potvor [done]
     • TODO: Vytvořit nová tisková plata (vyhodit kartu horský křišťál,
         přidat kartu s full-card obrázkem orka).
         - ork_picture mám, jen ho musím přidat do tiskových plat
+      [done]
     • TODO: Vytvořit a vytisknout karty s rysy postav
+     [done]
 
-Text dungeonu asi upravovat a znova tisknout nebudu, nestíhám.
-
-TODO: Karty s klíči!
+TODO: Karty s klíči! [done]
 
 Retisk:
+ [done]
 
 Vzplanutí
 Kulový blesk
