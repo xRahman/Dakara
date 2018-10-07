@@ -1,0 +1,75 @@
+Vlastnosti
+===========
+
+člověk = barbar
+elf               Finesa 2, Duše 2
+hobit = kudůk     Finesa 2
+trpaslík          Síla 2, Duše 2
+kroll             Síla 3
+
+válečník          Síla 2
+hraničář          Finesa 2
+kouzelník         Duše 2
+alchymista        Finesa 2
+zloděj            Finesa 2
+kněz              Duše 2
+
+Výv. pozn.: Když povolání vynutí trojku, tak nebude moci vzniknout postava 2/2/2.
+  což je asi dobře, protože ta je slabší než 3/2/1
+- taky to ale znamená, že třeba elf nemůže bejt válečník, protože to nebude
+  vycházet.
+Hmm, nechám u povolání dvojky. Půjde pak vyrobit libovolná kombinace.
+
+Určení počátečních vlastností
+------------------------------
+- Napiš si vlastnosti podle rasy.
+- Napiš si vlastnost podle povolání
+  (pokud už v ní máš za povolání stejně nebo víc, tak ji přeskoč).
+- Zvyš si libovolné vlastnosti podle svého výběru tak, aby součet byl 6.
+  Žádná vlstnost nesmí být menší než 1 ani větší než 3.
+
+Poznámka: Je vhodné mít hlavní vlastnost povolání na trojce. U některých
+  kombinací rasy a povolání to není možné. Můžeš si takovou postavu udělat,
+  ale počítej s tím, že bude o něco slabší.
+
+Růst vlastností
+----------------
+
+Na každé úrovni dělitelné třemi si zvyš vlastnost tvého povolání.
+  (tedy na 3., 6., 9. atd.)
+Na ostatních úrovních si zvyš jednu ze zbylých dvou.
+
+Velikost
+---------
+Kudůk 5
+Člověk, elf, trpaslík 6
+Kroll 7
+
+Životy
+-------
+Životy jsou Velikost + Síla.
+
+
+Rasové schopnosti
+------------------
+
+Kudůk - čich (možná by to fakt mohl bejt lepší čich a ne šestej smysl)
+Trpaslík - infra (nevidíš pasti a podobně)
+Kroll - ultrasluch (odhadne tvar místnosti, ale zvuk musí udělat sám, třeba tlesknout)
+Člověk - schopnost navíc (asi nějaký řemeslo nebo tak)
+Elf - lepší zrak (noční vidění, ostrý zrak)
+
+
+Minulost
+---------
+žoldák, lovec...
+- v podstatě balíček schopností a znalostí
+  // Co když si někdo vezme hraničáře s původem lovec?
+  // pořád mu to dává etiketu a tak. Ne každý hraničář musí být lovec.
+TODO: Po každé povolání napsat pár vhodných minulostí na výběr.
+
+Schopnosti podle povolání
+--------------------------
+
+Zvyš si jednu dovednost z následujícího seznamu ze stupně "začátečník"
+na stupeň "zkušený".
