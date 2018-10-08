@@ -73,3 +73,13 @@ Schopnosti podle povolání
 
 Zvyš si jednu dovednost z následujícího seznamu ze stupně "začátečník"
 na stupeň "zkušený".
+
+
+Kouzelník
+----------
+
+Magenergie: Duše + Úroveň.
+
+Spřádání kouzel (schopnost)
+- Kdykoliv sešleš kouzlo, které jsi v posledních deseti minutách ještě neseslal,
+  bude o 1 mag levnější.
