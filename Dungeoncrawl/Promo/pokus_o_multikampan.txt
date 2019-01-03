@@ -1,0 +1,35 @@
+﻿Pokus o multikampaň (post mortem)
+
+Před pěti měsíci jsem se pokusil rozjet fantasy multikampaň (https://rpgforum.cz/forum/viewtopic.php?f=117&t=14941). Původní idea byla něco ve stylu West Marches (tady o tom mluví Matt Colville: https://www.youtube.com/watch?v=oGAC-gBoX9k), ale nevěřil jsem, že na něco takového seženu dost hráčů, tak jsem to ze začátku pojal trochu jinak. Po domluvě se stávajícími spoluhráči jsme začali hrát v novém světě a k tomu jsem se pokusil poskládat druhou, úplně novou skupinu s tím, že ji povedu v jiný den, ale ve stejném světě.
+
+To se kupodivu podařilo a přes drobné obtíže, jako třeba že tajemný pátý hráč nikdy nedorazil a čtvrtého jsme viděli jen jednou, jsme rozjeli pro mě hodně zábavnou hru. Hráči byli všichni fajn, vzájemně jsme si sedli a mně to dodalo spoustu energie, zvlášť když jsem si vyzkoušel, že se dá začínat hrát v domluvenou hodinu místo o hodinu až dvě později, a že se hráči mohou celou dobu věnovat hře a nikoliv mobilu, notebooku a podobně :-)
+
+Moje původní představa byla, že se akce obou skupin budou vzájemně ovlivňovat. Bohužel se mi to ale vůbec nedařilo. Problém byl, že o tom, co se dělo ve druhé skupině, se hráči mohli dozvědět jedině mým prostřednictvím. A přestože obě skupiny poměrně často narážely na důsledky akcí té druhé, hráči to většinou nevěděli, protože neměli jak rozlišit, co jsem do hry vložil já, a co jsou akce druhé party.
+
+Po nějakém čase se navíc nepříliš překvapivě ukázalo, že vést pravidelně každý týden dvě skupiny je docela náročné. Trochu jsem si to usnadnil tím, že jsem místy sdílel přípravu - obě skupiny například prošly ten samý dungeon. To ovšem v příběhu multikampaně vytvořilo logické trhliny, takže když druhá skupina začala pátrat po stopách nalezených v dungeonu, které už prozkoumala první skupina, musel jsem to té druhé zatrhnout, protože by to nutně vedlo ke vzniku paralelní reality.
+
+Poučení z toho je, že pokud chcete hrát opravdu funkční multikampaň, nemůžete si to ulehčovat a použít stejný obsah víckrát. Druhá skupina klidně může dorazit do toho samého dungeonu, ale ten už musí být vyčištěný od první skupiny. Znamená to ovšem, mít takových dungeonů připravených víc. A to je docela hodně práce.
+
+Ve výsledku jsem tedy skončil u toho, že jsem více méně připravoval dvě nezávislé hry a sdílel jsem jen reálie světa a některá důležitá NPCčka. To sice znamenalo méně práce při počáteční přípravě kampaně (nemusel jsem vymýšlet dva různé světy, dvě různá města, atd.), ale prakticky se to neprojevilo na přípravě v průběhu hry. Díky tomu, že se snažím příběh stavět co nejvíc kolem hráčských postav a NPCček, která s nimi mají něco společného, se ve stejném městě ve výsledku odehrávaly dva různé příběhy, probíhaly interakce se dvěma skupinami NPCček a jediné, v čem se to prolínalo, byly obecné novinky, co se děje ve městě ("Někdo spálil loď Šarlatové kumpanie", "Městská stráž začala důsledně hlídat vstupy do stok a proslýchá se, že se v nich něco dělo" a podobně).
+
+V téhle fázi bylo zřejmé, že se mi původní záměr moc nepovedl a začal jsem přemýšlet, jak z toho vytěžit aspoň něco. Ve skutečnosti se toho za těch několik měsíců hry událo docela dost a kdyby se postavy potkaly a mohly si o tom promluvit, vyplynula by na povrch spousta zajímavých souvislostí. Jenže na to bych musel dostat hráče v jeden čas ke stejnému stolu a dát postavy dohromady.
+
+A přesně tak se to nakonec vyvrbilo vcelku samovolně. Oběma skupinám totiž z různých důvodů odpadli hráči a v obou se stav dostal na kritické množství, kdy museli dorazit prakticky všichni, aby se mohlo hrát. Slovo dalo slovo a domluvili jsme společné sezení. Původně na pokec a na vyzkoušení, jestli bychom to chtěli spojit dlouhodobě - což se nakonec skutečně stalo.
+
+Sloučením skupin se mi značně ulevilo, protože současné vedení dvou skupin mě po čtyřech měsících začalo už docela dost zmáhat. A celý projekt multikampaně hlavně najednou dostal smysl. Zpočátku bylo složité motivovat hráče, aby si v roli postav něco říkali o předchozích zážitcích. Bylo to celkem logické, postavy se ve fikci vzájemně neznaly a nebyl tedy žádný důvod, proč by si měli důvěřovat, natož sdělovat nějaké choulostivé informace.
+
+V tomhle překvapivě pomohlo, že jsme předtím odehráli ten samý dungeon. Logicky to sice nedávalo smysl ("Podle téhle mapy jsme tady na tomhle ostrově našli dungeon." "Vy taky?"), ale dalo se o tom pokecat mezi hráči - na to jsou naopak zážitky ze stejného dungeonu výborné, protože každá skupina řešila každý problém jinak. Pak jsme začali prostě normálně hrát a budovat příběh nové, spojené skupiny. Po několika sezeních se ledy prolomily a já se teď těším na každou další středu, protože vzájemné vyprávění postav, co všechno zažily a zjišťování, jak to všechno souviselo, je prostě úžasné.
+
+
+Závěrem pár rad, kdybyste chtěli něco podobného zkoušet:
+
+● Nepoužívejte stejný dungeon dvakrát (nebo ano, ale podruhé už musí být "vyčištěný").
+
+● Pokud je to aspoň trochu možné, udělejte to tak, jak má správně fungovat West Marches kampaň - tedy že nehraje několik skupin s pevným složením, ale hráči se každý týden domlouvají, kdo přijde v který den, a tudíž se postavy mezi skupinami promíchávají. Díky tomu se postavy budou moci bavit o svých zážitcích, což je klíčem zábavnosti celého počinu.
+
+● Když to nejde, zkuste od začátku jako součást hry použít nějaký mimoherní komunikační kanál - třeba něco jako hlášení agentů v Jersonově Omeze. Dejte prostě hráčům možnost (a důvod) se o hrách bavit i mimo hry.
+
+● Poslední možnost je, naplánovat to od začátku tak, jak jsme nakonec skončili my. Tedy že bude nějaký čas hrát odděleně, a pak skupiny sloučíte, nebo alespoň promícháte.
+
+
+Rozhodně to ale nakonec stálo za to a všem doporučuju si něco takového vyzkoušet!
