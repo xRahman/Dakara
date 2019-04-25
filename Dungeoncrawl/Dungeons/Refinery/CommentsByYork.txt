@@ -1,0 +1,2 @@
+﻿Podstatná jména jako "endapana" budou nezasvěcenému čtenáři komplikovat orientaci v textu - bude si muset dohledávat, co to vlastně znamená.
+- asi by se měla vyskytovat jen v textech pro hráče (a případně v úvodu k dungeonu), ve zbytku textu pro PJ by se tomu mělo říkat nějak názornějš (magická bytost?)
