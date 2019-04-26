@@ -1,2 +1,61 @@
-﻿Podstatná jména jako "endapana" budou nezasvěcenému čtenáři komplikovat orientaci v textu - bude si muset dohledávat, co to vlastně znamená.
+﻿http://178.62.120.62/dung/koncept.txt
+--------------------------------------
+
+
+Podstatná jména jako "endapana" budou nezasvěcenému čtenáři komplikovat orientaci v textu - bude si muset dohledávat, co to vlastně znamená.
 - asi by se měla vyskytovat jen v textech pro hráče (a případně v úvodu k dungeonu), ve zbytku textu pro PJ by se tomu mělo říkat nějak názornějš (magická bytost?)
+
+Má Aon stále astrální klíště? Můžou to postavy nějak poznat a něco s tím udělat? Ovlivní to nějak děj?
+  (opět bych ve zbytku textu používal spíš "astrální klíště" než "Inhibitor", protože je jasnější, co to znamená).
+
+Teleportační hůlka zní jako docela drsná věc. Možná bude potřeba ji něčím omezit.
+- třeba tím, že bude teleportovat jen na předem vytvořené značky. To by ostatně mohlo mít v dungeonu zajímavý využií.
+
+Asi bych místo "alchymisté" říkal "theurgové". Všechno to připomíná spíš theurga z DrD než míchálistu na nízkých úrovních.
+
+
+"Naučil se oživovat Nódt, lesní bytosti, liánovité, bodlákovité a bukvicovité
+skřety, kteří mu pomáhají udržovat přehled o území mimo dosah Fáhnanrí."
+- tohle bych asi zrušil, pokud nechceš kreslit i okolí dungeonu a udělat z toho megamodul.
+
+"Bude moci povolat Nódt a orky, a ve velice omezené míře i Endapana. Ti jsou autonomní, ale Tepkází by je mohl
+ponouknout k činnosti nějakým pošťuchováním."
+- mohl by je přímo posednout. Mluvit jejich ústy, používat skrz ně svoje schopnosti.
+- "Nová těla? To jsem si snad ani nezasloužil. Mohli byste dát tu lucernu trochu výš, abych si vás pořádně prohlédnul?"
+
+"Zajímavou eventualitu nabízí orkové. Tepkází sám mluví staroelfsky, a šaman
+kmene s ním mluví také tak."
+- proč by ork mluvil staroeflsky?
+
+
+mail
+------
+
+
+"puvodne to mel byt dul, ale nedava mi smysl delat dalsi patro s 
+podzemim. Dumal jsem, ze mozna zilu vytezili, a presunuli se trochu 
+dal. Vstup z dungeonu do stareho dolu by byl zazdeny. Jenze tim 
+hintuji na jeho existenci, a hrace bude mast, ze to ve skutecnosti 
+neni soucast dungeonu. Prekerka."
+- Na to, že to byl původně důl, bych se asi vykašlal. Macocha poslouží stejně dobře. Nějakej alchymista to tady prozkoumával a všimnul si, že tu je ve skále spousta magenergie.
+  (Alchymisté totiž mají vidění magenergie, jak jsem posledně zjistili ;-))
+
+
+http://178.62.120.62/dung/dung.txt
+------------------------------------
+
+
+"jak vůbec psal? Musel mít u sebe nějaké svítidlo"
+- pokud to všechno bylo radioaktivní (magenergoaktivní?), tak možná ani nemusel.
+
+"inhibitor" je astrální klíště, ne? To se snad nepřipoutává ;-)
+  (Nebo teda ano, ale samo.)
+
+"Dopis na rozloučenou" není potřeba, může to postavám říct sám. Pokud ho teda zbaví klíštěte.
+
+"Namier" je dobrý jméno. "Deloa" taky.
+
+"Ánjasi" zní zas jak indština (existuje takovej jazyk? :)). Navíc to zní jako Anansi, což je Gahundský bůh...
+- možná Anjas? Sianjar?
+
+
