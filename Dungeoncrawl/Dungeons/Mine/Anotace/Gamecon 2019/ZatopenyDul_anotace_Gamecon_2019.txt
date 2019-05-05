@@ -1,21 +1,12 @@
-﻿TODO: Obrázek
-Obrázek by měl mít tyto rozměry - šířka minimálně 320px, ideálně v poměru 16x9.
-Bude super když obrázek pojmenuješ podle názvu aktivity. Měl by být v jednom
-z formátů .jpg, .png nebo .gif.
-
-TODO: Úvodní lead (text), podle nějž postavy pevnost najdou.
-
-
-
-[i]Název:[/i] Opuštěná pevnost
+﻿[i]Název:[/i] Zatopený důl
 [i]Systém:[/i] Dračák podle staré školy
 [i]Věk:[/i] 15+
 [i]Žánr:[/i] fantasy dungeoncrawl
 
 Pojď si zahrát propracovaný fantasy dungeon se vším, co k němu patří. Čekají na tebe pasti, nestvůry, obtížné překážky, hádanky, dávné příběhy a také samozřejmě magické předměty a poklady.
 
-[i]Ve starých textech jste našli zmínku o ruině dávné tvrze, opuštěné elfy v dobách válek proti Chaosu. Bude to sice jedna z vašich prvních výprav, jste na ni však dobře připraveni: Máte dostatek zásob, kvalitní výzbroj a všichni jste dobře vycvičeni, ať už v boji, kouzlech nebo průzkumu.[/i]
+[i]Ve starých trpaslických knihách jste našli zmínku o pokladech v ruinách dávné civilizace. Bude to sice jedna z vašich prvních výprav, jste na ni však dobře připraveni: Máte dostatek zásob, kvalitní výzbroj a všichni jste dobře vycvičeni, ať už v boji, kouzlech nebo průzkumu.[/i]
 
-[i]Herní systém:[/i] Hrát se bude v systému inspirovaném originálním Dračím doupětem. Budeš tedy moci být člověk, barbar, hobit, kudůk, trpaslík, elf nebo kroll a hrát za válečníka, hraničáře, kouzelníka, alchymistu nebo zloděje. Pravidla jsou ale výrazně jednodušší, nejsou v nich žádné procentové hody ani tabulky. V boji může každý dělat různé zajímavé věci: srazit protivníka na zem, přitlačit ho štítem ke stěně, přibodnout ho kopím ke dveřím, hodit mu pod nohy židli a podobně. Při průzkumu se nehází, záleží jen na tom co uděláš: Když si například při otevírání truhly stoupneš bokem, případná šipková past tě mine. Vše bude vysvětleno na místě.
+[i]Herní systém:[/i] Hrát se bude v systému inspirovaném originálním Dračím doupětem. Můžeš tedy být člověk, barbar, hobit, kudůk, trpaslík, elf nebo kroll a hrát za válečníka, hraničáře, kouzelníka, alchymistu nebo zloděje. Pravidla jsou ale výrazně jednodušší, nejsou v nich žádné procentové hody ani tabulky. V boji můžeš dělat různé zajímavé věci: srazit protivníka na zem, přitlačit ho štítem ke stěně, přibodnout ho kopím ke dveřím, hodit mu pod nohy židli a podobně. Při průzkumu se nehází, záleží jen na tom, co uděláš: Když si při otevírání truhly stoupneš bokem, případná šipková past tě mine.
 
-[i]Extra info:[/i] Pokud se přihlásíš také na [i]Zatopený důl[/i] [ideálně link, pokud to půjde], budeš moci oba dungeony odehrát se stejnou postavou. Do toho druhého půjdeš s vyšší úrovní a se všemi kouzelnými předměty, které najdeš v tom prvním.
+[i]Extra info:[/i] Postavy budou částečně připraveny, doladíme je na začátku hry. Pravidla si vysvětlíme při hře. Pokud se přihlásíš také na [i]Opuštěnou pevnost[/i] [ideálně link, pokud to půjde], budeš moci oba dungeony odehrát se stejnou postavou. Do druhého půjdeš s vyšší úrovní a se všemi kouzelnými předměty, které najdeš v prvním.
