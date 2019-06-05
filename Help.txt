@@ -1,5 +1,5 @@
-﻿Tisk dvou A5 na A4:
---------------------
+﻿Tisk dvou A5 na A4
+-------------------
 
 1) V print dialogu Libre Officu kliknout na properties tiskárny
    - V záložce PageSetup nastavit:
@@ -12,3 +12,15 @@
 3) V print dialogu Libre Officu v záložce Page Laout nastavit:
    "Pages per sheet": 2
    "Order": left to right, then down
+
+
+Odkazy na kapitoly
+-------------------
+Vložit -> Křížový odkaz
+
+Typ: Nadpisy
+Vložit odkaz na: Odkaz
+- vybrat kapitolu (jde filtrovat)
+Vložit
+
+Pak tomu dát character styl "Odkaz na kapitolu"
