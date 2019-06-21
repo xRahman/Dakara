@@ -1,0 +1,956 @@
+[b][size=130][i]Boj[/i][/size][/b]
+Když jde do tuhého, přichází na řadu kostky a následující pravidla.
+
+[b][size=115]Představení situace[/size][/b]
+Boj vždy začíná představením situace. Pokud to není jasné z mapy, Pán jeskyně popíše terén, případně tvar chodeb a místností. Následně představí zařízení místnosti nebo jiné překážky a věci, které můžete v boji nějak využít: židle, sloupy, svícny na stolech atd. Nakonec vyjmenuje všechno, co vás může nějak ohrozit: stráže, nestvůry, díry v podlaze a podobně.
+
+[i]Příklad:[/i]
+[size=85]Naria s Gorondarem, se snaží dohnat zbytek družiny. Zřejmě při tom ale zabloudili do neprozkoumané části podzemí.
+[b]Pán jeskyně:[/b] „Vběhli jste do obdélníkové místnosti. Na šířku má tak čtyři metry, na délku osm. Strop podpírají čtyři sloupy.
+	U stěn jsou dlouhé stoly, další je uprostřed. Na nich jsou holé kosti, spousta různých váčků a svázané otýpky bylin.
+	U prostředního stolu stojí velký, svalnatý ork a mnohem menší goblin. Ork má zbroj ze silné kůže a dvojruční kyj. Goblin má na sobě plášť z ptačího peří. Nemá žádnou zbraň, v ruce drží lebku.“[/size]
+
+Pokud ti z popisu něco není jasné, požádej Pána jeskyně o upřesnění. Můžeš mu také návrhy nebo návodnými dotazy s popisem pomáhat.
+
+[i]Příklad:[/i]
+[size=85][b]Katka:[/b] „Jsou tu po tmě, nebo si něčím svítí?“
+[b]Pán jeskyně:[/b] „Hmm, vidíš, na to jsem zapomněl. Na stole uprostřed jsou dvě lojové lampy. Jedna z nich je zapálená.“[/size]
+
+Další popis může být potřeba, když se třeba v průběhu boje přesunete do jiné místnosti, když někomu dorazí posily a podobně.
+
+[b][size=115]Kola[/size][/b]
+Když je jasné, kde se bude bojovat a kdo se boje účastní, začínají bojová kola. Každé představuje zhruba 3 vteřiny. Nejsou to tedy tahy, ve kterých by se hráči střídali, jsou to prostě jen krátké časové úseky a všechno se v nich děje současně.
+
+[b][size=115]Záměry[/size][/b]
+Na začátku každého kola vám Pán jeskyně popíše, co dělají vaši protivníci. Měj na paměti, že to jsou jenom záměry, a co se opravdu stane, závisí na tom, co budete dělat vy a také na náhodě. 
+
+[i]Příklad:[/i]
+[size=85][b]Pán jeskyně:[/b] „Ork zvedá svůj kyj, kousek popojde a zastaví se v bojovém postoji. Goblin se drží vzadu. Jednou rukou ukazuje na Gorondara a cosi u toho mumlá. Co děláte?“[/size]
+
+Potom každý hráč popíše, co bude dělat jeho postava.
+
+[b][i]Proveditelnost záměrů[/i][/b]
+Když si nejsi jistý, jestli něco půjde udělat, zeptej se na to.
+
+[i]Příklad:[/i]
+[size=85][b]Pavel:[/b] „Půjde kolem toho orka proběhnout ke goblinovi?“
+[b]Pán jeskyně:[/b] „Určitě, místnost je dost široká. Ork se ti v tom ale nejspíš bude snažit zabránit.“[/size]
+
+Všimni si, že se Pavel neptá, jak je místnost široká, ale jestli půjde udělat to, co ho napadlo. A Pán jeskyně rovnou dodal, jaké to bude mít důsledky. Když by to udělat nešlo, rovnou také navrhne případné jiné možnosti.
+
+[i]Příklad:[/i]
+[size=85][b]Pavel:[/b] „Zvládnu zvednout jeden z těch stolů, co jsou u stěn, a hodit ho orkovi na hlavu?“
+[b]Pán jeskyně:[/b] „To asi nedáš, jsou fakt masivní. Ten uprostřed je ale mnohem menší, s tím by to šlo.“
+
+[b][i]Úpravy záměrů[/i][/b]
+Co kdo chcete udělat, říkejte samozřejmě postupně, abyste si rozuměli. Vaše postavy a jejich nepřátelé to ale pak budou dělat současně. Aby nezáleželo na tom, v jakém pořadí se záměry ohlašují, můžete je libovolně upravovat. Stejně tak Pán jeskyně může měnit záměry protivníků.
+
+[i]Příklad:[/i]
+[size=85][b]Katka:[/b] „Otočím se a běžím zpátky.“
+[b]Pavel:[/b] „Já zkusím oběhnout orka a dostat se ke goblinovi, abych mu zabránil v mumlání.“
+[b]Katka:[/b] „Aha, tak v tom případě se zastavím a připravím si luk. Nenechám v tom Gorondara samotného.“
+[b]Pán jeskyně:[/b] „Dobře. Ork vyráží Gorondarovi naproti, aby mu zablokoval cestu ke goblinovi. Goblin dál mumlá.“[/size]
+
+Své záměry ale měň co nejméně. Tuto možnost máš, abys mohl reagovat na to, co dělají ostatní, nikoliv abyste se s Pánem jeskyně snažili vzájemně přechytračit.
+
+[b][size=115]Co se dá stihnout v jednom kole[/size][/b]
+Kolo trvá zhruba tři vteřiny, takže v něm můžeš udělat víc věcí, než jen máchnout mečem. Stihneš například:
+
+    • Tasit zbraň a rovnou zaútočit
+    • Uběhnout krátkou vzdálenost a rovnou zaútočit na blízko
+    • Srazit protivníka k zemi a bodnout ho svou zbraní
+    • Nabít luk a vystřelit
+    • Vystřelit na někoho z kuše
+    • Sundat ze zad luk nebo jinou zbraň
+    • Opatrně něco položit na zem
+    • Vytáhnout z opasku lektvar
+    • Sundat ze zad tornu
+    • Vyndat něco ze sundané torny
+    • Vypít připravený lektvar
+    • Seslat kouzlo
+    • Zamířit
+    • Soustředit se na obranu
+    • Pokusit se dostat z nevýhodné situace
+    • Počíhat si na vhodnou chvíli k útoku
+
+Když chceš udělat něco, co zde není uvedeno, Pán jeskyně po domluvě určí, kolik kol to zabere.
+
+[b][size=115]Vzdálenost[/size][/b]
+Vzdálenost odhadujeme  v počtech kol běhu:
+
+    • Kontaktní – pár kroků od tebe
+        ◦ Protivníky v kontaktní vzdálenosti můžeš ohrozit zblízka, i když se od tebe v tomto kole snaží utéct.
+
+    • Krátká – v dostřelu malé vrhací zbraně
+        ◦ Krátkou vzdálenost můžeš uběhnout za 1 kolo a rovnou útočit na blízko. Pokud ovšem od tebe protivník utíká, musíš ho nejdřív dohonit (viz kapitola Pronásledování).
+
+    • Střední – v dostřelu oštěpu nebo kuše
+        ◦ Dá se uběhnout za 2-4 kola.
+
+    • Dlouhá – v dostřelu dlouhého luku
+        ◦ Dá se uběhnout za 5-16 kol.
+
+Při běhu se nedá dělat nic moc jiného – můžeš něco zakřičet, nebo někoho seknout mečem, ale určitě nepůjde nabíjet, mířit, vytahovat věci z torny a podobně.
+
+[b][size=115]Rychlost[/size][/b]
+Většina zvířat běhá mnohem rychleji než člověk – kůň nebo vlk je zhruba dvakrát rychlejší, takže vzdálenost, kterou by člověk uběhl za dvě kola, urazí za kolo. Někteří tvorové jsou naopak mnohem pomalejší a překonat krátkou vzdálenost jim zabere dvě kola nebo i více. K popsání rychlosti různých tvorů proto používáme následující stupnici:
+
+    • plazení – chůze – běh – koňský běh
+
+Každý stupeň je dvojnásobkem předchozího. Vzdálenost, kterou se uplazíš za 8 kol, tedy chůzí zabere jen 4 kola, během 2 kola a kůň nebo vlk ji uběhne za kolo.
+
+    • Pokud nějaké kouzlo nebo schopnost vyžaduje soustředění, nemůžeš při tom běhat.
+    • S vážně zraněnou nohou nebo břichem zvládneš jen chůzi.
+    • Když jsi vyřazený z boje, můžeš se nanejvýš plazit.
+
+[b][i]Zrychlení a zpomalení[/i][/b]
+Když nějaká schopnost nebo kouzlo způsobuje zpomalení, znamená to snížení rychlosti na polovinu, tedy posun o stupeň rychlosti dolů. Zrychlující kouzla a efekty naopak zvyšují rychlost pohybu na dvojnásobek a posouvají tedy o stupeň rychlosti nahoru.
+
+-mark-
+
+[b][size=115]Vyhodnocení[/size][/b]
+Když je jasné, co kdo chce udělat, je třeba určit, jak to dopadne.
+
+    • Když chceš někoho zranit, srazit k zemi, vyrazit mu zbraň, v něčem mu zabránit, ovlivnit ho kouzlem, nebo jej jakkoliv jinak ohrozit nebo omezit, házíš si proti němu na úspěch.
+        ◦ Když tě on chce také ohrozit, tvůj hod na úspěch se porovná s jeho hodem na úspěch.
+        ◦ Pokud tě v tomto kole ohrozit nechce, třeba proto, že útočí na někoho jiného, hází si proti tobě na obranu.
+
+    • Když v tomto kole nikoho neohrožuješ, na úspěch si neházíš.
+        ◦ Budeš si ale házet na obranu, pokud chce někdo ohrozit tebe – třeba když ti chce zabránit v tom, co děláš.
+
+Takto se postupně hází za všechny účastníky boje. Za hráčské postavy a jejich pomocníky hází hráči postav, za nestvůry a protivníky Pán jeskyně.
+
+[b][size=115]Hod na úspěch[/size][/b]
+Na úspěch se hází šestistěnnou kostkou. K výsledku se vždy přičte jedna z vlastností (Síla, Finesa nebo Duše) a bonusy a postihy za případné výhody, nevýhody či jiné okolnosti:
+
+    • Hod na úspěch: k6 + vlastnost + postihy a bonusy
+
+Čím více ti v součtu padne, tím lépe. Kterou vlastnost si započítáš, záleží na tom, co se snažíš udělat.
+
+[b][size=115]Použití vlastností v boji[/size][/b]
+Síla se přičítá, když:
+    • Snažíš se někam doběhnout rychleji než tvůj protivník
+    • S někým se přetlačuješ nebo přetahuješ
+    • Snažíš se protivníka někam zatlačit nebo ho povalit na zem
+    • Bojuješ na blízko v těžké zbroji (s libovolnou zbraní)
+    • Bojuješ beze zbraně
+    • Bojuješ nebo házíš těžkou zbraní
+    • Bojuješ nebo házíš lehkou zbraní a spoléháš se spíš na hrubou sílu než na techniku
+
+Finesa se přičítá, když:
+    • Střílíš libovolnou zbraní
+    • Snažíš se někomu podrazit nohy
+    • Při útěku kličkuješ nebo využíváš překážky
+    • Chceš se kolem někoho prosmýknout, nebo vyklouznout z nevýhodné pozice
+    • Bojuješ nebo házíš lehkou zbraní a spoléháš se na rychlost, techniku a přesnost
+
+Duše se počítá, když:
+    • Sesíláš kouzlo (je jedno jestli ze svitku, z hůlky nebo z čehokoliv jiného)
+
+Některé věci, třeba boj s lehkou zbraní, jsou uvedené jak pod Silou, tak pod Finesou. Znamená to, že si můžeš vybrat – obvykle tu vlastnost, kterou máš vyšší. Musí tomu ale odpovídat popis.
+
+[i]Příklad:[/i]
+[size=85]Když chceš protivníka povalit, házíš si Silou. Když mu chceš podrazit nohy, házíš si Finesou. V obou případech ho v případě úspěchu dostaneš na zem. Rozdíl je jen v tom, jak to uděláš.
+
+Když chceš udělat něco, co není v předchozím seznamu, použij vlastnost, která nejlépe odpovídá tomu, jak to chceš udělat.
+
+[b][size=115]Hod na obranu[/size][/b]
+Na obranu se hází stejně jako na úspěch, tedy:
+
+    • Hod na obranu: k6 + vlastnost + postihy a bonusy
+
+Rozdíl je v tom, jakou vlastnost si přičítáš:
+
+    • Když před něčím uhýbáš, ať už před střelbou, před ránou mečem, nebo třeba před letící ohnivou koulí, házíš si na obranu Finesou.
+    • Když odoláváš jedu nebo se bráníš před něčím, čemu nejde uhnout, například před kouzlem modrý blesk nebo vzplanutí, házíš si na obranu Silou.
+    • Když se bráníš zbraní nebo štítem, tak si házíš stejně jako na úspěch, tedy Silou nebo Finesou podle toho, jakou máš zbraň, případně zbroj.
+    • Když odoláváš psychickému nebo duševnímu kouzlu nebo schopnosti, házíš si na obranu Duší.
+
+Mysli na to, že na obranu si házíš pouze proti útočníkům, které v tomto kole neohrožuješ. Když se s někým přetlačuješ, snažíš se ho zranit, sesíláš na něj kouzlo a podobně, házíš si proti němu na úspěch.
+
+[i]Příklad:[/i]
+[size=85]Gorondar chce proběhnout kolem orka, aby se dostal ke goblinovi. Pavel si tedy proti orkovi bude házet na obranu, protože chce ohrozit goblina, nikoliv orka. Když se mu podaří proběhnout kolem orka, tak si proti goblinovi bude házet na úspěch.
+
+[b][i]Obrana kouzlem[/i][/b]
+Útočnými kouzly se můžeš bránit jen tak, že někoho ohrozíš.
+
+[i]Příklad:[/i]
+[size=85]Kara bojuje se dvěma skřety a rozhodne se na jednoho z nich seslat modrý blesk. Proti němu si tedy hází na úspěch Duší. Proti tomu druhému si ovšem Duší hodit nemůže, protože její blesk jej neohrožuje a ani ji před ním nijak nebrání. Může se tedy jen snažit uhnout, takže si proti němu hodí na obranu Finesou.
+
+Obrannými kouzly, jako je třeba magický štít, se naopak nedá útočit a dají se použít pouze při hodu na obranu. Ostatními kouzly se můžeš bránit, když to dává smysl.
+
+[i]Příklad:[/i]
+[size=85]Kara usoudí, že dva skřeti jsou nad její síly, takže se v dalším kole rozhodne seslat kouzlo návrat a přemístit se tak z jejich dosahu. Když Kara z ničeho nic zmizí, tak ji skřeti nebudou moci zasáhnout – v tomto případě tedy obrana kouzlem dává smysl a Jana si proti oběma hodí na obranu Duší.
+
+[b][i]Obrana proti kouzlům[/i][/b]
+U kouzel je vždy uvedeno, jakou vlastností se cíle brání. Platí to ale pouze pro hod na obranu – pokud kouzelníka v tomto kole ohrožuješ, neházíš si na obranu, ale na úspěch, a přičítáš si tedy vlastnost podle toho, co děláš, nikoliv podle toho, proti čemu se bráníš.
+
+[i]Příklad:[/i]
+[size=85]Pokud se Gorondar ubrání před orkem, dostane se ke goblinovi a bude si tedy proti němu házet na úspěch (Silou, protože bojuje v těžké zbroji). V opačném případě ale nebude moci goblina ohrozit, protože protože se k němu přes orka nedostane, a bude si muset házet na obranu. Jakou vlastností si bude házet se dozvíme z popisu šamanova kouzla:
+Duševní úder: 3 + k6 proti Duši
+Pavel si tedy bude na obranu házet Duší.
+
+[b][size=115]Pořadí házení[/size][/b]
+Pokud na sebe záměry logicky navazují, záleží na pořadí házení.
+[i]Příklad:[/i]
+[size=85]Pokud se Gorondar nedokáže prosmýknout kolem orka, nebude moci mumlajícího goblina ohrozit svou zbraní a bude si tedy proti němu házet na obranu. Když se kolem orka prosmýkne, tak goblina ohrozí a bude si tedy proti němu házet na úspěch. Abychom tedy mohli určit, co Gorondar udělá goblinovi, musíme nejdřív zjistit, jestli se ubrání orkovi.
+	Na to má ovšem vliv ještě Naria, která na orka střílí. Když ho vyřadí, ork padne k zemi a Gorondara tedy zastavit nedokáže. I když se jí to ale nepodaří, může jej alespoň nějak znevýhodnit, takže se mu Gorondar snáz vyhne.
+
+Z toho důvodu se na úspěch hází v pořadí, v jakém jsou záměry zřetězené.
+
+[i]Příklad:[/i]
+[size=85]Nejdřív si musí hodit Katka proti orkovi, jestli se jí ho podaří vyřadit, nebo alespoň znevýhodnit. Pokud orka nevyřadí, bude se házet, jestli ork zastaví Gorondara. Když se mu to nepodaří, bude si teprve Pavel moci hodit, zda zabrání goblinovi v mumlání.
+
+Když vás několik ohrožuje stejného protivníka, tak se na pořadí házení můžete domluvit. Obvykle je výhodné, aby nejdřív házeli ti, kdo nejsou ohroženi. Je to ale každopádně na vás, můžete se rozhodnout i jinak.
+
+[i]Příklad:[/i]
+[size=85]Naria střílí na skřeta, se kterým bojuje Gorondar.
+[b]Pavel:[/b] „Katko, házej první. Když ho vyřadíš, nebude mě moct zranit.“
+
+Když více protivníků ohrožuje stejnou postavu, o pořadí, v jakém budou házet, rozhoduje Pán jeskyně.
+
+[b][i]Pořadí podle výsledků hodů[/i][/b]
+Výjimečně se vám může stát, že se záměry zacyklí. V tom případě se samozřejmě nedá rozplést, v jakém pořadí se má házet. Místo toho použijte následující pravidlo:
+
+    1. Nejdříve si všichni hodí na úspěch. Výsledky si zapamatujte nebo zapište. Zatím ale neurčujte, co se stalo.
+
+    2. Vyhodnoťte je v pořadí od nejvyššího hodu po nejnižší. V případě rovnosti buď proběhnou současně (pokud to dává smysl), nebo to rozhodněte zopakováním hodu.
+
+Takto také postupujte, pokud se na pořadí házení nedokážete dohodnout.
+
+-mark-
+
+[b][size=115]Výhody a nevýhody[/size][/b]
+Podmínky při boji nejsou vždycky vyrovnané. Když například stojíš po pás ve vodě a tvůj protivník je na břehu, budeš mít proti němu nevýhodu.
+
+    • Za každou výhodu máš +1 k hodu, za každou nevýhodu naopak -1.
+
+Výhody a nevýhody si počítáš, i když se do nich dostaneš v průběhu kola.
+
+[i]Příklad:[/i]
+[size=85]Gorondar chytil skřeta pod krkem a přimáčknul ho ke stěně. Naria na skřeta střílí z luku. Pokud Katka hází po Pavlovi, přičte si k hodu bonus za výhodu, protože skřet už je Gorondarem přitisknutý ke zdi.[/size]
+
+Když se něco vztahuje na tebe stejně jako na tvého protivníka, výhodu za to nebude mít žádný z vás.
+
+[i]Příklad:[/i]
+[size=85]Když bojuješ po tmě a ani ty ani tvůj protivník nemáte infravidění ani ultrasluch, tma vás omezuje oba stejně a nikdo tedy nemá výhodu.[/size]
+
+[b][i]Druhy výhod a nevýhod[/i][/b]
+Nejčastější druhy výhod a nevýhod v boji jsou:
+
+      Ztížení pohybu
+          Jsi zalehnutý, jsi zatlačený do rohu nebo přimáčknutý ke stěně, jsi po pás ve vodě, brodíš se v bahně, balancuješ na hraně propasti, máš vážně zraněnou nohu.
+
+      Ztížení viditelnosti
+          Bojuješ se zavázanýma očima, jsi poblíž pochodně a někdo na tebe střílí ze tmy, máš písek v očích, protivník je neviditelný, cíl je schovaný v křoví.
+
+      Nevhodná zbraň
+          Bojuješ dlouhou zbraní ve stísněném prostoru nebo při zápasení na zemi.
+
+      Nadměrný náklad
+          Vlečeš těžkou truhlu, táhneš vyřazeného spolubojovníka, neseš několik velkých zbraní.
+
+      Kryt
+          Kryješ se před střelbou za rohem, bráníš hradby před ztečí. Kryt se počítá i proti všem kouzlům.
+
+      Dezorientace
+          Máš vážné zranění hlavy, kouzlo ti způsobuje halucinace, zmatení nebo ztrátu paměti.
+
+      Strach
+          Působí na tebe kouzlo nebo schopnost způsobující magický strach a ty přesto útočíš na to, čeho se bojíš.
+
+      Vyvedení z rovnováhy
+          Dostal jsi těžký zásah, někdo do tebe narazil.
+
+      Překvapení
+          O útočníkovi jsi nevěděl a útok jsi nečekal.
+
+      Střelba na útočníka zblízka
+          Když střílíš nebo házíš vrhací zbraň na protivníka v kontaktní vzdálenosti, který tě ohrožuje bojem zblízka, máš proti němu nevýhodu. Když sesíláš kouzlo, nebo když k tobě útočník v tomto kole přibíhá, tuto nevýhodu nemáš.
+
+      Střelba na běžící cíl
+          Běžící cíl se hůře zasahuje, střelec má tedy nevýhodu. Platí to i pro útoky vrhací zbraní nebo kouzlem, proti kterému se brání Finesou (jde tedy před ním uhýbat).
+
+      Útok do zad
+          Protivník utíká z boje nebo probíhá kolem tebe, protivník je obklíčený, v tomto kole tě neohrožuje a máš dost prostoru, aby ses mu dostal do zad.
+
+      Vyčerpání
+          V noci jsi nespal, bez odpočinku ses pustil do boje po běhu nebo po celodenním pochodu, nepřátelům v průběhu boje dorazily čerstvé posily.
+
+[b][i]Sčítání výhod a nevýhod[/i][/b]
+Postihy a bonusy za výhody nebo nevýhody stejného druhu se nesčítají.
+
+[i]Příklad:[/i]
+[size=85]Když tě někdo zatlačí do rohu místnosti a pak tě přitiskne ke zdi, tak si počítáš jen -1, protože obojí ti omezuje pohyb.[/size]
+
+Každá nevýhoda ale omezuje, co můžeš dělat.
+
+[i]Příklad:[/i]
+[size=85]Gorondar srazí goblina k zemi a zalehne ho. Má teď proti němu výhodu (+1), ale současně to znamená, že se goblin nemůže zvednout a utéct, dokud na něm Gorondar leží. Pořád má ale volné obě ruce a může s nimi něco dělat.
+
+	Když přiběhne ještě Naria a přišlápne goblinovi ruku, tak si Gorondar  bude stále počítat jen +1, protože jak zalehnutí, tak přišlápnutá ruka goblinovi ztěžují volnost pohybu. Kromě toho, že goblin nemůže vstát, dokud na něm Gorondar leží, ale teď také nemůže hýbat rukou, na které mu Naria stojí.[/size]
+
+[b][i]Trvání výhod a nevýhod[/i][/b]
+Výhody a nevýhody jsou nedílně spojené s nějakým stavem nebo situací ve hře. Jakmile tento stav nebo situace pomine, zmizí i výhoda či nevýhoda z ní plynoucí.
+
+[i]Příklad:[/i]
+[size=85]Když ležíš a tvůj protivník stojí, máš proti němu v boji nevýhodu. Jakmile se postavíš na nohy, nevýhody se zbavíš.[/size]
+
+[*]Jednorázové výhody a nevýhody, jako třeba překvapení, vyvedení z rovnováhy nebo útok do zad trvají pouze jedno kolo.
+[*]Situační výhody a nevýhody, jako třeba ztížení pohybu, tma, kryt, nevhodná zbraň, střelba na běžící cíl, střelba na útočníka zblízka a podobně trvají, dokud trvá příslušná situace.
+[*]Když tě protivník drží v nevýhodné situaci, například tě zatlačil do rohu, nevýhoda trvá, dokud se z ní nedostaneš (viz kapitola Prolomení nevýhody). Automaticky také pomine, když tě v ní přestane držet – třeba protože se jde věnovat někomu jinému.
+[*]Krátkodobá omezení, třeba když ti někdo hodí písek nebo bahno do očí, trvají do té doby, než se jich zbavíš. To obvykle zabere jedno kolo.
+[*]Výhody a nevýhody plynoucí z účinků kouzel trvají po dobu působení kouzla.
+[*]Nevýhody plynoucí z působení jedů trvají po dobu působení jedu (viz kapitola Jedy).
+[*]Nevýhody za vážné zranění trvají, dokud si nevyléčíš všechny ztracené životy (viz kapitola Léčení zranění).
+
+[b][i]Počítají se jen relevantní výhody a nevýhody[/i][/b]
+Počítáš si jen výhody a nevýhody, které se vztahují k tomu, co se snažíš udělat.
+
+[i]Příklad:[/i]
+[size=85]Kara sesílá modrý blesk na skřeta, kterého Gorondar tiskne štítem ke zdi. Skřet je sice nepochybně v nevýhodné situaci, ale vůči Kařině kouzlu si nevýhodu nepočítá, protože před modrým bleskem se nedá uhýbat (proto se také před ním brání Silou a ne Finesou), takže to, že se mu uhýbá hůř, nehraje roli. Kdyby to bylo obráceně a skřet by štítem držel u zdi Karu, tak by si Jana nevýhodu počítala, protože se jí při tom určitě bude hůře kouzlit.[/size]
+
+[b][size=115]Únava v boji[/size][/b]
+Boj je fyzicky velice náročný. Většinou ale skončí dřív, než se začne projevovat, že někdo se vyčerpá dříve a někdo později. V typickém souboji, kterého se všichni účastní od začátku, tedy vyčerpání pro zjednodušení nebereme v úvahu.
+
+	Když ale budete chvíli bojovat a skřetům pak přijdou posily, budou oproti vám čerstvé a budou si tedy počítat výhodu. Když naopak vy přijdete někomu na pomoc, výhoda bude na vaší straně. Pokud ale do boje budete muset doběhnout, budete zadýchaní stejně jako ti, kdo už nějaký čas bojují a výhodu nebude mít nikdo. Při určování, kdo bude vyčerpaný, můžete brát v potaz Sílu postav a kolik toho nesou.
+
+[i]Příklad:[/i]
+[size=85][b]Pán jeskyně:[/b] „Druhý den cesty divočinou jste v dálce zaslechli zvuky boje. Co děláte?“
+[b]Pavel:[/b] „Rozběhnu se tam.“
+[b]Jana:[/b] „Gorondare, počkej! Vůbec nevíme, kdo s kým bojuje a proč. Třeba se nás to vůbec netýká.“
+[b]Pavel:[/b] „‚Možná někdo potřebuje naši pomoc!‘ Běžím dál.“
+[b]Katka:[/b] „‚Gorondar má pravdu. Cestujeme divočinou, kdo by tu asi tak mohl bojovat? Nejspíš to bude přepadení.‘ Rozběhnu se za ním.“
+[b]Jana:[/b] „No tak dobře, co mám s váma dělat...“
+[b]Pán jeskyně:[/b] „Pavle, máš sice vysokou Sílu a není to moc daleko, ale máš těžkou zbroj a na zádech tornu, takže pokud tam chceš doběhnout co nejrychleji, budeš pak pořádně zadýchaný."
+[b]Pavel:[/b] „Pomůže, když tornu odhodím?"
+[b]Pán jeskyně:[/b] „Určitě."
+[b]Pavel:[/b] „Tak to udělám."
+[b]Pán jeskyně:[/b] „Co Kara a Naria? Těžkou zbroj sice nemáte, ale taky máte menší výdrž. Naria má Sílu 2, Kara dokonce 1. Chcete tam doběhnout vyčerpané, nebo raději trochu zvolníte? Naria by se zdržela tak o dvě kola, Kara o čtyři."
+[b]Katka:[/b] „Stejně nejspíš budu střílet, takže si klidně dám na čas.“
+[b]Pán jeskyně:[/b] „Ok. Jedno kolo běhu je krátká vzdálenost, takže budeš s rezevou ve středním dostřelu."
+[b]Jana:[/b] „Já raději budu držet krok s Gorondarem.“
+[b]Pán jeskyně:[/b] „Dobře. Po chvíli se vám otevřel výhled na probíhající boj. Na cestě stojí tři vozy, u kterých se pět strážců brání přesile skřetů. Další strážce zhrouceně sedí u vozu a drží se za šíp, který mu trčí z břicha. Jsou tam také tři mrtví skřeti. Pavle a Katko, počítejte si v tomhle boji výhodu: skřeti tu už nějaký čas bojují, vy jste proti nim čerství. Kara je zadýchaná, takže výhodu nemá.“ [/size]
+
+[b][size=115]Bonusy a postihy si přičítá hráč postavy[/size][/b]
+Když má jedna strana v boji výhodu, tak se to dá vyjádřit dvěma způsoby: buď si ten s výhodou přičte k hodu +1, nebo jeho protivník -1. Rozdíl hodů bude v obou případech stejný. To samé platí i pro nevýhody.
+
+	Přestože je ale jedno, kdo si bonus (nebo postih) započítá, je lepší, když si všechno přičítá hráč postavy, protože:
+
+    • Předejdete tím tomu, že byste stejnou okolnost omylem započítali dvakrát.
+    • Pán jeskyně pak za protivníky vždycky hází (vlastnost + k6) a nemusí nic dalšího přičítat, což mu výrazně ulehčí práci.
+
+[i]Příklad:[/i]
+[size=85]Naria má zamířeno na těžce zraněného skřeta. Při výstřelu si Jana přičte k hodu +1 za míření a další +1 za skřetovo zranění. Pán jeskyně za skřeta hází jen Finesa + k6.
+
+[b][size=115]Říkej nahlas, co do hodu počítáš[/size][/b]
+Předtím, než si hodíš, vždycky nahlas řekni, co si do hodu počítáš.
+
+[i]Příklad:[/i]
+[size=85][b]Pavel:[/b] „Házím Silou a počítám si +1, protože jsem na břehu řeky a skřet se brodí vodou.“[/size]
+
+Neostýchej se připomínat výhody a nevýhody, které si někdo zapomněl započítat. Pomůže to tomu, abyste hráli fér, a také se díky tomu ujistíte, že si všichni představujete situaci stejně.
+
+-mark-
+
+[b][size=115]Plná obrana[/size][/b]
+Když se soustředíš na obranu, tak neházíš na úspěch, protože nikoho neohrožuješ, ale na všechny hody na obranu v tomto kole máš výhodu (+1).
+
+[i]Příklad:[/i]
+[size=85]Zlobrovi se podařilo nebohého Gorondara zvednout a odhodit, takže Naria proti němu chvíli stojí sama. Má pořád jen dýku, takže se rozhodne raději ustupovat a počkat, až se Gorondar vrátí. Výměnou za to, že zlobra v tomto kole neohrožuje, si na obranu hodí s výhodou (+1).[/size]
+
+Při plné obraně nemůžeš dělat nic jiného: běžet, nabíjet, mířit, vyndavat něco z batohu a podobně. Plná obrana také vyžaduje dost prostoru k ústupu, nebo nějakou překážku, za kterou můžeš uhnout. To mimo jiné znamená, že nemůžeš blokovat chodbu a počítat si při tom výhodu za plnou obranu – když před někým ustupuješ, tak mu nebráníš v průchodu.
+
+	Výhoda za plnou obranu se sčítá s ostatními výhodami a nevýhodami. Nejčastěji se kombinuje s přesunem do krytu nebo s ústupem za nějakou překážku.
+
+[i]Příklad:[/i]
+[size=85]Kdyby Naria měla za ustoupit, třeba za nějaký sloup, tak by si k hodu na obranu proti zlobrovi počítala +1 za plnou obranu a další +1 za kryt.[/size]
+
+Kouzlo je možné použít na plnou obranu pouze pokud to je v jeho popisu výslovně uvedeno (viz například magický štít).
+
+[b][size=115]Prolomení nevýhody[/size][/b]
+Když se soustředíš na to, aby ses dostal z nevýhodné situace, například se snažíš se odstrčit toho, kdo na tebe leží, prorazit z obklíčení, vyčistit si oči od písku a podobně,  tak si počítáš výhodu (+1) k hodu na úspěch, ale když vyhraješ, můžeš se pouze dostat z nevýhody (jaké jsou jiné možnosti si povíme v kapitole +Určení výsledku).
+
+	Na rozdíl od plné obrany při prolamování nevýhody nemáš výhodu při svých hodech na obranu.
+
+[i]Příklad:[/i]
+[size=85]Naria střílí na skřeta, kterého Gorondar drží přitisknutého ke zdi. Skřet se snaží Gorondarovi vysmýknout. Při svém hodu na úspěch si tedy započítá výhodu, ale proti Nariině střelbě si bude házet na obranu bez bonusu. Když skřet Gorondara přehodí, vyklouzne z jeho sevření, ale nemůže ho v tomto kole zranit nebo jakkoliv jinak ohrozit.[/size]
+
+[b][size=115]Nehybný protivník[/size][/b]
+Když se protivník nemůže hýbat, například proto, že je paralyzovaný, pevně svázaný, je v bezvědomí, nebo je to sloup či jiná pevná překážka, na obranu si hází 0 + k6 a nepočítá si žádné výhody ani nevýhody. Útočník si své výhody a nevýhody počítá.
+
+[i]Příklad:[/i]
+[size=85]Když Naria před výstřelem zamíří na svázaného skřeta, bude za to mít výhodu. Skřet si ale nebude počítat nevýhodu za to, že je oslepený, protože i kdyby Nariu viděl, stejně by mu to nepomohlo.[/size]
+
+Když někoho držíš, ležíš na něm, tiskneš ho štítem ke zdi a podobně, tak to není nehybný protivník, protože sebou pořád může zmítat. V těchto případech se do obrany počítá vlastnost a příslušné nevýhody.
+
+[b][size=115]Útok ze zálohy[/size][/b]
+O nehybného obránce se jedná také v případě, že dotyčný o útočníkovi neví a zrovna se prakticky nehýbe, třeba stojí na hlídce, leží, nebo pomalu jde a s někým se baví.
+
+[i]Příklad:[/i]
+[size=85]Postavy chtějí zlikvidovat skřetí stráž, aniž by zavolala na poplach.
+[b]Katka:[/b] „Můžu se k němu připlížit a zkusit ho zastřelit ze zálohy. Stojí na hlídce, takže je výborný cíl, ale i tak si nejsem jistá, že jedna rána bude stačit.“
+[b]Pavel:[/b] „Já sice mám kuši, ale neumím se plížit.“
+[b]Jana:[/b] „Já jsem na tohle nepoužitelná. Při kouzlení musím vyslovit zaklínací formuli, takže nikoho nepřekvapím. Mohla bych ale seslat neviditelnost na Gorondara.“
+[b]Pavel:[/b] „To by šlo. Ve dvou ho určitě složíme.“
+[b]Katka:[/b] „Jsem pro. Připlížíme se k němu a vystřelíme současně.“
+[b]Pán jeskyně:[/b] „Bez problémů jste se přiblížili skoro až k němu, aniž by si vás všimnul. Oba si zamíříte, předpokládám?“
+[b]Pavel:[/b] „Jasně.“
+Pán jeskyně si teď bude za skřeta dvakrát házet na obranu. Jednou proti Katce, podruhé proti Pavlovi. V obou případech hází 0 + k6, protože jde o útoky ze zálohy. Jak Pavel, tak Katka mají výhodu za zamíření, takže si ke svým hodům na úspěch přičítají +1. Nebudou si ale počítat výhodu za to, že je skřet nevidí, ani za to, že ho překvapili. Skřet se totiž vůbec nebrání, takže je jedno, jestli útočníky vidí nebo ne.[/size]
+
+O útok ze zálohy se nejedná, když protivník běží, bojuje, nebo jinak svým pohybem ztěžuje útočníkovi zásah.
+
+[i]Příklad:[/i]
+[size=85]Pokud skřet první kolo přežije, v dalším nejspíš začne volat na poplach a rozběhne se do úkrytu. Proti dalším výstřelům si tedy už bude počítat svou Finesu, protože střelcům aktivně ztěžuje zásah, ale také nevýhody za to, že útočníky nevidí a za případná vážná zranění, která utrpěl v prvním kole. Současně ale bude mít výhodu za plnou obranu, protože v tomto kole nikoho neohrožuje a soustředí se na to, aby nebyl zasažen, a další výhodu za kryt, protože zabíhá do úzkého vchodu do doupěte, takže bude těžší ho zasáhnout.[/size]
+
+[b][size=115]Žádná obrana je nejhorší možná[/size][/b]
+Nemůžeš se samozřejmě bránit hůř, než když se nebráníš vůbec. Vždycky si tedy můžeš vybrat, jestli si na obranu hodíš normálně (započítáš si vlastnost a všechny výhody a nevýhody), nebo jako bys byl nehybný cíl (nepočítáš si vlastnost, ale ani žádné výhody a nevýhody plynoucí z toho, že se ti hůř uhýbá).
+
+[i]Příklad:[/i]
+[size=85]Gorondar je vážně zraněný, oslepený kouzlem a snaží se uhnout před střelbou skřetích lučištníků. Finesu má 1, takže když si započítá postih za obě nevýhody, házel by -1 + k6. To je horší, než kdyby se nebránil vůbec – Pavel si tedy místo toho hodí 0 + k6.[/size]
+
+[b][size=115]Ohrožení více protivníků[/size][/b]
+Když v jednom kole současně ohrožuješ více než jednoho protivníka, na úspěch si házíš pouze jednou, ale každý z nich si proti tobě hází zvlášť.
+
+	Pokud útočíš něčím s plošným účinkem, třeba když házíš granát nebo sesíláš kouzlo ohnivá koule, házíš si proti všem cílům bez postihu. Když na ně ale střílíš z luku, snažíš se je zasáhnout mečem, chceš jim všem v něčem zabránit a podobně, musíš si k hodu přičíst postih rovný jejich počtu.
+
+[i]Příklad:[/i]
+[size=85]Kara sesílá zelený blesk na dva skřety. Toto kouzlo zasahuje víc cílů najednou, takže Jana hází na úspěch bez postihu.[/size]
+
+[i]Příklad:[/i]
+[size=85]Gorondar brání chodbu proti tlupě skřetů, kteří se přes něj snaží prodrat. Chodba naštěstí není moc široká, takže současně se kolem něj mohou zkoušet prodrat jen dva. Pokud nechce nechat projít žádného z nich, bude muset ohrozit dva protivníky najednou a k hodu na úspěch si tedy započítá postih -2.[/size]
+
+V jednom kole je možné seslat vždy jen jedno kouzlo.
+
+[i]Příklad:[/i]
+[size=85]Kdyby Kara uměla jen modrý blesk, který zasáhne jen jeden cíl, nemohla by ohrozit oba skřety najednou. Proti jednomu by tedy házela na úspěch Duší, proti druhému by ale musela házet na obranu Finesou.[/size]
+
+[b][size=115]Míření[/size][/b]
+Když strávíš kolo mířením, neházíš na úspěch, protože nikoho neohrožuješ. Pokud ti v míření někdo nezabrání, na následující výstřel budeš mít výhodu (+1).
+
+	Mířit jde i vrhací zbraní, ale nikoliv při sesílání kouzla (ať už přímo nebo z předmětu).
+
+	Můžeš si také předem zamířit na místo, kde čekáš, že se někdo objeví, nebo na někoho s tím, že vystřelíš, až když něco udělá (nebo neudělá).
+
+	Výhoda za míření se sčítá s ostatními výhodami a nevýhodami.
+
+[i]Příklad:[/i]
+[size=85]Naria klečí ve tmě a míří do chodby, odkud očekává, že přiběhnou skřeti. Na prvního z nich bude mít +1 za míření a +1 za překvapení, dohromady tedy +2.[/size]
+
+[b][size=115]Klamný útok nebo jiná finta v boji[/size][/b]
+Když děláš klamný útok, házíš soupeři židli pod nohy, nebo si třeba počkáš na vhodnou chvíli k útoku, tak neházíš na úspěch, protože nikoho neohrožuješ. Pokud ti v tom někdo nezabrání, v příštím kole proti němu budeš mít výhodu.
+
+[i]Příklad:[/i]
+[size=85]Gorondar bojuje se Zlobrem, který je mnohem silnější než on. Pavel se tedy rozhodne první útok jen fingovat a zvýšit si tak šanci v příštím kole.
+	V Prvním kole tedy Pán jeskyně za zlobra hází na úspěch, ale Pavel si hází na obranu, protože zlobra neohrožuje. V dalším kole si Pavel k hodu přičte +1, ať už se bude opět jen bránit, nebo zkusí zlobra zasáhnout.[/size]
+
+[b][size=115]Rozptýlení protivníka[/size][/b]
+Když se snažíš soupeře rozptýlit, rozhodit či odvést jeho pozornost, tak neházíš na úspěch, protože nikoho neohrožuješ. Pokud ti v tom někdo nezabrání, protivník bude mít v tomto kole nevýhodu.
+
+[i]Příklad:[/i]
+[size=85]Naria přiběhla Gorondarovi na pomoc s rozzuřeným zlobrem. Přišla ale o luk a má jen svou dýku, takže místo aby se na zlobra vrhla, rozhodne se pomáhat Gorondarovi jinak. Začne sbírat kameny a házet je zlobrovi na hlavu. Nesnaží se mu tím ublížit, chce pouze rozptýlit jeho pozornost. Katka si tedy nehází na úspěch a zlobr si proti Gorondarovi počítá nevýhodu.[/size]
+
+-mark-
+
+
+
+
+
+
+[b][size=115]Boj na dálku[/size][/b]
+Při boji na dálku, ať už střelnou zbraní, vrhací zbraní, kouzlem, nebo čímkoliv jiným si počítáš postih podle vzdálenosti cíle:
+
+[list][*]Kontaktní nebo krátká: bez postihu
+[*]Střední: postih -1
+[*]Dlouhá: postih -2[/list]
+
+[b][i]Munice[/i][/b]
+Vzácnou nebo drahou munici, která se při útoku spotřebuje, jako jsou granáty, jedy, magické flakóny a podobně, si vždycky odečítej. Škrtej si také obyčejnou munici, pokud od ní máš jen několik kusů.
+
+[i]Příklad:[/i]
+[size=85]Naria má tři vrhací nože. V jednom boji tedy je nemůže hodit víc jak třikrát a když o nějaký z nich přijde, její možnosti to dále sníží. Katka si tedy bude držet přehled o tom, kolik jich ještě má.[/size]
+
+Pokud ale používáš snadno dostupnou munici a máš jí tolik, že ji v jednom boji určitě nespotřebuješ, tak prostě předpokládáme, že si ji vždy po boji posbíráš a při nejbližší návštěvě města nebo jiné vhodné příležitosti ji doplníš.
+
+[i]Příklad:[/i]
+[size=85]Dvacet šípů v toulci určitě vystačí nejméně na několik bojů, takže si je Katka po každém výstřelu odečítat nemusí.[/size]
+
+Snaž se ale občas zmínit, že si po boji šípy sbíráš, případně že je ve městě zajdeš nakoupit, aby se to dostalo do hry.
+
+[b][i]Přibíhající útočník[/i][/b]
+V této kapitole si ukážeme, co se může dít, když ke střelci přibíhá útočník, který ho chce ohrozit zblízka.
+
+[i]Příklad:[/i]
+[size=85][b]Pán jeskyně:[/b] „Katko, zabočila jsi do dlouhé rovné chodby, která v dálce zatáčí doleva. Z té zatáčky teď na protější stěnu dopadlo světlo, zřejmě odtamtud někdo přichází s lucernou nebo pochodní. Slyšíš také těžké kroky jedné osoby.“
+[b]Katka:[/b] „Zhasnu svou lucernu, nabiju luk a zamířím si.“
+[b]Pán jeskyně:[/b] „Světlo ještě chvíli zesilovalo a pak do tvé chodby vešel velký ork v kožené zbroji. V jedné ruce drží pochodeň, ve druhé kamennou sekeru. Zřejmě čeká boj, takže nebude překvapený a bude se bránit. Je teď od tebe na střední vzdálenost, v tomhle kole tedy k tobě nedoběhne. Pokud ale zůstaneš na místě, tak v dalším už ano.“
+[b]Katka:[/b] „Střílím. Zatím nikam neutíkám, hned nabiju další šíp.“
+[b]Pán jeskyně:[/b] „Dobře. Máš výhodu za míření a další za to, že střílíš ze tmy. Počítáš si ale také -1 za střední vzdálenost. Ork se musí bránit Finesou, protože sekerou se proti střelbě krýt nedá.“
+
+Jak se střelba vyhodnotí, si ukážeme v kapitole [b]Určení výsledku[/b]. Zde si projdeme několik možností, jak to může dopadnout:
+
+    • Pokud orka svým výstřelem vyřadí, je dobojováno.
+    • Když se jí podaří vyřadit mu nohu, ork se pak bude moci jen belhat. V dalším kole se k ní tedy určitě nedostane a pokud se Naria rozhodne při střelbě ustupovat a bude na to mít dost prostoru, dokáže si udržet vzdálenost a dříve nebo později ho ustřílí.
+
+Když se k ní ork dostane na krátkou vzdálenost a nebude nijak zpomalený, Naria bude mít v dalším kole několik možností, co udělat:
+
+    • Pokud zůstane na místě, například když by neměla kam ustoupit, ork k ní doběhne a ohrozí ji. Bude si tedy proti ní házet na úspěch Silou (protože bojuje těžkou zbraní). Když bude Naria znovu střílet, nebude už mít výhodu za míření a za střelbu ze tmy, ale ani postih za střelbu na střední vzdálenost. Nevýhodu za střelbu na útočníka na blízko mít nebude, protože ork k ní bude teprve přibíhat. Pokud ale bude znovu střílet v následujícím kole, kdy už bude ork u ní, počítat si ji bude.
+    • Když se Naria rozhodne při střelbě ustupovat, získá tím trochu času navíc. V tomto kole ji ork nebude moci ohrozit, protože uběhne jen krátkou vzdálenost, která je původně dělila, ale Naria ještě o kus ustoupí. V dalším kole už ale bude v kontaktní vzdálenosti, takže Nariu určitě ohrozí. Pokud navíc bude elfka chtít dále střílet, bude si počítat nevýhodu za střelbu na protivníka na blízko. Když by se místo toho rozhodla utíkat, tak bude mít nevýhodu také, protože se při tom k orkovi otočí zády.
+    • Jelikož má nabitý luk (v minulém kole vystřelila a rovnou nabila), může také vystřelit a začít utíkat. Dělí je krátká vzdálenost, takže ji ork bude muset nejdřív dohnat, aby ji mohl ohrozit (viz kapitola Pronásledování).
+    • Pokud by nabito neměla, stihla by nabít a vystřelit, ale už ne utéct. Jednalo by se tedy o předchozí variantu – v tomto kole by se ještě mohla vyhnout jeho útoku tím, že bude při střelbě ustupovat, v dalším už ale bude u ní a bude ji tedy moci ohrozit.
+    • Mohla by se také rozhodnout nenabíjet a nestřílet a rovnou začít utíkat. V tom případě opět začne honička a ork ji nebude moci ohrozit, pokud ji nedožene.[/size]
+
+-mark-
+
+
+
+[b][size=115]Určení výsledku[/size][/b]
+Zda se ti podařilo protivníkovi udělat to, co jsi zamýšlel, závisí na rozdílu vašich hodů:
+
+[list][*]Pokud jsi hodil stejně, nebo jsi ho přehodil o 1 či 2, máš proti němu jeden úspěch.
+[*]Jestliže jsi ho přehodil o 3-5, máš proti němu dva úspěchy.
+[*]Pokud jsi ho přehodil o 6 nebo víc, máš proti němu dokonce tři úspěchy.[/list]
+
+Pokud jste se tedy ohrožovali vzájemně, tak při rovnosti hodů máte oba jeden úspěch.
+
+[b][i]Úspěchy[/i][/b]
+Za každý úspěch můžeš svému soupeři udělat jednu věc, například:
+
+[list][*]Zranit ho
+[*]Chytit ho, srazit ho k zemi, přimáčknout ho ke zdi a podobně
+[*]Někam ho zatlačit či odtáhnout
+[*]Zastoupit mu cestu
+[*]Dostat se z nevýhody, ve které tě drží
+[*]Sebrat něco dřív než on[/list]
+
+Za dva úspěchy také můžeš:
+
+[list][*]Odzbrojit ho
+[*]Srazit ho do propasti nebo zatlačit do pasti
+[*]Zabránit mu v mluvení nebo v kouzlení[/list]
+
+Potřebné dva úspěchy nemusíš nutně získat ve stejném kole. Můžeš dokonce s někým spolupracovat, takže každý z vás na to věnuje jeden úspěch. Více se o tom dozvíš v kapitolách +Odzbrojení protivníka, +Srážení do propastí a zatlačování do pastí a +Zabránění v mluvení.
+
+[b][i]Při remíze nemůžeš zrušit akci protivníka[/i][/b]
+Když tobě i tvému soupeři padne stejně, máte oba po jednom úspěchu. Za svůj úspěch můžeš udělat to samé, jako když o remízu nejde, s jednou výjimkou: nemůžeš mu zabránit v tom, co chtěl udělat.
+
+[i]Příklad:[/i]
+[size=85]Gorondar bojuje s orkem. Oběma na úspěch padlo stejně.
+[b]Pán jeskyně:[/b] „Ork tě za svůj úspěch srazil na zem.“
+[b]Pavel:[/b] „Chtěl bych mu v tom zabránit, ale to bych ho asi musel přehodit, co?“
+[b]Pán jeskyně:[/b] „Přesně tak.“
+[b]Pavel:[/b] „V tom případě ho aspoň strhnu s sebou.“
+[b]Pán jeskyně:[/b] „Ok. Oba tedy ležíte na zemi a žádný z vás není v nevýhodě.[/size]
+
+[b][i]Výsledek musí odpovídat záměru[/i][/b]
+To, co protivníkovi uděláš, musí být v souladu s tím, co jsi ohlásil na začátku kola.
+
+[i]Příklad:[/i]
+[size=85]Když se orkovi podaří Gorondarovi zabránit v tom, aby se dostal ke goblinovi, Gorondar už v tomto kole nemůže po goblinovi hodit dýku, protože to nebylo součástí Pavlova záměru. Může to udělat až v dalším kole a protivníci na to budou moci reagovat.[/size]
+
+Na začátku kola ale nemusíš do detailů popisovat, jak přesně svůj plán provedeš. To stačí udělat, až když víš, kolik máš úspěchů.
+
+[i]Příklad:[/i]
+[size=85]Na začátku kola Pavel popsal svůj záměr:
+[b]Pavel:[/b] „Rozběhnu se na goblina.“
+Když pak proti němu získá jeden úspěch, popíše to takto:
+[b]Pavel:[/b] „Z rozběhu do něj vrazím a povalím ho na zem.“[/size]
+
+[b][i]Nerozhoduj, co udělá protivník[/i][/b]
+Nemůžeš popisovat protivníkovy reakce, to je práce Pána jeskyně. Popisuj jen to, jsi mu udělal. Stejně tak Pán jeskyně nemůže popisovat, jak zareaguje tvoje postava, protože o tom vždy rozhoduješ ty.
+
+[i]Příklad:[/i]
+[size=85]Pavel nemůže říct, že goblin uskočil směrem k orkovi. Může ale říct, že do něj vrazil tak, aby ho směrem k orkovi strčil.[/size]
+
+[b][i]Výsledek musí dávat smysl[/i][/b]
+Úspěchy ti nedávají právo udělat protivníkovi úplně cokoliv, musí to vždy dávat smysl. Nemůžeš například dost dobře někomu vypíchnout oko obuškem a nejspíš také nezvládneš povalit draka, i když se ti podaří ho přehodit.
+
+	S tvým záměrem i popisem musí vždy souhlasit všichni hráči u stolu. Mějte při tom ale na paměti, co jsme si řekli v kapitole Když s něčím nesouhlasíš, navrhni alternativu.
+
+-mark-
+
+
+
+
+
+
+[b][size=115]Zranění[/size][/b]
+Když se rozhodneš za jeden z úspěchů protivníka zranit, ubereš mu počet životů, který spočítáš takto:
+
+[list][*]Vezmi rozdíl, o který jsi protivníka přehodil. Může to být i nula, pokud jste hodili stejně.
+[*]Přičti zranění uvedené u zbraně, případně výsledek hodu na zranění kouzla (o tom si povíme vzápětí).
+[*]Protivník odečte kvalitu své zbroje a štítu a případnou odolnost proti tomuto druhu zranění.[/list]
+
+[i]Příklad:[/i]
+[size=85]Gorondar bojuje se zlobrem. Pavel hodil na úspěch 6 (Gorondar má Sílu 3, na mu kostce padlo 3). Pán jeskyně hodil za zlobra 10 (zlobr má sílu 8, na kostce padlo 2). Zlobr tedy Gorondara přehodil o 4. Útočí obřím kyjem, který má zranění 3. Gorondar má naštěstí těžkou zbroj a štít. Zraněn je za 4 (rozdíl hodů) + 3 (zranění zlobrovy zbraně) – 2 (Gorondarova těžká zbroj) – 1 (Gorondarův štít), tedy za 4 životy.[/size]
+
+V jednom kole můžeš protivníka zranit pouze jednou. I když tedy proti němu máš více úspěchů, jen jeden z nich může představovat zranění.
+
+[b][i]Hlášení útoku zbraní[/i][/b]
+Když chceš protivníka zranit zbraní, obvykle se výsledek hodu hlásí rovnou s „plus zranění“ na konci.
+
+[i]Příklad:[/i]
+[size=85]Naria má Finesu 3, bojuje dýkou se zraněním 0 a chce protivníka zranit.
+[b]Jana:[/b] „Na skřeta mám pět plus nula.“[/size]
+
+Když to řekne takhle, je jasné, že chce skřeta za první úspěch zranit a Pán jeskyně se jí v případě úspěchu nebude muset ptát, jaké má zranění zbraně a rovnou bude moci spočítat, za kolik ho zranila.
+
+[b][i]Odolnost proti zranění[/i][/b]
+Některé nestvůry jsou odolné proti určitým druhům zranění.
+
+[i]Příklad:[/i]
+[size=85]Bodat do kostlivce nemá moc velký smysl – proto má odolnost 2 proti zranění bodem. Když do něj tedy Naria vystřelí z luku, od zranění si odečte 2.[/size]
+
+U kouzel je vždy napsáno, jaký druh zranění způsobují. U zbraní to výslovně napsané není, snadno to ale odvodíte z toho, jak zbraň vypadá a jak se používá: šípy způsobují bodné zranění, palice a kladiva drtivé, mečem se dá bodat nebo sekat atd.
+
+[b][i]Zranění kouzlem[/i][/b]
+Zranění kouzel, na rozdíl od zbraní, není vyjádřeno číslem, ale počtem „kostek zranění“ (zkráceně „kz“). Za tím je vždy ještě uvedeno, o jaký druh zranění se jedná – podle toho se pozná, jestli má nestvůra proti tomuto kouzlu odolnost.
+
+[i]Příklad:[/i]
+[size=85]Kouzlo modrý blesk má zranění 4kz bleskem.[/size]
+
+Zranění kouzla určíš tak, že hodíš příslušný počet kostek zranění a spočítáš ty, na kterých padlo 4 nebo víc.
+
+[i]Příklad:[/i]
+[size=85]Kara sesílá modrý blesk na orka. Ork bojuje s Gorondarem, proti Kaře si tedy hází na obranu. Janě na úspěch padlo 7 (Duše 3 + 4 na kostce), Pánovi jeskyně padlo na obranu 6 (Síla 4 + 2 na kostce). Jana přehodila orka o 1 a má tedy jeden úspěch. Rozhodne se ho zranit.
+	Základem zranění je rozdíl hodů, což je 1. K tomu se přičítá zranění kouzla. Modrý blesk má zranění 4kz, Jana tedy hodí čtyřmi šestistěnnými kostkami (nebo čtyřikrát jednou kostkou). Padne jí: 1, 3, 4 a 6. Na dvou kostkách jí padlo 4 nebo víc, tento modrý blesk má tedy zranění 2. Orkova zbroj chrání proti blesku stejně jako proti ráně mečem, od zranění si tedy za ni odečte 1. Kdyby to ale bylo jiné kouzlo a způsobovalo například duševní zranění, zbroj by mu proti němu nepomohla a odečíst by si ji nemohl.
+	Ork je celkem zraněn za 1 (rozdíl hodů) + 2 (zranění modrého blesku) – 1 (lehká zbroj), tedy za 2 životy.[/size]
+
+[b][i]Přidané zranění[/i][/b]
+Některá kouzla nebo magické předměty přidávají k útoku další zranění, například 3kz bleskem.
+
+[list][*]Přidané zranění se přičítá, pokud sis za jeden úspěch vybral, že protivníka zraníš.
+[*]Od každého přidaného zranění si zasažený znovu odečte Zbroj a případnou odolnost proti tomuto druhu zranění.[/list]
+
+[i]Příklad:[/i]
+[size=85]Gorondar útočí očarovaným kladivem na oživlou sochu. Kladivo má zranění 2 a navíc při zásahu způsobí zranění bleskem za 3kz. Socha je z kamene a je tedy těžké ji poškodit – má Zbroj 3. Je ovšem náchylná na drtivá zranění, proti těm má Zbroj pouze 1.[/size]
+
+	Gorondar ji přehodil o 3. Jeho kladivo má zranění 2. Socha si odečte Zbroj proti drtivému zranění (což je 1). Nárazem kladiva je tedy zraněna za 4. Potom Pavel hodí na přidané zranění. Na třech kostkách mu padne 4, 6 a 1, což dává zranění bleskem 2. Od toho si socha odečte svou zbroj proti blesku, což je 3. Přidané zranění jí tedy nic neudělalo.
+
+[b][i]Vyřazení[/i][/b]
+Když ti klesnou životy na 0 nebo méně, jsi vyřazený z boje. Pokud jsi ještě neházel, znemožní ti to také provést to, co jsi zamýšlel.
+
+[i]Příklad:[/i]
+[size=85]Goblin se řítí na Gorondara, Naria na něj ale střílí z luku. Goblin má celkem 4 životy, takže pokud ho Naria zraní alespoň za 4, ke Gorondarovi nedoběhne.[/size]
+
+[b][i]Vážné zranění[/i][/b]
+Když protivníka zraníš alespoň za 3, tak můžeš za další úspěch říct, že jsi mu tím vyřadil nějakou část těla.
+
+[i]Příklad:[/i]
+[size=85][b]Pán jeskyně:[/b] „Katko, máš proti skřetovi dva úspěchy. Co mu uděláš?“
+[b]Katka:[/b] „Určitě ho zraním. Může to být vážné zranění?“
+[b]Pán jeskyně:[/b] „Nemá zbroj, přehodila jsi ho o 4 a luk má zranění 2, takže to dostane za 6 životů. To určitě stačí.“
+[b]Katka:[/b] „Fajn. Prostřelila jsem mu levou nohu, takže se na ní nemůže postavit.“[/size]
+
+Vyřazenou část těla není možné používat.
+
+[i]Příklad:[/i]
+[size=85]Když vyřadíš kyklopovi oko, tak ho tím oslepíš. Když vyřadíš ocas obřího štíra, nebude jím moci útočit. Když někomu vážně zraníš levou ruku, nebude moci bojovat dvojruční zbraní (tedy ani střílet z luku nebo kuše) a nebude moci používat zbraň nebo štít v levé ruce. S vážně zraněnou nohou se nedá běhat ani skákat.[/size]
+
+Zasažený bude také mít nevýhodu na všechno, při čem ho vážné zranění omezuje.
+
+[i]Příklad:[/i]
+[size=85]Skřet s prostřelenou nohou bude mít nevýhodu při boji zblízka, protože při tom se potřebuje pohybovat, ale ne při střelbě z luku nebo při kouzlení.[/size]
+
+Vážným zásahem nemůžeš protivníka vyřadit úplně – na to je třeba mu ubrat všechny životy. Když se ho tedy rozhodneš vážně zranit do těla nebo do hlavy, tak ho tím nevyřadíš, ale bude si počítat nevýhodu při plížení nebo pronásledování a na všechny hody na úspěch i na obranu, bude se mu také hůř šplhat a skákat přes překážky a podobně.
+
+	Všechna vážná zranění zmizí ve chvíli, kdy si doléčíš všechny ztracené životy.
+
+[b][i]Zásah mimo zbroj[/i][/b]
+Pokud protivníkova zbroj nechrání nějakou důležitou část těla, můžeš za další úspěch říct, že jsi zasáhnul zrovna tam. V tom případě se od zranění neodečítá Zbroj (případné odolnosti proti druhu zranění ano).
+
+[i]Příklad:[/i]
+[size=85]Družina bojuje s trpaslickým bojovníkem zakutým do zbroje. Kara před bojem na Nariu seslala neviditelnost.
+[b]Katka:[/b] „Připlížím se k němu zezadu a zkusím mu sundat helmu.“
+[b]Pán jeskyně:[/b] „Trpaslík vyčkává a neví o tobě, takže ho budu brát jako nehybného protivníka. Nebudu mu tedy počítat vlastnost, ale ani nevýhody za překvapení a za to, že tě nevidí. Padla mi pětka.“
+[b]Katka:[/b] „Ouch, to má docela kliku. Já mám trojkovou Finesu a padla mi dvojka, takže taky pět.“
+[b]Pán jeskyně:[/b] „Při rovnosti hodů máš jeden úspěch, takže se ti to povedlo. V dalším kole trpaslík vztekle řve a ohání se po tobě sekerou. Co děláte?“
+[b]Pavel:[/b] „Na tohle jsem přesně čekal, vrhám se na něj“.
+[b]Katka:[/b] „Uskakuju, soustředím se na obranu.“
+[b]Pán jeskyně:[/b] „Pavle, hoď si první. Pokud ho vyřadíš, k útoku na Nariu se nedostane. Počítej si výhodu za to, že se k tobě otáčí zády.“
+[b]Pavel:[/b] „To je od něj hezký. Sílu mám 3, za výhodu +1 a na kostce 5, takže celkem 9.“
+[b]Pán jeskyně:[/b] „Tentokrát už není nehybný. Zbraní se krýt nemůže, protože mu jdeš do zad, takže si hází Finesou. Tu má jedničkovou a padla mi trojka, takže celkem 4. Máš proti němu dva úspěchy, co mu uděláš?“
+[b]Pavel:[/b] „Třísknu ho kladivem do kebule.“
+[b]Pán jeskyně:[/b] „Takže za první úspěch ho zraníš a za druhý to bude rána mimo zbroj, protože mu Naria zrovna sundala helmu, ok?“
+[b]Pavel:[/b] „Přesně tak jsme to plánovali.“
+[b]Pán jeskyně:[/b] „Přehodil jsi ho o 5, za kladivo máš +2 a on si nepočítá zbroj, takže to koupil za 7.“[/size]
+
+Tuto možnost je možné využít pouze v případě, že obránci nějaká část zbroje chybí. Nestačí tedy říct, že zasáhneš štěrbinu v helmě, mezeru mezi pláty a podobně. Můžeš tak samozřejmě svůj zásah popsat, ale od zranění se normálně odečte obráncova Zbroj.
+
+	V některých případech zbroj obcházíš automaticky. Obří brouk je například celý chráněný silnou chitinovým krunýřem, ale když se ti podaří dostat se pod něj a zaútočit mu na nechráněné břicho, tak si Zboj od zranění odečíst nemůže. Podobně pokud má protivník jen hrudní plát a ty mu útočíš do zad, třeba protože sis v úkrytu počkal, až projde kolem, tak automaticky obejdeš jeho zbroj a nemusíš za to platit úspěchem.
+
+[b][i]Obcházení štítu[/i][/b]
+Štít lze obejít, když s ním protivník nemůže nebo nechce volně manipulovat. Musí to tedy vždy vyplývat ze situace.
+
+[i]Příklad:[/i]
+[size=85]Gorondar bojuje s přesilou goblinů. Jeden z nich ho přehodil o 1 a za získaný úspěch mu oběma rukama chytil štít. Proti dalším goblinům ho Gorondar nebude moci používat, dokud se z této nevýhody nedostane. Nebude si tedy od případného zranění odečítat jedničku za štít.
+[i]Příklad:[/i]
+[size=85]Naria později bojuje dýkou proti orkovi s kladivem a štítem.
+[b]Pán jeskyně:[/b] „Přehodila jsi ho o 3, máš tedy dva úspěchy. Co mu uděláš?“
+[b]Katka:[/b] „Za první mu levou rukou chytnu štít a za druhý ho bodnu.“
+[b]Pán jeskyně:[/b] „Dobře. Základ zranění je 3, za dýku máš nulu, ale ork si nemůže odečíst štít. Nemá zbroj, takže jsi ho zranila za 3.“
+[i]Příklad:[/i]
+[size=85]Gorondar čelí skupině skřetích lučištníků.
+[b]Pavel:[/b] „Kreju se za štítem.“
+[b]Pán jeskyně:[/b] „Dobře, házíš si tedy proti nim s výhodou za plnou obranu. Mám pro tebe ale špatnou zprávu: Další skřet se schovával za tebou a střílí ti teď do zad.“
+[b]Pavel:[/b] „Hmm, sakra. Proti němu si asi nemůžu počítat štít, když ho mám nastavený na druhou stranu, co?“
+[b]Pán jeskyně:[/b] „Přesně tak.“[/size]
+
+[b][size=115]Znevýhodnění protivníka[/size][/b]
+Za jeden úspěch můžeš protivníka dostat do nevýhodné pozice. Jak jsme si ale řekli, výhody a nevýhody jsou vždy pevně svázané s nějakou situací. Nestačí tedy říct: „Dostal jsem ho do nevýhody“. Musíš vždy popsat, co mu konkrétně uděláš.
+
+[i]Příklad:[/i]
+[size=85]Naria střílí na orka, přehodila ho o 2.
+[b]Pán jeskyně:[/b] „Máš proti němu jeden úspěch, co mu uděláš?“
+[b]Katka:[/b] „Dám mu nevýhodu.“
+[b]Pán jeskyně:[/b] „Nezlob se, ale takhle pravidla nefungují. Musíš popsat, co konkrétně mu uděláš. Nevýhodu si za to bude počítat až v případě, že mu to nějak zkomplikuje plány.“
+[b]Katka:[/b] „Jak se opírá o dveře, přistřelím mu šípem rukáv ke dveřím.“
+[b]Pán jeskyně:[/b] „Jo, to by šlo. Takže dokud se nevyprostí nebo neutrhne, nebude moci ruku používat. Která že to byla?“
+[b]Katka:[/b] „Ta se zbraní.“[/size]
+
+To, co popíšeš, může kromě situace tvého protivníka změnit také tvoji pozici.
+
+[i]Příklad:[/i]
+[size=85][b]Pavel:[/b] „Srazím goblina na zem a zalehnu ho.“
+Goblin teď bude mít nevýhodu proti Gorondarovi, protože leží pod ním. Současně ale bude mít Gorondar nevýhodu proti orkovi, protože leží na goblinovi, zatímco ork stojí.
+Tvůj popis také určí, jak se bude moci protivník nevýhody zbavit.[/size]
+
+[i]Příklad:[/i]
+[size=85]Orkovi s rukou přistřelenou ke dveřím stačí šíp zlomit, aby se uvolnil. To ho nejspíš nijak zvlášť nezpomalí, takže bude moci v příštím kole rovnou udělat i něco dalšího. I tak si za to ale bude počítat nevýhodu – jelikož za to Katka zaplatila úspěchem, tak se to opravdu musí jako nevýhoda započítat, byť jen na jedno kolo.[/size]
+
+	Kdyby jej Naria chtěla v této nevýhodě udržet, může mu ve zlomení šípu aktivně bránit – třeba ho chytit za ruku, kterou to bude chtít udělat. Bude si tedy v dalším kole proti němu házet a potřebuje alespoň jeden úspěch. A musí na to samozřejmě doběhnout k němu.
+
+[i]Jiný Příklad:[/i]
+[size=85]Goblin zalehnutý Gorondarem to bude mít o dost těžší. Aby mohl vstát, musí nejdřív Gorondara odvalit (bude si proti němu házet Silou), nebo se zpod něj vysmýknout (bude si házet Finesou). V obou případech bude potřebovat jeden úspěch.[/size]
+
+	V tomto případně Gorondar na to, aby goblina v nevýhodě udržel, nepotřebuje další úspěchy. I když totiž nic neudělá, bude na něm dále ležet. Snažit se tedy musí goblin a pokud nehodí žádný úspěch, bude dál pod Gorondarem.
+
+[b][size=115]Zatlačení nebo odtáhnutí protivníka[/size][/b]
+Za jeden úspěch můžeš také protivníka zatlačit nebo odtáhnout zhruba o tolik metrů, o kolik jsi ho přehodil. Platí to ale samozřejmě pouze pro srovnatelně těžkého tvora – draka asi nikam nezatlačíš a malý pes na vodítku tě naopak skoro nezpomalí.
+
+[b][i]Srážení do propastí a zatlačování do pastí[/i][/b]
+Když chceš někoho zatlačit či srazit do pasti nebo propasti, je to o něco obtížnější – potřebuješ na to dva úspěchy. Po prvním bude balancovat na hraně propasti (bude tedy v nevýhodě) a až za druhý jej tam můžeš srazit. Nemusíš nutně oba úspěchy získat v jednom kole a můžeš na tom dokonce spolupracovat s někým dalším – každý přispěje jedním úspěchem.
+
+[i]Příklad:[/i]
+[size=85]Gorondar brání úzký dlouhý most před přesilou skřetů – obvykle to sice bývá práce kouzelníků v šedém plášti, ale Kara si ho zrovna nechala doma. Prvního skřeta Pavel přehodil o 4. Má tedy proti němu dva úspěchy a popíše to:
+[b]Pavel:[/b] „Vrazím do něj štítem, abych ho trochu rozhodil, a pak mu podrazím nohu. Skřet letí do propasti.“
+[b]Pán jeskyně:[/b] „Dalšího v řadě to kupodivu neodradilo a vrhá se na tebe. Braň se.“
+[b]Pavel:[/b] „Tak si to zopakujeme.“
+Tentokrát Pavel hodil stejně jako Pán jeskyně. Skřet i Gorondar tedy mají po jednom úspěchu.
+[b]Pán jeskyně:[/b] „Tenhle skřet na to šel chytře. Nejdřív o kousek ustoupil, takže jsi ho štítem minul. Pak se ti na něj ale natlačil. Málem jsi ztratil rovnováhu, balancuješ teď na hraně propasti.“
+[b]Pavel:[/b] „Nespadl jsem tam, protože jsem ho při tom chytil za ruku a pak jsem ho odstrčil, aby mi dělal protiváhu. Takže teď balancujeme oba.“
+V dalším kole to bude napínavé – oběma stačí jeden úspěch na to, aby toho druhého srazili dolů. Oba jsou ve stejné nevýhodné situaci, takže za to nikdo nebude mít bonus. Jako na potvoru znovu oba hodili stejně:
+[b]Pán jeskyně:[/b] „Skřet zřejmě není sebevrah. Vytrhnul se ti a o krok ustoupil, stojí zase pevně na mostě.“
+[b]Pavel:[/b] „Uff, ještě že tak. Já ho tam už asi shodit nemůžu, co?“
+[b]Pán jeskyně:[/b] „Pokud na tom budeš trvat, tak ho tam shodit můžeš, protože při rovnosti hodů nemůže znegovat tvůj záměr. Jenže ani ty nemůžeš  znegovat ten jeho, takže byste tam letěli oba. A to, předpokládám, nechceš.“
+[b]Pavel:[/b] „To fakt ne. Hmm. Takže jak se mi vytrhl a odskočil, tak jsem mu ještě stihnul podrazit nohy. Sice mu teď nehrozí pád do propasti, ale alespoň bude v příštím kole v nevýhodě. Já zůstanu stát.“
+[b]Pán jeskyně:[/b] „Jo, to by šlo.“[/size]
+
+Pokud hrajete s příběhovou imunitou, tak se těmto situacím snažte vyhýbat – těžko se vysvětluje, jak postava mohla přežít, když spadla do propasti nebo do lávového jezírka. Když se vám to přece jen stane, Pán jeskyně to může popsat třeba tak, že se zachytla za nějaký výčnělek a visí teď na něm za kazajku, která se postupně natrhává....
+
+[b][i]Zatlačení protivníka na někoho jiného[/i][/b]
+Protivníka můžeš také strčit tak, aby rozhodil někoho jiného. Potřebuješ na to ale dva úspěchy: První na to, abys ho odstrčil a druhý na to, abys tím znevýhodnil toho druhého. Takto ale můžeš někoho pouze krátce rozhodit – pokud chceš více protivníků dostat do dlouhodobé nevýhodné situace, musíš ohrozit všechny najednou (viz Ohrožení více protivníků).
+
+[i]Příklad:[/i]
+[size=85][b]Pavel:[/b] „Chci strčit do skřeta s šavlí, aby vrazil do lučištníka za ním a skončili oba na zemi.“
+[b]Pán jeskyně:[/b] „Na to si musíš hodit na úspěch proti oběma naráz.“
+[b]Pavel:[/b] „To nebude problém. Mám válečnickou schopnost útok na dva cíle, takže si na to budu házet bez postihu.“
+Pavel si teď hází na úspěch proti oběma skřetům, Pán jeskyně za každého z nich hází na obranu. Proti skřetovi se šavlí získá Pavel dva úspěchy, proti lučištníkovi žádný.
+[b]Pavel:[/b] „Jestli tomu dobře rozumím, tak lučištníka na zem srazit nemůžu?“
+[b]Pán jeskyně:[/b] „Chápeš to správně, na to bys proti němu potřeboval aspoň jeden úspěch.“
+[b]Pavel:[/b] „V tom případě za první úspěch strčím do skřeta se šavlí tak, aby narazil do lučištníka, který stojí za ním, a za druhý úspěch ho tím trochu rozhodil.“
+[b]Pán jeskyně:[/b] „Ok, to by šlo. Lučištník bude mít v příštím kole nevýhodu.“[/size]
+
+[b][size=115]Bránění v pohybu[/size][/b]
+Když blokuješ úzký prostor, ležíš na protivníkovi a podobně, tak mu bráníš v pohybu automaticky. Když se kolem tebe chce protivník prosmýknout, musí tě zatlačit, přirazit ke zdi, shodit ze sebe a podobně a on tedy proti tobě bude potřebovat úspěch.
+
+	Když má ale soupeř dost prostoru a ty ho zrovna nedržíš, neležíš na něm a podobně, tak tě nemusí ohrozit, aby se kolem tebe dostal – může tě prostě oběhnout. Pokud mu v tom tedy chceš zabránit, potřebuješ naopak úspěch ty a jemu stačí se pouze bránit.
+
+[b][size=115]Útěk z boje zblízka[/size][/b]
+Když na tobě zrovna někdo leží, drží tě, je do tebe zakousnutý, tiskne tě ke stěně nebo do rohu a podobně, tak se pochopitelně musíš nejdřív dostat z této situace, abys mohl utéct. Na to potřebuješ jeden úspěch, viz +Únik z nevýhodné situace. Až v dalším kole budeš moci utéct.
+	Když máš cestu volnou, útěk stačí ohlásit. Neházíš si na úspěch, protože nikoho neohrožuješ. Při obraně proti těm, od koho utíkáš, si počítáš nevýhodu za to, že jim vystavuješ záda. Při útěku nemůžeš použít plnou obranu – buď se soustředíš na obranu, nebo na útěk (viz Plná obrana).
+
+	Pokud ti někdo chce v útěku zabránit, potřebuje proti tobě získat alespoň jeden úspěch a za něj tě chytit za ruku, srazit na zem, nebo ti nějak jinak v útěku zabránit. Tím tě také může dostat do nevýhodné situace, viz +Znevýhodnění protivníka.
+
+[i]Příklad:[/i]
+[size=85]Gorondar bojuje s orkským šampiónem. Zjistil, že poněkud přecenil své síly a chtěl by utéct. Ork ho ale mezitím přitlačil ke zdi.	Pavel si tedy nejdřív bude muset proti němu hodit na úspěch. Když získá alespoň jeden úspěch, vyprostí se.
+	V dalším kole Pavel ohlásí, že bude utíkat. Ork se ho pokusí zadržet a hází si tedy proti němu na úspěch. Pavel hází na obranu. Může si hodit buď Silou, pokud se rozhodne být co nejrychlejší, nebo Finesou, když se bude snažit kličkovat a uhýbat. Musí si ale každopádně počítat nevýhodu za to, že se k orkovi otočil zády.
+	Když hodí Pán jeskyně stejně nebo víc, ork bude mít jeden úspěch a použije ho na to, aby Gorondara zastavil. Když Pavel hodí víc, Gorondar úspěšně uteče.[/size]
+
+Když ti v útěku nikdo nezabrání, vytvoříš si malý náskok – zdravá postava uběhne za kolo krátkou vzdálenost. Protivníci se tě pak mohou rozhodnout honit – viz kapitola Pronásledování.
+
+[b][size=115]Zabránění v akci nebo v útoku[/size][/b]
+Tím, že protivníka znevýhodníš, nebo mu nedovolíš, aby se někam dostal, mu také můžeš zabránit udělat to, co měl v úmyslu.
+
+[i]Příklad:[/i]
+[size=85]Když ork srazí Gorondara na zem, tak ho tím dostane do nevýhodné situace a současně mu zabrání v tom, aby se dostal k mumlajícímu goblinovi, takže jej nebude moci ohrozit. Obojí vyplývá z toho, že ho srazil na zem, takže ho to bude stát pouze jeden úspěch.[/size]
+
+Zabránění v útoku je něco jiného než obrana nebo výhra ve vzájemném hodu na úspěch.
+
+[list][*]Když uspěješ v hodu na obranu, znamená to, že jsi před útokem uhnul, vykryl jsi ránu zbraní nebo štítem, kouzlo tě minulo a podobně (podle toho, jak ses rozhodl bránit).
+[*]Když protivníka přehodíš ve vzájemném hodu na úspěch, znamená to, že ses vyhnul jeho útoku (nebo jinému záměru) a současně jsi mu něco udělal.
+[*]Když při vzájemném hodu na úspěch hodíš stejně jako tvůj protivník, tak oba máte jeden úspěch. Znamená to tedy, že se ti podařilo mu něco udělat, ale nepovedlo se ti úplně vyhnout se tomu, co chtěl udělat on tobě.[/list]
+
+Ve všech těchto případech tě sice protivníkův útok nezasáhl, ale proběhl – na poslední chvíli jsi uskočil před výbuchem ohnivé koule, uhnul jsi před ránou mečem nebo jsi ji vykryl štítem či zbraní, psychické kouzlo tě sice zasáhlo, ale odolal jsi jeho vlivu, šíp neškodně proletěl kolem tebe.
+
+[list][*]Když ale použiješ jeden ze svých úspěchů na to, abys protivníkovi v útoku zabránil, tak kouzlo vůbec nesešle, zbraní nemáchne, šíp nevystřelí.[/list]
+
+[i]Příklad:[/i]
+[size=85]Skřetí alchymista chce na postavy hodit ohnivou hlínu. Katka si ale proti němu hodí jeden úspěch a popíše to takto:
+[b]Katka:[/b] „Rychle k němu přiskočím a chytnu ho za ruku, aby nemohl házet.“
+Skřet tedy ohnivou hlínu vůbec nehodí a nikdo další se tedy proti ní nemusí bránit.[/size]
+
+Tím, že protivníkovi zabráníš v útoku, tedy můžeš bránit své spolubojovníky.
+
+[i]Příklad:[/i]
+[size=85]Lítý vlk srazil Nariu na zem a chystá se jí zakousnout. Gorondar jí běží na pomoc. Pavlovi proti němu padne úspěch a popíše:
+[b]Pavel:[/b] „V plný rychlosti narazím do vlka a odstrčím ho tím kus stranou.“
+Vlk nyní nemůže elfce prokousnout hrdlo, protože je od ní daleko.[/size]
+
+[b][size=115]Zabránění v mluvení[/size][/b]
+Zabránit někomu, aby mluvil, nebo třeba volal na poplach, je těžší, než ho jen srazit k zemi nebo chytit za ruku, protože se k němu musíš dostat tak blízko, abys mu mohl zacpat ústa. Potřebuješ na to tedy dva úspěchy: jeden na to, abys ho chytil, zalehnul a podobně, a za druhý mu pak můžeš zacpat pusu. Nemusíš je nutně oba získat v jednom kole a můžeš na tom dokonce spolupracovat s někým dalším – každý přispěje jedním úspěchem.
+
+[i]Příklad:[/i]
+[size=85]Po neúspěšném vyjednávání se skřetem ho Naria s Gorondarem chtějí zlikvidovat tak, aby nezavolal na poplach. Jsou od něj jen pár kroků, takže na to, aby ho odstřelili ze zálohy, je už pozdě. Zato se ale na něj mohou oba vrhnout.
+	Pavlovi padne jen jeden úspěch. To na zabránění v mluvení nestačí. Gorondar na to ale není sám, takže se Pavel rozhodne, že udělá alespoň část práce:
+[b]Pavel:[/b] „Přimáčknu ho ke zdi. Chtěl jsem mu sice původně rovnou zacpat pusu, ale to se mi zjevně nepovedlo.“
+[b]Pán jeskyně:[/b] „Je to tak. Na to bys potřeboval dva úspěchy.“
+Naria si teď při svém hodu na úspěch bude počítat výhodu za to, že Gorondar drží skřeta u zdi a ztěžuje mu pohyb, a bude jí stačit jeden úspěch, aby mu zacpala pusu, protože Gorondar jí připravil situaci. Když jej získá, v dalším kole bude situace následující:
+[b]Pán jeskyně:[/b] „Gorondar drží skřeta přimáčknutého u stěny a Naria mu drží tlamu, aby nemohl volat na poplach. Skřet se snaží ruky zbavit, aby mohl křičet. Co děláte?“[/size]
+
+[b][size=115]Přerušení soustředění[/size][/b]
+Účinek některých kouzel a schopností také trvá po dobu soustředění toho, kdo kouzlo seslal, nebo kdo schopnost aktivoval. Když tedy kouzelníkovi soustředění přerušíš, jeho kouzlo přestane působit.
+	
+    Přerušit někomu soustředění můžeš například tím, že do něj vrazíš, srazíš ho na zem a podobně.
+
+[i]Příklad:[/i]
+[size=85]Skřetí šaman oslepil Nariu kouzlem. Gorondar se jí v dalším kole rozhodne pomoct.
+[b]Pavel:[/b] „Rozběhnu se k šamanovi. Chci do něj vrazit, abych mu přerušil soustředění.“
+[b]Pán jeskyně:[/b] „Šaman se ti bude bránit nožem. Hoď si na úspěch.“
+Pavel získá proti šamanovi jeden úspěch. Popíše to:
+[b]Pavel:[/b] „Z rozběhu do něj vrazím, povalím ho na zem a zalehnu ho.“
+Goblin tedy teď bude proti Gorondarovi v nevýhodě, jelikož leží pod ním. Náraz a pád mu také určitě přerušil soustředění, takže kouzlo přestane působit a Naria zase uvidí.[/size]
+
+Soustředění také přeruší jakékoliv zranění.
+
+[i]Příklad:[/i]
+[size=85]Kara seslala neviditenost na Gorondara a společně teď bojují proti skřetům. Když bude zraněn Gorondar, kouzlo se tím nezruší – seslala ho totiž Kara, takže ta se teď musí soustředit. Když se ale jednomu ze skřetích lučištníků podaří zasáhnout Karu, přeruší jí tím soustředění, kouzlo pomine a Gorondar přestane být neviditelný.
+Když ránu zastaví zbroj, štít nebo odolnost proti zranění, soustředění nepřeruší.
+[i]Příklad:[/i]
+[size=85]Pokud by Kara zrovna měla na sobě zbroj a skřet na ni útočil dýkou se zraněním 0 a přehodil ji o 1, soustředění by jí nepřerušil, protože Kařina zbroj by zranění snížila na 0.
+	Udělal by tedy lépe, kdyby do ní třeba vrazil, podrazil jí nohy a podobně – tím by jí sice také nezranil, ale soustředění by jí přerušil.[/size]
+
+[b][size=115]Zabránění v kouzlení[/size][/b]
+Při sesílání kouzla, ať už přímo, nebo z kouzelného předmětu, je třeba nahlas vyslovit zaklínací formuli. V seslání kouzla tedy můžeš někomu zabránit tím, že mu znemožníš mluvit. Na to potřebuješ dva úspěchy, viz +Zabránění v mluvení.
+
+[i]Příklad:[/i]
+[size=85]Pavel získal proti goblinímu šamanovi dva úspěchy.
+[b]Pavel:[/b] „Chytnu zezadu goblina levou rukou pod krkem a pravou mu zacpu pusu.“
+Šaman teď nebude moc kouzlit ani v dalším kole, protože nebude moci vyslovit zaklínací formuli. Aby si ústa uvolnil, bude muset získat úspěch v hodu na úspěch Silou.[/size]
+
+Stejně jako u bránění v útoku nemusíš nutně protivníkovi zabránit ve vyslovení sesílací formule, aby ses ubránil kouzlu – na to stačí, aby proti tobě neměl žádné úspěchy.
+
+[i]Příklad:[/i]
+[size=85]Kdyby měl Gorondar proti goblinovi jen jeden úspěch, tak by mu nemohl zabránit v mumlání a goblin by tedy zaklínadlo vyslovil. Pokud by jim oběma padlo stejně, goblin by měl proti němu také jeden úspěch a tudíž by jeho kouzlo na Gorondara působilo. Když by ho Pavel přehodil, tak by se sice goblinovi ubránil, ale nezabránil by mu v kouzlení. Kouzlo by mu tedy neublížilo, ale pokud by bylo plošné, mohlo by stále ovlivnit někoho dalšího.[/size]
+
+Když někomu zabráníš v seslání plošného kouzla, tak ho vůbec nesešle a proti ostatním cílům, které původně chtěl ohrozit, si tedy nebude házet na úspěch Duší, ale na obranu Finesou.
+
+[i]Příklad:[/i]
+[size=85]Kara sesílá zelený blesk na dva skřety, kteří se na ní vyřítili z boční chodby. Jana si tedy hází na úspěch Duší. Padlo jí celkem 4.
+	První skřet jí chce v kouzlení zabránit. Na úspěch mu padlo celkem 7, má tedy proti ní dva úspěchy.
+[b]Pán jeskyně:[/b] „První skřet tě přirazil k boční stěně a volnou rukou ti zacpal pusu. Asi už vědí, že mají co do činění s kouzelnicí. Zelený blesk jsi tedy vůbec neseslala a druhého skřeta nijak neohrožuješ. Hoď si proti němu na obranu.“[/size]
+
+[b][size=115]Únik z nevýhodné situace[/size][/b]
+Když se snažíš dostat z nevýhodné situace, tak, podobně jako u +Bránění v pohybu, potřebuješ úspěch pouze když ti v tom protivník pasivně brání svou pozicí.
+
+[i]Příklad:[/i]
+[size=85]Naria přistřelila orkovi rukáv ke dveřím a on teď chce šíp přelomit. Elfka je od něj daleko, takže svou pozicí mu v tom nijak nebrání. Ork na to tedy nepotřebuje úspěch a když mu v tom Naria bude chtít zabránit a v této nevýhodě ho udržet, tak k němu naopak ona musí přiběhnout a získat proti němu úspěch.[/size]
+
+[i]Opačný příklad:[/i]
+[size=85]Orkovi se podařilo chytit Nariu za ruku. I když v příštím kole nic dalšího neudělá, bude ji pořád držet. Na to, aby se vyprostila, bude tedy ona proti němu muset získat úspěch.
+
+Z nevýhody můžeš dostat i někoho jiného.
+
+[i]Příklad:[/i]
+[size=85]Ork stále drží Nariu za ruku. Na pomoc jí ale přispěchal Gorondar. Pavel proti orkovi hodí dva úspěchy a popíše to takto:
+[b]Pavel:[/b] „Seknul jsem orka do ruku, kterou drží Nariu. Zranil jsem ho a navíc ji musel pustit.“[/size]
+
+[b][size=115]Odzbrojení protivníka[/size][/b]
+Odzbrojení protivníka, podobně jako zabránění v mluvení nebo srážení do propasti, vyžaduje dva úspěchy. Nemusíš je nutně oba získat v jednom kole, ale z tvého popisu prvního úspěchu musí být zřejmé, že ti s odzbrojením pomůže. Můžeš na tom dokonce spolupracovat s někým dalším – každý přispějete jedním úspěchem.
+
+[i]Příklad:[/i]
+[size=85]Gorondar chce odzbrojit orka, aby ho družina mohla zajmout. Má proti němu ale jen jeden úspěch.
+[b]Pavel:[/b] „Zaklesnu mu svou sekeru za ratiště kopí, abych mu ho mohl vypáčit z rukou.“
+Pokud v dalším kole získá alespoň jeden úspěch, orka odzbrojí. Kdyby měl už v prvním kole dva úspěchy, mohl by orka odzbrojit hned a pokud by měl dokonce tři, mohl by říct, že mu kopí rovnou sebral.[/size]
+
+Vyražená zbraň obvykle spadne na zem. Za případný třetí úspěch můžeš říct, kde přesně skončí, nebo že mu ji rovnou sebereš.
+
+[b][size=115]Sebrání zbraně nebo jiné věci[/size][/b]
+Když chceš ze země sebrat zbraň nebo jiný předmět a nechceš nikoho ohrozit, neházíš si na úspěch. Pokud ti v tom nikdo nezabrání (za úspěch), automaticky se ti to podaří.
+
+	Můžeš se ale také pokusit například sebrat zbraň ze země a rovnou s ní někoho ohrozit. To tě bude stát jeden úspěch a za případné další mu můžeš něco udělat, nebo třeba utéct.
+
+[i]Příklad:[/i]
+[size=85]Gorondar úspěšně vypáčil orkovi z rukou kopí. Ork se ho teď snaží sebrat ze země. Jak ork tak Gorondar chtějí protivníka odstrčit, takže si oba hází Silou. Padne jim stejně, takže oba mají po jednom úspěchu.
+[b]Pán jeskyně:[/b] „Ork udělal to, co měl v úmyslu, chytil kopí oběma rukama.“
+[b]Pavel:[/b] „Já jsem mu chtěl především zabránit v tom, aby se k němu dostal. To se mi ale zjevně úplně nepovedlo, takže místo toho to kopí přišlápnu, aby ho nemohl zvednou.“
+[b]Pán jeskyně:[/b] „Ok. Takže ork teď oběma rukama drží kopí, na kterém ty stojíš. Je před tebou skrčený, takže máš proti němu výhodu. A kopí samozřejmě nemůže použít, dokud tě z něj nedostane.“[/size]
+
+[b][size=115]Zajímání[/size][/b]
+Když chceš protivníka zajmout živého, třeba abys ho mohl vyslechnout, máš v zásadě tři možnosti:
+
+[list][*]Vyřadit ho v boji
+[*]Znehybnit ho a svázat
+[*]Přesvědčit ho, že se má vzdát[/list]
+
+První možnost je přímočará – prostě mu sebereš všechny životy. Když mu klesnou na nulu, bude vyřazený a budeš si s ním moci dělat, co budeš chtít. Není při tom od věci použít obušek nebo jinou omračující zbraň – můžeš dotyčného sice v zásadě i posekat mečem a pak třeba vyléčit, ale zajatci z toho pak nebývají moc nadšeni.
+
+	Druhá možnost obvykle vyžaduje spolupráci: Jeden dotyčnému chytí obě ruce, což vyžaduje dva úspěchy na +Znevýhodnění protivníka, a druhý mu je pak sváže.
+
+[i]Příklad:[/i]
+[size=85]Naria s Gorondarem chtějí zajmout živého skřeta, aby se ho mohli zeptat, jaká zajímavá překvapení na ně čekají ve skřetím doupěti. Gorondar se na něj vrhne beze zbraně a Pavlovi padnou dva úspěchy:
+[b]Pavel:[/b] „Zkroutím mu obě ruce za záda a pevně ho držím.“
+[b]Pán jeskyně:[/b] „Skřet se ti v dalším kole snaží vytrhnout.“
+[b]Katka:[/b] „Já k němu chci přiskočit s připraveným lanem. Pokud ho Gorondar udrží, svážu mu ruce.“
+Když se jim to podaří, skřet ještě nebude úplně zajatý. Bude mít sice svázané ruce za zády, ale pořád má volné nohy a může jimi kopat, nebo se třeba snažit vytrhnout a utéct. V tomto případě ale usoudí, že skřet je sám nepřemůže, takže to zkrátí:
+[b]Pán jeskyně:[/b] „Chvíli se s váma ještě zkoušel prát, ale nakonec jste ho pevně svázali. Co s ním budete dělat?“[/size]
+
+Vyzvat protivníky k tomu, aby se vzdali, můžeš kdykoliv. Pak je na Pánovi jeskyně, jestli jim to přijde jako dobrý nápad.
+
+[i]Příklad:[/i]
+[size=85]Kdyby Naria s Gorondarem neměli lano, ale Naria uměla skřetí řeč (což asi umí, jinak by nemohla skřeta vyslýchat), mohla by poté, co Gorondar skřetovi chytil obě ruce, udělat následující:
+[b]Katka:[/b] „Chci mu dát dýku na krk.“
+[b]Pán jeskyně:[/b] „Ok. Hoď si na úspěch. Gorondar ho drží, takže ti bude stačit jeden. A skřet se za to taky samozřejmě brání s nevýhodou.“
+Když teď Katka Pána jeskyně přehodí, bude moci říct:
+[b]Katka:[/b] „Dala jsem mu dýku na krk a říkám: ‚Vzdej se! Chceme se jen na něco zeptat, pak tě zase pustíme.‘“
+[b]Pán jeskyně:[/b] „Skřet něco zavrčel, ale přestal se bránit. Co s ním budete dělat?“
+[b]Katka:[/b] „Nejdřív ho odzbrojím, pak se ho začnu ptát.“[/size]
+
+[b][size=115]Použití kouzel v boji[/size][/b]
+Na sesílání kouzel se vztahují stejná pravidla jako na všechno ostatní: za získané úspěchy tedy můžeš protivníky znevýhodňovat, zatlačovat, srážet na zem a podobně. Můžeš dokonce dělat i věci, které nejsou výslovně zmíněné v popisu kouzla – jediná podmínka je, že to musí dávat smysl. Ohnivou koulí například můžeš něco zapálit, ale nemůžeš nikoho odhodit nebo srazit na zem.
+
+	V některých případech nemusí být zřejmé, čeho chceš sesláním kouzla docílit. V tom případě se Pánem jeskyně domluv, jaký to bude mít efekt a jak se to vyhodnotí.
+
+[i]Příklad:[/i]
+[size=85]Kara chce modrým bleskem přepálit lano, na kterém visí těžký lustr, aby spadl na hlavu zlobrovi, se kterým zrovna Gorondar bojuje.
+[b]Pán jeskyně:[/b] „Čeho tím chceš dosáhnout? Chceš ho tím zranit? Nebo jen rozhodit?“
+[b]Jana:[/b] „Chtěla bych, aby se mu lustr zavěsil na hlavu a překážel mu v dalším boji. Pokud ho to zraní, tím líp.“
+[b]Pán jeskyně:[/b] „Ok, to by šlo. Hoď si na úspěch“.
+Když Jadně padnou dva úspěchy, bude moci za jeden popsat, jak se lustr zavěsil zlobrovi na hlavu a za druhý ho zranit. Nebude si ale nejspíš házet na zranění kouzla, protože zlobra nezasáhne blesk, ale lustr. Přičte si tedy bonus za zranění lustrem, který určí Pán jeskyně (něco mezi 0 a 3, jako kdyby to byla zbraň).
+	Jana by ale také mohla říct, že chce zlobra jen rozptýlit, viz Rozptýlení protivníka. V tom případě by si nemusela házet, ale nemohla by zlobra zranit.[/size]
+
+[b][size=115]Použití pravidel pro boj[/size][/b]
+Možná se teď děsíš, že jsou pravidla pro boj složitá a tolik různých situací se nikdy nemůžeš naučit. Nemusíš se toho bát. K tomu, abys mohl začít hrát, ti totiž stačí jen následující:
+
+[list][*]Na začátku kola všichni ohlásí, co chtějí udělat.
+[*]Hází se v pořadí, v jakém na sebe akce logicky navazují.
+[*]Když se s někým ohrožuješ vzájemně, házíte proti sobě na úspěch. Když ohrožuje jen on tebe, házíš si proti němu na obranu.
+[*]V obou případech se hází se Vlastnost + k6 + výhody a nevýhody.
+[*]Při hodu na úspěch rozdíl hodů určuje počet úspěchů. Za každý můžeš soupeři udělat jednu věc (zranit ho, srazit ho na zem a podobně). Obtížnější věci stojí dva úspěchy (odzbrojení, sražení do propasti, zabránění v mluvení).
+[*]Zranění je rozdíl hodů + zranění zbraně nebo kouzla a snižuje se o zbroj, štít a případnou odolnost proti druhu zranění.[/list]
+
+K tomu postupně můžete přidávat pravidla, která rozšíří vaše taktické možnosti: Míření, Plná obrana, Prolomení nevýhody, Nehybný protivník, Zákeřný útok, Ohrožení více protivníků, Klamný útok nebo jiná finta v boji a Rozptýlení protivníka. Bojovat se dá úplně v pohodě bez nich. Budeš sice o trochu slabší, než bys mohl být, ale to ničemu nevadí – tvoje postava na první úrovni také není kdovíjak zkušená.
+
+	Zbytek pravidel pro boj obsahuje příklady konkrétních situací, na které můžete narazit, a radí, jaké výhody a nevýhody je v nich vhodné započítat, jak přesně se má házet a podobně. Jsou zde jednak kvůli tomu, abyste získali představu, jak se boj hraje, a také kvůli hráčům, kteří mají rádi, když jsou pravidla jasná a jednoznačná. Pokud to ale není váš případ, klidně to nějak odhadněte. Vůbec nevadí, když to nebude přesně podle pravidel. Je to vaše hra a vaše unikátní situace, takže správně je to, co ji podle vás nejlépe vystihne.
+    
+	Když se neshodnete, jak něco odehrát, rozhoduje Pán jeskyně. Měl by ti ale vždycky předem říct, jak se to vyhodnotí, aby ses mohl rozhodnout, jestli to opravdu chceš udělat. Po hře se potom můžete podívat do pravidel, jestli tam není podobná situace popsaná – mělo by vám to pak být jasnější a příště to třeba uděláte tak. Když se vám ale bude zdát, že je vaše řešení lepší, klidně ho používejte dál.
