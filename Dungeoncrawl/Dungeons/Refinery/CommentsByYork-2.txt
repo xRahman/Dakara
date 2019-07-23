@@ -1,0 +1,35 @@
+﻿Krystaly
+---------
+Tohle je docela podstatný - z těch dvou dungeonů, které jsem hrál na Gameconu, byl původně jen v jednom, do druhýho už jsem ho vůbec nedával. A v pevnosti jsem z něj udělal magickej předmět Beleronovo oko, kterej zajišťuje dodržování přísah (protože Beleron je bůh cti a věrnosti).
+Krystal tady samozřejmě bejt může, ale asi bych nemluvil o dalších.
+
+
+
+Karty
+------
+- zdroje dávám do adresáře _Resources, aby bylo jasný, co je výsledná karta
+- schopnosti potvor, staty a podobně teď moc komentovat nebudu, jen pokud mě napadne něco zajímavýho
+- schopnosti předmětů jsou obecně lepší čistě finkční. Čili třeba "Kotva drží, jako kdyby byla přišroubovaná" místo "drží Silou rovnou Duše + 3"
+- Kotvě bych možná říkal karabina, ať to nemate? Nebo možná Úchyt (karabina mi přijde jako dost moderní slovo).
+
+Kafe
+- Tady bych ten účinek trochu posílil. Něco ve stylu, že pak tři dny nespíš (a nemůžeš usnout, ani kdybys chtěl) a pak prospíš 24 hodin v kuse.
+  Mít tam obyčejný kafe je sice hezká reference, ale není to až tak herně zajímavý.
+
+Deník (kosta.pdf)
+- Hezkej, ale fakt hodně dlouhej. Tohle číst v kuse by byla docela otrava.
+  Zkusil bych to asi trochu prořezat, odstranit balast.
+  A napadlo mě, že by to mohlo být rozdělené na víc stránek, který budou hráči nacházet na různých místech - takže taky v náhodném pořadí (což z toho udělá minihru)
+- Hodilo by se tam nějak líp představit družinu, aby si to pak hráči mohli dát dohromady s tím, co najdou v dungeonu. Něco jako "vyrazili jsme ve čtyřech. kouzelník A, hraničář B atd. Trochu to tam máš, ale mohlo by to bejt explicitnější.
+
+Namier.pdf
+- Je to schválně nečitelné?
+- Co přesně sledujš těma 'y' místo 'i'? Na první pohled to vypadá jako chyba, pak jako záměr, ale chyby jsou jen v některých slovech a vždycky y/i, tak nevím ;-)
+
+
+dung.org
+- Hyundai není dobrý jméno, zní to jako japonská automobilka
+- Tepkází: Píšeš, že kontrola připojených spotřebičů není moc užitečná, ale mně to naopak přijde jako fajn možnost, jak jeho schopnosti dát do hry. Fungovalo by to v podstatě jako pasti a když se to udělá dobře, mohlo by to vytvářet dojem, že se komplex snaží postavy zabít (plus při tom k nim může Tepkází mluvit, pokud to má vyzní ještě osobněji).
+- Sigarda mi zní jako ženské jméno
+- U hlídače máš, že dává psům výhodu. Asi bych raději viděl nějakej fikční efekt, třeba že jim přímo velí. Takže když řekne třeba "trhejte toho se štítem", tak se všichni psi vrhnou na válečníka, zatímco bez příkazu každej útočí na někoho jiného, nebo taky vůbec.
+  Hráči se totiž o tom efektu taky musej nějak dozvědět. Když uslyšej, jak psům dává povely, tak bude celkem jasný, že je dobrej nápad ho vyřadit.
