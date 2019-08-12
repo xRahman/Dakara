@@ -4,6 +4,14 @@ Tohle je docela podstatný - z těch dvou dungeonů, které jsem hrál na Gameco
 Krystal tady samozřejmě bejt může, ale asi bych nemluvil o dalších.
 
 
+Stylizace
+----------
+Máš to stylizované spíš technologicky než magicky. Neškodilo by, trochu to "odtechnologičnit".
+Démoni posedávající kde co, jsou v pohodě.
+"Rozvody" na stěnách jsou ale strašně okatý. To samý jsem řešil v laborce pod věží. Rozhodně by měly být vidět (tj. nebýt instalované na vnitřní straně obložení, ale na vnější). Vypadat by to mohlo třeba nějak takhle (samořejmě ne nutně takhle v kruzích):
+https://vignette.wikia.nocookie.net/rsroleplay/images/2/28/Full-metal-alchemist.jpg/revision/latest?cb=20140103210035
+
+
 
 Karty
 ------
@@ -28,8 +36,32 @@ Namier.pdf
 
 
 dung.org
+- inhibitor: "Past na Duši" v pravidlech není, hází se jen v boji. Řekl bych prostě "nejde odbindovat". Měl by ale existovat způsob, jak se toho zbavit (nejlépe víc než jeden). To, že to nic nedělá, ale není moc zajímavé. Mohlo by to bejt aspoň něčím otravný (něco našeptávat nebo tak).
+- zápisky k vyvolání démona: Hezká myšlenka, ale bude docela výzva podat to tak, aby to hráči pochopili. To, že v obrazci byla chyba, by se asi hráči nejsnáze dozvěděli ze zápisků nějakého alchymisty nebo kouzelníka, který to později zkoumal. Sami na to nemají jak přijít.
 - Hyundai není dobrý jméno, zní to jako japonská automobilka
 - Tepkází: Píšeš, že kontrola připojených spotřebičů není moc užitečná, ale mně to naopak přijde jako fajn možnost, jak jeho schopnosti dát do hry. Fungovalo by to v podstatě jako pasti a když se to udělá dobře, mohlo by to vytvářet dojem, že se komplex snaží postavy zabít (plus při tom k nim může Tepkází mluvit, pokud to má vyzní ještě osobněji).
+Mentální souboj mi naopak nepřijde moc zajímavej, zvlášť když postavy nemůžou nic získat tím, že vyhrajou (mohou mít maximálně štěstí a nenechat se zmlátit od něčeho, co nemohou nijak ovlivnit). I když v kombinaci s tou magickou ochrannou bariérou to smysl dává - mohla by být potřeba pro vstup do určité části dungeonu.
+Ad znovuoživování zombíků: Hodilo by se zmínit, že když postavy jejich těla důkladně zničí (spálí, rozskeají na maděru a pod.), tak nebude mít co oživovat. (Aha, to později taky píšeš.)
+To, že se Tepkází vyčerpá summonováním stínových opic, hráči asi nemají jak zjistit. Mohl by se jim ale někde zjevit, aby bylo vidět, jak je summoní (asi by to nemělo trvat 10 minut, tak dlouho postavy nejspíš čekat nebudou). Dal bych to asi jako event do nějaké místnosti.
+- Konstantin: Říkáš, že šli najisto. Tzn. asi měli nějaké informace. Ty by se hráčům určitě hodily (v Opuštěné pevnosti to takhle přesně je, u mrtvé elfky se dá najít info, které měli elfové - třeba jak dekativovat pasti).
+Kde je teď klíč, který měli s sebou? (Asi někde venku, protože za sebou zase zamknul.) (Aha, o kus dál na to odpovídáš.)
+V deníku by mohlo být popsáno to s bolením hlavy (mentální útok od Tepkázího, přepokládám?). Plus hint, že se to děje jen v určité části dugeonu.
+Kde je teď amulet, který Kosťu částečně chránil? Ten by se postavám taky určitě hodil. (Aha, o kus dál píšeš, že ho má u sebe. Ok.)
 - Sigarda mi zní jako ženské jméno
+- Sovička - jak ji jde odčarovat? Stejným odvolávacím rituálem jako Tepkází?
 - U hlídače máš, že dává psům výhodu. Asi bych raději viděl nějakej fikční efekt, třeba že jim přímo velí. Takže když řekne třeba "trhejte toho se štítem", tak se všichni psi vrhnou na válečníka, zatímco bez příkazu každej útočí na někoho jiného, nebo taky vůbec.
   Hráči se totiž o tom efektu taky musej nějak dozvědět. Když uslyšej, jak psům dává povely, tak bude celkem jasný, že je dobrej nápad ho vyřadit.
+- Nogós: Pokud ve dne spí, měli by asi bejt někde venku, kde je poznat den a noc (o kus dál píšeš, že tam je okno, to by mělo stačit).
+- Exoskelet: +2 ke statu je mechanicky strašně moc, to je rozdíl mezi postavou na první a maximální úrovni. Velká síla se teď dá udělat jako bonus ke zranění. Postih k jinému statu není nijak zásadní, bojuje se většinou jen hlavním statem. Takže spíš by to mělo dávat bonus ke zranění výměnou za pomalej pohyb nebo něco podobnýho.
+
+
+- vestibul: To, že Tepkází zamkne dveře hned po odemčení, je takový suchý. Co třeba že by je zakmnul až za nima? A něco jim k tomu řekl? Třeba je přivítal ve "svém domě"? ("Chovejte se jako doma. Jsem vážně zvědavý, kam se vám podaří dojít...")
+Vůbec by mohl průběžně k postavám mluvit, vyzní pak mnohem víc jako nějaká entita s vlastní vůlí a záměry.
+
+- kuchyně: co jsou sakra cholianti? Ani google to nezná ;-)
+
+
+Pozn.: Jestli ty zkratky místností (ka, ku a podobně) používáš na mapě, tak to piš celejma slovama. Zkratky sni. sroz. (snižují srozumitelnost).
+
+
+
