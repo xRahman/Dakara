@@ -1,0 +1,24 @@
+1 korbel piva - 30 kc - 3 mk
+1 mk = 10 kc
+1 dn = 100 kc
+1 st = 1000 kc
+1 zl = 10000 kc
+
+
+prase 2000 kc - 4500 kc
+sele 1600 kc
+beran 1200 kc - 2000 kc
+ovce, jehne 1500 kc - 2000 kc
+koza 1000 kc - 1500 kc
+
+dojnice 15000 kc
+brezi jalovice 22000 kc
+tele 10000 kc
+plemenny byk 30000 kc
+
+husa 500 kc
+houser 600 kc
+
+plemenna kobyla 45000 kc
+
+kralik 100 kc
