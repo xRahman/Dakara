@@ -1,0 +1,2 @@
+﻿Phaser 3 fog of war example:
+http://labs.phaser.io/edit.html?src=src\display\masks\spotlight.js

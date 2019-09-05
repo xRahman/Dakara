@@ -18,7 +18,6 @@ Karty
 - zdroje dávám do adresáře _Resources, aby bylo jasný, co je výsledná karta
 - schopnosti potvor, staty a podobně teď moc komentovat nebudu, jen pokud mě napadne něco zajímavýho
 - schopnosti předmětů jsou obecně lepší čistě finkční. Čili třeba "Kotva drží, jako kdyby byla přišroubovaná" místo "drží Silou rovnou Duše + 3"
-- Kotvě bych možná říkal karabina, ať to nemate? Nebo možná Úchyt (karabina mi přijde jako dost moderní slovo).
 
 Kafe
 - Tady bych ten účinek trochu posílil. Něco ve stylu, že pak tři dny nespíš (a nemůžeš usnout, ani kdybys chtěl) a pak prospíš 24 hodin v kuse.
@@ -64,4 +63,44 @@ Vůbec by mohl průběžně k postavám mluvit, vyzní pak mnohem víc jako něj
 Pozn.: Jestli ty zkratky místností (ka, ku a podobně) používáš na mapě, tak to piš celejma slovama. Zkratky sni. sroz. (snižují srozumitelnost).
 
 
+- mlýn na drcení břidlice
+  "Tepkází by se mohl pokusit vylouzením nějakého zvuku přilákat někoho do
+           prostoru drtičky a pak odjistit stavidlo"
+  - Sounds like fun! Něco v tomhle duchu jsem měl na mysli, když jsem zmiňoval,
+    že by mohl fungovat skrze "předskriptované triggerované eventy".
+  - mohl by tam třeba vykouzlit iluzi něčeho lesklého.
+  - hlasy členů družiny by asi nefungovaly, do toho bys musel zapojit hráče.
+
+- výtah
+  "Tepkází by se je mohl pokusit přimáčknout plošinou sjíždějící shora."
+  - opět hezkej nápad.
+
+- převlékárna
+  - tady mám trochu problém se stylizací, je to na mě až moc high-tech.
+     Preferoval by spíš nějaké ochranné amulety či tak něco.
+
+- kubikl 1
+  - hodinářské kukátko
+    Mohlo by tím jít koukat skrz klíčové dírky.
+
+- kubikl 3
+  Hmm, nevyčerpatelné magické světlo... Ale asi jo.
+
+- rafinační kolona
+  (stylizace) Proti otravě by to chtělo spíš nějakej ochrannej amulet
+
+- kancelář správkyně Deloy
+  Mapa servisních šachet zní jako dobrý nápad, ale měla by existovat fyzicky,
+  aby ji hráči mohli dostat do ruky.
+
+
+- nedodělaná chodba
+  Kopáče bych nerušil. U svých dungeonů zápasím s tím, že tam mám málo
+  sociální interakce. Možnost si s někým pokecat a dostat z něj nějaké informace
+  bych rozhodně nezahazoval.
+    To taky znamená, že by rozhodně měl bejt sdílnej, žádné služební tajemství.
+
+- záchod
+  Efekt by neměl bejt závislej na úvaze GM. Připravenej dungeon hraješ proto,
+  abys tyhle věci nemusel fiatovat. Tj. buď random, nebo to dát napevno.
 
