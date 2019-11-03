@@ -1,0 +1,355 @@
+invite for UBRS, please (fury warrior, have key)
+
+
+All skills
+===========
+
+Čtení a psaní
+Lov a stopování
+Orientace a přežití v divočině
+Ostražitost a plížení
+Ošetřování zranění (TODO: zahrunje znalosti chirurgie a anatomie)
+Otevírání zámků
+Plavání
+Přetvářka a převleky (TODO: Umíš také být nenápadný, někam zapadnout)
+Skřetí jazyk
+Starý jazyk
+- staroelfština
+- starotrpasličtina
+- staroorkština
+- starogoblinština
+Šplhání
+Líčení a odstraňování pastí
+
+Nové:
+-----
+
++Jezdectví (akrobatické jezdectví, závodění, střelba ze sedla, boj ze sedla)
++Vozatajství (závody vozatajů)
+
++Krocení a cvičení zvířat
++Rybaření
++Sokolnictví
+
++Bylinkářství a léčení (léčení nemocí a podobně. Herně to bude užitečné na sběr bylinek. TODO: Hodit sem i znalost jedů a protijedů)
+
+-Heraldika
+ (válečník)
+Znáš erby a znaky všech významných šlechtických rodů, osob a organizací. Tyto znalosti jsou obvyklé u osob původem z vyšší společnosti.
+/* Nelíbí se mi to jako statmostaná dovednost. Možná to hodit pod etiketu? */
+
+Navigace
+Vyznáš se v námořních mapách a s patřičnými nástroji umíš přesně zaměřit svou polohu. Znáš také obvyklé námořní trasy a dokážeš dovést loď k určenému cíli.
+
+Učenost
+Vystudoval jsi akademii, univerzitu nebo jsi možná studoval u nějakého učence. Jsi zběhlý v mnoha různých naukách: anatomii, architektuře, astronomii, filosofii, geografii, historii, matematice, teologii, právu, rétorice a podobně). Učenost nezahrnuje znalost starých jazyků, to jsou samostatné dovednosti.
+
+
+Důstojnický výcvik
+/* Velení? Vojevůdcovství */
+Máš důstojnický výcvik. Umíš velet malým i velkým jednotkám, vyznáš se v logistice, v bitevních manévrech a podobně.
+
+Vojenské inženýrství
+Sloužil jsi jako vojenský inženýr. Umíš konstruovat provizorní mosty, obláhací věže a stroje a podobně.
+
+Etiketa
+Vyrůstal jsi ve vyšší společnosti, případně se ti dostalo obdobného vzdělání. Víš, jak správně stolovat, jak oslovovat velmože a jiné důležité osoby, jak se dvořit dámě nebo jak se správně chovat k nápadníkům, znáš základy heraldiky a umíš dělat věci, které se očekávají od urozené osoby, jako třeba tančit nebo jezdit na koni.
+
+Znalost podsvětí
+Vyrůstal jsi mezi lapky či městskou spodinou, případně tě někdo takový do tajů podsvětí důkladně zasvětil. Máš kontakty na černý trh a na různé podsvětní organizace, znáš různé informátory a významné členy podsvětí a víš, jak se k nim správně chovat nebo jaký úplatek jim nabídnout. Víš, jak se předávají vzkazy přes tajné schránky a umíš ve městě zařídit bezpečný úkryt či skrýš.
+- zastrašování, vydírání, uplácení
+- znáš pouliční slang a zlodějská gesta
+
+Obchod
+Znáš ceny zboží. Umíš zorganizovat kupeckou karavanu a sehnat posádku pro obchodní loď.
+/* Not very impressive... */
+
+
+Logická hra (šachy a podobně)? Tohle asi nebude přes dovednosti.
+
+Poznámky:
+----------
+
+Prošel jsem stávající dovednosti a s těma, co jsou napsaný, jsem vcelku spokojenej. Určitě se k nim hoděj texty, co umožňujou dělat. Problém dovedností je, že jich není dost na výběr.
+
+Dovednosti mají dvě role: Umožňují ve hře něco dělat (překonávat překážky, něco vyrábět a pod.) a současně charakterizují postavu (jsem původem tesař).
+- oddělit to druhé do backgroundu? V DrD backgroundy nebyly.
+
+Moderní jazyky
+- problém je, že by musely být definované. Defaultně jazyky podle ras?
+- válečník by pak mohl znát hodně jazyků. Celkem to dává smysl, může bejt hodně zcestovalej.
+
+Řemesla
+- Shrnout je pod minulost?
+- Základy řemesel coby samostatná dovednost? (všeuměl)
+  To by mohla být doporučená dovednost pro válečníka
+
+
+Znalost jedů a protijedů - obtížně použitelné. Možná na to kašlat nebo to do něčeho zabalit?
+- částečně je to v bylinkářství (ne všechny jedy jsou rostlinné)
+
+Padělatelství dát zvlášť? Asi jo.
+TODO: Vyhodit to ze čtení a psaní
+
+IDEA: čtení, psaní a počítání (základní vzdělanost)
+- spíš ne. Základy počítání bude umět každej.
+
+Při psaní dovedností jsem občas měl pocit, že píšu background. To vede k otázce, jestli by ve hře měly být dovednosti, backgroundy nebo možná obojí.
+- Chci odpověď na otázku "umíš plavat?" a tu mi backgroundy nedají. Bacgroundy navíc nejsou moc DrDčkové.
+- Možná ale fakt není od věci psát některé dovednosti tak trochu jako backgroundy, tj. zmínit, jak asi postava k takové dovednosti přišla.
+
+---------------------------------------
+
+
+Válečník
+--------
+
+Ošetřování zranění
+Plavání
+Skřetí jazyk
+
+
+Hraničář
+--------
+
+Orientace a přežití v divočině
+Ostražitost a plížení
+Ošetřování zranění
+Lov a stopování
+Plavání
+Skřetí jazyk
+
+
+Alchymista
+----------
+
+Čtení a psaní
+Znalost jedů
+Staré jazyky (hlavně Staroelfština)
+
+
+Kouzelník
+---------
+
+Čtení a psaní
+Staré jazyky (hlavně Staroelfština)
+
+
+Zloděj
+------
+
+Ostražitost a plížení
+Otevírání zámků
+Přetvářka a převleky
+Šplhání
+Výroba a odstraňování pastí
+Znalost jedů
+Odezírání ze rtů
+
+
+---------------------------------------
+
+- Na sporty a podobně nejsou dovednosti, spadjí pod Fyzičku (běh, vytrvalost, skok, pochod)
+
+
+---------------------------------------
+
+- jezdectví a vozatajství zvládají přiměřeně všichni
+  - leda že by dovednost šla nad rámec běžného ježdění - akrobatická jízda,
+    skoky přes překážky, závody vozatajů a podobně. To by asi šlo
+
+---------------------------------------
+
+Fyzická zdatnost
+-----------------
+
+-Silácké kousky (Fyzička)
+-Vytrvalost (Fyzička)
+-Běh (Fyzička)
+-Skok (Fyzička)
+-Pochod (Fyzička)
++Plavání
++Šplh
++Jezdectví (akrobatické jezdectví, závodění, střelba ze sedla, boj ze sedla)
++Vozatajství (závody vozatajů)
+
+Zálesácké učení
+----------------
+
+-Honitba (součást lovu)
+-Zpracování úlovku (součást lovu)
+-Stopování a zametání stop (součást lovu)
+-Plížení (Ostražitost a plížení)
+-Líčení pastí na zvěř (součást lovu)
+-Znalost divočiny a přežití v divočině (Orientace a přežití v divočině)
+-Orientace v divočině (Orientace a přežití v divočině)
++Krocení a cvičení zvířat
++Rybaření
++Bylinkářství
++Sokolnictví
+
+
+Léčitelství
+------------
+/* Otázka je, jestli tomu říkat Léčitelství nebo Ošetřování zranění.
+K válečníkovi se hodí spíš Ošetřování... */
+Léčení (léčení nemocí je asi ok, ale není to moc užitečný)
+-První pomoc (Ošetřování zranění)
+-Pitva (určitě nebrat, moc podrobné. Zahrnout to do něčeho obecnějšího)
+Výroba léčiv a protijedů
++Bylinkářství a léčitelství (léčení nemocí a podobně. Herně to bude užitečné na sběr bylinek)
+?Znalost jedů a protijedů (tohle mám v pravidlech, ale nejsem si jistej...)
+ - nebrat, to bude player knowledge
+?Anatomie (asi nebrat nebo to zahrnout do Učenosti...)
+
+Možná takhle:
+Ošetřování zranění - zahrunje znalosti chirurgie a anatomie
+
+/* Tzn. z Léčitelstí by byly jen 2 dovednosti: Ošetřování zranění a Bylinkářstí a léčení */
+
+
+Učenost
+--------
+Anatomie, Architektura, Astrologie, Čtení a psaní (písmo se učíš automaticky s každým novým jazykem), Filosofie, Geografie, Heraldika, Historie, Matematika, Geologie, Navigace, Teologie, Právo, Logická hra (například šachy), Obecná řeč, Elfština (elfská abeceda), Trpasličtina (trpaslické runy), Severština (severské runy), Jižanština (jižanské lineární písmo), Staroelfština (staroelfské runy), Starotrpasličtina (starotrpaslické runy), Orkština (orcké slabičné písmo), Goblinština (píše se trpaslickými runami)
+
+Základní počty asi nechám všem
+
+
+Zvažuju, že bych sfouknul celou učenost jednou dovedností (s výjimkou starých jazyků, ehm...)
+- možná právo taky nechat stranou.
+
++ Heraldika (asi spíš stranou, to se hodí válečníkům)
+  (heraldika není moc užitečná, ale k některejm postavám se fakt hodí)
+
++ Navigace (to se teoreticky může hodit, takže asi stranou)
+
+Učenost
+  (Ok, takže pod učeností by bylo:
+   - anatomie, architektura, astronomie, filosofie, geografie, historie, matematika, teologie, právo)
+
+
+Jednání
+---------
+
+TODO
+
+Etiketa a zjišťování informací (pro každou subkulturu jedna dovednost)
+.Přetvářka a lhaní (Přetvářka a převleky)
+-Vyjednávání, Uplácení, Zastrašování a vydírání, Vyslýchání, Mučení
+ (tohle všechno asi nebrat jako samostatné dovednosti - jsou to součásti etikety,
+  znalosti podsvětí a podobně)
+
+-Rétorika (hodit do učenosti)
+
+-Vyučování, Společenská či hazardní hra
+
+Obchod a smlouvání (možná spíš jen Obchod)
+Znáš ceny zboží. Umíš zorganizovat kupeckou karavanu a sehnat posádku pro obchodní loď.
+/* Not very impressive... */
+
+-Velení (z toho jsem udělal důstojnický výcvik)
+
+
+
+IDEA: Backgrounds (spíš ne)
+- kupec
+- námořník
+- námořní kapitán
+- člen podsvětí (pašerák apod.)
+- dítě ulice
+
+
+Zlodějské praktiky
+-------------------
+
+TODO
+
++Líčení a zneškodňování pastí (to tuším je)
++Otevírání zámků (taky snad je)
+?Šifry (co z toho? Dá se říc, že postava něco rozšifruje, ale toje dost o ničem)
++Odezírání ze rtů
++Padělatelství
+Nenápadnost (je? Jo, to je přetvářka a převleky.)
+.Převleky (součást přetvářky)
++Plížení (určitě je)
+-Schovávání předmětů (moc detailní)
+-Zlodějská gesta (to by měla být součást znalosti podsvětí)
+
++Falešná hra
++Uzlování a únik z pout
++Vybírání kapes
+Odhad ceny
+
+-Znalost Vadory (nebo jiného města) (to nechci jako samostatnou dovednost)
+
++Falešná hra
+
+Řemesla
+--------
+
+TODO
+
+Dřevařství, Hornictví, Hrnčířství, Iluminace, Kamenictví, Kaligrafie, Kartografie, Klenotnictví, Konstrukce obléhacích zbraní, Kožedělnictví, Kovářství, Krejčířství, Kutilství, Lazebnictví, Loďařství, Námořnictví, Řeznictví, Stavitelství, Tesařina, Vaření, Výroba pastí, Zámečnictví, Zbrojířství, Zednictví, Zlatnictví
+
+Základy řemesel
+(válečník, alchymista, zloděj)
+- Jsi zručný řemeslník a znáš základy většiny řemesel. Nejsi v ničem mistr, ale dokážeš opravit zbroj, postavit žebřík, vykovat podkovu nebo cokoliv dalšího je potřeba.
+
+Umění
+------
+
+TODO
+
+Hra na hudební nástroj, Malba, Herectví, Přednes, Imitace hlasu, Skládání hudby, Sochařství, Tanec, Zpěv
+
+
+======================================================
+
+Orbin
+- elfština (vyplývá z minulosti)
+
+- čtení a psaní
+- počítání
+- staroelfština
+- starotrpasličtina
+- léčitelství
+- břichomluvectví
+- odezírání ze rtů
+
+Při levelování:
+- starogoblinština
+- skřetí řeč
+
+Bimbam
+- Jezdectví
+- Vozatajství
+
+- Stopování a zametání stop
+- Líčení pastí na zvěř
+- Znalost divočiny a přežití v divočině
+- Orientace v divočině
+- Krocení a cvičení zvířat
+- Bylinkářství
+. Zpracování úlovku (součást lovu)
+
+- Obecná řeč 
+- Čtení a psaní
+- Trpasličtina
+- zeměměřictví
+
+- Vyjednávání
+- Obchod a smlouvání
+- Etiketa obchodnická
+- Etiketa venkovská
+
+- Znalost Vadory
+- Kartografie
+- Kožedělnictví
+- Krejčířství
+- Kutilství
+- Řeznictví
+
+- Vaření
+- řezbářství
+
+- Malba
