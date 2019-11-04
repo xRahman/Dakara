@@ -11,7 +11,7 @@ Ostražitost a plížení
 Ošetřování zranění (TODO: zahrunje znalosti chirurgie a anatomie)
 Otevírání zámků
 Plavání
-Přetvářka a převleky (TODO: Umíš také být nenápadný, někam zapadnout)
+Přetvářka a převleky (TODO: Umíš také být nenápadný, někam zapadnout. Umíš imitovat hlasy)
 Skřetí jazyk
 Starý jazyk
 - staroelfština
@@ -19,7 +19,8 @@ Starý jazyk
 - staroorkština
 - starogoblinština
 Šplhání
-Líčení a odstraňování pastí
+-Líčení a odstraňování pastí (je na to potřeba dovednost?)
+ (TODO: Zrušit. Bude jen řemeslo Výroba pastí)
 
 Nové:
 -----
@@ -31,41 +32,114 @@ Nové:
 +Rybaření
 +Sokolnictví
 
-+Bylinkářství a léčení (léčení nemocí a podobně. Herně to bude užitečné na sběr bylinek. TODO: Hodit sem i znalost jedů a protijedů)
++Bylinkářství a léčení (léčení nemocí a podobně. Herně to bude užitečné na sběr bylinek)
 
--Heraldika
- (válečník)
-Znáš erby a znaky všech významných šlechtických rodů, osob a organizací. Tyto znalosti jsou obvyklé u osob původem z vyšší společnosti.
-/* Nelíbí se mi to jako statmostaná dovednost. Možná to hodit pod etiketu? */
-
-Navigace
++Mořeplavba a navigace
+Živil ses jako námořník. Dokážeš zaškolit zbytek posádky, abyste společně uřídili námořní loď.
 Vyznáš se v námořních mapách a s patřičnými nástroji umíš přesně zaměřit svou polohu. Znáš také obvyklé námořní trasy a dokážeš dovést loď k určenému cíli.
+/* Záměrně je to formulované s důrazem na mořeplavbu, protože na navigaci na pevnině je Orientace v divočině */
+/* Potřebuju 2 dovednosti na mořeplavbu? Možná ne. Sloučeno */
+/* Můžeš být klidně bývalý námořník a nemít tuhle dovednost - v tom případě o lodích něco víš, ale ne dost, abys nějakou sám uřídil. */
+TODO: Asi přece jen nechat jen Navigaci s tím, že Námořnictví bude řemeslo.
+  a možná Navigaci taky hodit do řemesel.
 
-Učenost
++Učenost
 Vystudoval jsi akademii, univerzitu nebo jsi možná studoval u nějakého učence. Jsi zběhlý v mnoha různých naukách: anatomii, architektuře, astronomii, filosofii, geografii, historii, matematice, teologii, právu, rétorice a podobně). Učenost nezahrnuje znalost starých jazyků, to jsou samostatné dovednosti.
 
 
-Důstojnický výcvik
++Důstojnický výcvik
 /* Velení? Vojevůdcovství */
 Máš důstojnický výcvik. Umíš velet malým i velkým jednotkám, vyznáš se v logistice, v bitevních manévrech a podobně.
 
-Vojenské inženýrství
-Sloužil jsi jako vojenský inženýr. Umíš konstruovat provizorní mosty, obláhací věže a stroje a podobně.
-
-Etiketa
++Etiketa
 Vyrůstal jsi ve vyšší společnosti, případně se ti dostalo obdobného vzdělání. Víš, jak správně stolovat, jak oslovovat velmože a jiné důležité osoby, jak se dvořit dámě nebo jak se správně chovat k nápadníkům, znáš základy heraldiky a umíš dělat věci, které se očekávají od urozené osoby, jako třeba tančit nebo jezdit na koni.
 
-Znalost podsvětí
++Znalost podsvětí
 Vyrůstal jsi mezi lapky či městskou spodinou, případně tě někdo takový do tajů podsvětí důkladně zasvětil. Máš kontakty na černý trh a na různé podsvětní organizace, znáš různé informátory a významné členy podsvětí a víš, jak se k nim správně chovat nebo jaký úplatek jim nabídnout. Víš, jak se předávají vzkazy přes tajné schránky a umíš ve městě zařídit bezpečný úkryt či skrýš.
 - zastrašování, vydírání, uplácení
 - znáš pouliční slang a zlodějská gesta
 
-Obchod
++Obchod
 Znáš ceny zboží. Umíš zorganizovat kupeckou karavanu a sehnat posádku pro obchodní loď.
-/* Not very impressive... */
+- jsi díky tomu zcestovalý?
+- máš kontakty na různé kupce všude po světě.
+- dokážeš sehnat vzácné zboží (i magické předměty a tak)
+- víš, kde a jak prodat neobvyklé zboží (kouzelným meč ve vesnici neprodáš)
+
++Odezírání ze rtů
++Padělatelství
++Únik z pout
++Falešná hra
++Únik z pout
++Vybírání kapes
++Břichomluvectví
 
 
-Logická hra (šachy a podobně)? Tohle asi nebude přes dovednosti.
++Základy řemesel
+/* Řemeslnná zručnost */
+(válečník, alchymista, zloděj)
+- Jsi zručný a znáš základy většiny řemesel. Nejsi v ničem mistr, ale dokážeš opravit zbroj, postavit žebřík, vykovat podkovu nebo cokoliv dalšího je potřeba.
+
+
++jednotlivá řemesla (seznam)
++umělecké dovednosti (seznam)
+
+All skills (čistě seznam):
+---------------------------
+
+Čtení a psaní
+Lov a stopování
+Orientace a přežití v divočině
+Ostražitost a plížení
+Ošetřování zranění
+Otevírání zámků
+Plavání
+Přetvářka a převleky
+Skřetí jazyk
+Starý jazyk
+- staroelfština
+- starotrpasličtina
+- staroorkština
+- starogoblinština
+Šplhání
+Jezdectví
+Vozatajství
+Krocení a cvičení zvířat
+Rybaření
+Sokolnictví
+Bylinkářství a léčení
+Navigace
+Učenost
+Důstojnický výcvik
+Etiketa
+Znalost podsvětí
+Obchod
+Odezírání ze rtů
+Padělatelství
+Únik z pout
+Falešná hra
+Vybírání kapes
+Břichomluvectví
+Základy řemesel
+
+Moderní jazyk
+- obecná řeč
+- elfština
+- trpasličtina
+- řeč barbarů
+- krollština
+
++jednotlivá řemesla (seznam)
+Dřevařství, Hornictví, Uhlířství, Hrnčířství, Iluminace, Kamenictví, Kaligrafie,
+Kartografie, Klenotnictví, Konstrukce obléhacích zbraní, Kožedělnictví,
+Kovářství, Krejčířství, Lazebnictví, Loďařství, Námořnictví, Řeznictví,
+Stavitelství, Tesařina, Vaření, Výroba pastí, Zámečnictví, Zbrojířství,
+Zednictví, Zlatnictví
+
++umělecké dovednosti (seznam)
+  Hra na hudební nástroj, Malba, Herectví, Přednes, Skládání hudby, Sochařství,
+  Tanec, Zpěv
+
 
 Poznámky:
 ----------
@@ -98,6 +172,26 @@ Při psaní dovedností jsem občas měl pocit, že píšu background. To vede k
 - Chci odpověď na otázku "umíš plavat?" a tu mi backgroundy nedají. Bacgroundy navíc nejsou moc DrDčkové.
 - Možná ale fakt není od věci psát některé dovednosti tak trochu jako backgroundy, tj. zmínit, jak asi postava k takové dovednosti přišla.
 
+
+IDEA: "Dokreslující dovednosti"
+Logická hra (šachy a podobně)? Tohle asi nebude přes dovednosti.
+- šachy, karty, hra na hudební nástroj, zpěv, malování a podobně
+- nemusíš si to pořizovat jako dovednosti, napiš si, co chceš (zhruba 3-5?)
+
+Možná to forumulovat jinak ("drobné znalosti"):
+- Dovednosti představují něco, co ses musel dlouho učit. Znalosti,
+  které lze získat za pár dní, třeba pravidla nějaké karetní hry
+  nebo text konkrétní písně, si nemusíš pořizovat jako samostatné
+  dovednosti. V rozumné míře si můžeš napsat cokoliv, co se ke tvé
+  postavě hodí a můžeš je získávat i později při hře - stačí to
+  odehrát.
+
+Dilema: Co když hráč odehraje, jak se od goblina učí jazyk? Musí čekat
+  až na přestup (navíc na sudou úroveň), aby se mohl naučit goblinštinu?
+  - asi jo. Naučit se jazyk je dlouhodobá záležitost, takže by to neměl
+    bejt problém.
+
+
 ---------------------------------------
 
 
@@ -106,7 +200,28 @@ Válečník
 
 Ošetřování zranění
 Plavání
+Šplhání
 Skřetí jazyk
+Jezdectví
+Vozatajství
+Orientace a přežití v divočině
+Ostražitost a plížení
+Důstojnický výcvik
+Etiketa
+Čtení a psaní
+Základy řemesel
+Hra na hudební nástroj (urči který)
+
+Dřevařství, Hornictví, Konstrukce obléhacích zbraní, Kovářství,
+Námořnictví, Tesařina, Vaření, Zbrojířství
+
+
+/* Řemesel je u válečníka moc, ještě je probrat. Probráno. */
+/* Původně:
+Dřevařství, Hornictví, Kamenictví, Konstrukce obléhacích zbraní, Kovářství,
+Loďařství, Námořnictví, Řeznictví, Tesařina, Vaření, Zbrojířství, Zednictví
+*/
+
 
 
 Hraničář
@@ -118,21 +233,60 @@ Ošetřování zranění
 Lov a stopování
 Plavání
 Skřetí jazyk
+Šplhání
+Jezdectví
+Krocení a cvičení zvířat
+Sokolnictví
+Bylinkářství a léčení
+
+Hra na hudební nástroj (urči který)
+Dřevařství, Kožedělnictví, Řeznictví, Tesařina, Vaření, Výroba pastí, Kartografie
 
 
 Alchymista
 ----------
 
 Čtení a psaní
-Znalost jedů
-Staré jazyky (hlavně Staroelfština)
+Starý jazyk
+- staroelfština
+- starotrpasličtina
+- staroorkština
+- starogoblinština
+Bylinkářství a léčení
+Učenost
+Padělatelství
+Plavání
+
+Iluminace, Kaligrafie, Klenotnictví, Konstrukce obléhacích zbraní,
+Kovářství, Vaření, Výroba pastí, Zlatnictví
+
 
 
 Kouzelník
 ---------
 
 Čtení a psaní
-Staré jazyky (hlavně Staroelfština)
+Starý jazyk
+- staroelfština
+- starotrpasličtina
+- staroorkština
+- starogoblinština
+Učenost
+Padělatelství
+
+Moderní jazyk
+- obecná řeč
+- elfština
+- trpasličtina
+- řeč barbarů
+- krollština
+
+Plavání
+
+Iluminace, Kaligrafie, Kartografie, Klenotnictví
+
+Hra na hudební nástroj, Malba (hodí se na iluze),
+Přednes, Skládání hudby, Sochařství
 
 
 Zloděj
@@ -142,10 +296,27 @@ Ostražitost a plížení
 Otevírání zámků
 Přetvářka a převleky
 Šplhání
-Výroba a odstraňování pastí
+-Výroba a odstraňování pastí (zrušit)
 Znalost jedů
 Odezírání ze rtů
+Plavání
+Znalost podsvětí
+Obchod
+Odezírání ze rtů
+Padělatelství
+Únik z pout
+Falešná hra
+Vybírání kapes
+Břichomluvectví
+Základy řemesel
 
+Dřevařství, Hornictví, Hrnčířství, Iluminace, Kamenictví, Kaligrafie,
+Kartografie, Klenotnictví, Konstrukce obléhacích zbraní, Kožedělnictví,
+Kovářství, Krejčířství, Lazebnictví, Loďařství, Námořnictví, Řeznictví,
+Stavitelství, Tesařina, Vaření, Výroba pastí, Zámečnictví, Zbrojířství,
+Zednictví, Zlatnictví
+
+Herectví,
 
 ---------------------------------------
 
@@ -173,7 +344,7 @@ Fyzická zdatnost
 +Jezdectví (akrobatické jezdectví, závodění, střelba ze sedla, boj ze sedla)
 +Vozatajství (závody vozatajů)
 
-Zálesácké učení
++Zálesácké učení
 ----------------
 
 -Honitba (součást lovu)
@@ -189,7 +360,7 @@ Zálesácké učení
 +Sokolnictví
 
 
-Léčitelství
++Léčitelství
 ------------
 /* Otázka je, jestli tomu říkat Léčitelství nebo Ošetřování zranění.
 K válečníkovi se hodí spíš Ošetřování... */
@@ -208,7 +379,7 @@ Ošetřování zranění - zahrunje znalosti chirurgie a anatomie
 /* Tzn. z Léčitelstí by byly jen 2 dovednosti: Ošetřování zranění a Bylinkářstí a léčení */
 
 
-Učenost
++Učenost
 --------
 Anatomie, Architektura, Astrologie, Čtení a psaní (písmo se učíš automaticky s každým novým jazykem), Filosofie, Geografie, Heraldika, Historie, Matematika, Geologie, Navigace, Teologie, Právo, Logická hra (například šachy), Obecná řeč, Elfština (elfská abeceda), Trpasličtina (trpaslické runy), Severština (severské runy), Jižanština (jižanské lineární písmo), Staroelfština (staroelfské runy), Starotrpasličtina (starotrpaslické runy), Orkština (orcké slabičné písmo), Goblinština (píše se trpaslickými runami)
 
@@ -218,20 +389,23 @@ Základní počty asi nechám všem
 Zvažuju, že bych sfouknul celou učenost jednou dovedností (s výjimkou starých jazyků, ehm...)
 - možná právo taky nechat stranou.
 
-+ Heraldika (asi spíš stranou, to se hodí válečníkům)
-  (heraldika není moc užitečná, ale k některejm postavám se fakt hodí)
+
+-Heraldika
+ (válečník)
+Znáš erby a znaky všech významných šlechtických rodů, osob a organizací. Tyto znalosti jsou obvyklé u osob původem z vyšší společnosti.
+/* Nelíbí se mi to jako statmostaná dovednost. Možná to hodit pod etiketu? */
+
 
 + Navigace (to se teoreticky může hodit, takže asi stranou)
+
 
 Učenost
   (Ok, takže pod učeností by bylo:
    - anatomie, architektura, astronomie, filosofie, geografie, historie, matematika, teologie, právo)
 
 
-Jednání
++Jednání
 ---------
-
-TODO
 
 Etiketa a zjišťování informací (pro každou subkulturu jedna dovednost)
 .Přetvářka a lhaní (Přetvářka a převleky)
@@ -259,14 +433,14 @@ IDEA: Backgrounds (spíš ne)
 - dítě ulice
 
 
-Zlodějské praktiky
++Zlodějské praktiky
 -------------------
 
 TODO
 
 +Líčení a zneškodňování pastí (to tuším je)
 +Otevírání zámků (taky snad je)
-?Šifry (co z toho? Dá se říc, že postava něco rozšifruje, ale toje dost o ničem)
+?Šifry (co z toho? Dá se říct, že postava něco rozšifruje, ale to je dost o ničem)
 +Odezírání ze rtů
 +Padělatelství
 Nenápadnost (je? Jo, to je přetvářka a převleky.)
@@ -276,31 +450,39 @@ Nenápadnost (je? Jo, to je přetvářka a převleky.)
 -Zlodějská gesta (to by měla být součást znalosti podsvětí)
 
 +Falešná hra
-+Uzlování a únik z pout
++Únik z pout
 +Vybírání kapes
-Odhad ceny
+-Odhad ceny (nechám jen obchod)
 
 -Znalost Vadory (nebo jiného města) (to nechci jako samostatnou dovednost)
-
-+Falešná hra
+ (spadá pod znalost podsvětí)
 
 Řemesla
 --------
 
 TODO
 
-Dřevařství, Hornictví, Hrnčířství, Iluminace, Kamenictví, Kaligrafie, Kartografie, Klenotnictví, Konstrukce obléhacích zbraní, Kožedělnictví, Kovářství, Krejčířství, Kutilství, Lazebnictví, Loďařství, Námořnictví, Řeznictví, Stavitelství, Tesařina, Vaření, Výroba pastí, Zámečnictví, Zbrojířství, Zednictví, Zlatnictví
+Dřevařství, Hornictví, Hrnčířství, Iluminace, Kamenictví, Kaligrafie, Kartografie, Klenotnictví, Konstrukce obléhacích zbraní, Kožedělnictví, Kovářství, Krejčířství, Lazebnictví, Loďařství, Námořnictví, Řeznictví, Stavitelství, Tesařina, Vaření, Výroba pastí, Zámečnictví, Zbrojířství, Zednictví, Zlatnictví
++Navigace, +Uhlířství
 
-Základy řemesel
++Základy řemesel
 (válečník, alchymista, zloděj)
 - Jsi zručný řemeslník a znáš základy většiny řemesel. Nejsi v ničem mistr, ale dokážeš opravit zbroj, postavit žebřík, vykovat podkovu nebo cokoliv dalšího je potřeba.
+
+Co jednotlivá řemesla?
+- asi jo. A ta hra na hudební nástroj taky.
+
+-Vojenské inženýrství
+Sloužil jsi jako vojenský inženýr. Umíš konstruovat provizorní mosty, obláhací věže a stroje a podobně.
+/* Nechám to coby součást řemesel */
+
 
 Umění
 ------
 
 TODO
 
-Hra na hudební nástroj, Malba, Herectví, Přednes, Imitace hlasu, Skládání hudby, Sochařství, Tanec, Zpěv
+Hra na hudební nástroj, Malba, Herectví, Přednes, -Imitace hlasu (součást přetvářky), Skládání hudby, Sochařství, Tanec, Zpěv
 
 
 ======================================================
