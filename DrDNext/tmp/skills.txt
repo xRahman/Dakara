@@ -42,6 +42,7 @@ Vyznáš se v námořních mapách a s patřičnými nástroji umíš přesně z
 /* Můžeš být klidně bývalý námořník a nemít tuhle dovednost - v tom případě o lodích něco víš, ale ne dost, abys nějakou sám uřídil. */
 TODO: Asi přece jen nechat jen Navigaci s tím, že Námořnictví bude řemeslo.
   a možná Navigaci taky hodit do řemesel.
+(Když si dovednost [i]mořeplavba[/i] vezmu, bude to znamenat, že jsem zkušený kapitán, vyznám se v námořních mapách a dokážu sám zaškolit celou novou posádku a bezpečně s ní někam doplout.)
 
 +Učenost
 Vystudoval jsi akademii, univerzitu nebo jsi možná studoval u nějakého učence. Jsi zběhlý v mnoha různých naukách: anatomii, architektuře, astronomii, filosofii, geografii, historii, matematice, teologii, právu, rétorice a podobně). Učenost nezahrnuje znalost starých jazyků, to jsou samostatné dovednosti.
@@ -59,12 +60,13 @@ Vyrůstal jsi mezi lapky či městskou spodinou, případně tě někdo takový 
 - zastrašování, vydírání, uplácení
 - znáš pouliční slang a zlodějská gesta
 
-+Obchod
+-Obchod
 Znáš ceny zboží. Umíš zorganizovat kupeckou karavanu a sehnat posádku pro obchodní loď.
 - jsi díky tomu zcestovalý?
 - máš kontakty na různé kupce všude po světě.
 - dokážeš sehnat vzácné zboží (i magické předměty a tak)
 - víš, kde a jak prodat neobvyklé zboží (kouzelným meč ve vesnici neprodáš)
+/* Obchod bude řemeslo */
 
 +Odezírání ze rtů
 +Padělatelství
@@ -75,7 +77,7 @@ Znáš ceny zboží. Umíš zorganizovat kupeckou karavanu a sehnat posádku pro
 +Břichomluvectví
 
 
-+Základy řemesel
+-Základy řemesel (to vyplyne z minulosti)
 /* Řemeslnná zručnost */
 (válečník, alchymista, zloděj)
 - Jsi zručný a znáš základy většiny řemesel. Nejsi v ničem mistr, ale dokážeš opravit zbroj, postavit žebřík, vykovat podkovu nebo cokoliv dalšího je potřeba.
@@ -113,7 +115,6 @@ Učenost
 Důstojnický výcvik
 Etiketa
 Znalost podsvětí
-Obchod
 Odezírání ze rtů
 Padělatelství
 Únik z pout
@@ -132,9 +133,9 @@ Moderní jazyk
 +jednotlivá řemesla (seznam)
 Dřevařství, Hornictví, Uhlířství, Hrnčířství, Iluminace, Kamenictví, Kaligrafie,
 Kartografie, Klenotnictví, Konstrukce obléhacích zbraní, Kožedělnictví,
-Kovářství, Krejčířství, Lazebnictví, Loďařství, Námořnictví, Řeznictví,
+Kovářství, Krejčířství, Lazebnictví, Loďařství, Mořeplavba, Řeznictví,
 Stavitelství, Tesařina, Vaření, Výroba pastí, Zámečnictví, Zbrojířství,
-Zednictví, Zlatnictví
+Zednictví, Zlatnictví, Obchod
 
 +umělecké dovednosti (seznam)
   Hra na hudební nástroj, Malba, Herectví, Přednes, Skládání hudby, Sochařství,
@@ -213,7 +214,7 @@ Základy řemesel
 Hra na hudební nástroj (urči který)
 
 Dřevařství, Hornictví, Konstrukce obléhacích zbraní, Kovářství,
-Námořnictví, Tesařina, Vaření, Zbrojířství
+Mořeplavba, Tesařina, Vaření, Zbrojířství
 
 
 /* Řemesel je u válečníka moc, ještě je probrat. Probráno. */
@@ -256,6 +257,9 @@ Bylinkářství a léčení
 Učenost
 Padělatelství
 Plavání
+Hra na hudební nástroj (urči který)
+Malba
+Sochařství
 
 Iluminace, Kaligrafie, Klenotnictví, Konstrukce obléhacích zbraní,
 Kovářství, Vaření, Výroba pastí, Zlatnictví
@@ -273,6 +277,7 @@ Starý jazyk
 - starogoblinština
 Učenost
 Padělatelství
+Plavání
 
 Moderní jazyk
 - obecná řeč
@@ -281,7 +286,6 @@ Moderní jazyk
 - řeč barbarů
 - krollština
 
-Plavání
 
 Iluminace, Kaligrafie, Kartografie, Klenotnictví
 
@@ -308,13 +312,8 @@ Padělatelství
 Falešná hra
 Vybírání kapes
 Břichomluvectví
-Základy řemesel
 
-Dřevařství, Hornictví, Hrnčířství, Iluminace, Kamenictví, Kaligrafie,
-Kartografie, Klenotnictví, Konstrukce obléhacích zbraní, Kožedělnictví,
-Kovářství, Krejčířství, Lazebnictví, Loďařství, Námořnictví, Řeznictví,
-Stavitelství, Tesařina, Vaření, Výroba pastí, Zámečnictví, Zbrojířství,
-Zednictví, Zlatnictví
+Jedno z řemesel: Klenotnictví, Lazebnictví, Mořeplavba, Vaření, Výroba pastí, Zámečnictví, Zlatnictví
 
 Herectví,
 
