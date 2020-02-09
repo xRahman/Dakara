@@ -1,0 +1,11 @@
+The plan
+---------
+
+- dodělat magic itemy do prezentovatelné podoby
+- vybrat pár magic itemů do nabídky obchodníka v Trossu
+
+- udělat rozpočet pro Trosské dobrodružství
+  - mělo by tam bejt dohromady víc za co utrácet (včetně levelování) než kolik
+    se tam dá vydělat
+
+- zrevidovat ceny magických itemů
