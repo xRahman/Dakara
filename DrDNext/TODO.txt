@@ -9,3 +9,8 @@ The plan
     se tam dá vydělat
 
 - zrevidovat ceny magických itemů
+
+-----------------------------------------
+
+TODO: Oblečení podle živobytí
+(stejnej počet stupňů a říkat tomu rovnou "šaty pro měšťana, šaty pro zemana"...)
