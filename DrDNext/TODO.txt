@@ -1,15 +1,22 @@
 Dnešní TODO: Mistři v Trossu
 
+TODO: Zrevidovat ceny nemovitostí
+
+-----------------------------------------
+
 TODO:
 - živobytí a šaty jsou při tvorbě postava zdarma (automaticky podle úrovně)
+[done]
 - do živobytí (dlouhodobého) zahrnout i šaty (tj. když upgradnu živobytí,
   upgradnu tím současně i garderóbu).
+[done]
 - cenu za živobytí odečíst od startovní částky
+[done]
+
 
 TODO: Pokud budu mít startovní živobytí závislé na úrovni, měl bych asi
   dát i různé startovní částky.
 [done]
-
 
 
 TODO: dodělat magic itemy do prezentovatelné podoby
@@ -25,7 +32,6 @@ TODO: udělat rozpočet pro Trosské dobrodružství
 TODO: zrevidovat ceny magických itemů
 [done]
 
------------------------------------------
-
 TODO: Oblečení podle živobytí
 (stejnej počet stupňů a říkat tomu rovnou "šaty pro měšťana, šaty pro zemana"...)
+[done]
