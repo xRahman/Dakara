@@ -1,8 +1,21 @@
-Dnešní TODO: Mistři v Trossu
+• Stat block, smysly
+• Staty speciálních útoků, zvláštních schopností a jedů
+• Popis nestvůry, jak se pohybuje
+• Kde a jak žije, čím se živí a podobně
+• Boj s XY
+• Popis zranitelností a dalších specialit
+• Co se dá z potvory vytěžit nebo vyrobit
+
+
+-----------------------------------------
+
 
 TODO: Zrevidovat ceny nemovitostí
 
 -----------------------------------------
+
+TODO: Mistři v Trossu
+[done, jakž takž]
 
 TODO:
 - živobytí a šaty jsou při tvorbě postava zdarma (automaticky podle úrovně)
