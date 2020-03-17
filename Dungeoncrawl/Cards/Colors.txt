@@ -1,13 +1,13 @@
-﻿Základní písmo na kartě: rgb( 50, 50,  50)
-Oheň:                    rgb(255, 100, 0)	FF6400
+﻿Základní písmo na kartě: rgb( 50,  50,  50)
+Oheň:                    rgb(255, 100,   0)	FF6400
 Mráz:                    rgb(  0, 200, 255)	00C8FF
 Blesk:                   rgb(100, 130, 255)	6482FF
-Jed:                     rgb(139, 166, 14)	8BA60E
-Žíravina:                rgb(195, 179, 70)	C3B346
+Jed:                     rgb(139, 166,  14)	8BA60E
+Žíravina:                rgb(195, 179,  70)	C3B346
 
 Sek:			 rgb(100, 150, 170)	6469AA
-Bod:			 rgb(200, 100, 0)	C68400
-Drcení:			 rgb(150, 100, 0)	966400
+Bod:			 rgb(200, 100,   0)	C68400
+Drcení:			 rgb(150, 100,   0)	966400
 
 
 Duševní nebo nehmotné:   rgb( 20, 190, 170)	14BEAA
