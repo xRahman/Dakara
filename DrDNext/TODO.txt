@@ -1,3 +1,8 @@
+TODO: Příklady použití ve hře pro všechny potvory.
+TODO: Dát všechny jedy do ceníku
+
+-----------------------------------------
+
 • Stat block, smysly
 • Staty speciálních útoků, zvláštních schopností a jedů
 • Popis nestvůry, jak se pohybuje
