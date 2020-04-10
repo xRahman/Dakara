@@ -1,3 +1,7 @@
+TODO: "prodleva" místo "latence"
+
+TODO: Rostoucí účinnost hojivé masti podle stupně dovednosti (na základním vyléčí 1 život, na pokročilém 2 a na mistrovském 3)
+
 TODO: Příklady použití ve hře pro všechny potvory.
 TODO: Dát všechny jedy do ceníku
 
