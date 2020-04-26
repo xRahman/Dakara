@@ -1,3 +1,9 @@
+TODO: Ceny oblečení do ceníku (asi jsem je tam nedal, protože je postavy dostanou automaticky s živobytím? Každopádně jsou potřeba).
+- aha, v ceníku jsou, jen v jiný kapitole (to asi není dobře, když jsem to ani já nemohl najít.
+  Ceník by nejspíš měl bejt jen jeden).
+
+TODO: Osoba posedlá démonem má zvýšené staty a životy (dát to do Bestiáře k Nehmotným démonům).
+
 TODO: "prodleva" místo "latence"
 
 TODO: Rostoucí účinnost hojivé masti podle stupně dovednosti (na základním vyléčí 1 život, na pokročilém 2 a na mistrovském 3)
