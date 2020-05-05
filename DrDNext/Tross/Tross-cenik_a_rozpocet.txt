@@ -1,5 +1,4 @@
-Vila
------
+Krvava vila
 2st, 30 mk (3 - pokoj služebnictva)
 16 zl, 63 st (13 - šatník)
 
@@ -7,6 +6,14 @@ Okolí Trossu
 76 st (strašidelný mlýn)
 40 st (měšec kašpara, který hraje kostky)
 10 zl (odměna od velekněze Mankara)
+
+Vorokův chrám
+10 za likvidaci ještěřího kultu
+
+Vila Filomény Karské
+10 zl za vyčištění zombií
+30 zl za likvidaci Karsavara
+
 
 
 sekáček (4 st)
