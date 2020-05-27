@@ -1,3 +1,11 @@
 Vytisknout dotisky
 
+Zvýraznit secrets v mapách dungeonů
+
 Vytisknout mapy dungeonů
+
+Rozdělit text, aby lokace začínaly na nových stránkách
+
+Vytisknout sudoku
+
+TODO: Čtverečkovaný papír s gridem pro důl
