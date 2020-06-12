@@ -1,3 +1,12 @@
+TODO: Tahle hra je navržená tak, aby se v ní dobře hrálo immerzivně (vžití se do postavy) - s minimem hodů, kdy hráči i Pán jeskyně většinu času mluví, přemýšlí a jednají, jako kdyby byli postava (ať už hráčská nebo nehráčská). Můžete ji samozřejmě hrát i jinak, ale pokud o tohle nestojíte, jiné hry vám nabídnou užitečné nástroje a herní mechaniky, které tady záměrně nejsou, protože se s tímto stylem hry neslučují.
+- není to ale plná imerze
+
+TODO: Tři složky hry, ke kterým se přistupuje různě (vysvětlit důvody a v čem se to liší): boj, průzkum, rozhovory (Hra záměrně přistupuje k různým situacím různě, protože se snaží podpořit různé druhy zážitku).
+- v boji a v nebezpečných situacích se hází, protože absence náhody a nestranné vyhodnocovací mechaniky snižuje pocit nebezpečí a vlivu hráčem zvolené taktiky. Házení v boji také umožňuje zohlednit účinnost různých zbraní a zbrojí.
+- při průzkumu je vhodné říkat, o co se hráč snaží, protože to brání nedorozuměním a pomáhá to slaďovat představu hráčů o situaci ve hře.
+- při rozhovorech naopak není vhodné říkat, o co se hráč snaží, protože by to zmemožnilo ponoření do postavy a hraní v roli
+
+
 TODO: Zrušit zbraně nevhodné do starověku
 
 TODO: Prostudovat a vytěžit materiál o gladiátorech:
