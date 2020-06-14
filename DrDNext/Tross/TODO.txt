@@ -1,9 +1,21 @@
-Vytisknout dotisky
+Události přesunout k lokacím, ke kterým se vztahují (tj. k městu).
 
-Zvýraznit secrets v mapách dungeonů
+K encounteru s veleknězem poznamenat, že dává smysl jen blízko městu.
 
-Vytisknout mapy dungeonů
+Dnešní TODO:
+------------
 
-Vytisknout sudoku
+[done] Přesunout audienci u vládce města k vládci města
 
-TODO: Čtverečkovaný papír s gridem pro důl
+Dodělat důl
+
+
+[done] Vytisknout dotisky
+
+[done] Zvýraznit secrets v mapách dungeonů
+
+[done] Vytisknout mapy dungeonů
+
+[done] Vytisknout sudoku
+
+[done] Čtverečkovaný papír s gridem pro důl
