@@ -1,3 +1,19 @@
+TODO: vybrat font:
+
+liberation serif
+bookman old style
+book antiqua
+cambria
+candara (dobře čitelná, slabší kurzíva)
+carlito (dobře čitelné)
+centaur (hezký font, chybí český znaky)
+century
+century schoolbook
+Comic Sans MS
+
+-----------------------------------------
+
+
 TODO: Tahle hra je navržená tak, aby se v ní dobře hrálo immerzivně (vžití se do postavy) - s minimem hodů, kdy hráči i Pán jeskyně většinu času mluví, přemýšlí a jednají, jako kdyby byli postava (ať už hráčská nebo nehráčská). Můžete ji samozřejmě hrát i jinak, ale pokud o tohle nestojíte, jiné hry vám nabídnou užitečné nástroje a herní mechaniky, které tady záměrně nejsou, protože se s tímto stylem hry neslučují.
 - není to ale plná imerze
 
