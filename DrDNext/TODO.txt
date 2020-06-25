@@ -1,15 +1,30 @@
 TODO: vybrat font:
 
 liberation serif
-bookman old style
-book antiqua
-cambria
-candara (dobře čitelná, slabší kurzíva)
-carlito (dobře čitelné)
-centaur (hezký font, chybí český znaky)
-century
-century schoolbook
-Comic Sans MS
++bookman old style (hezká kurzíva, celkem dobře čitelné)
+++book antiqua (hezká kurzíva, dobře čitelné)
++++cambria (ok kurzíva, hezký čísla, velmi dobře čitelné, kompaktní)
+-candara (dobře čitelná, slabší kurzíva)
+-carlito (dobře čitelné)
+-centaur (hezký font, chybí český znaky)
+-century
++century schoolbook (hezká kurzíva, ok čísla, dobře čitelné)
++++Comic Sans MS (nevypadá jako tištěnej font)
++Franklin Gothic Book (ok kurzíva, hezká čísla, ok čitelnost, kompaktní)
++Garamond (fajn kurzíva, ok čitelnost kompaktní)
++++Gentium Basic (jako cambria, ale hezčí kurzíva a tenčí písmo)
++Gentium Book Basic (jako Gentium Book Basic, ale tučnější písmo)
+++++Gill Sans MT (ok kurzíva, výrazný písmo, výborně čitelný, hezký čísla)
+Goudy Old Style (hezká kurzíva)
++Harrington (hezkej ozdobnej font, ale chyběj český znaky, slabší čitelnost)
++KacstBook (ok kurzíva, ok čitelnost, ok čísla, kompaktní - ale nejspíš to není latinka)
+Linux Biolinum G (celkově ok font, ok čitelnost)
+Lucida Bright (ok font, ale divné tučné malé č)
+Noto Sans Georgia (ok font)
+Noto Sans Hebrew (ok font)
+Noto Sans Light (ok font, hodně tenkej)
++Papyrus (hezkej font, hůř čitelnej, chyběj český znaky)
++++Segoe UI (hezkej, čitelnej font)
 
 -----------------------------------------
 
