@@ -1,0 +1,12 @@
+﻿https://www.youtube.com/watch?v=oJiesAV32-8
+- layer > alpha to selection
+- filters > light and shadow > Xach-Effect
+  - Drop Shadow Blur Radius: 30
+  - Highlight Opacity: něco kolem 200
+  - nakonec text obarvit
+    - ještě s aktivní selekcí vybrat layer s testem a dát: Colors -> Colorize
+      a nastavit:
+      - Hue 75
+      - Saturation 66
+      - Lightness 50
+   - Pak jsem ještě hejbal s brightness highlightu
