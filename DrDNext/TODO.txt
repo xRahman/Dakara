@@ -1,3 +1,7 @@
+Extension na vkládání pevných mezer (snad):
+http://macrojtb.hys.cz/typoJTB.html
+
+
 TODO: vybrat font:
 
 liberation serif
