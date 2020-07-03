@@ -1,3 +1,15 @@
+Sazba:
+
+- všechny dovednosti, recepty, kouzla a schopnosti jsou kurzívou (výhledově by to měly bejt odkazy)
+- krátká vzdálenost, bezvědomí, soustředění, na útok, na obranu, plná obrana a podobně jsou obyčejným fontem
+  (tady je to teda trochu otázka, asi by to taky mohly bejt klikatelný odkazy a pak by ta kurzíva dávala smysl).
+- veličiny, který mají nějakou hodnotu, jsou vždycky s velkým písmenem.
+  Takže Fyzička, Finesa, Zbroj, Zranění.
+- Vlastnost nebo vlastnost?
+  - vlastnost, pouze ve vzorcích Vlastnost: (Vlastnost + k6)
+
+------------------------------------------
+
 Extension na vkládání pevných mezer (snad):
 http://macrojtb.hys.cz/typoJTB.html
 
