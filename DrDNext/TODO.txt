@@ -1,3 +1,15 @@
+Dovednosti:
+
+Dávají smysl třístupňový jazyky?
+  - asi jo:
+    Základy: lámaně se domluvím
+    Pokročilá znalost: rodilý mluvčí
+    Mistrovská znalost: vzdělanec
+- bude se to trochu bít s původním konceptem, že zběžnou znalost není třeba platit
+  - Což je asi logický, třístupňovej model tenhle koncept nahrazuje.
+
+------------------------------------------
+
 Sazba:
 
 - všechny dovednosti, recepty, kouzla a schopnosti jsou kurzívou (výhledově by to měly bejt odkazy)
@@ -7,6 +19,8 @@ Sazba:
   Takže Fyzička, Finesa, Zbroj, Zranění.
 - Vlastnost nebo vlastnost?
   - vlastnost, pouze ve vzorcích Vlastnost: (Vlastnost + k6)
+
+- Zdůraznění definovaného pojmu boldem (např. první výskyt slov Fyzička, Finesa a Duše)?
 
 ------------------------------------------
 
