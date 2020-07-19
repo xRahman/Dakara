@@ -34,6 +34,10 @@ Sazba:
 
 - Zdůraznění definovaného pojmu boldem (např. první výskyt slov Fyzička, Finesa a Duše)?
 
+- TODO: Dovednosti s velkým nebo malým písmenem?
+  - zatím píšu spíš velký, ale není to úplně konzistentní.
+  - je to ale asi divný, není pro to moc důvod - kouzla jsou s malým, recepty taky....
+
 ------------------------------------------
 
 Extension na vkládání pevných mezer (snad):
