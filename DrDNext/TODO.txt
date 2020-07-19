@@ -36,7 +36,7 @@ Sazba:
 
 - TODO: Dovednosti s velkým nebo malým písmenem?
   - zatím píšu spíš velký, ale není to úplně konzistentní.
-  - je to ale asi divný, není pro to moc důvod - kouzla jsou s malým, recepty taky....
+  - je to ale asi divný, není pro to moc důvod - kouzla jsou s malým, recepty taky...
 
 ------------------------------------------
 
