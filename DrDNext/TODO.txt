@@ -1,3 +1,11 @@
+IDEA k živobytí: spojit ho s majetkem
+- majetek generuje příjem, kterej postavám pokryje náklady na živobytí
+- tzn. když si postavy pořídí dům ve městě, budou žít jako měšťani. Když si pořídí tvrz, budou žít jako zemani.
+- startovní živobytí je "dobrodruh na cestách".
+- možná by takhle mohlo bejt řešený jen permanentní živobytí.
+
+------------------------------------------
+
 Tool na výrobu transparentních imagí:
 https://www.remove.bg/
 
@@ -37,6 +45,25 @@ Sazba:
 - TODO: Dovednosti s velkým nebo malým písmenem?
   - zatím píšu spíš velký, ale není to úplně konzistentní.
   - je to ale asi divný, není pro to moc důvod - kouzla jsou s malým, recepty taky...
+
+TODO: Ještě jednou zvážit herní pojmy jako zpomalení, bezvědomí, soustředění a podobně
+  IDEA: Pokud mají někde definici, dávat je kurzívou coby odkaz (kurzíva by obecně znamenala klikatelný odkaz - u kouzel, schopností a podobně to určitě platit bude).
+
+Headings
+---------
+
+H3: Rasy (člověk, barbar), potvory (skřet, zlobr)
+H4: Kouzla, recepty, schopnosti, dovednosti, předměty
+
+Ekonomie
+
+Měna a obchod
+Živobytí
+Výbava a majetek
+- Výzbroj
+- Šaty
+
+Ceník (jako samostatná kapitola?)
 
 ------------------------------------------
 
