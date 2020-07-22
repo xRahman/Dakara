@@ -3,6 +3,8 @@ IDEA k živobytí: spojit ho s majetkem
 - tzn. když si postavy pořídí dům ve městě, budou žít jako měšťani. Když si pořídí tvrz, budou žít jako zemani.
 - startovní živobytí je "dobrodruh na cestách".
 - možná by takhle mohlo bejt řešený jen permanentní živobytí.
+PROBLÉM: Nebude to fungovat u putujících postav.
+- to ale možná ničemu nevadí, holt si prostě nebudou zvyšovat živobytí
 
 ------------------------------------------
 
