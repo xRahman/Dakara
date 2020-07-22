@@ -6,6 +6,26 @@ IDEA k živobytí: spojit ho s majetkem
 PROBLÉM: Nebude to fungovat u putujících postav.
 - to ale možná ničemu nevadí, holt si prostě nebudou zvyšovat živobytí
 
+žebrák		0 zl
+chuďas		10 zl
+prosťák		100 zl
+zaopatřený	1.000 zl
+zámožný		10.000 zl
+boháč		100.000 zl
+velmož		1.000.000 zl
+
+
+žebrota
+bída
+chudoba
+prostý život
+slušný život
+zaopatřený život
+zámožný život
+blahobyt
+bohatství
+přepych/luxus
+
 ------------------------------------------
 
 Tool na výrobu transparentních imagí:
