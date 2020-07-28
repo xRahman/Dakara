@@ -1,0 +1,10 @@
+﻿https://thegeekpage.com/convert-image-to-pencil-sketch-drawing/
+- okeyish
+
+https://effectphoto.blogspot.com/2015/08/turn-photo-into-sketch-using-gimp.html
+- good
+
+Obarvení:
+- přidat nový layer, vyplnit ho barvou (3c1e00) a dát mu opacity 25%
+  (trochu jsem si pak ještě hrál s brightness)
+- taky jsem dělal "Color to Alpha", to je hodně důležitý (vypadá to pak víc jako nakreslený na papír)

@@ -7,12 +7,13 @@ PROBLÉM: Nebude to fungovat u putujících postav.
 - to ale možná ničemu nevadí, holt si prostě nebudou zvyšovat živobytí
 
 žebrák		0 zl
-chuďas		10 zl
-prosťák		100 zl
-zaopatřený	1.000 zl
-zámožný		10.000 zl
-boháč		100.000 zl
+chuďas		5 zl
+prosťák		20 zl
+zaopatřený	100 zl
+zámožný		1.000 zl
+boháč		20.000 zl
 velmož		1.000.000 zl
+velekrál	100.000.000 zl
 
 
 žebrota

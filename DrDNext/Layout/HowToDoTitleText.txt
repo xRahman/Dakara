@@ -1,3 +1,0 @@
-﻿Colors:
-
-Text color: (60, 30, 0)
