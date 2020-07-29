@@ -1,0 +1,36 @@
+﻿Convert to Drawing
+-------------------
+
+https://effectphoto.blogspot.com/2015/08/turn-photo-into-sketch-using-gimp.html
+
+1) Duplicate layer
+
+2) Change its blend mode to Dodge
+
+3) Invert its color
+
+4) Go to Filters > Distorts > Value Propagate
+
+  Select Mode: More black (smaller value)
+  Leave other values
+
+5) Repeat step 4 (Ctrl + F) until you are happy with the result
+
+6) Desaturate both layers
+
+
+Zprůhlednění
+-------------
+
+1) Colors > Color to Alpha (from White)
+
+
+Obarvení
+----------
+
+https://graphicdesign.stackexchange.com/questions/111121/how-do-i-change-the-color-of-a-png-image-in-gimp
+
+
+1) Set the alpha lock for the layer (checkerboard icon in the "Lock" line at the top of the layers list)
+
+2) Bucket-fill the layer (without any selection) with color (3c1e00)
