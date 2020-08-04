@@ -1,3 +1,67 @@
+Struktura bestiáře
+-------------------
+
+V zásadě dvě varianty
+
+- Buď budou potvory v kategoriích mít jinej heading než samostatný potvory
+- Nebo dám všechny potvory do nějaký kategorie.
+
+Varianta "každá potvora v nějaký kategorii":
+............................................
+
+Slizy a červi
+- Červ obří
+- Ogloj chorchoj
+- Hnus plíživý
+- Slizovec
+
+Lesní tvorové
+- Dryáda
+- Keř dravý (nemusí bejt nutně v lese...)
+- Oživlý strom
+
+
+Magické konstrukty?
+/* Je fakt, že gargoyla je druh oživlé sochy */
+- Gargoyla?
+- Oživlé sochy
+
+Mytologičtí tvorové (Magičtí kříženci?)
+- Gryf
+- Harpyje
+- Jednorožec
+- Kostěj nesmrtelný
+- Mantikora
+- Medůza
+- Pegas
+- Wyverna
+
+
+- Huňáč
+- Moucha zlodějka
+- Netvor bahenní
+- Všežrout odporný
+- Řasnatka
+- Skvrna barevná
+
+
+Humanoidi
+- Permoník
+- Poletucha
+- Pavoučnatka?
+- Skřetí rasy (pro ty chci samostatný heslo...)
+
+Poloobři
+- Zlobr
+
+Obři
+- Obr
+
+
+
+------------------------------------------
+
+
 IDEA k živobytí: spojit ho s majetkem
 - majetek generuje příjem, kterej postavám pokryje náklady na živobytí
 - tzn. když si postavy pořídí dům ve městě, budou žít jako měšťani. Když si pořídí tvrz, budou žít jako zemani.
