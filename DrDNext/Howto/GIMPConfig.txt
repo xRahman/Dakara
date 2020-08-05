@@ -1,0 +1,1 @@
+﻿Setup tablet and configure GIMP: http://feeblemind.tuxfamily.org/blog/index.php?post/2010/07/07/Configuring-Gimp-for-pen-tablets-%28like-Wacom-s-Bamboo-Fun%29

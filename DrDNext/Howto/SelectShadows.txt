@@ -1,0 +1,24 @@
+Jak selectnout stíny:
+
+1) Zduplikovat layer
+
+2) Na novém layeru dát desaturate -> luminosity
+
+3) Na novém layeru zapnout Mode -> Burn
+
+4) Selectnout černou barvu přes Select by Color Tool
+
+// Nevýhoda tohohle řešení je, že to selectne stíny rovnoměrně, tj. zmizej pak drobný rozdíly.
+// Zkusím to jinak
+
+
+Alternativa:
+
+1) Zduplikovat layer
+
+2) Na novém layeru dát desaturate -> Average (HSI intensity)
+  (nebo prostě tu variantu desaturate, která nejvíc zvýrazní stíny)
+
+- pak případně ještě trochu zvednout kontrast
+
+3) Layer se stínama hodit nad layer s kresbou a blendnout ho přes alfu
