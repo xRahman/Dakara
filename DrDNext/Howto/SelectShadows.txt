@@ -19,6 +19,10 @@ Alternativa:
 2) Na novém layeru dát desaturate -> Average (HSI intensity)
   (nebo prostě tu variantu desaturate, která nejvíc zvýrazní stíny)
 
-- pak případně ještě trochu zvednout kontrast
+3) Zvednout Brightness a Contrast obojí tak na 65
 
-3) Layer se stínama hodit nad layer s kresbou a blendnout ho přes alfu
+4) Shadows zvednout na max, Highlights trochu
+
+5) IMPORTANT! - na Shadows layeru dát Color to Alpha (z bílé)
+
+5) Layer se stínama hodit nad layer s kresbou a blendnout ho přes alfu
