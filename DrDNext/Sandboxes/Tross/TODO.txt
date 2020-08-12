@@ -1,0 +1,21 @@
+Události přesunout k lokacím, ke kterým se vztahují (tj. k městu).
+
+K encounteru s veleknězem poznamenat, že dává smysl jen blízko městu.
+
+Dnešní TODO:
+------------
+
+[done] Přesunout audienci u vládce města k vládci města
+
+Dodělat důl
+
+
+[done] Vytisknout dotisky
+
+[done] Zvýraznit secrets v mapách dungeonů
+
+[done] Vytisknout mapy dungeonů
+
+[done] Vytisknout sudoku
+
+[done] Čtverečkovaný papír s gridem pro důl
