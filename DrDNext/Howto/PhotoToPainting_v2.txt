@@ -1,0 +1,80 @@
+﻿1. Convert to Drawing
+----------------------
+
+https://effectphoto.blogspot.com/2015/08/turn-photo-into-sketch-using-gimp.html
+
+1) Duplicate layer
+
+2) Change its blend mode to Dodge
+
+3) Invert its color
+
+4) Go to Filters > Distorts > Value Propagate
+
+  Select Mode: More black (smaller value)
+  Leave other values
+
+5) Repeat step 4 (Ctrl + F) until you are happy with the result
+
+6) Merge both layers
+
+- neni od veci nejdriv odstranit nebe a vratit ho az úplně nakonec (není ho obvykle třeba prohánět filtrama a zmizej pak duchové na horizontu)
+
+- občas vznikají barevný artefakty - řešení je obvykle je selektnout (ať už ručně obrysem nebo přes výběr barvy) a částečně desaturovat
+
+
+2. Lay the Drawing over base image
+-----------------------------------
+
+Tzn. dát layer s drawingem nad originální image a zprůhlednit ho
+
+- většinou zase bez nebe
+
+- někdy se hodí dát Color to Alpha (míň pak zbělá původní obrázek ale taky je míň vidět kresba)
+
+- docela dobře taky vychází blend mode: HSV value
+
+
+3. Enhance the Drawing
+----------------------
+
+1) Colors -> Shadows-Highlighs a pohrát si s nastavením
+
+- obvykle je dobrý stáhnout highlights, vynikne pak kresba a drawing pak tolik nezesvětluje základní image
+
+2) Filters -> Enhance -> Sharpen a pohrát si s nastavením
+
+- tohle se dělá pořád na částečně zprůhledněném drawing layeru nad originálním obrázkem
+
+
+Create Shadows layer
+---------------------
+
+1) Duplicate original layer (zase bez nebe), rename it "Shadows"
+
+2) Desaturate the Shadows layer
+
+3) Colors -> Shadows-Highlight a pohrát si s nastavením
+
+3) Colors -> Brightness-Conrast a zvednout jak brightness tak contrast
+
+4) Colors -> Color to Alpha
+
+5) Put Shadows layer above Drawing layer (pohrát si s průhledností shadow layeru, aby to vypadalo dobře)
+
+
+
+Final Touches
+---------------
+
+- nebývá od věci zvednout saturation (stále bez nebe)
+
+- a podle potřeby si pohrát s expozicí 
+
+- nakonec dát Filters -> Enhance -> Antialias (většinou to nic moc neudělá, ale proč ne)
+
+
+Export
+-------
+
+Finální layer se obvykle jmenuje "color v1", dává se na něj Color to Alpha (z bílé) a přes layer mask případně zprůhledněné okraje
