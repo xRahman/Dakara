@@ -1,0 +1,5 @@
+https://www.deployhq.com/git/faqs/removing-large-files-from-git-history
+
+Example: delete file "DrDNext/Layout/Test/Images-color.odt" from commit history
+
+git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch DrDNext/Layout/Test/Images-color.odt'  --prune-empty --tag-name-filter cat -- --all
