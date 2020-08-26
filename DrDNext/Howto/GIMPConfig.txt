@@ -1,1 +1,33 @@
-﻿Setup tablet and configure GIMP: http://feeblemind.tuxfamily.org/blog/index.php?post/2010/07/07/Configuring-Gimp-for-pen-tablets-%28like-Wacom-s-Bamboo-Fun%29
+﻿Set language to English
+------------------------
+
+Upravit -> Předvolby -> Rozhraní -> Jazyk
+
+
+Set color theme
+----------------
+
+Edit -> Preferences -> Interface -> Theme
+
+(I use Default)
+
+
+Set icon theme and icon size
+-----------------------------
+
+Edit -> Preferences -> Interface -> Icon Theme
+
+(I use Legacy)
+
+
+Disable tool groups
+--------------------
+
+Edit -> Preferences -> Toolbox -> Use tool groups
+
+
+
+Setup tablet and configure GIMP
+---------------------------------
+
+http://feeblemind.tuxfamily.org/blog/index.php?post/2010/07/07/Configuring-Gimp-for-pen-tablets-%28like-Wacom-s-Bamboo-Fun%29
