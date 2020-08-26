@@ -44,6 +44,6 @@ done
 
 if $shouldFail
 then
-    echo Commit aborted
+    echo "Commit aborted"
     exit 1;
 fi
