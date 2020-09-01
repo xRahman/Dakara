@@ -1,3 +1,10 @@
+Bestiář
+--------
+
+- "magický zrak a sluch" u nemrtvých PJovi moc nepomůže.
+   Místo toho říct něco jako "vidí i po tmě a bez očí, slyší bez uší"
+
+
 Struktura bestiáře
 -------------------
 
