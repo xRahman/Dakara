@@ -1,3 +1,13 @@
+Magenergie
+-----------
+
+Asi by to mělo bejt co nejvíc intuitivní - pokud u něčeho dává smysl, že by tam měla magenergie bejt, tak tam je.
+- Měl by ale platit "zákon zachování magenergie": Když je v něčem magenergie, musela být použita při výrobě.
+  Není možné vyrobit magenergii z ničeho - takže pokud je kostlivec vytvořenej kouzlem bez surovin s magenergií,
+  magenergie v něm nebude (což teda spíš znamená, že když se rituálem vyrábí něco, v čem by měla bejt magenergie,
+  musí bejt použita při rituálu).
+
+
 Bestiář
 --------
 
