@@ -1,0 +1,22 @@
+O magenergii
+-------------
+
+Magenergie dává tvorům a předmětům jejich kouzelné vlastnosti. Pokud tedy nějaký tvor umí něco nadpřirozeného, třeba chodit a bojovat, přestože je mrtvý, chrlit oheň, měnit se z člověka ve zvíře a podobně, zaručeně obsahuje magenergii. To samé platí, když postavy narazí na kouzelný meč, nebo třeba na magickou past, která je po staletích stále aktivní.
+
+Kouzelníci nutně s magenergií pracovat nepotřebují - krátkodobá kouzla účinkují díky síle kouzelníkovy vůle a použitých kouzelných slov a gest. Pokud má ale nějaké kouzlo působit trvale, musí být při jeho seslání použita magenergie a ta následně bude obsažena v tvorovi nebo předmětu, na který bude kouzlo působit.
+
+Magické schopnosti hraničářů, válečníků a zlodějů s magenergií také obvykle nepracují. To mimo jiné znamená, že žádná z hráčských postav, nehledě na povolání, v sobě magenergii nemá - výjimkou může být, když je cílem magického obřadu či rituálu, který jí poskytne nějaké nezvyklé trvalé magické schopnosti či vlastnosti mimo její povolání.
+
+S magenergií se pracuje různě v závilosti na tom, v čem je obsažená. Alchymista umí pracovat s magenergií obsaženou v surovinách, jako jsou různé rostliny, vnitřnosti magických tvorů a podobně. Nedokáže ale použít magenergii obsaženou v kostlivci, oživlé soše či kouzelném meči. Kouzelníci pomocí svých kouzel a rituálů dokáží pracovat s magenergií uloženou v krystalech, existují také kouzla na "nabíjení" těchto krystalů z určitých surovin - rubín lze například nabít z magenergie obsažené ve žlázách salamadra.
+
+Druh suroviny obsahující magenergii určuje, k čemu může být použita. Z jater huňáče může například alchymista vyrobit lektvar nebo jinou kouzelnou substanci, ale není je možné použít k oživení kostlivce, zombie ani kamenné sochy. "Alchymistické" suroviny jako vnitřnosti magických tvorů, svítící houby a podobně, jsou vzájemně zaměnitelné - ze všech lze umíchat libovolný lektvar či jiný alchymistický výrobek. "Kouzelnické" suroviny mívají uzší použití - z rubínu nabitého magenergií lze například sesílat ohnivá kouzla, ale ne [i]rychlost[/i] nebo [i]hyperprostor[/i].
+
+Množství obsažené magenergie odpovídá moci tvora nebo předmětu - drak v sobě má podstatně víc magenergie než huňáč modrý.
+
+Magenergie způsobuje, že tvor nebo předmět slabě září - tím silněji, čím více jí obsahuje. U čirých drahokamů je tento jev mnohem silnější - broušený diamant obsahující desítky magů září jasným světlem.
+
+Magenergie je vždy vázána v nějakém tvoru nebo předmětu, ať už je to třeba kostlivec, skořápka dračího vejce, játra huňáče modrého nebo drahokam, vzácně může být volně rozptýlena ve vzduchu, ve vodě či v jiném plynu nebo kapalině.
+
+Magenergie nikdy nemizí ani nová nevzniká. Když tech chce kouzelník stvořit oživlou sochu, musí při provádění oživovacího rituálu spotřebovat krystaly nebo jiné vhodné suroviny nabité magenergií - ta se při tom přesune do sochy a bude následně způsobovat její kouzelné vlastnosti. Když je zničen kouzelný předmět nebo zabit magický tvor, magenergie v něm obsažená se obvykle volně rozptýlí do okolí a "vsákne" se do okolních tvorů a předmětů. Takto mohou samovolně vzniknout kouzelní tvorové nebo předměty a mohou se tam také dít různé divoké a nepředvídatelné magické jevy - náhodné proměny těch, kdo oblasti nasáklé magenergií vstoupí a podobně.
+
+Některé orgány mají větší tendenci "nasáknout" magenergií než jiné - proto například alchymista těží magenergii z jater huňáče modrého a ne třeba z jeho srdce.
