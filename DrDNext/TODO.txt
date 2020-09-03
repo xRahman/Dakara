@@ -1,3 +1,114 @@
+Běžné výdaje (TODO: Lepší název)
+/* životní náklady? Provozní náklady? */
+
+Pobyt v hostinci nebo ve městě
+  chuďas ....... 1 st na den
+  měšťan ....... 1 zl na den
+  šlechtic ..... 10 zl za den
+  boháč ........ 100 zl za den
+  král ......... 1000 zl za den
+
+Zásoby
+  obyčejné ...... 1 st na den
+  kvalitní ...... 5 st na den
+  luxusní ....... 5 zl na den
+- sem patří jídlo, svíčky, louče atd.
+
+Cestovní náklady
+  vůz
+  kůň
+  lodní lístek
+  /* cestování, zejména lodí, by mělo mít kategorie jako v hostinci */
+- píce pro koně, jízdné atd.
+/* možná je psát ke každýmu koni/vozu? */
+/* nebo říct, že náklady na koně stojí půlku co na člověka */
+
+Oblečení pro:
++ válečníka
++ alchymistu
++ kouzelníka
++ hraničáře
+- zloděje
+
+
+Žebrácké oblečení
+  žebrácké hadry (1 zl)
+
+Prosté oblečení
+  rolnický oděv (4 zl)
+  oděv přístavního dělníka (4 zl)
+  učednický oděv (6 zl)
+  prostý lovecký oděv (5 zl)
+  prostá kouzelnická róba (6 zl)
+  oděv alchymistického učně (6 zl)
+  uniforma (6 zl)
+  žoldácký oděv (5 zl)
+  námořnický oděv (5 zl)
+  kutna (4 zl)
+
+Dobré oblečení
+  oděv řemeslnického mistra (12 zl)
+  dobrý lovecký oděv (10 zl)
+  dobrý cestovní oděv (12 zl)
+  kouzelnická róba (15 zl)
+  alchymistický oděv (15 zl)
+  důstojnická uniforma (20 zl)
+  oděv žoldáckého kapitána (15 zl)
+  oděv námořního kapitána (15 zl)
+  měšťanský šat (20 zl)
+  kupecký oděv (20 zl)
+  kněžský háv (15 zl)
+  studentský šat (10 zl)
+
+Honosné oblečení
+  honosný lovecký oděv (60 zl)
+  honosné cestovní šaty (70 zl)
+  honosná kouzelnická róba (90 zl)
+  talár univerzitního mistra (80 zl)
+  oděv mistra alchymie (90 zl)
+  generálská uniforma (80 zl)
+  kapitánská uniforma (60 zl)
+  admirálská uniforma (80 zl)
+  šlechtický šat (100 zl)
+  honosný kupecký šat (100 zl)
+  honosný měšťanský šat (100 zl)
+  oděv velekněze (80 zl)
+
+Luxusní oblečení
+  oděv velmože (200 zl)
+  královský háv (500 zl)
+
+Zlodějská úprava (+5 zl)
+  Do oblečení je všito množství vnitřních kapes a skrytých pouzder.
+
+/*
+  zlodějský oděv (spousta kapes a tak)
+    /* nebo možná řešit "zlodějskou úpravu" za příplatek, zloději asi nebudou
+       chtít mít vlastní uniformu */
+*/
+
+----------------------------------------------------
+
+Výběr výbavy
+-------------
+
+IDEA: Napiš si cokoliv, co ti sedí k postavě, nebo si myslíš, že to budeš
+  potřebovat.
+  - PJ by měl hráčskou výbavu projít a klást dotěrné otázky
+    (k čemu válečník potřebuje alchymistickou aparaturu?)
+  - Smyslem výběru výbavy není napsat si věci, které později prodáš. PJ má
+    pravomoc prodej startovní výbavy zatrhnout.
+
+Tahle myšlenka se mi líbí čím dál víc...
+
+
+IDEA: V kapitole s popisem výbavy (co jsou těžký zbraně atd.) bude rovnou
+  seznam předmětů z daný kategorie (seznam těžkejch zbraní) na výběr.
+    Ceník bude úplně mimo - samostatná kapitola - a nebude se z něj vybírat
+  startovní výbava.
+
+----------------------------------------------------
+
 Magenergie
 -----------
 
@@ -14,6 +125,7 @@ Bestiář
 - "magický zrak a sluch" u nemrtvých PJovi moc nepomůže.
    Místo toho říct něco jako "vidí i po tmě a bez očí, slyší bez uší"
 
+----------------------------------------------------
 
 Struktura bestiáře
 -------------------
@@ -75,6 +187,14 @@ Obři
 - Obr
 
 
+Kategorie jako hesla
+- Ant navrhoval, že souhrnná hesla (Draci, Lykantropové atd.) by mohla být
+  normálně součástí bestiáře na úrovni hesel potvor. Tj. třeba Vlkodlak by
+  nebyl pod heslem "Lykantropové", to by se na něj pouze odkazovalo.
+
+
+=> Každá potvora bude mít heslo (mimo kategorie). Kategorie budou buď stranou
+  nebo jako samostatný hesla (se seznamem potvor, který do kategorie patřej)
 
 ------------------------------------------
 
