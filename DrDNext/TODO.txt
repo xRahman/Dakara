@@ -1,3 +1,25 @@
+Scribus TODO
+-------------
+
+Rozvrhnout hierarchii stylů (to se mi bude hodit tak jako tak)
+
+Rozmyslet si master pages
+
+Vyzkoušet:
+
+• Všechny prvky sazby
+  • Barevnej text damage
+  • Tabulky
+• Linky na kapitoly
+• Klikatelný položky v TOC
+• Bookmarky v pdf
+• Vrstvy v pdf (jak to pak funguje)
+
+Vyrobit template
+
+
+----------------------------------------------------
+
 Běžné výdaje (TODO: Lepší název)
 /* životní náklady? Provozní náklady? */
 
