@@ -1,0 +1,4 @@
+# Skip InDesign temporary files
+*.idlk
+# Skip LibreOffice temporary files
+*.odt#
