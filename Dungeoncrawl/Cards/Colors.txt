@@ -1,4 +1,7 @@
 ﻿Základní písmo na kartě: rgb( 50,  50,  50)
+
+Barva textu v pravidlech: rgb(60,  30,   0)	3c1e00
+
 Oheň:                    rgb(255, 100,   0)	FF6400
 Mráz:                    rgb(  0, 200, 255)	00C8FF
 Blesk:                   rgb(100, 130, 255)	6482FF
@@ -9,5 +12,24 @@ Sek:			 rgb(100, 150, 170)	6469AA
 Bod:			 rgb(200, 100,   0)	C68400
 Drcení:			 rgb(150, 100,   0)	966400
 
-
 Duševní nebo nehmotné:   rgb( 20, 190, 170)	14BEAA
+
+
+
+Korekce na in-gamut colors (kvůli tisku v CMYK):
+--------------------------------------------------
+
+
+Barva textu v pravidlech: rgb(60,  30,   0)	3c1e00
+
+Oheň:                    rgb(242, 101,  34)	f26522
+Mráz:                    rgb( 49, 197, 244)	31c5f4
+Blesk:                   rgb(104, 123, 188)	687bbc
+Jed:                     rgb(138, 167,  61)	8aa73d
+Žíravina:                rgb(195, 179,  70)	c3b346
+
+Sek:			 rgb(166, 145, 170)	a691aa
+Bod:			 rgb(196, 132,  43)	c4842b
+Drcení:			 rgb( 81,  82,  69)	515245
+
+Duševní nebo nehmotné:   rgb( 40, 186, 168)	28baa8
