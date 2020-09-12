@@ -1,0 +1,74 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Cambria
+FamilyName:Cambria
+StyleName:Regular
+FullName:Cambria
+MenuName:Cambria
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Brutus\Dakara\DrDNext\tmp\InDesignTest\Document fonts\cambria.ttc
+TTCOffset:32
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1619740
+FileModTime:1593705147
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Cambria
+NameArray:0,Win,1,Cambria
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CambriaMath
+FamilyName:Cambria Math
+StyleName:Regular
+FullName:Cambria Math
+MenuName:Cambria Math
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Brutus\Dakara\DrDNext\tmp\InDesignTest\Document fonts\cambria.ttc
+TTCOffset:364
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1619740
+FileModTime:1593705147
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Cambria Math
+NameArray:0,Win,1,Cambria Math
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GunnyHandwriting
+FamilyName:Gunny Handwriting
+StyleName:Regular
+FullName:Gunny Handwriting
+MenuName:Gunny Handwriting
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Brutus\Dakara\DrDNext\tmp\InDesignTest\Document fonts\Gunny_handwritting.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:21028
+FileModTime:1527274096
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gunny Handwriting
+NameArray:0,Win,1,Gunny Handwriting
+%EndFont
+
