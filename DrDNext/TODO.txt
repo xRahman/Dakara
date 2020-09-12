@@ -1,3 +1,46 @@
+InDesign TODO
+--------------
+
+• Vyzkoušt linkování obrázků, jestli se projeví změna externího souboru
+  na backgroundu všech stránek.
+  - musí se v indesignu updatnout link, ale v zásadě to jde
+[done]
+
+• Vyzkoušet object styles, jestli se tam dá nastavit obrázek.
+  - nedá, ale i tak jsou šikovný.
+[done]
+
+• Vyzkoušet, jestli opravdu fungujou linky na soubory v podadresářích
+  relativních k .indd souboru (a že nefungujou linky jinam).
+  - podle všeho sice InDesign má linky uložený absolutně, ale dokáže
+    si je sám relinknout, pokud na relativních cestách jsou příslušný soubory.
+    Takže se dá používat, jako kdyby cesty byly relativní.
+[done]
+
+• Vyzkoušet, co se stane, když vytvořím dokument z templatu a pak ten template
+  poedituju (jestli má smysl styly definovat v templatu).
+  - ono teda asi stejně dává smysl víc templatů (pro pravidla nejspíš vůbec
+    žádnej, pro dobrodružství určitě jinej), takže template asi není
+    správný místo.
+
+• Případně vyzkoušet, jestli se daj styly linknout (nebo aspoň loadnout)
+  z jinýho souboru, že bych to měl stranou stejně jako swatches.
+  - Z jinýho souboru loadnout jdou, tj. asi si vytvořím nějakej master file
+    se stylama a budu je upravovat v něm a v ostatních souborech loadovat.
+  - Styly se dají dávat do grup (a po loadnutí v nich zůstanou), takže případně
+    můžu rozdělit styly pro různý produkty a mít je všechny v jednom zdrojovym
+    souboru.
+[done]
+
+• Vyzkoumat, jestli jde udělat maska na obrázek a pokud jo, použít ji na
+  rozplizlý okraje obrázků v pravidlech.
+  - nedá. Takže holt v Gimpu.
+[done]
+
+----------------------------------------------------
+
+/* Scribus jsem zavrhnul, takže tohle všechno je pase */
+
 Scribus TODO
 -------------
 
