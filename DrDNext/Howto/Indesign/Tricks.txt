@@ -1,0 +1,18 @@
+﻿Linking objects
+----------------
+https://indesignsecrets.com/linking-images-change.php#:~:text=Tip%3A%20If%20you%20want%20to,for%20you%20to%20click%20again.
+
+
+Keeping documents in sync
+--------------------------
+https://indesignsecrets.com/synchronize-multiple-indesign-documents.php
+
+
+Sharing bits of text across multiple documents
+-----------------------------------------------
+https://indesignsecrets.com/updating-bits-of-text-across-multiple-documents.php
+
+
+Relative font size
+-------------------
+https://graphicdesign.stackexchange.com/questions/73519/adjust-font-size-reltive-to-another-font-size-in-indesign
