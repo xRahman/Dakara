@@ -6,3 +6,9 @@ Menu u panelu stylů -> Toggle Style Override Highlighter
 (Highlightuje to jen mimo previw mód)
 
 https://www.tech4pub.com/2016/03/15/indesign-cc-tip-style-override-highlighter/
+
+
+Optical Margin Alignment
+-------------------------
+
+Type -> Story, check Optical Margin Alignment
