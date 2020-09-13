@@ -1,0 +1,119 @@
+------------------------------------------
+
+InDesign
+---------
+
+• Vyzkoušt linkování obrázků, jestli se projeví změna externího souboru
+  na backgroundu všech stránek.
+  - musí se v indesignu updatnout link, ale v zásadě to jde
+[done]
+
+• Vyzkoušet object styles, jestli se tam dá nastavit obrázek.
+  - nedá, ale i tak jsou šikovný.
+[done]
+
+• Případně vyzkoušet, jestli se daj styly linknout (nebo aspoň loadnout)
+  z jinýho souboru, že bych to měl stranou stejně jako swatches.
+  - Z jinýho souboru loadnout jdou, tj. asi si vytvořím nějakej master file
+    se stylama a budu je upravovat v něm a v ostatních souborech loadovat.
+  - Styly se dají dávat do grup (a po loadnutí v nich zůstanou), takže případně
+    můžu rozdělit styly pro různý produkty a mít je všechny v jednom zdrojovym
+    souboru.
+[done]
+
+• Vyzkoumat, jestli jde udělat maska na obrázek a pokud jo, použít ji na
+  rozplizlý okraje obrázků v pravidlech.
+  - nedá. Takže holt v Gimpu.
+[done]
+
+• Vyzkoušet, jestli se v Idd stylech dá dědit barva písma
+  - jde to.
+[done]
+
+• TODO: Vyzkoušet feathering na okraje obrázků
+  viz https://youtu.be/cC3i4X66z2I?t=719
+  - je třeba zkombinovat feathering a gradient, což trochu saje, ale funguje to.
+[done]
+
+• Vyzkoušt master page "1st page of a chapter" based on "basic rules page", jestli bude mít
+  obrázek a číslo stránky.
+  - funguje
+[done]
+
+• Vyzkoušet, jestli opravdu fungujou linky na soubory v podadresářích
+  relativních k .indd souboru (a že nefungujou linky jinam).
+  - podle všeho sice InDesign má linky uložený absolutně, ale dokáže
+    si je sám relinknout, pokud na relativních cestách jsou příslušný soubory.
+    Takže se dá používat, jako kdyby cesty byly relativní.
+[done]
+
+------------------------------------------
+
+TODO: vybrat font:
+
+liberation serif
++bookman old style (hezká kurzíva, celkem dobře čitelné)
+++book antiqua (hezká kurzíva, dobře čitelné)
++++cambria (ok kurzíva, hezký čísla, velmi dobře čitelné, kompaktní)
+-candara (dobře čitelná, slabší kurzíva)
+-carlito (dobře čitelné)
+-centaur (hezký font, chybí český znaky)
+-century
++century schoolbook (hezká kurzíva, ok čísla, dobře čitelné)
++++Comic Sans MS (nevypadá jako tištěnej font)
++Franklin Gothic Book (ok kurzíva, hezká čísla, ok čitelnost, kompaktní)
++Garamond (fajn kurzíva, ok čitelnost kompaktní)
++++Gentium Basic (jako cambria, ale hezčí kurzíva a tenčí písmo)
++Gentium Book Basic (jako Gentium Book Basic, ale tučnější písmo)
+++++Gill Sans MT (ok kurzíva, výrazný písmo, výborně čitelný, hezký čísla)
+Goudy Old Style (hezká kurzíva)
++Harrington (hezkej ozdobnej font, ale chyběj český znaky, slabší čitelnost)
++KacstBook (ok kurzíva, ok čitelnost, ok čísla, kompaktní - ale nejspíš to není latinka)
+Linux Biolinum G (celkově ok font, ok čitelnost)
+Lucida Bright (ok font, ale divné tučné malé č)
+Noto Sans Georgia (ok font)
+Noto Sans Hebrew (ok font)
+Noto Sans Light (ok font, hodně tenkej)
++Papyrus (hezkej font, hůř čitelnej, chyběj český znaky)
++++Segoe UI (hezkej, čitelnej font)
+
+=> Vyhrála Cambria
+[done]
+
+------------------------------------------
+
+
+TODO: Mistři v Trossu
+[done, jakž takž]
+
+TODO:
+- živobytí a šaty jsou při tvorbě postava zdarma (automaticky podle úrovně)
+[done]
+- do živobytí (dlouhodobého) zahrnout i šaty (tj. když upgradnu živobytí,
+  upgradnu tím současně i garderóbu).
+[done]
+- cenu za živobytí odečíst od startovní částky
+[done]
+
+
+TODO: Pokud budu mít startovní živobytí závislé na úrovni, měl bych asi
+  dát i různé startovní částky.
+[done]
+
+
+TODO: dodělat magic itemy do prezentovatelné podoby
+[done]
+TODO: vybrat pár magic itemů do nabídky obchodníka v Trossu
+[done]
+
+TODO: udělat rozpočet pro Trosské dobrodružství
+  - mělo by tam bejt dohromady víc za co utrácet (včetně levelování) než kolik
+    se tam dá vydělat
+[done]
+
+TODO: zrevidovat ceny magických itemů
+[done]
+
+TODO: Oblečení podle živobytí
+(stejnej počet stupňů a říkat tomu rovnou "šaty pro měšťana, šaty pro zemana"...)
+[done]
