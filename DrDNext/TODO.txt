@@ -1,3 +1,16 @@
+QUESTION: Čeština nebo angličtina? (Adresáře, jména stylů atd.?)
+
+Directory structure
+--------------------
+
+Dracak
+- Rules
+- Sandboxes
+- Dungeons
+
+
+----------------------------------------------------
+
 InDesign TODO
 --------------
 
@@ -36,6 +49,42 @@ InDesign TODO
   rozplizlý okraje obrázků v pravidlech.
   - nedá. Takže holt v Gimpu.
 [done]
+
+• Vyzkoušet, jestli se v Idd stylech dá dědit barva písma
+  - jde to.
+[done]
+
+• TODO: Vyzkoušet feathering na okraje obrázků
+  viz https://youtu.be/cC3i4X66z2I?t=719
+
+• Vyzkoušt master page "1st page of a chapter" based on "basic rules page", jestli bude mít
+  obrázek a číslo stránky.
+
+------------------------------
+
+Jak na styly
+-------------
+
+Velikost
+- styl [Bacic Paragraph] použít jako parenta pro všechny ostatní styly,
+  který se mají scalovat (když už tam musí bejt, tak ať je k něčemu dobrej).
+- teoreticky pokud bych chtěl mít písmo, jehož velikost nebude scalovat,
+  tak ho basnu na [No Paragraph Style]
+  - nebo ji v něm prostě nastavím natvrdo, že.
+
+Barva Fontu
+- určitě chci možnost scalování a současně jiný barvy, tj. barva by měla bejt
+  definovaná na jinym stylu než [Bacic Paragraph].
+  - buď si udělat dummy style čistě na barvu, nebo všechno odvodit z Text Body...
+  Vlastně ne, to je blbost
+  - barvu klidně můžu dát do [Bacic Paragraph]. Když budu chtít styl s jinou
+    barvou, tak ji v něm prostě předefinuju.
+
+Co musím udlěat před importem textu do idd:
+- Dědění stylů a podobně můžu přenastavit po importu. A vlastně i názvy stylů,
+  když na to přijde...
+- Odstranit znaky no-width-no-break
+- Odstranit obsah (ten budu určitě v Idd dělat znova)
 
 ----------------------------------------------------
 

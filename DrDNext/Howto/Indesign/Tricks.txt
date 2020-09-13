@@ -16,3 +16,12 @@ https://indesignsecrets.com/updating-bits-of-text-across-multiple-documents.php
 Relative font size
 -------------------
 https://graphicdesign.stackexchange.com/questions/73519/adjust-font-size-reltive-to-another-font-size-in-indesign
+
+
+Remove attributes from character style
+----------------------------------------
+• From a setting’s menu, choose (Ignore)
+• In a text box, delete the option text
+• In a check box, click until you see a small box (Windows) or a hyphen (-) (Mac OS)
+• For a character color, hold down Ctrl (Windows) or Command (Mac OS) and click the color swatch
+https://helpx.adobe.com/indesign/using/paragraph-character-styles.html
