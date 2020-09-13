@@ -2,7 +2,6 @@
 2h 24 min
 https://www.youtube.com/watch?v=RXRT3dHu6_o
 
-
 Master Pages Adobe InDesign Tutorial
 10 min
 https://www.youtube.com/watch?v=38IpuKR0gZs
@@ -96,3 +95,18 @@ InDesign How-To: Select to the End of a Story (Video Tutorial)
 3 min
 https://www.youtube.com/watch?v=u0WTkDeYJso
 
+InDesign Smart Alignment and Indents with TABs + Paragraph Styles
+7 min
+https://www.youtube.com/watch?v=x-Quy6ZIygk
+
+InDesign How-To: Distribute Tabs Evenly (Video Tutorial)
+4 min
+https://www.youtube.com/watch?v=eM8e7hAk3G0
+
+Tabs and Leaders
+5 min
+https://www.youtube.com/watch?v=TKlxQXLzI4Y
+
+Applying No Break Automatically with GREP Style - InDesign Tip of the Week
+4 min
+https://www.youtube.com/watch?v=FImRB7c9_00
