@@ -1,3 +1,86 @@
+Alchymistický suroviny
+-----------------------
+
+Kapka flogistónu
+- flogistón nejde, ten souvisí s hořlavejma látkama a obecně hořením
+Gram quintessence
+Něco éteru
+- éter je blbej, ten maj lidi spojenej s rozhlasovym vysíláním.
+Prima materia
+- Prahmota, Pralátka. Šlo by, ale nezní to moc dobře.
+
+=>
+
+----------------------------------------------------
+
+Úvahy o atributech
+-------------------
+
+IDEA: Zrušit útočnou funkci atributů, nechat jen obrannou.
+- Vlastnosti by byly Odolnost, Úhyb a Vůle? (Psychická odolnost...)
+- Potvory by na boj házely Nebezpečností, humanoidi dovedností
+- Existovaly by bojový dovednosti a spellcasting, bonus k hodu by byl
+  podle hodnocení (základní +1, pokročilá +2, mistrovská +3)
+- Nějak bych musel omezit hodnocení dovedností podle úrovně
+
+Bojový dovednosti:
+- lehké zbraně
+- těžké zbraně
+- boj beze zbraně
+- střelba
+- vrhací zbraně (rozlišovat lehký/těžký? Asi ne)
+- sesílání kouzel (čarování? kouzlení? - asi kouzlení)
+
+Co zbroje? Nějakej důvod, proč nechodit v těžký zbroji? A ostatně proč nebojovat
+  těžkejma zbraněma, který maj větší zranění?
+- možná to dělat na "heavy combat" (Silový boj) a "light combat" (technický boj)
+  s tím, že když mám těžkou zbroj, musím si počítat heavy combat.
+  - byl by v tom i boj zblízka.
+- proč by si pak někdo bral technický boj, když za stejný body může mít silový boj,
+  kterej je ve všem lepší?
+  - neválečník by měl silový boj dražší?
+  - skill capy?
+  - class bonusy? (válečník +1 na všechny bojový dovednosti, hraničář na lehký
+    zbraně a střelbu, zloděj na lehký zbraně a střelbu, alchymista na alchymistický
+    výrobky a střelbu, kouzelník na kouzlení?)
+
+Tj. takhle:
+- silový boj zblízka (se zbraní i beze zbraně)
+- technický boj zblízka (se zbraní i beze zbraně)
+- vrhací zbraně
+- střelba
+- kouzlení (jen kouzelník)
+
+
+Povolání by mohla dostávat extra body do určitech dovedností
+  (válečník třeba do libovolnejch bojovejch)
+  - hmm, to by možná řešilo i problém silovýho boje. Mohl by si ho dát kdokoliv,
+    ale válečník by na něj měl body zdarma.
+
+Nevýhody - u potvor o 1 stat víc (u NPCček potenciálně hodně, páč by měly
+  víc dovedností).
+
+=> Moc se mi to nelíbí, je to výrazný zesložitění.
+
+
+IDEA: Přejmenování atributů
+- Fyzička je ok
+- Finesa je ok, ale taky od 'F'.
+  - obratnost moc nesedí na střelbu, i když... Asi by šla.
+- Duše
+  - Anima?
+  - Magie?
+  - Anglicky asi Spirit, ale nemá to moc dobrej českej překlad
+    (nejlepší je asi fakt Duše)
+
+
+Úvahy o dovednostech
+---------------------
+IDEA: Progresivní cena dovedností (1 bod, 2 body, 3 body)
+- nevýhoda: Na vyšší stupně by se šetřilo několik úrovní.
+
+----------------------------------------------------
+
 https://creativepro.com/turn-off-indesigns-annoying-features/
 
 QUESTION: Čeština nebo angličtina? (Adresáře, jména stylů atd.?)
