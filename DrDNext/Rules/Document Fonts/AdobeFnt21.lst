@@ -1,5 +1,5 @@
 %!Adobe-FontList 1.20
-%Locale:0x405
+%Locale:0x409
 
 %BeginFont
 Handler:DirectoryHandler
@@ -11,13 +11,13 @@ FullName:Cambria
 MenuName:Cambria
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:D:\svetlym\tmp\00\Brutus\Dakara\DrDNext\Rules\Document fonts\cambria.ttc
+OutlineFileName:C:\Brutus\Dakara\DrDNext\Rules\Document fonts\cambria.ttc
 TTCOffset:32
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:1619740
-FileModTime:1600076062
+FileModTime:1593705147
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -35,13 +35,13 @@ FullName:Cambria Math
 MenuName:Cambria Math
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:D:\svetlym\tmp\00\Brutus\Dakara\DrDNext\Rules\Document fonts\cambria.ttc
+OutlineFileName:C:\Brutus\Dakara\DrDNext\Rules\Document fonts\cambria.ttc
 TTCOffset:364
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:1619740
-FileModTime:1600076062
+FileModTime:1593705147
 WeightClass:400
 WidthClass:5
 AngleClass:0
