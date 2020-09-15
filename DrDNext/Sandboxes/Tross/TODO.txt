@@ -1,3 +1,6 @@
+TODO: Nedávat kostlivcům zranění 1 (aby mělo smysl je disarmovat)
+
+
 Události přesunout k lokacím, ke kterým se vztahují (tj. k městu).
 
 K encounteru s veleknězem poznamenat, že dává smysl jen blízko městu.

@@ -1,4 +1,4 @@
-TODO: Nedávat kostlivcům zranění 1 (aby mělo smysl je disarmovat)
+POZN.: e-knihy MKP: A5, Cambria 12 pt, Margins: top 20 mm, bottom 25 mm, sides 15 mm
 
 ----------------------------------------------------
 
@@ -13,7 +13,11 @@ Něco éteru
 Prima materia
 - Prahmota, Pralátka. Šlo by, ale nezní to moc dobře.
 
-=>
+
+Flogistón by mohl bejt recept (vial of phlogiston).
+- asi něco výbušnýho nebo hořlavýho.
+
+Bod pro zlaťáky: S quintessencí bych asi musel řešit základ předmětu.
 
 ----------------------------------------------------
 
@@ -263,6 +267,8 @@ Asi by to mělo bejt co nejvíc intuitivní - pokud u něčeho dává smysl, že
 
 Bestiář
 --------
+
+TODO: Nedávat kostlivcům zranění 1 (aby mělo smysl je disarmovat)
 
 - "magický zrak a sluch" u nemrtvých PJovi moc nepomůže.
    Místo toho říct něco jako "vidí i po tmě a bez očí, slyší bez uší"

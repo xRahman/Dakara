@@ -1,4 +1,6 @@
-﻿Linking objects
+﻿https://community.adobe.com/t5/indesign/is-there-a-navigation-pane-in-indesign/td-p/9372804?page=1
+
+Linking objects
 ----------------
 https://indesignsecrets.com/linking-images-change.php#:~:text=Tip%3A%20If%20you%20want%20to,for%20you%20to%20click%20again.
 
@@ -25,3 +27,11 @@ Remove attributes from character style
 • In a check box, click until you see a small box (Windows) or a hyphen (-) (Mac OS)
 • For a character color, hold down Ctrl (Windows) or Command (Mac OS) and click the color swatch
 https://helpx.adobe.com/indesign/using/paragraph-character-styles.html
+
+
+Navigation
+-----------
+You can use the bookmarks panel for navigation (Window > Interactive > Bookmarks).
+It opens up empty at first. You can manually add bookmarks to the pages/sections
+you need to jump to. Or create a TOC and be sure to enable Create PDF Bookmarks.
+https://community.adobe.com/t5/indesign/is-there-a-navigation-pane-in-indesign/td-p/9372804?page=1
