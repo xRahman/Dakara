@@ -87,6 +87,31 @@ IDEA: Přejmenování atributů
 IDEA: Progresivní cena dovedností (1 bod, 2 body, 3 body)
 - nevýhoda: Na vyšší stupně by se šetřilo několik úrovní.
 
+
+Jiné názvy atributů?
+---------------------
+
+Brutalita/Finesa/Fištrón?
+- Brutalita nemá obrannou funkci (třeba proti jedům), takže asi nebrat.
+
+
+Co místo Duše?
+--------------
+Anglicky ideálně Spirit, ale to nemá rozumnej překlad (duch, duše...)
+
+Magie?
+- ta moc nefunguje jako odolnost.
+Mysl?
+
+
+Co když zůstane Duše?
+----------------------
+
+- Musím vyřešit potvory, co ji mají/nemají.
+- Proškrtávat ji je celkem elegantní způsob, jak naznačit imunitu. Na druhou
+  stranu ostatní imunity píšu do textu, takže je to nekonzistentní.
+
+
 ----------------------------------------------------
 
 https://creativepro.com/turn-off-indesigns-annoying-features/
