@@ -1,3 +1,37 @@
+IDEA: Kouzlo "najdi kouzla"
+- ukáže aktivní kouzla, i dlouhodobá (třeba dveře s magickou pastí).
+  Neukáže magické tvory, kouzelníka, postavy s magickými schopnostmi a tak.
+  (to je dost podstatný, aby se vlkodlaci mohli schovávat mezi lidma).
+- asi mistrovský kouzlo, protože to ukáže někoho s kouzlem neviditelnost,
+  maskovanýho kouzlem, proměněnýho metamorfózou atd.
+  - ale to je asi ok, protože ta informace je nespecifická - "má na sobě nějaký
+    kouzlo", nevíš ale který.
+
+----------------------------------------------------
+
+Vedení hry podle modulů
+------------------------
+
+- V modulech nejsou obtížnosti - je na tobě, abys je určil a zohlednil při tom
+  okolnosti a situaci. Nejsou tam ani předepsaná řešení. Mohou tam být zmíněné
+  následky akcí, o které se hráči pravděpodobně pokusí. Ty ber ale čistě
+  orientačně, rozhodně do nich hráče netlač a nezakazuj jim jiná řešení, pokud
+  dávají aspoň trochu smysl.
+
+
+----------------------------------------------------
+
+TODO: Zapojit do pravidel:
+Měďáky pro chudinu, stříbrňáky pro střední třídu, zlaťáky pro šlechtu a boháče
+- žebráci a chudina běžně platí v měďácích. Když dáš žebrákovi stříbrňák, bude
+  to pro něj něco výjimečnýho, co se mu stává jen zřídka. Když mu dáš zlaťák,
+  bude tě nejspíš považovat za blázna (ale vezme si ho).
+- Drobní obchodníci, úspěšní řemesleníci a podobně platí většinou ve stříbře.
+  Mědáky jsou pro ně drobné, které se obyčejně neobtěžují počítat.
+- Pouze boháči běžně platí ve zlaťácích a cokoliv menšího jsou pro ně drobné.
+
+----------------------------------------------------
+
 POZN.: e-knihy MKP: A5, Cambria 12 pt, Margins: top 20 mm, bottom 25 mm, sides 15 mm
 
 ----------------------------------------------------
