@@ -1,3 +1,9 @@
+TODO: Útok na imunního protivníka (např na ohnivého hada stvořeného kouzlem).
+- když může protivník zbraň ignorovat a ty se ho snažíš zasáhnout,
+  házíš si na obranu (obvykle Finesou) s nevýhodou.
+
+----------------------------------------------------
+
 IDEA: Kouzlo "najdi kouzla"
 - ukáže aktivní kouzla, i dlouhodobá (třeba dveře s magickou pastí).
   Neukáže magické tvory, kouzelníka, postavy s magickými schopnostmi a tak.
