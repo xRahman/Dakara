@@ -1,6 +1,4 @@
-﻿https://community.adobe.com/t5/indesign/is-there-a-navigation-pane-in-indesign/td-p/9372804?page=1
-
-Linking objects
+﻿Linking objects
 ----------------
 https://indesignsecrets.com/linking-images-change.php#:~:text=Tip%3A%20If%20you%20want%20to,for%20you%20to%20click%20again.
 
@@ -35,3 +33,8 @@ You can use the bookmarks panel for navigation (Window > Interactive > Bookmarks
 It opens up empty at first. You can manually add bookmarks to the pages/sections
 you need to jump to. Or create a TOC and be sure to enable Create PDF Bookmarks.
 https://community.adobe.com/t5/indesign/is-there-a-navigation-pane-in-indesign/td-p/9372804?page=1
+
+
+Creating comments
+------------------
+https://www.deke.com/content/creating-anchored-comments-in-indesign
