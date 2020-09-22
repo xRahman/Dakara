@@ -1,3 +1,13 @@
+TODO: Vážné zranění - krvácení
+- nedělá nic, ale když ti po boji nikdo nepomůže (můžeš i sám, pokud nejsi
+  vyřazenej), umřeš.
+- Do Vedení hry: Není to moc užitečný pro hráčský postavy, ale pro tebe (PJe)
+  naopak ano, protože tím můžeš hráčům dávat uvěřitelný vážný zranění, který
+  je nijak neomezí (nehrozí spirála smrti) a podpoří spolupráci. Pozor ale, že
+  to může zvýšit riziko smrti hráčských postav.
+
+----------------------------------------------------
+
 TODO: Útok na imunního protivníka (např na ohnivého hada stvořeného kouzlem).
 - když může protivník zbraň ignorovat a ty se ho snažíš zasáhnout,
   házíš si na obranu (obvykle Finesou) s nevýhodou.
