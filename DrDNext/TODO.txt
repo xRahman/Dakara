@@ -1,3 +1,7 @@
+TODO: Doma updatnout settings InDesignu (je tam keybind na comment)
+
+----------------------------------------------------
+
 TODO: Vážné zranění - krvácení
 - nedělá nic, ale když ti po boji nikdo nepomůže (můžeš i sám, pokud nejsi
   vyřazenej), umřeš.
