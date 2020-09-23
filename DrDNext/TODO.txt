@@ -1,3 +1,27 @@
+Do kapitoly Hraní za postavu:
+------------------------------
+
+• Když je tvoje posava pod vlivem nějaké negativní schopnosti, kouzla nebo předmětu, snaž se účinek směřovat proti nepřátelům a cizím postavám, nikoliv proti postavám spoluhráčů. Když se totiž obrátíš proti svým parťákům, nebo jim jinak budeš škodit, byť z objektivních důvodů, nejspíš tě zpacifikují, čímž se vyřadíš ze hry.
+
+
+Do Tvorby postav/družiny:
+--------------------------
+
+• Ujistěte se, že máte v družině dostatek léčebných prostředků, aby vaše postavy nebyly příliš dlouho vyřazené v důsledku utrpěných zranění. Někdo by uměl určitě umět [i]ošetřování zranění[/i] (čím vyšší stupeň, tím lépe) a určitě byste měli mít [i]hojivou mast[/i] (postava s dovedností [i]léčitelství a bylinkářství[/i] ji může vyrábět, případně si ji můžete koupit). Hodí se také mít v družině alchymistu a hraničáře, nebo alespoň jednoho z nich. Alchymista může umět vyrábět [i]léčivý lektvar[/i], hraničář se může naučit [i]hojivý dotyk[/i].
+
+
+Do Hraní za družinu:
+---------------------
+
+• Nerozdělujte družinu.
+
+• Pokud je některá z hráčských postav vyřazena, ať už v důsledku zranění, kouzla nebo jiného efektu, nepokračujte bez ní, leda by to opravdu jinak nešlo. Nepouštějte se do dalších bojů, nechoďte prozkoumávat další místnost - soustřeďte se na to, jak ji co nejdříve dostat na nohy, aby se její hráč mohl opět zapojit do hry. Pokud už nemůžete použít žádné jiné léčebné prostředky než [i]hojivou mast[/i], stáhněte se někam do bezpečí a na pár dní se utábořte. Pokud nemáte ani tu, vraťte se do civilizace a zotavte se tam.
+
+----------------------------------------------------
+
+V relativně drsný hře, kde může dojít k vyřazení postav, za to, aby hráči nebyli moc dlouho ze hry, nenese zodpovědnost jen PJ, ale všichni hráči u stolu.
+- tohle musím napsat nějak líp, ale tuhle myšlenku je určitě potřeba hráčům předat.
+
 TODO: Doma updatnout settings InDesignu (je tam keybind na comment)
 
 ----------------------------------------------------
