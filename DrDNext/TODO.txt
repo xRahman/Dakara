@@ -22,6 +22,25 @@ V relativně drsný hře, kde může dojít k vyřazení postav, za to, aby hrá
 
 Taky to určitě chce něco říct o tom, že hráči by měli bejt připraveni chvíli jen pasivně sledovat (a pokud možno si to užít). To teda bude peklo nějak vhodně formulovat.
 
+
+Do Vedení hry:
+---------------
+
+Rozdělení družiny
+- neboj se hráčům připomínat, že rozdělování skupiny není dobrý nápad. Sice
+  bys jim neměl mluvit do taktiky, ale tohle rozhodnutí může snadno některé hráče
+  na delší dobu vyřadit ze hry a do toho bys mluvit určitě měl.
+- průběžně přepínej mezi jednotlivými skupinkami a postavami
+  "Mezitím..."
+- nemusíš to nutně odehrávat synchronně. Pokud je jasné, že se postavy několik
+  dní nesejdou, a že se jejich akce nemůžou vzájemně ovlivňovat, můžeš s jednou
+  skupinkou odehrát událost, která nastane po několika dnech cesty, zatímco se
+  druhou stále ještě hraješ události z prvního dne. Důležité je, aby se pokud
+  možno ve všech oddělených skupinkách něco dělo, a abys mezi nimi pravidelně
+  střídal, aby žádný hráč dlouho neseděl bez možnosti ovlivňovat hru skrze svoji
+  postavu.
+
+
 ----------------------------------------------------
 
 TODO: Vážné zranění - krvácení
