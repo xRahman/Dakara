@@ -1,9 +1,33 @@
+Úvahy k formátování bestiáře:
+-----------------------------
+
+- Ideálně všechno vecpat do stylu "Properties"
+  (víc stylů dělá bordel s mezerama před a za odstavcem)
+
+----------------------------------------------------
+
+IDEA: Barvy pro atributy s tím, že v bestiáři pak bude mít ÚČ barvu
+  podle atributu.
+- Ještě lepší je barvit čísla (původně jsem měl na mysli název atributu)
+
+IDEA: Infravidění přejmenovat na "vidění tepla",
+ ultrasluch možná na "echolokaci" (to teda zní strašně odborně).
+
+TODO: Efekty paralýzy by všude měly bejt:
+* zpomalení
+** znehybnění končetiny
+*** kompletní znehybnění
+(A nebo počet kol podle úspěchů? U jedů to nedává smysl, ty mají vlastní trvání.)
+
+----------------------------------------------------
+
 Ceník
 ------
 
 http://www.myschwerk.webzdarma.cz/cenik.html
 
 
+----------------------------------------------------
 
 Do kapitoly Hraní za postavu:
 ------------------------------
