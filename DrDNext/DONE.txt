@@ -1,3 +1,9 @@
+TODO: Barvy pro atributy
+[done]
+
+TODO: Zrevidovat barvy pro crush a pierce
+[done]
+
 TODO: Hezčí Page Number Frame
 [done]
 

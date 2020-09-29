@@ -1,6 +1,3 @@
-TODO: Barvy pro atributy
-
-TODO: Zrevidovat barvy pro crush a pierce
 
 ----------------------------------------------------
 
@@ -64,6 +61,11 @@ V relativně drsný hře, kde může dojít k vyřazení postav, za to, aby hrá
 - tohle musím napsat nějak líp, ale tuhle myšlenku je určitě potřeba hráčům předat.
 
 Taky to určitě chce něco říct o tom, že hráči by měli bejt připraveni chvíli jen pasivně sledovat (a pokud možno si to užít). To teda bude peklo nějak vhodně formulovat.
+
+Do úvodu k Bestiáři:
+---------------------
+
+Žádná nestvůra nemůže v jednom kole víckrát zaútočit na stejný cíl. Pokud má vypsaných více schopností či druhů útoků, může v jednom kole ohrozit více cílů, pokud to dává smysl - rudý drak může například jednu postavu kousnout a současně se po druhé ohnat ocasem, nemůže ale dost dobře v jednom kole kousat a chrlit oheň.
 
 
 Do Vedení hry:
