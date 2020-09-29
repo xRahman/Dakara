@@ -40,6 +40,7 @@ Brawn: 955022
 Finesse/Slash: 386ac1
 Finesse: blue: 19459d, orange: faa519, gren: 38b449
 
+Lightning: 6482ff
 
 =============================================================
 
