@@ -1,3 +1,9 @@
+TODO: Hezčí Page Number Frame
+[done]
+
+TODO: Disable overrides na Page Number Frame
+[done]
+
 ------------------------------------------
 
 InDesign

@@ -1,3 +1,9 @@
+TODO: Barvy pro atributy
+
+TODO: Zrevidovat barvy pro crush a pierce
+
+----------------------------------------------------
+
 Úvahy k formátování bestiáře:
 -----------------------------
 
