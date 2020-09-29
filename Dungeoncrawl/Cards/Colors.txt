@@ -33,3 +33,27 @@ Bod:			 rgb(196, 132,  43)	c4842b
 Drcení:			 rgb( 81,  82,  69)	515245
 
 Duševní nebo nehmotné:   rgb( 40, 186, 168)	28baa8
+
+
+------------------------
+Brawn: 955022
+Finesse/Slash: 386ac1
+Finesse: blue: 19459d, orange: faa519, gren: 38b449
+
+
+=============================================================
+
+
+Barva textu v pravidlech: rgb(60,  30,   0)	3c1e00
+
+Oheň:                    rgb(242, 101,  34)	f26522
+Mráz:                    rgb( 49, 197, 244)	31c5f4
+Blesk:                   rgb(104, 123, 188)	687bbc
+Jed:                     rgb(138, 167,  61)	8aa73d
+Žíravina:                rgb(195, 179,  70)	c3b346
+
+Sek:			 rgb(166, 145, 170)	a691aa
+Bod:			 rgb(196, 132,  43)	c4842b
+Drcení:			 rgb( 81,  82,  69)	515245
+
+Duševní nebo nehmotné:   rgb( 40, 186, 168)	28baa8
