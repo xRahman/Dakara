@@ -1,4 +1,16 @@
+----------------------------------------------------
+
+Léčení
+-------
+
+IDEA: Zvažuju, že by pro léčení vážnejch zranění platila stejná hranice jako pro jejich získávání,
+  tj. zmizela by už při dvou nedoléčenejch životech (aby zranění mohlo bejt vážný, musí bejt alespoň
+  za tři životy)
+
+----------------------------------------------------
+
 Game titel idea: Dragoncrawl
+(Asi ne moc dobrá)
 
 ----------------------------------------------------
 
@@ -289,8 +301,63 @@ InDesign TODO
     žádnej, pro dobrodružství určitě jinej), takže template asi není
     správný místo.
 
+Poznámky v InDesignu
+---------------------
+
+IDEA: Designový komentáře dávat do sticky notes, poznámky k sazbě do idd notes.
+
 
 ------------------------------
+
+Sazba
+------
+
+TODO: Zamyslet se nad stylem pro nestvůry - asi by to měly bejt klikatelný odkazy, a tudíž zvýrazněný.
+
+TODO: Možná zrušit styl "successes" a používat místo toho "block of properties" jako v Bestiáři
+
+TODO: Pořešit krátký a dlouhý pomlčky (- a –)
+  Dlouhá pomlčka se píše přes Alt + pomlčka.
+
+TODO: Zvážit založení stylu na "rámečkový" poznkámky pro PJe (například v bestiáři)
+
+
+TODO: Znovu zvážit kurzívu na přímou řeč v textech pro PJe.
+
+- všechny dovednosti, recepty, kouzla a schopnosti jsou kurzívou (výhledově by to měly bejt odkazy)
+- krátká vzdálenost, bezvědomí, soustředění, na útok, na obranu, plná obrana a podobně jsou obyčejným fontem
+  (tady je to teda trochu otázka, asi by to taky mohly bejt klikatelný odkazy a pak by ta kurzíva dávala smysl).
+- veličiny, který mají nějakou hodnotu, jsou vždycky s velkým písmenem.
+  Takže Fyzička, Finesa, Zbroj, Zranění.
+- Vlastnost nebo vlastnost?
+  - vlastnost, pouze ve vzorcích Vlastnost: (Vlastnost + k6)
+
+- Zdůraznění definovaného pojmu boldem (např. první výskyt slov Fyzička, Finesa a Duše)?
+
+- TODO: Dovednosti s velkým nebo malým písmenem?
+  - zatím píšu spíš velký, ale není to úplně konzistentní.
+  - je to ale asi divný, není pro to moc důvod - kouzla jsou s malým, recepty taky...
+
+TODO: Ještě jednou zvážit herní pojmy jako zpomalení, bezvědomí, soustředění a podobně
+  IDEA: Pokud mají někde definici, dávat je kurzívou coby odkaz (kurzíva by obecně znamenala klikatelný odkaz - u kouzel, schopností a podobně to určitě platit bude).
+
+Headings
+---------
+
+H3: Rasy (člověk, barbar), potvory (skřet, zlobr)
+H4: Kouzla, recepty, schopnosti, dovednosti, předměty
+
+Ekonomie
+
+Měna a obchod
+Živobytí
+Výbava a majetek
+- Výzbroj
+- Šaty
+
+Ceník (jako samostatná kapitola?)
+
+
 
 Jak na styly
 -------------
@@ -559,9 +626,6 @@ https://www.remove.bg/
 
 https://pixabay.com/images/search/fantasy/?pagi=18
 
-------------------------------------------
-
-TODO: Znovu zvážit kurzívu na přímou řeč v textech pro PJe.
 
 ------------------------------------------
 
@@ -574,43 +638,6 @@ Dávají smysl třístupňový jazyky?
     Mistrovská znalost: vzdělanec
 - bude se to trochu bít s původním konceptem, že zběžnou znalost není třeba platit
   - Což je asi logický, třístupňovej model tenhle koncept nahrazuje.
-
-------------------------------------------
-
-Sazba:
-
-- všechny dovednosti, recepty, kouzla a schopnosti jsou kurzívou (výhledově by to měly bejt odkazy)
-- krátká vzdálenost, bezvědomí, soustředění, na útok, na obranu, plná obrana a podobně jsou obyčejným fontem
-  (tady je to teda trochu otázka, asi by to taky mohly bejt klikatelný odkazy a pak by ta kurzíva dávala smysl).
-- veličiny, který mají nějakou hodnotu, jsou vždycky s velkým písmenem.
-  Takže Fyzička, Finesa, Zbroj, Zranění.
-- Vlastnost nebo vlastnost?
-  - vlastnost, pouze ve vzorcích Vlastnost: (Vlastnost + k6)
-
-- Zdůraznění definovaného pojmu boldem (např. první výskyt slov Fyzička, Finesa a Duše)?
-
-- TODO: Dovednosti s velkým nebo malým písmenem?
-  - zatím píšu spíš velký, ale není to úplně konzistentní.
-  - je to ale asi divný, není pro to moc důvod - kouzla jsou s malým, recepty taky...
-
-TODO: Ještě jednou zvážit herní pojmy jako zpomalení, bezvědomí, soustředění a podobně
-  IDEA: Pokud mají někde definici, dávat je kurzívou coby odkaz (kurzíva by obecně znamenala klikatelný odkaz - u kouzel, schopností a podobně to určitě platit bude).
-
-Headings
----------
-
-H3: Rasy (člověk, barbar), potvory (skřet, zlobr)
-H4: Kouzla, recepty, schopnosti, dovednosti, předměty
-
-Ekonomie
-
-Měna a obchod
-Živobytí
-Výbava a majetek
-- Výzbroj
-- Šaty
-
-Ceník (jako samostatná kapitola?)
 
 ------------------------------------------
 

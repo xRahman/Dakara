@@ -15,6 +15,12 @@ TODO: Disable overrides na Page Number Frame
 InDesign
 ---------
 
+TODO: Zamyslet se nad jinym názvem pro rules text - stejnej styl se asi bude používat i v modulech s dobrodružstvím.
+- Text Body?
+- Plain Text?
+- Body Text je zjevně termín, takže použiju ten.
+[done]
+
 • Vyzkoušt linkování obrázků, jestli se projeví změna externího souboru
   na backgroundu všech stránek.
   - musí se v indesignu updatnout link, ale v zásadě to jde
