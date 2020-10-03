@@ -59,7 +59,35 @@ Do kapitoly Hraní za postavu:
 • Samozřejmě se taky hodí zmínit, třeba že hráč hraničáře může po vyřazení svý postavy dál hrát svýho peta (nebo že ho může hrát jinej hráč), že hráč může převzít nějakýho henchmana (nebo henchwoman ;-)), případně jiný friendly NPC a tak - ale to je vždycky situační, ne vždycky je takový npcčko po ruce a ne vždycky se hodí, když za něj rozhoduje někdo jinej.
 
 
-Do Tvorby postav/družiny:
+Do Tvorby postavy:
+-------------------
+
+Fyzická síla postavy není vyjádřena žádnou vlastností - částečně souvisí
+s Fyzičkou, ale také s velikostí: Hobit s Fyzičkou 3 je silnější než
+hobit s Fyzičkou 2, ale oba uzvednou menší břemeno než kroll s Fyzičkou 1,
+protože kroll je mnohem větší.
+  Silou postav se v průběhu hry nemusíte příliš zatěžovat - nemá vliv na
+zranění v boji ani na žádnou jinou veličinu, berte ji ale v úvahu, když
+budete zvažovat, co postava dokáže - kroll určitě zvedne hobita, obráceně
+to půjde mnohem hůř. 
+
+Nadlidská síla
+  Některé schopnosti, kouzla a podobně dávají nadlidskou sílu. Postava má
+pak sílu zhruba jako poloobr - je tedy mnohem silnější než všechny ostatní
+postavy, hobit s nadlidskou silou nejen že zvedne krolla, ale dokáže ho odhodit
+několik metrů daleko.
+  Nadlidská síla dává +1 ke zranění v boji zblízka a při použití těžkých vrhacích
+   zbraní.
+
+Obří síla
+  Mezi obří a nadlidskou silou je zhruba stejný rozdíl jako mezi nadlidskou
+a lidskou. Pozor ale na to, že velikost, a tedy ani hmotnost postavy se
+nezmění - pokud se tedy nemá čeho pevně chytit, nebo o co se opřít, s obrem
+pohnout nedokáže.
+  Obří síla dává +2 ke zranění v boji zblízka a při použití těžkých vrhacích zbraní.
+
+
+Do Tvorby družiny:
 --------------------------
 
 • Ujistěte se, že máte v družině dostatek léčebných prostředků, aby vaše postavy nebyly příliš dlouho vyřazené v důsledku utrpěných zranění. Někdo by měl určitě umět [i]ošetřování zranění[/i] (čím vyšší stupeň, tím lépe) a určitě byste měli mít [i]hojivou mast[/i] (postava s dovedností [i]léčitelství a bylinkářství[/i] ji může vyrábět, případně si ji můžete koupit). Hodí se také mít v družině alchymistu nebo hraničáře, nejlépe oba. Alchymista může umět vyrábět [i]léčivý lektvar[/i], hraničář se může naučit [i]hojivý dotyk[/i].
