@@ -38,3 +38,8 @@ https://community.adobe.com/t5/indesign/is-there-a-navigation-pane-in-indesign/t
 Creating comments
 ------------------
 https://www.deke.com/content/creating-anchored-comments-in-indesign
+
+
+Text Selection Shortcuts
+-------------------------
+https://indesignsecrets.com/basic-and-not-so-basic-text-selection-shortcuts.php
