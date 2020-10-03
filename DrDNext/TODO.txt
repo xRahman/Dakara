@@ -82,6 +82,11 @@ Do úvodu k Bestiáři:
 
 Žádná nestvůra nemůže v jednom kole víckrát zaútočit na stejný cíl. Pokud má vypsaných více schopností či druhů útoků, může v jednom kole ohrozit více cílů, pokud to dává smysl - rudý drak může například jednu postavu kousnout a současně se po druhé ohnat ocasem, nemůže ale dost dobře v jednom kole kousat a chrlit oheň.
 
+Nestvůry jako třeba oživlé sochy, které mají dobrodružné povolání, mají vypsané konkrétní schopnosti a kouzla, abys je nemusel vymýšlet sám. Pokud chceš, můžeš si ho ale samozřejmě upravit.
+
+
+Hodnoty vlastností u nestvůr pokud možno neměň. Hráči mají určitá očekávání, jak jsou asi nestvůry silné, a podle toho se rozhodují, jestli se s nimi pustí do boje a případně za jakých okolností. Kdybys dal do hry například obří krysu s útokem jako má drak, přestalo by to fungovat.
+- měnit schopnosti za jiné je ale ok, ne všechny nestvůry musí nutně být stejné a předvidatelné. 
 
 Do Vedení hry:
 ---------------
