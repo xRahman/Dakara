@@ -321,6 +321,314 @@ NameArray:0,Win,1,Quivira
 %BeginFont
 Handler:DirectoryHandler
 FontType:TrueType
+FontName:Roboto-Black
+FamilyName:Roboto
+StyleName:Black
+FullName:Roboto Black
+MenuName:Roboto Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Brutus\Dakara\DrDNext\tmp\InDesignTest\UnicodeCharacters\Document fonts\Roboto-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:171072
+FileModTime:1357686000
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Roboto Black
+NameArray:0,Win,16,Roboto
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Roboto-BlackItalic
+FamilyName:Roboto
+StyleName:Black Italic
+FullName:Roboto Black Italic
+MenuName:Roboto Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Brutus\Dakara\DrDNext\tmp\InDesignTest\UnicodeCharacters\Document fonts\Roboto-BlackItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:177120
+FileModTime:1357686000
+WeightClass:900
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Roboto Black
+NameArray:0,Win,16,Roboto
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Roboto-Bold
+FamilyName:Roboto
+StyleName:Bold
+FullName:Roboto Bold
+MenuName:Roboto
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Brutus\Dakara\DrDNext\tmp\InDesignTest\UnicodeCharacters\Document fonts\Roboto-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:170348
+FileModTime:1357686000
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Roboto
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Roboto-BoldItalic
+FamilyName:Roboto
+StyleName:Bold Italic
+FullName:Roboto Bold Italic
+MenuName:Roboto
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Brutus\Dakara\DrDNext\tmp\InDesignTest\UnicodeCharacters\Document fonts\Roboto-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:174520
+FileModTime:1357686000
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Roboto
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Roboto-Italic
+FamilyName:Roboto
+StyleName:Italic
+FullName:Roboto Italic
+MenuName:Roboto
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Brutus\Dakara\DrDNext\tmp\InDesignTest\UnicodeCharacters\Document fonts\Roboto-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:173516
+FileModTime:1357686000
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Roboto
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Roboto-Light
+FamilyName:Roboto
+StyleName:Light
+FullName:Roboto Light
+MenuName:Roboto Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Brutus\Dakara\DrDNext\tmp\InDesignTest\UnicodeCharacters\Document fonts\Roboto-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:170012
+FileModTime:1357686000
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Roboto Light
+NameArray:0,Win,16,Roboto
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Roboto-LightItalic
+FamilyName:Roboto
+StyleName:Light Italic
+FullName:Roboto Light Italic
+MenuName:Roboto Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Brutus\Dakara\DrDNext\tmp\InDesignTest\UnicodeCharacters\Document fonts\Roboto-LightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:176184
+FileModTime:1357686000
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Roboto Light
+NameArray:0,Win,16,Roboto
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Roboto-Medium
+FamilyName:Roboto
+StyleName:Medium
+FullName:Roboto Medium
+MenuName:Roboto Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Brutus\Dakara\DrDNext\tmp\InDesignTest\UnicodeCharacters\Document fonts\Roboto-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:171656
+FileModTime:1357686000
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Roboto Medium
+NameArray:0,Win,16,Roboto
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Roboto-MediumItalic
+FamilyName:Roboto
+StyleName:Medium Italic
+FullName:Roboto Medium Italic
+MenuName:Roboto Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Brutus\Dakara\DrDNext\tmp\InDesignTest\UnicodeCharacters\Document fonts\Roboto-MediumItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:176428
+FileModTime:1357686000
+WeightClass:500
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Roboto Medium
+NameArray:0,Win,16,Roboto
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Roboto-Regular
+FamilyName:Roboto
+StyleName:Regular
+FullName:Roboto
+MenuName:Roboto
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Brutus\Dakara\DrDNext\tmp\InDesignTest\UnicodeCharacters\Document fonts\Roboto-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:171272
+FileModTime:1357686000
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Roboto
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Roboto-Thin
+FamilyName:Roboto
+StyleName:Thin
+FullName:Roboto Thin
+MenuName:Roboto Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Brutus\Dakara\DrDNext\tmp\InDesignTest\UnicodeCharacters\Document fonts\Roboto-Thin.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:171500
+FileModTime:1357686000
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Roboto Thin
+NameArray:0,Win,16,Roboto
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Roboto-ThinItalic
+FamilyName:Roboto
+StyleName:Thin Italic
+FullName:Roboto Thin Italic
+MenuName:Roboto Thin
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Brutus\Dakara\DrDNext\tmp\InDesignTest\UnicodeCharacters\Document fonts\Roboto-ThinItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:175872
+FileModTime:1357686000
+WeightClass:250
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Roboto Thin
+NameArray:0,Win,16,Roboto
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Brutus\Dakara\DrDNext\tmp\InDesignTest\UnicodeCharacters\Document fonts\Roboto.zip
+FileModTime:1601819482
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Brutus\Dakara\DrDNext\tmp\InDesignTest\UnicodeCharacters\Document fonts\SegoeUIEmoji102.zip
+FileModTime:1601820171
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SegoeUIEmoji
+FamilyName:Segoe UI Emoji
+StyleName:Regular
+FullName:Segoe UI Emoji
+MenuName:Segoe UI Emoji
+StyleBits:0
+WritingScript:Emoji
+OutlineFileName:C:\Brutus\Dakara\DrDNext\tmp\InDesignTest\UnicodeCharacters\Document fonts\seguiemj.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:676304
+FileModTime:1403027128
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Segoe UI Emoji
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
 FontName:Symbola
 FamilyName:Symbola
 StyleName:Regular
