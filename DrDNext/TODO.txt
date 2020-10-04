@@ -1,3 +1,23 @@
+Moduly
+=======
+
+Stopy
+------
+
+👣Stopy, které může najít každý
+  • Stopy, které najde jen někdo se základy stopování
+  •• To, co zjistí jen někdo s pokročilým stopováním
+  •• To, co zjistí jen někdo s mistrovským stopováním
+
+Zámky
+------
+
+🚪 Bytelné dřevené dveře
+  •• Kvalitní zámek
+
+// Dva puntíky znamenají, že na otevření je potřeba pokročilá dovednost
+
+
 ----------------------------------------------------
 
 Léčení
