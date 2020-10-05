@@ -1,3 +1,16 @@
+Střelba a vzdálenost
+---------------------
+
+V Dračáku podle staré školy se vzdálenost dělí na [i]krátkou[/i] (dohoz malé vrhací zbraně), [i]střední[/i] (dostřel krátkého luku nebo kuše) a [i]dlouhou[/i] (dostřel dlouhého luku). Krátkou vzdálenost jde uběhnout za jedno kolo - když tedy na někoho házim vrhací dýku, on ke mě stihne ve stejnym kole doběhnout a něco mi udělat. Neřeším, kolik přesně metrů je krátká/střední/dlouhá vzdálenost, řeším pouze, za kolik kol se to dá uběhnout, protože ve hře potřebuju vědět, kolikrát na mě střelec stihne vystřelit. Otázka tedy je, za jak dlouho jde uběhnout [i]střední[/i] a [i]dlouhou[/i] vzdálenost.
+
+Teď tam mám tak, že z maximálního dostřelu kuše ke střelci doběhnu za 3 kola (tj. z maximální střední na krátkou vzdálenost se dostanu za 2 kola) a z maximálního dostřelu dlouhého luku za 9 kol (tj. z maximální dlouhé na střední vzdálenost se dostanu za 5 kol).
+
+Při střelbě na [i]střední vzdálenost[/i] je postih -1, na [i]dlouhou[/i] -2. Když vezmu situaci, kdy stojím od střelce a chci zdrhnout pryč, tak první výstřel je na [i]krátkou vzdálenost[/i], tj. bez postihu - při stejnejch schopnostech střelce a cíle má střelec bez míření 58% na zásah (s mířením 72%), na střední vzdálenost 41% (s mířením 58%), na dlouhou 27% (s mířením 41%).
+
+TODO: Změnit to asi na 1 kolo na krátkou, další 2 na střední a další 3 na dlouhou.
+
+----------------------------------------------------
+
 Moduly
 =======
 
