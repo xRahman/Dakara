@@ -147,6 +147,11 @@ Nestvůry jako třeba oživlé sochy, které mají dobrodružné povolání, maj
 Hodnoty vlastností u nestvůr pokud možno neměň. Hráči mají určitá očekávání, jak jsou asi nestvůry silné, a podle toho se rozhodují, jestli se s nimi pustí do boje a případně za jakých okolností. Kdybys dal do hry například obří krysu s útokem jako má drak, přestalo by to fungovat.
 - měnit schopnosti za jiné je ale ok, ne všechny nestvůry musí nutně být stejné a předvidatelné. 
 
+Struktura hesel:
+- struktura se řídí použitím při hře. Vlastnosti, útoky a schopnosti jsou
+  hned na začátku hesla, abys je snadno našel, a pohromadě, abys při boji
+  nemusel příliš listovat.
+
 Do Vedení hry:
 ---------------
 
