@@ -1,3 +1,6 @@
+TODO: rychlost jako lev -> jako kůň
+[done]
+
 TODO: Barvy pro atributy
 [done]
 
