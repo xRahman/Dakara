@@ -152,6 +152,10 @@ Struktura hesel:
   hned na začátku hesla, abys je snadno našel, a pohromadě, abys při boji
   nemusel příliš listovat.
 
+*Pach* cítí jen hobit, pes, nebo jiný tvor s čichem citlivějším než člověk.
+*Zápach* cítí všichni.
+
+
 Do Vedení hry:
 ---------------
 
