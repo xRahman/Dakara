@@ -1,5 +1,5 @@
 %!Adobe-FontList 1.20
-%Locale:0x405
+%Locale:0x409
 
 %BeginFont
 Handler:DirectoryHandler
@@ -11,13 +11,13 @@ FullName:Cambria
 MenuName:Cambria
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:D:\svetlym\tmp\00\Brutus\Dakara\DrDNext\Rules\Document fonts\cambria.ttc
+OutlineFileName:C:\Brutus\Dakara\DrDNext\Rules\Document fonts\cambria.ttc
 TTCOffset:32
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
-FileLength:1619740
-FileModTime:1600076062
+FileLength:1792664
+FileModTime:1575713306
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -35,17 +35,111 @@ FullName:Cambria Math
 MenuName:Cambria Math
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:D:\svetlym\tmp\00\Brutus\Dakara\DrDNext\Rules\Document fonts\cambria.ttc
-TTCOffset:364
+OutlineFileName:C:\Brutus\Dakara\DrDNext\Rules\Document fonts\cambria.ttc
+TTCOffset:380
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
-FileLength:1619740
-FileModTime:1600076062
+FileLength:1792664
+FileModTime:1575713306
 WeightClass:400
 WidthClass:5
 AngleClass:0
 NameArray:0,Mac,4,Cambria Math
 NameArray:0,Win,1,Cambria Math
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Cambria-Bold
+FamilyName:Cambria
+StyleName:Bold
+FullName:Cambria Bold
+MenuName:Cambria
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Brutus\Dakara\DrDNext\Rules\Document fonts\cambriab.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:841440
+FileModTime:1575713317
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Cambria Bold
+NameArray:0,Win,1,Cambria
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Cambria-Italic
+FamilyName:Cambria
+StyleName:Italic
+FullName:Cambria Italic
+MenuName:Cambria
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Brutus\Dakara\DrDNext\Rules\Document fonts\cambriai.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:892620
+FileModTime:1575713317
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Cambria Italic
+NameArray:0,Win,1,Cambria
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Cambria-BoldItalic
+FamilyName:Cambria
+StyleName:Bold Italic
+FullName:Cambria Bold Italic
+MenuName:Cambria
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Brutus\Dakara\DrDNext\Rules\Document fonts\cambriaz.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:856672
+FileModTime:1575713317
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Cambria Bold Italic
+NameArray:0,Win,1,Cambria
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:EmojiOneColor
+FamilyName:EmojiOne
+StyleName:Color
+FullName:EmojiOne
+MenuName:EmojiOne
+StyleBits:0
+WritingScript:Emoji
+OutlineFileName:C:\Brutus\Dakara\DrDNext\Rules\Document fonts\EmojiOneColor.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:yes
+VariableFontType:NonVariableFont
+FileLength:4232712
+FileModTime:1574832602
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,EmojiOne
+NameArray:0,Win,1,EmojiOne
 %EndFont
 
