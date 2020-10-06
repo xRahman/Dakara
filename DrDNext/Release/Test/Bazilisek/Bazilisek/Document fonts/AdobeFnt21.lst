@@ -11,7 +11,7 @@ FullName:Cambria
 MenuName:Cambria
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Brutus\Dakara\DrDNext\Release\Test\Bazilisek\Bazilisek Folder\Document fonts\cambria.ttc
+OutlineFileName:C:\Brutus\Dakara\DrDNext\Release\Test\Bazilisek\Bazilisek\Document fonts\cambria.ttc
 TTCOffset:32
 DataFormat:sfntData
 hasSVG:no
@@ -35,7 +35,7 @@ FullName:Cambria Math
 MenuName:Cambria Math
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Brutus\Dakara\DrDNext\Release\Test\Bazilisek\Bazilisek Folder\Document fonts\cambria.ttc
+OutlineFileName:C:\Brutus\Dakara\DrDNext\Release\Test\Bazilisek\Bazilisek\Document fonts\cambria.ttc
 TTCOffset:380
 DataFormat:sfntData
 hasSVG:no
@@ -59,7 +59,7 @@ FullName:Cambria Bold
 MenuName:Cambria
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:C:\Brutus\Dakara\DrDNext\Release\Test\Bazilisek\Bazilisek Folder\Document fonts\cambriab.ttf
+OutlineFileName:C:\Brutus\Dakara\DrDNext\Release\Test\Bazilisek\Bazilisek\Document fonts\cambriab.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -82,7 +82,7 @@ FullName:Cambria Italic
 MenuName:Cambria
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:C:\Brutus\Dakara\DrDNext\Release\Test\Bazilisek\Bazilisek Folder\Document fonts\cambriai.ttf
+OutlineFileName:C:\Brutus\Dakara\DrDNext\Release\Test\Bazilisek\Bazilisek\Document fonts\cambriai.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -105,7 +105,7 @@ FullName:Cambria Bold Italic
 MenuName:Cambria
 StyleBits:3
 WritingScript:Roman
-OutlineFileName:C:\Brutus\Dakara\DrDNext\Release\Test\Bazilisek\Bazilisek Folder\Document fonts\cambriaz.ttf
+OutlineFileName:C:\Brutus\Dakara\DrDNext\Release\Test\Bazilisek\Bazilisek\Document fonts\cambriaz.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -128,7 +128,7 @@ FullName:EmojiOne
 MenuName:EmojiOne
 StyleBits:0
 WritingScript:Emoji
-OutlineFileName:C:\Brutus\Dakara\DrDNext\Release\Test\Bazilisek\Bazilisek Folder\Document fonts\EmojiOneColor.otf
+OutlineFileName:C:\Brutus\Dakara\DrDNext\Release\Test\Bazilisek\Bazilisek\Document fonts\EmojiOneColor.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
