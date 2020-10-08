@@ -1,3 +1,11 @@
+TODO: Lučavce přidat zranění proti kovovým tvorům
+
+TODO: Popis strašitelnýho domu (Honza, Adéla? Hmmm)
+TODO: Popis poutníků do Kastaroku
+- vede je šedovlasej trpaslík Gerd, vodí sem poutnícké výpravy od nepaměti
+- pamatuje ještě čas, kdy Kastarok stál.
+TODO: Co se tam stalo?
+
 Střelba a vzdálenost
 ---------------------
 
@@ -8,6 +16,82 @@ Teď tam mám tak, že z maximálního dostřelu kuše ke střelci doběhnu za 3
 Při střelbě na [i]střední vzdálenost[/i] je postih -1, na [i]dlouhou[/i] -2. Když vezmu situaci, kdy stojím od střelce a chci zdrhnout pryč, tak první výstřel je na [i]krátkou vzdálenost[/i], tj. bez postihu - při stejnejch schopnostech střelce a cíle má střelec bez míření 58% na zásah (s mířením 72%), na střední vzdálenost 41% (s mířením 58%), na dlouhou 27% (s mířením 41%).
 
 TODO: Změnit to asi na 1 kolo na krátkou, další 2 na střední a další 3 na dlouhou.
+
+----------------------------------------------------
+
+Sirienovy komentáře k obrázkům
+-------------------------------
+
+Z nějakého důvodu se mi nelíbí:
+- 1 (divná foto konverze)
+- 10 (divná foto konverze - btw. to je ten chrám na Bali, ne?)
+- 25 (tyvole větší kýč... přidej ještě jednorožce, princeznu a nápis Disney :D )
+
+Z nějakého důvodu se mi zvlášť líbí:
+- 5 (atmosferické, esteticky hezké)
+- 6 (atmosferické)
+- 17 (atmosferické, esteticky hezké)
+- 24 (esteticky hezké)
+- 27 (atmosferické, esteticky hezké)
+- 31 (esteticky hezké)
+- 36 (atmosferické)
+- 89 (esteticky hezké)
+- 90 (esteticky hezké)
+- 95 (atmosferické, esteticky hezké)
+- 103 (esteticky hezké)
+- 108 (atmosferické)
+- 119 (esteticky hezké)
+- 122 (atmosferické)
+
+Fakt vypadá jako obrázek:
+- 5
+- 17
+- 41
+- 42
+- 43
+- 44
+- 45
+- 47
+- 50
+- 51
+- 53
+- 60
+- 61
+- 62
+- 63
+- 64
+- 65
+- 66
+- 69
+- 70
+- 71
+- 72
+- 73
+- 74
+- 75
+- 76
+- 83
+- 88 (tohle a následující si protáh přes android app Paper Camera?)
+- 89
+- 90 + 91 (duplicita)
+- 95
+- 103
+- 104
+- 119
+- 120
+- 121 (tohle je dost na hraně zjevný fotky, ale na první pohled to projde)
+- 122
+- 123
+- 125
+- 126
+- 127
+- 128
+- 129
+
+
+Jiné poznámky:
+- 16 - ten tvrdej obtah tomu dává hrozně flattened 2D dojem
+- 96 - wut? to sou jakože hory v podzemí?
 
 ----------------------------------------------------
 
