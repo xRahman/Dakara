@@ -48,3 +48,8 @@ https://indesignsecrets.com/basic-and-not-so-basic-text-selection-shortcuts.php
 10 InDesign Preferences You Must Change Today
 ----------------------------------------------
 https://creativepro.com/10-indesign-preferences-you-must-change-today/
+
+
+Text must be above any transparency objects in order to avoid being rasterized
+--------------------------------------------------------------------------------
+https://indesignsecrets.com/turning-on-the-preference-for-text-wrap-only-affects-text-beneath-yes-or-no.php
