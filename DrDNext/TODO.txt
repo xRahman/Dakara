@@ -102,15 +102,15 @@ Stopy
 ------
 
 👣Stopy, které může najít každý
-  • Stopy, které najde jen někdo se základy stopování
-  •• To, co zjistí jen někdo s pokročilým stopováním
-  •• To, co zjistí jen někdo s mistrovským stopováním
+  (•) Stopy, které najde jen někdo se základy stopování
+  (••) To, co zjistí jen někdo s pokročilým stopováním
+  (•••) To, co zjistí jen někdo s mistrovským stopováním
 
 Zámky
 ------
 
 🚪 Bytelné dřevené dveře
-  •• Kvalitní zámek
+  (••) Kvalitní zámek
 
 // Dva puntíky znamenají, že na otevření je potřeba pokročilá dovednost
 
@@ -236,8 +236,20 @@ Struktura hesel:
   hned na začátku hesla, abys je snadno našel, a pohromadě, abys při boji
   nemusel příliš listovat.
 
+Pachy
+¨¨¨¨¨¨
 *Pach* cítí jen hobit, pes, nebo jiný tvor s čichem citlivějším než člověk.
 *Zápach* cítí všichni.
+
+Psát explicitně k potvorám, co cítí hobit a co pes?
+- hobit by měl poznat obecnou kategorii (had, hmyz atd.)
+- Pokud tvor vydává pach, pes vždycky pozná, o jakého tvora se jedná
+Určitě má smysl uvádět zápach, kterej cítěj všichni, dál co cítí hobit,
+  a nakonec jestli tvor vůbec vydává nějakej pach. Asi nemá smysl uvádět
+  kolonku pro psa, protože to je vždy "Pach tvora XY".
+Takže:
+- buď tam je "Nemá pach"
+- nebo "co pozná hobit" + případnej zápach
 
 
 Do Vedení hry:
@@ -786,7 +798,8 @@ https://pixabay.com/images/search/fantasy/?pagi=18
 
 ------------------------------------------
 
-Dovednosti:
+Dovednosti
+-----------
 
 Dávají smysl třístupňový jazyky?
   - asi jo:
@@ -795,6 +808,12 @@ Dávají smysl třístupňový jazyky?
     Mistrovská znalost: vzdělanec
 - bude se to trochu bít s původním konceptem, že zběžnou znalost není třeba platit
   - Což je asi logický, třístupňovej model tenhle koncept nahrazuje.
+
+Plížení vs neviditelnost
+-------------------------
+- neviditelnost rozšiřuje možnosti použití, můžu se s ní plížit i na otevřenym
+  prostranství
+- 
 
 ------------------------------------------
 

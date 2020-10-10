@@ -1,0 +1,12 @@
+﻿Apply a character style to the property name (like "Dosah:"):
+---------------------------------------------------------------
+
+Everything from start included the colon:
+
+^[^:]+:
+
+Everything from start excluded the colon:
+
+^[^:]+
+
+// Find the beginning of a paragraph, followed by anything, that is not a colon, one or multiple times, followed by a colon (first case) or not (second case)
