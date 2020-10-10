@@ -1,0 +1,10 @@
+﻿Mezerník a pomlčka
+-------------------
+https://blog.inpage.cz/inpage/7-typografickych-hrichu-1-pomlcka-a-spojovnik/#:~:text=Jak%20u%C5%BE%20v%C3%ADte%2C%20spojovn%C3%ADk%20nejsp%C3%AD%C5%A1,Z%C3%A1rove%C5%88%20spojovn%C3%ADk%20nikdy%20neodd%C4%9Blujeme%20mezerou.
+
+
+Čísla a matematická znaménka
+-----------------------------
+https://blog.inpage.cz/inpage/7-typografickych-hrichu-6-cisla-a-matematicka-znamenka/
+
+Jako mínus by se neměl psát ani spojovník ani pomlčka, ale speciální znak „−“, který se nachází pod zkratkou Alt+8722.

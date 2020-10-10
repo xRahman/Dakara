@@ -53,3 +53,8 @@ https://creativepro.com/10-indesign-preferences-you-must-change-today/
 Text must be above any transparency objects in order to avoid being rasterized
 --------------------------------------------------------------------------------
 https://indesignsecrets.com/turning-on-the-preference-for-text-wrap-only-affects-text-beneath-yes-or-no.php
+
+
+Hyperlink automation
+---------------------
+https://indesignsecrets.com/assigning-hyperlinks-automatically-to-skus-and-other-text-with-a-script.php
