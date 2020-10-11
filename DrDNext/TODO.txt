@@ -251,6 +251,13 @@ Takže:
 - buď tam je "Nemá pach"
 - nebo "co pozná hobit" + případnej zápach
 
+Psát do bestiáře "(Hobit cítí):" je divný.
+
+=> Asi se budu držet toho, že ZÁPACH cití všichni, pach jen hobit nebo pes.
+  A pes navíc přesně pozná, o jakýho tvora se jedná, pokud už se s ním někdy
+  setkal ()
+
+
 
 Do Vedení hry:
 ---------------
@@ -813,7 +820,7 @@ Plížení vs neviditelnost
 -------------------------
 - neviditelnost rozšiřuje možnosti použití, můžu se s ní plížit i na otevřenym
   prostranství
-- 
+- rozhoduje při stejném stupni dovednosti
 
 ------------------------------------------
 
