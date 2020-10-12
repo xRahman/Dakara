@@ -323,6 +323,13 @@ Vedení hry podle modulů
   dávají aspoň trochu smysl.
 
 
+Tvorba světa
+-------------
+
+Otázky k zamýšlení:
+• Jak výjimečné jsou hráčské postavy? Dají se kouzelníci nebo válečníci v království spočítat na prstech jedné ruky, nebo jsou jich naopak v každém městě desítky?
+
+
 ----------------------------------------------------
 
 TODO: Zapojit do pravidel:
