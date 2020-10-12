@@ -262,6 +262,15 @@ Psát do bestiáře "(Hobit cítí):" je divný.
 Do Vedení hry:
 ---------------
 
+Úvod k Vedení hry:
+  Následující kapitola obsahuje spoustu rad a postupů, které ti nejspíš
+začnou dávat smysl až poté, co si vedení hry vyzkoušíš. Přesně tak jsou
+myšleny - před první hrou si kapitolu Vedení hry jen zběžně pročti, abys
+měl představu, co v ní můžeš najít, a vrať se k tomu až poté, co při hře
+narazíš na nějaké problémy či nejasnosti.
+
+
+
 Rozdělení družiny
 - neboj se hráčům připomínat, že rozdělování skupiny není dobrý nápad. Sice
   bys jim neměl mluvit do taktiky, ale tohle rozhodnutí může snadno některé hráče
@@ -693,7 +702,11 @@ Asi by to mělo bejt co nejvíc intuitivní - pokud u něčeho dává smysl, že
 Bestiář
 --------
 
+Pařáty / hnáty / pazoury / spáry / drápy / pracky
+
 TODO: Nedávat kostlivcům zranění 1 (aby mělo smysl je disarmovat)
+- v tom případě by nulu měly mít i zombie a ghůlové
+  [snad mají, zkontrolovat]
 
 - "magický zrak a sluch" u nemrtvých PJovi moc nepomůže.
    Místo toho říct něco jako "vidí i po tmě a bez očí, slyší bez uší"
