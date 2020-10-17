@@ -134,8 +134,7 @@ Game titel idea: Dragoncrawl
 Úvahy k formátování bestiáře:
 -----------------------------
 
-- Ideálně všechno vecpat do stylu "Properties"
-  (víc stylů dělá bordel s mezerama před a za odstavcem)
+IDEA: Zrušit property "skrývání" a udělat z ní schopnost.
 
 ----------------------------------------------------
 
@@ -191,6 +190,9 @@ se většina velkého podzemního sálu bude ve světle lucerny pro lidi, hobity
 kudůky a barbary topit ve tmě, elf ho uvidí celý, jako kdyby bylo šero. Trpaslík
 uvidí rudé skvrny tam, kde stojí teplokrevní tvorové a kroll "uvidí" obrysy tvorů
 a předmětů, ale nerozezná detaily.
+
+Některé nestvůry bojují po tmě nebo za šera stejně dobře jako ve dne díky výjimečným
+ostatním smyslům - obvykle čichu, hmatu, detekci vibrací a podobně.
 
 Do kapitoly Hraní za postavu:
 ------------------------------
