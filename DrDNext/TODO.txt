@@ -131,7 +131,7 @@ Game titel idea: Dragoncrawl
 
 ----------------------------------------------------
 
-Úvahy k formátování bestiáře:
+Formátování bestiáře:
 -----------------------------
 
 IDEA: Zrušit property "skrývání" a udělat z ní schopnost.
