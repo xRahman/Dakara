@@ -1,3 +1,5 @@
+TODO: Do mapy trossu dát časy cestování
+
 TODO: Lučavce přidat zranění proti kovovým tvorům
 
 TODO: Popis strašitelnýho domu (Honza, Adéla? Hmmm)
@@ -289,6 +291,9 @@ Psát do bestiáře "(Hobit cítí):" je divný.
   A pes navíc přesně pozná, o jakýho tvora se jedná, pokud už se s ním někdy
   setkal (má vůbec smysl rozlišovat hobití a psí čich? Spíš asi ne)
 
+IDEA: Text o pachu dávat jiným řezem (asi kurzívou) než text o zápachu.
+- stejně to dělat i u ostatních informací - zjevné stopy normální řezem,
+  stopy pro stopaře kurzívou.
 
 
 Do Vedení hry:
