@@ -1,3 +1,11 @@
+Bestiary mark: Kostěj
+
+TODO: Zkusit nějak sjednotit různý druhy žíraviny, která se dá
+  těžit z potvor - možná na slabou/silnou.
+- i když asi ne, protože může působit na různý druhy substancí.
+
+TODO: Dát do pravidel magické předměty (jsou v jinym souboru)
+
 TODO: Do mapy trossu dát časy cestování
 
 TODO: Lučavce přidat zranění proti kovovým tvorům
@@ -195,6 +203,16 @@ a předmětů, ale nerozezná detaily.
 
 Některé nestvůry bojují po tmě nebo za šera stejně dobře jako ve dne díky výjimečným
 ostatním smyslům - obvykle čichu, hmatu, detekci vibrací a podobně.
+
+
+QUESTION: Pokud mají třeba zombie ve světle lucerny výhodu, proč by se postavy
+  vůbec tahaly s lucernou? Nevýhodu budou mít tak jako tak.
+- informace. V naprostý tmě to bude "něco se ti zakouslo do předloktí".
+
+TODO: Dát do kapitole o světle v podzemí příklad boje po tmě (třeba zrovna
+  s těma zombíkama), ať hráči vidí, jak mají vypadat popisy.
+
+
 
 Do kapitoly Hraní za postavu:
 ------------------------------
@@ -878,6 +896,9 @@ Plížení vs neviditelnost
 - neviditelnost rozšiřuje možnosti použití, můžu se s ní plížit i na otevřenym
   prostranství
 - rozhoduje při stejném stupni dovednosti
+
+TODO: Ostražitost a plížení asi přejmenovat na Plížení
+- možná zavést samostatnou dovednost Ostražitost
 
 ------------------------------------------
 
