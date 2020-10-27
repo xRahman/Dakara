@@ -1,4 +1,16 @@
+TODO: Životy postav by měly odpovídat tabulce velikostí v bestiáři
+  (člověk má velikost 5)
+
+TODO: V bestiáři zkontrolovat všechny velikosti a životy.
+TODO: V bestiáři stjednodit (a pravidlech popsat) nadlidskou
+  sílu u postav.
+  IDEA: Síla jako kůň / síla jako slon.
+TODO: V bestiáři zvážit property Pohyb
+
+
 Bestiary mark: Kostěj
+- a přeskočil jsem draky
+- a skipuju lykantropy
 
 TODO: Zkusit nějak sjednotit různý druhy žíraviny, která se dá
   těžit z potvor - možná na slabou/silnou.
@@ -757,6 +769,7 @@ Asi by to mělo bejt co nejvíc intuitivní - pokud u něčeho dává smysl, že
 Bestiář
 --------
 
+
 Pařáty / hnáty / pazoury / spáry / drápy / pracky
 
 TODO: Nedávat kostlivcům zranění 1 (aby mělo smysl je disarmovat)
@@ -767,6 +780,52 @@ TODO: Nedávat kostlivcům zranění 1 (aby mělo smysl je disarmovat)
    Místo toho říct něco jako "vidí i po tmě a bez očí, slyší bez uší"
    Ještě líp: Vidí ve tmě, slyší jako člověk
 
+TODO: V bestiáři sjednotit Smysly.
+- buď důsledně používat "zrak jako elf", nebo naopak
+  "skvělý zrak, noční vidění"
+  (pak bych asi někde musel vysvětlit, co znamená "skvělý zrak")
+- totéž s čichem. Buď "skvělý čich" nebo "čich jako pes".
+
+Zrak
+....
+• Horší / stejný / lepší než člověk
+  slabý / dobrý / skvělý
+  jako ? / jako člověk / jako orel
+
+• Noční vidění
+• Vidění ve tmě
+• Infravidění
+
+
+Sluch
+.....
+
+• Horší / stejný / lepší než člověk
+  slabý / dobrý / skvělý
+  jako ? / jako člověk / jako slon? kočka? pes? kůň?
+
+• ultrasluch
+  jako kroll, jako netopýr
+
+• selektivní sluch
+  jako kudůk
+
+
+• detekce vibrací
+
+
+Čich
+....
+
+• Horší / stejný / lepší než člověk
+  slabý / dobrý / skvělý
+  jako ? / jako člověk / jako pes, jako hobit
+
+
+TODO: Hadi jsou zřejmě hluší.
+  Snakes, for example, don’t have an outer ear or eardrum. Instead, a bone in their jaw moves in response to vibrations they detect on the ground and in the air. This movement is transferred to the inner ear, which is sent to the brain to be interpreted.
+  Lizards, on the other hand, have visible openings with eardrums just below surface of their skin. While they don’t hear as well as humans, they are able to hear better than snakes.
+- ok, takže slabej sluch, ale úplně hluší nejsou
 
 Struktura bestiáře
 -------------------
@@ -890,6 +949,16 @@ Dávají smysl třístupňový jazyky?
     Mistrovská znalost: vzdělanec
 - bude se to trochu bít s původním konceptem, že zběžnou znalost není třeba platit
   - Což je asi logický, třístupňovej model tenhle koncept nahrazuje.
+
+IDEA: Jazyku, ve kterém jsou zapsaná kouzla, říkat spíš Řeč kouzel než Stará řeč
+ (nebo možná Magická řeč, ale Řeč kouzel je asi lepší).
+
+IDEA: Některý starý jazyky automaticky pod dovedností Staré jazyky, na hodně
+  obskurní (například na Dračí řeč) by byla potřeba samostatná dovednost.
+
+Význam stupňů u dovednosti řeč kouzel:
+  Možná že se základní znalostí by postava přečetla jen základní kouzla,
+  s pokročilou pokročilá a s mistrovskou mistrovská?
 
 Plížení vs neviditelnost
 -------------------------
