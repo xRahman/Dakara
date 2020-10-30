@@ -1,3 +1,10 @@
+TODO: Nemrtví by měli vidět i po tmě (a asi všechny potvory s magickým zrakem)
+[done]
+
+TODO: Psát všude "dobrá chuť"?
+- spíš asi ne, stčí zmínit, když tvor žádnou nemá, nebo ji má výjimečně dobrou
+[won't do]
+
 TODO: rychlost jako lev -> jako kůň
 [done]
 

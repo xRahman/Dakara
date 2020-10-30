@@ -1,3 +1,25 @@
+TODO: Někam sepsat, co znamenají jednotlivý vylepšený smysly
+- částečně to je pokryté v boji po tmě, zbejvá "skvělý zrak"
+  (výhoda při střelbě na střední a dlouhou vzdálenost).
+TODO: Někde zmínit, co znamenají "magické smysly"
+- že kostlivec se zavázanýma očima stále vidí
+
+TODO: Doplnit k "jako elf/trpaslík/atd." co přesně to je za smysly
+
+TODO: Zrušit "Boj po tmě" a "boj v šeru" jako schopnosti a místo toho
+  dát potvorám puntíky.
+
+TODO: Přidat k raciálkám puntíky na boj za šera a po tmě a elfům výhodu
+  na střelbu na dálku.
+
+
+IDEA: Infravidění přejmenovat na "vidění tepla"
+- ultrasluch přejmenovat na "vidění zvukem"?
+  Nebo "echolokaci", ale to zní stejně blbě (i když, možná přece jen o fous líp).
+
+
+TODO: Do ceníku zámky
+
 TODO: Životy postav by měly odpovídat tabulce velikostí v bestiáři
   (člověk má velikost 5)
 
@@ -120,6 +142,12 @@ Jiné poznámky:
 Moduly
 =======
 
+TODO: Zvážit, že by v modulu se settingem defaultního světa
+ byla další povolání (kněz, druid).
+- u kněze by to dávalo smysl, protože by ho pak šlo navázat na konkrétní
+  božstva
+- pravidla by zůstala DrD compatible
+
 Stopy
 ------
 
@@ -183,6 +211,71 @@ http://www.myschwerk.webzdarma.cz/cenik.html
 
 ----------------------------------------------------
 
+Do kapitoly Boj:
+-----------------
+
+Boj v šeru a po tmě
+...................
+
+/* Tohle spíš dát do kapitoly Boj, ať si to můžou hráči hlídat sami */
+
+TODO: Ještě přece jen zvážit, jestli nedat všem vylepšením smyslů stejnou
+  váhu. Kočka sice v šeru vidí líp než člověk, ale pořád hůř, než by viděla
+  ve dne. Tj. bylo by to tak, že když v šeru bojuje kočka s trpaslíkem,
+  nikdo nemá výhodu.
+- pak ještě zvážit, jestli počítat zvýhodňující smysly nebo ne (výhodu by pak
+  měla kočka, protože kromě nočního vidění má ještě skvělej čich).
+  - asi nepočítat, je to zbytečně složitý. Víc smyslů má efekt v tom, že je
+    těžší dotyčnýho výhody zbavit (oslepená kočka má pořád skvělej čich a sluch).
+  Zrak by asi přece jen měl mít prioritu v tom smyslu, že oslepenej má vždycky
+  nevýhodu (leda by to byl od přírody slepej tvor).
+
+O tom, kdo bude mít výhodu, rozhodují smysly. Zrak je z hlediska boje
+nejdůležitější smysl, takže nestvůry s viděním v šeru mají při boji za
+šera výhodu proti těm, kdo ho nemají a tvorové s viděním po tmě mají výhodu
+při boji po tmě. Výjimkou jsou tvorové, kteří vůbec nevidí (například obří
+červ), ti samozřejmě po tmě a za šera bojují stejně dobře jako za bílého dne.
+
+Infravidění a ultrasluch neposkytují plnohodnotný zrak, jsou tady na stejné
+úrovni jako třeba skvělý čich nebo sluch. Když v naprosté tmě bojuje pes (skvělý
+čich, skvělý sluch a vidění v šeru) s trpaslíkem (průměrný čich a sluch,
+infravidění), žádný z nich nebude mít výhodu, protože infravidění se zhruba
+vyrovná skvělému zraku nebo čichu. Za šera ale bude mít výhodu pes, protože
+pes ho vidí stejně dobře jako za bílého dne, zatímco trpaslík vidí jen červenou
+skvrnu zhruba ve tvaru psa. Proti člověku ale v šeru (například v podzemí
+osvětleném lucernou) trpaslík výhodu má, protože ostatní smysly mají zhruba
+stejné, ale trpaslík má navíc infravidění.
+
+IDEA: Udělat to přes tečky, podobně jako dovednosti.
+v šeru: ••
+ve tmě: •••
+- každá tečka by představovala jeden smysl, kterej tvorovi dává ve tmě výhodu.
+- dát tyhle tečky do tvorby postav k popisu ras, tj. trpaslík a kroll budou mít
+  v šeru: •
+  ve tmě: •
+- tečky jsou aplikovatelné, pouze pokud jdou použít příslušné smysly. Při boji
+  s kamennou sochou, která nevydává žádný pach, na tom hobit bude stejně jako
+  člověk (žádná tečka), ale pes o ní bude vědět díky skvělému sluchu.
+- oslepený protivník má na světle nebo v šeru vždycky nevýhodu proti neoslepenému,
+  pokud má ale nějaký tečky v boji po tmě, nebude tápat - bude bojovat asi jako
+  člověk v šeru (s nevýhodou, ale ví, kde protiník je, takže může aktivně útočit).
+
+O co se hraje:
+- jestli bude mít někdo výhodu
+  - pokud je jeden ze soupeřů oslepený, ten druhý má výhodu
+  - když jsou oslepení oba, výhodu má ten, kdo má víc teček
+- kdo bude moci bojovat aktivně a kdo bude tápat jako člověk po tmě
+  - nula teček znamená tápání
+
+
+TODO: Oslepený trpaslík nevidí ani infraviděním. Oslepený kroll pořád může
+  používat ultrasluch, vadí mu ale zacpané uši nebo roubík.
+
+IDEA: Elfům (a obecně tvorům se skvělým zrakem) dát výhodu při střelbě na
+  střední a dlouhou vzdálenost (tj. na střední budou střílet bez postihu,
+  na dlouhou s -1).
+
+
 Do kapitoly Průzkum:
 ---------------------
 
@@ -236,6 +329,35 @@ Do kapitoly Hraní za postavu:
 
 
 • Samozřejmě se taky hodí zmínit, třeba že hráč hraničáře může po vyřazení svý postavy dál hrát svýho peta (nebo že ho může hrát jinej hráč), že hráč může převzít nějakýho henchmana (nebo henchwoman ;-)), případně jiný friendly NPC a tak - ale to je vždycky situační, ne vždycky je takový npcčko po ruce a ne vždycky se hodí, když za něj rozhoduje někdo jinej.
+
+
+Tlachání (návrhy od Quentina)
+.............................
+
+1) Co nejrychleji (implicitně nebo explicitně) naznačte svůj záměr. Sotva ostatní
+  vědí, o čem scéna je, mohou se zapojit, budovat, a časem ji posunout k naplnění
+  (hodu, třeba).
+- S tímhle moc nesouhlasím, respektive ne když to hráči dělají metaherně. Je ale
+  v pohodě dělat to za postavu - říct předem ostatním, že se pokusíš z hostinského
+  vypáčit něco o Prokletém hvozdu.
+
+2) Zapojte ostatní. Nemluvte jen na hostinského, mluvte i na ostatní hráčské
+  postavy. A pokud nejsou na scéně, ptejte se na jejich rady a názory.
+- souhlas se zapojením ostatních postav, nesouhlas se zapojením hráčů, kteří
+  nejsou na scéně.
+
+3) Pokud to jde, tak interagujte primárně s obsahem vloženým ostatními hráči.
+  Místo hostinského se bavte se sluhou jiné hráčské postavy. Místo náhodného
+  šlechtice se bavte s tím, kterého DM zmínil jménem.
+- asi ok.
+
+4) git gud (viz Selhan). Když je váš roleplay (resp. herectví) zajímavé, zábavné
+  nebo vtipné, tak ho nikdo nebude považovat za tlachání.
+- souhlas.
++ Koukej se při hraní na svoje spoluhráč, čti jejich neverbální komunikaci. Hraje
+  si nějakej spoluhráč s telefonem? Zeptej se na něco jeho postavy a klidně do
+  něj šťouchni, když si toho nevšimne.
+
 
 
 Do Tvorby postavy:
@@ -766,9 +888,25 @@ Asi by to mělo bejt co nejvíc intuitivní - pokud u něčeho dává smysl, že
 
 ----------------------------------------------------
 
+Úvod k bestiáři
+----------------
+
+
+TODO: Vysvětlit, že "dobrý zrak/sluch/čich" znamená "dobrý jako člověk"
+
+TODO: K čemu je vlastně property "smysly"
+- postavy se mohou proměnit do zvířete, případně se dívat očima jiného tvora
+- při boji v šeru nebo po tmě.
+  Tečky jsou za:
+    vidění v šeru (jen za šera)
+    vidění po tmě (za šera i v noci)
+    skvělý čich
+    skvělý sluch
+    skvělý hmat celým tělem
+
+
 Bestiář
 --------
-
 
 Pařáty / hnáty / pazoury / spáry / drápy / pracky
 
@@ -791,10 +929,11 @@ Zrak
 • Horší / stejný / lepší než člověk
   slabý / dobrý / skvělý
   jako ? / jako člověk / jako orel
+  slabý / jako člověk / skvělý
 
-• Noční vidění
-• Vidění ve tmě
-• Infravidění
+• noční vidění
+• vidění ve tmě
+• infravidění
 
 
 Sluch
@@ -803,6 +942,7 @@ Sluch
 • Horší / stejný / lepší než člověk
   slabý / dobrý / skvělý
   jako ? / jako člověk / jako slon? kočka? pes? kůň?
+  slabý / jako člověk / skvělý
 
 • ultrasluch
   jako kroll, jako netopýr
@@ -811,21 +951,48 @@ Sluch
   jako kudůk
 
 
-• detekce vibrací
-
-
 Čich
 ....
 
 • Horší / stejný / lepší než člověk
   slabý / dobrý / skvělý
   jako ? / jako člověk / jako pes, jako hobit
+  slabý / jako člověk / skvělý
+
+
+Hmat
+....
+
+• hmatová tykadla
+• hmat celým tělem
+• detekce vibrací
 
 
 TODO: Hadi jsou zřejmě hluší.
   Snakes, for example, don’t have an outer ear or eardrum. Instead, a bone in their jaw moves in response to vibrations they detect on the ground and in the air. This movement is transferred to the inner ear, which is sent to the brain to be interpreted.
   Lizards, on the other hand, have visible openings with eardrums just below surface of their skin. While they don’t hear as well as humans, they are able to hear better than snakes.
 - ok, takže slabej sluch, ale úplně hluší nejsou
+
+
+Velikost
+........
+
+TODO: Mám tam dvě tabulky, jednu smazat a zkontrolovat, že je všude
+správně použitá ta druhá
+
+TODO: Možná líp rozhodit obra a poloobra
+
+TODO: Mořský potvory by asi měly bejt ještě větší než slon
+
+
+Boj v temnotě
+.............
+
+TODO: Mám to napsaný špatně. Pes v temnotě nebojuje stejně dobře jako na světle,
+  když se potká s tvorem s darkvizí, tak v nevýhodě bude.
+- možná bych tohle měl ze schopností úplně vyhodit, plyne to už ze smyslů.
+  A napsat o tom odstavec do úvodu k bestiáři
+
 
 Struktura bestiáře
 -------------------
@@ -898,6 +1065,8 @@ Kategorie jako hesla
 
 ------------------------------------------
 
+Živobytí
+---------
 
 IDEA k živobytí: spojit ho s majetkem
 - majetek generuje příjem, kterej postavám pokryje náklady na živobytí
