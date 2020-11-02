@@ -1,3 +1,44 @@
+Bestiary mark: Pán zkázy
+- a přeskočil jsem draky
+- a skipuju lykantropy
+- a nemrtváky
+- a neviděné
+
+TODO: Lykantropové jsou spojeni s mocí Měsíce. Za úplňku se mění, i když
+  nechtějí. Nemohou regenerovat zranění stříbrem, protože stříbro je také
+  spřízněné s Měsícem (měsíční kov).
+
+TODO: Zamyslet se nad tím, z jakých orgánů alchymista těží kvintesenci,
+  jestli by to šlo sjednotit a jestli to má nějaký zajímavý dopady
+- u huňáčů jsou to játra
+- u gargoyly je to kamenné srdce, protože to zní dobře
+- pokud by to u lykantropů a jinejch tvaroměnců byl třeba mozek, mohl by to
+  bejt důvod, proč rozbití nebo useknutí hlavy nezregenerujou.
+
+TODO: U všech kouzlících potvor uvést:
+  Všechna si musí připravovat stejně jako kouzelník.
+TODO: U všech potvor, které mohou sesílat útočná kouzla,
+  uvést jejich útok a zranění, ať to PJ nemusí při hře hledat.
+  - na tohle možná kašlat. V modulech to smysl dává, v pravidlech až tolik ne...
+TODO: A ke všem kouzlům přidat zaklínací formule.
+
+IDEA: Veškerou paralýzu převést na:
+  • zpomalení
+ •• znehybnění nohou
+••• kompletní znehybnění
+
+
+TODO: U všech jedů v bestiáři psát: je možno získat nepoužité dávky jedu
+
+TODO: Zdroje světla:
+  svítící mech: v kontaktní vzdálenosti je šero
+  lucerna, pochodeň nebo svíčka: v kontaktní vzdálenosti je světlo, v krátké šero
+  táborový oheň: v krátké vzdálenosti je světlo, ve střední šero
+  maják: ve střední vzdálenosti je světlo, v dlouhé šero
+
+TODO: Do "Skrývání:" psát i věci, jako že potvora není cítit, není slyšet,
+  není vidět ultrasluchem a podobně.
+
 TODO: Někam sepsat, co znamenají jednotlivý vylepšený smysly
 - částečně to je pokryté v boji po tmě, zbejvá "skvělý zrak"
   (výhoda při střelbě na střední a dlouhou vzdálenost).
@@ -28,11 +69,6 @@ TODO: V bestiáři stjednodit (a pravidlech popsat) nadlidskou
   sílu u postav.
   IDEA: Síla jako kůň / síla jako slon.
 TODO: V bestiáři zvážit property Pohyb
-
-
-Bestiary mark: Kostěj
-- a přeskočil jsem draky
-- a skipuju lykantropy
 
 TODO: Zkusit nějak sjednotit různý druhy žíraviny, která se dá
   těžit z potvor - možná na slabou/silnou.
@@ -1137,6 +1173,17 @@ Plížení vs neviditelnost
 
 TODO: Ostražitost a plížení asi přejmenovat na Plížení
 - možná zavést samostatnou dovednost Ostražitost
+  Tohle asi nakonec nebude dobrej nápad. Vysvětlím to trochu oklikou:
+    "Obří sklípkan si ze své pavučiny staví doupě a kolem něj soustavu
+    křivolakých tunelů. Na některých místech tvoří jeho pavučiny falešnou
+    podlahu."
+  Napadlo mě, že bych k tomu napsal "obtížnost", tj. stupeň (počet teček)
+  dovednosti potřebný na to, aby si toho postava všimla. Tou dovedností by
+  asi byla ostražitost, pokud by existovala. Problém je, že by to totálně
+  zbořilo hraní dungeonů založený na hráčský interakci s prostředím - hráči
+  by logicky ostražitost maxovali, protože by to byla jedna z nejužitečnějších
+  dovedností, a tím by se efektivně ochuzovali o herní obsah.
+=> Dovednost s názvem ostražitost je v týhle hře fakt špatnej nápad.
 
 ------------------------------------------
 
