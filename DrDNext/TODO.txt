@@ -1,3 +1,10 @@
+TODO: Únik z pout vs mistrovské okovy
+
+TODO: Hůlka temnoty účinkuje, dokud ji máš v ruce.
+
+IDEA: Všechna zapsaná kouzla jsou na jedno použití, pouze
+  naučená jdou sesílat opakovaně.
+
 Bestiary mark: Pán zkázy
 - a přeskočil jsem draky
 - a skipuju lykantropy
@@ -35,6 +42,7 @@ TODO: Zdroje světla:
   lucerna, pochodeň nebo svíčka: v kontaktní vzdálenosti je světlo, v krátké šero
   táborový oheň: v krátké vzdálenosti je světlo, ve střední šero
   maják: ve střední vzdálenosti je světlo, v dlouhé šero
+TODO: Pro elfy (vidění v šeru) se "světlo" i "šero" rozšiřuje o jedno pásmo.
 
 TODO: Do "Skrývání:" psát i věci, jako že potvora není cítit, není slyšet,
   není vidět ultrasluchem a podobně.
@@ -52,7 +60,13 @@ TODO: Zrušit "Boj po tmě" a "boj v šeru" jako schopnosti a místo toho
 
 TODO: Přidat k raciálkám puntíky na boj za šera a po tmě a elfům výhodu
   na střelbu na dálku.
-
+TODO: Kudůk může podle sluchu střílet a sesílat kouzla, hobit podle čichu ne
+  (ale může podle čichu bojovat na blízko).
+- na krátkou vzdálenost slyší dech, na kontaktní tlukot srdce
+  TODO: Napsat to ke "skvělému sluchu" v komentářích k bestiáři.
+TODO: Omezit u ultasluchu vzdálenost (na krátkou?)
+TODO: Možná raciálky spíš rozepsat, tj. elf má "skvělý zrak a vidění v šeru"
+TODO: Zrušit selektivní sluch, skvělý sluch stačí.
 
 IDEA: Infravidění přejmenovat na "vidění tepla"
 - ultrasluch přejmenovat na "vidění zvukem"?
@@ -722,6 +736,26 @@ Poznámky v InDesignu
 ---------------------
 
 IDEA: Designový komentáře dávat do sticky notes, poznámky k sazbě do idd notes.
+
+
+InDesign - k prostudování
+--------------------------
+
+https://www.youtube.com/watch?v=Lpg9KVHUJlA&list=PL2IMwUz0eHGV1irgbbMNnrTfbzFOS7dEq&index=2
+https://www.youtube.com/watch?v=B7_z7AcPiJs&list=PL2IMwUz0eHGV1irgbbMNnrTfbzFOS7dEq&index=3
+https://helpx.adobe.com/indesign/user-guide.html/indesign/using/paragraph-character-styles.ug.html
+https://helpx.adobe.com/indesign/user-guide.html/indesign/using/leading.ug.html
+https://www.adobepress.com/articles/article.asp?p=2180421&seqNum=2
+https://helpx.adobe.com/indesign/user-guide.html/indesign/using/threading-text.ug.html
+https://community.adobe.com/t5/indesign/continuous-linked-text-frames-master-pages/td-p/9926280?page=1
+https://helpx.adobe.com/indesign/user-guide.html/indesign/using/master-pages.ug.html
+https://www.youtube.com/watch?v=Pt52plh_iuw
+https://www.youtube.com/watch?v=U9Uor6FECQU
+https://helpx.adobe.com/indesign/user-guide.html/indesign/using/aligning-text.ug.html
+https://www.youtube.com/c/indesignsecrets/videos
+
+SVG fonts:
+  https://blog.adobe.com/en/2017/11/15/weekoficons-prepare-svg-icons-for-icon-fonts.html#gs.ixib1s
 
 
 ------------------------------
