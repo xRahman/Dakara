@@ -1,15 +1,80 @@
-TODO: Únik z pout vs mistrovské okovy
-
-TODO: Hůlka temnoty účinkuje, dokud ji máš v ruce.
-
-IDEA: Všechna zapsaná kouzla jsou na jedno použití, pouze
-  naučená jdou sesílat opakovaně.
-
-Bestiary mark: Pán zkázy
+Bestiary mark: Roháč obří
 - a přeskočil jsem draky
 - a skipuju lykantropy
 - a nemrtváky
 - a neviděné
+
+------------------------------------------------
+
+Úvaha o nebezpečnosti malých tvorů
+- kočka v zásadě nemusí mít nízké hodnoty vlastností, může být reálný problém
+  ji trefit (a ona naopak poměrně snadno poškrábe člověka). Měla by ale mít
+  hodně nízké zranění
+- dává taky smysl, že trefit kuší kočku je o dost těžší než trefit tygra
+- možná, že by malí tvorové mohli mít zápornou útočnost?
+  Pak by se asi mezi sebou kočkovaly dost dlouho, než by si něco udělaly,
+  ale to možná až tolik nevadí.
+- možná by mohla mít nevýhodu kvůli dosahu (která se proti srovnatelně velkým
+  tvorům nepočítá - jenže to by pak obři a podobně museli mít výhodu
+  a byla by asi pruda ji neustále započítávat).
+  - tohle určitě nebrat, hodnoty vlastností musejí platit tak, jak jsou. Pokud
+    má být tygr snáze zasažitelný lukem než kočka, má mít nižží Finesu (což je
+    ok, může útočit Fyzičkou).
+Při změně velikosti:
+- změní se životy
+- zůstávají hodnoty vlastností
+- změní se Síla
+  - za každé 3 body změny Velikosti je +1 ke zranění
+  - za každé zvýšení Velikosti o 3 (tj. zdvojnásobení ve všech rozměrech)
+    je +1 ke zranění:
+    - permoník (Velikost 3) má -1
+    - člověk (Velikost 6) má 0,
+    - poloobr (Velikost 9) má +1
+    - obr (Velikost 12) má +2
+ - Zranění zbraní se mění stejně, tj. dvojruční kladivo pro permoníka (Velikost 3)
+   bude mít zranění 2, zatímco pro trpaslíka (Velikost 6) má zranění 3
+TODO: Obr by asi měl vážit jako slon (obří síla)
+
+
+IDEA: K lektvaru zmenšování doplnit, že při každém zmenšení klesne zranění
+  zbraní o 1.
+- obecný princip bude, že každé zdvojnásobení velikosti zbraní zvýší zranění o 1
+  (ujistit se, že to tak je u zbraní nestvůr).
+
+TODO: Pokud povolím záporné hodnoty zranění, tak je povolit i u výbušného
+  a zápalného projektilu (ať hráči neexploitují zaokrouhlovací chyby).
+
+-----------------------------------------
+
+TODO: Udělat z obsahu klikatelné odkazy
+  (je teda otázka, jestli to bude fungovat i v IDD nebo jen v pdfku)
+
+TODO: Probrat na fórech, jestli je rozumný mít v pravidlech poděkování
+  autorům v DrD a když, tak v jaký formě.
+  - možná je vyjmenovat, ale explicitně nezmínit, že jde o autory DrD?
+    Něco jako "poděkování autorům, kteří se zasloužili o rozvoj RPG v Čechách,
+      a na jejichž práci stavím"
+
+TODO: Výrobky ze vzácných surovin dát do stejného seznamu jako ostatní
+  magické předměty a psát k nim odkaz na potvoru, ze které se vyrábí.
+TODO: Do kapitoly Poklady spíš dát jen nemagické poklady, všechny kouzelné
+  předměty dát do kapitoly Kouzelné předměty.
+TODO: Ze seznamu vzácných výrobků vyhodit žíraviny a někam napsat, že stejně
+  jako u jedů jejich staty PJ vyčte ze statů potvory (asi do kapitoly Poklady).
+
+TODO: Únik z pout vs mistrovské okovy
+- stejně jako otevírání zámků vs Výroba zámků, tj. mistrovský únik vyhraje
+  nad mistrovskými pouty
+
+TODO: mistrovské plížení vs mistrovské plížení (obecně stejnej level dovednosti)
+- vyhraje ten, kdo má nějakou výhodu (nebo víc výhod), jako třeba neviditelnost
+  nebo skvělý čich
+- v případě rovnosti se stane "něčeho sis všiml, ale nevíš, co přesně to je".
+
+TODO: Hůlka temnoty účinkuje, dokud ji máš v ruce.
+
+IDEA: Všechna kouzla na svitcích a v grimoárech jsou na jedno použití,
+  pouze naučená jdou sesílat opakovaně.
 
 TODO: Lykantropové jsou spojeni s mocí Měsíce. Za úplňku se mění, i když
   nechtějí. Nemohou regenerovat zranění stříbrem, protože stříbro je také
@@ -34,8 +99,6 @@ IDEA: Veškerou paralýzu převést na:
  •• znehybnění nohou
 ••• kompletní znehybnění
 
-
-TODO: U všech jedů v bestiáři psát: je možno získat nepoužité dávky jedu
 
 TODO: Zdroje světla:
   svítící mech: v kontaktní vzdálenosti je šero
@@ -74,19 +137,6 @@ IDEA: Infravidění přejmenovat na "vidění tepla"
 
 
 TODO: Do ceníku zámky
-
-TODO: Životy postav by měly odpovídat tabulce velikostí v bestiáři
-  (člověk má velikost 5)
-
-TODO: V bestiáři zkontrolovat všechny velikosti a životy.
-TODO: V bestiáři stjednodit (a pravidlech popsat) nadlidskou
-  sílu u postav.
-  IDEA: Síla jako kůň / síla jako slon.
-TODO: V bestiáři zvážit property Pohyb
-
-TODO: Zkusit nějak sjednotit různý druhy žíraviny, která se dá
-  těžit z potvor - možná na slabou/silnou.
-- i když asi ne, protože může působit na různý druhy substancí.
 
 TODO: Dát do pravidel magické předměty (jsou v jinym souboru)
 
@@ -226,8 +276,9 @@ IDEA: Zvažuju, že by pro léčení vážnejch zranění platila stejná hranic
 
 ----------------------------------------------------
 
-Game titel idea: Dragoncrawl
-(Asi ne moc dobrá)
+Game title ideas:
+  Dragoncrawl (nic moc)
+  Dračí poklad (to zní spíš jako deskovka)
 
 ----------------------------------------------------
 
@@ -975,8 +1026,48 @@ TODO: K čemu je vlastně property "smysly"
     skvělý hmat celým tělem
 
 
-Bestiář
---------
+Bestiář:
+---------
+
+TODO: Sjednotit popis síly odvozené od velikosti
+  (včetně výpočtu zranění zbraně - nejspíš to uvádět jako "property rules",
+   viz permoník)
+- dětská síla (-1 zranění)
+- koňská síla (+1 zranění)
+  /* poloobří síla? nadlidská síla? */
+- obří síla (+2 zranění)
+
+
+
+IDEA: Démoni jsou bytosti původem mimo tento svět, dají se bahishnout.
+  Nemohou se dostat do zásvětí.
+TODO: Heslo Duchové
+- jsou původem z tohoto světa. Mohou mít stejné schopnosti jako démoni
+  (posednutí a podobně), ale nemohou být bahisnuti.
+- Duchové přebývají v zásvětí a mohou být odtamtud přivoláni zpět.
+Hmm, takže duchové asi přece jen musí nějak souviset s nekromancií
+
+TODO: Znalost jazyků u potvor.
+TODO: A zmínit, které jsou inteligentní (to asi dělám v rámci chování,
+  ale měl bych to dělat důsledně).
+
+TODO: U všech jedů v bestiáři psát: je možno získat nepoužité dávky jedu
+
+TODO: Životy postav by měly odpovídat tabulce velikostí v bestiáři
+  (člověk má velikost 5)
+
+TODO: V bestiáři zkontrolovat všechny velikosti a životy.
+TODO: V bestiáři stjednodit (a pravidlech popsat) nadlidskou
+  sílu u postav.
+  IDEA: Síla jako kůň / síla jako slon.
+TODO: V bestiáři zvážit property Pohyb
+
+TODO: Zkusit nějak sjednotit různý druhy žíraviny, která se dá
+  těžit z potvor - možná na slabou/silnou.
+- i když asi ne, protože může působit na různý druhy substancí.
+Udělat to jako jedy, tj. PJ si vyčte parametry z popisu bestie.
+
+
 
 Pařáty / hnáty / pazoury / spáry / drápy / pracky
 
@@ -1132,6 +1223,7 @@ Kategorie jako hesla
 
 => Každá potvora bude mít heslo (mimo kategorie). Kategorie budou buď stranou
   nebo jako samostatný hesla (se seznamem potvor, který do kategorie patřej)
+
 
 ------------------------------------------
 
