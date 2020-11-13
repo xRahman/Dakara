@@ -3,6 +3,36 @@ Bestiary mark: Roháč obří
 - a skipuju lykantropy
 - a nemrtváky
 - a neviděné
+- a skřetí rasy
+
+------------------------------------------------
+
+Tross:
+-------
+
+TODO: Vytáhnout z textu vládcova syna a jeho doprovod, rozhodnout, co se s nima
+  stalo a někam je umístit
+
+Dalvar Brakvil
++ 3 mladí šlechtici: Artos, Potros, Armis
++ 5 sluhů (všechno lidé)
++ Sofia
++ trpaslice Mika
++ elfka Aliana
+U sebe mají dohromady: 16 zl, 5 st, bižuterii v celkové hodnotě 40 zl
+  (velmi horké zboží), 5 luxusní dýk (každá za 5 zl),
+  3 luxusní meče (každý za 8 zl)
+
+TODO: Vytáhnout z textu Trossu bojovníky do Ringu (to nespěchá)
+
+TODO: Připravit mapy dungeonů k online hraní
++ Stříbrný důl
+
+------------------------------------------------
+
+Catnip
+  https://cs.wikipedia.org/wiki/%C5%A0anta_ko%C4%8Di%C4%8D%C3%AD
+- možná ho zmínit u Tygrodlaka, Huňáče, nebo tak?
 
 ------------------------------------------------
 
@@ -34,6 +64,9 @@ Při změně velikosti:
  - Zranění zbraní se mění stejně, tj. dvojruční kladivo pro permoníka (Velikost 3)
    bude mít zranění 2, zatímco pro trpaslíka (Velikost 6) má zranění 3
 TODO: Obr by asi měl vážit jako slon (obří síla)
+TODO: Do pravidel pro boj napsat, že zranění je možno vybrat, pouze pokud
+  to dává smysl - kočka dost dobře nemá, jak ublížit slonovi, nehledě na to,
+  jak jí to padne (může mu ale vyrobit nevýhodu).
 
 
 IDEA: K lektvaru zmenšování doplnit, že při každém zmenšení klesne zranění
@@ -1036,7 +1069,8 @@ TODO: Sjednotit popis síly odvozené od velikosti
 - koňská síla (+1 zranění)
   /* poloobří síla? nadlidská síla? */
 - obří síla (+2 zranění)
-
+TODO: Sjednotit také zranění přirozených zbraní
+TODO: Projít celý bestiář a přepočítat hodnoty zranění
 
 
 IDEA: Démoni jsou bytosti původem mimo tento svět, dají se bahishnout.
