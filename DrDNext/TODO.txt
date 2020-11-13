@@ -7,6 +7,20 @@ Bestiary mark: Roháč obří
 
 ------------------------------------------------
 
+Dnešní TODO:
+- Popis důlního městečka
+  - Kolová hradba, brána, strážní věž, ochoz
+  - Celkem 12 domů
+  - Předákův dům, první místnost slouží zároveň jako hospoda
+  - Kovárna
+- Popis vstupů do dolů
+  - Celkem 5 vstupů, jen jeden používanej - štola za ním má udržovanou výdřevu
+- V dolech jsou značky, podle kterých někdo s dovedností vždycky najde cestu ven
+- Možná připravit Fog of War aspoň v jedný další mapě (nebo dodělat Čarodějovu věž)
+- Pokračovat v Bestiáři
+
+------------------------------------------------
+
 Tross:
 -------
 
