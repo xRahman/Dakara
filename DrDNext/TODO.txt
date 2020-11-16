@@ -1,3 +1,5 @@
+TODO: Nezdolná výdrž pro vlkodlaka
+
 Bestiary mark: Roháč obří
 - a přeskočil jsem draky
 - a skipuju lykantropy
@@ -7,15 +9,6 @@ Bestiary mark: Roháč obří
 
 ------------------------------------------------
 
-Dnešní TODO:
-- Popis důlního městečka
-  - Kolová hradba, brána, strážní věž, ochoz
-  - Celkem 12 domů
-  - Předákův dům, první místnost slouží zároveň jako hospoda
-  - Kovárna
-- Popis vstupů do dolů
-  - Celkem 5 vstupů, jen jeden používanej - štola za ním má udržovanou výdřevu
-- V dolech jsou značky, podle kterých někdo s dovedností vždycky najde cestu ven
 - Možná připravit Fog of War aspoň v jedný další mapě (nebo dodělat Čarodějovu věž)
 - Pokračovat v Bestiáři
 
@@ -648,6 +641,12 @@ TODO: Útok na imunního protivníka (např na ohnivého hada stvořeného kouzl
 
 ----------------------------------------------------
 
+Kouzla:
+
+IDEA: S výjimkou duševních kouzel je efekt kouzla vždycky něco fyzickýho - kouzlem
+  stvořenej oheň hoří a pálí jako normální oheň a pokud kouzlo neříká jinak, dá se
+  jako normální oheň uhasit.
+
 IDEA: Kouzlo "najdi kouzla"
 - ukáže aktivní kouzla, i dlouhodobá (třeba dveře s magickou pastí).
   Neukáže magické tvory, kouzelníka, postavy s magickými schopnostmi a tak.
@@ -1076,6 +1075,15 @@ TODO: K čemu je vlastně property "smysly"
 Bestiář:
 ---------
 
+Zvážit používání danger textu: ⚠
+(minimálně u nejnebezpečnějších potvor)
+
+IDEA: Že by vlčí mor působil pouze na vlkodlaky?
+  - asi jo
+
+TODO: Doplnit ke všem potvorám property Léčení
+  (většina potvor bude mít: jako člověk)
+
 TODO: Sjednotit popis síly odvozené od velikosti
   (včetně výpočtu zranění zbraně - nejspíš to uvádět jako "property rules",
    viz permoník)
@@ -1118,6 +1126,11 @@ Udělat to jako jedy, tj. PJ si vyčte parametry z popisu bestie.
 
 
 Pařáty / hnáty / pazoury / spáry / drápy / pracky
+
+TODO: Sjednotit zranění přirozených zbraní
+- otázka je, jestli zohleďnovat "obouručnost"
+  Asi jo, protože jinak bude mít kancodlak v lidské podobě se dvěma tesáky
+  větší zranění než ve zvířecí (i když, vadí to něčemu?)
 
 TODO: Nedávat kostlivcům zranění 1 (aby mělo smysl je disarmovat)
 - v tom případě by nulu měly mít i zombie a ghůlové
@@ -1320,6 +1333,22 @@ https://pixabay.com/images/search/fantasy/?pagi=18
 
 Dovednosti
 -----------
+
+Kontest:
+````````
+Výrobek vs jeho překonávání:
+- mistr v otevírání zámků odemkne mistrovskej zámek, ale trvá mu to dlouho.
+Plížení vs plížení:
+- mistr v plížení si všimne pokročilého plížiče a zůstane skrytý.
+- když se potkají dvě postavy se stejným stupněm plížení, oba si všimnou
+  nějakého náznaku (něco se pohnulo v křoví) a mohou na něj reagovat.
+Co neviditelnosti a tak?
+- IDEA: Jako při boji po tmě: Ten, kdo má nápomocnejch triků víc, má výhodu
+  (což v případě dovedností znamená stupeň dovednosti navíc).
+  - to znamená, že neviditelná postava bez plížení je na tom stejně jako někdo
+    se základy plížení.
+  Kromě toho ale neviditelnost a podobně rozšiřují možnosti - neviditelnost
+    například umožní plížit se i na otevřeném prostranství.
 
 Dávají smysl třístupňový jazyky?
   - asi jo:
