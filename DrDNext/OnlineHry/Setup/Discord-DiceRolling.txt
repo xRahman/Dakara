@@ -1,0 +1,10 @@
+DiceParser
+-----------
+
+https://github.com/Rolisteam/DiceParser
+
+Házecí makra
+`````````````
+
+!macro add k([0-9]+) d\1 True
+!macro add kz d[0..1] False
