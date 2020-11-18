@@ -91,3 +91,6 @@ IDEA: Sepsat něco ve stylu mytologických příběhů (ve stylu Enuma Elish) a 
 - ideálně víc příběhů s různým výkladem téhož
 - odvodit z toho stará božstva, potvory (a jejich zranitelnosti), polobohy a tak
 - mělo by z toho vylézt něco jako příběh v Shadowlands
+
+
+TODO: Víc alternativ mistrů, ideálně aspoň dva od každý classy v hlavním městě, aby hráči proti nim mohli jít, když na to přijde.
