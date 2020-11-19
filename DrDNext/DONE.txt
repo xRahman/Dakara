@@ -1,3 +1,140 @@
+------------------------------------------------
+
+Vliv velikosti
+---------------
+
+Zuby, drápy
+
+Velikost 1: -2 zranění
+Velikost 3: -1 zranění
+Velikost 6: zranění 2 (1 základ jako dýka, +1 za obouručnost)
+Velikost 9: +1 zranění
+Velikost 12: +2 zranění
+
+IDEA: Lehké vs těžké zbraně jsou součástí stupnice velikosti.
+  Pomůže mi to nějak?
+- účinnost zbraní se řídí zhruba stejnou exponenciální stupnicí,
+  za zdvojnásobení velikosti ve všech rozměrech je +1 zranění
+  (meč je zhruba dvakrát tak dlouhej než dýka, to celkem sedí)
+Podstatný je, že to nemusí sedět přesně přes sebe - šavlozubej tygr
+má vzhledem ke svý velikosti mnohem větší zuby než šelmy. Zlobři a obři
+navíc taky používají různě velký zbraně.
+- tj. ano, bude to skákat po dvou (+1 za zvětšení síly, +1 za zvětšení zbraně),
+  ale různě velký potvory mají různě velký zuby a drápy vůči svý velikosti,
+  takže se to nemusí přesně překrývat.
+
+Vliv síly na zranění
+---------------------
+          Za sílu
+0:          -2
+1:          -2
+2:          -1
+3:          -1
+4:          -1
+5:          +0
+6:          +0
+7:          +0
+8:          +1
+9:          +1
+10:         +1
+11:         +2
+12:         +2
+13:         +2
+14:         +3
+15:         +3
+16:         +3
+17:         +4
+18:         +4
+
+Zbraně:
+
+permoník beze zbraně:      -1
+lehká zbraň pro permoníka: +0
+člověk beze zbraně:        +0
+těžká zbraň pro permoníka: +1
+lehká zbraň pro člověka:   +1
+zlobr beze zbraně:         +1
+těžká zbraň pro člověka:   +2
+lehká zbraň pro zlobra:    +2
+obr beze zbraně:           +2
+těžká zbraň pro zlobra:    +3
+lehká zbraň pro obra:      +3
+těžká zbraň pro obra:      +4
+
+- takhle dohromady je to nepřehledný, zkusím to rozepsat jinak:
+  (Jo, mnohem lepší)
+
+Beze zbraně
+  myš:        -2
+  permoník:   -1
+  člověk:      0
+  zlobr:      +1
+  obr:        +2
+
+Lehká zbraň
+  myš:        -1
+  permoník:    0
+  člověk:     +1
+  zlobr:      +2
+  obr:        +3
+
+Těžká zbraň
+  myš:         0
+  permoník:   +1
+  člověk:     +2
+  zlobr:      +3
+  obr:        +4
+
+Jak na přirozený zbraně:
+- drápy jsou jako lehká dvojruční zbraň (šelmy obvykle používají obě tlapy)
+- zuby šelem mají zranění stejný jako drápy (pro jednoduchost)
+
+- zuby hlodavců mají zranění 1
+
+- kostlivcovy pařáty mají zranění 1, s dýkou bude mít 2
+  (v jedný ruce má pařát, ve druhý dýku)
+    Tj. kostlivec (a obecně nestvůry se spárama a pařátama) má vždycky +1 za
+  dualwield, leda by bojoval jen jednou rukou (třeba když má tu druhou useknutou).
+
+Úvaha o nebezpečnosti malých tvorů
+- kočka v zásadě nemusí mít nízké hodnoty vlastností, může být reálný problém
+  ji trefit (a ona naopak poměrně snadno poškrábe člověka). Měla by ale mít
+  hodně nízké zranění
+- dává taky smysl, že trefit kuší kočku je o dost těžší než trefit tygra
+- možná, že by malí tvorové mohli mít zápornou útočnost?
+  Pak by se asi mezi sebou kočkovaly dost dlouho, než by si něco udělaly,
+  ale to možná až tolik nevadí.
+- možná by mohla mít nevýhodu kvůli dosahu (která se proti srovnatelně velkým
+  tvorům nepočítá - jenže to by pak obři a podobně museli mít výhodu
+  a byla by asi pruda ji neustále započítávat).
+  - tohle určitě nebrat, hodnoty vlastností musejí platit tak, jak jsou. Pokud
+    má být tygr snáze zasažitelný lukem než kočka, má mít nižží Finesu (což je
+    ok, může útočit Fyzičkou).
+Při změně velikosti:
+- změní se životy
+- zůstávají hodnoty vlastností
+- změní se Síla
+  - za každé 3 body změny Velikosti je +1 ke zranění
+  - za každé zvýšení Velikosti o 3 (tj. zdvojnásobení ve všech rozměrech)
+    je +1 ke zranění:
+    - permoník (Velikost 3) má -1
+    - člověk (Velikost 6) má 0,
+    - poloobr (Velikost 9) má +1
+    - obr (Velikost 12) má +2
+ - Zranění zbraní se mění stejně, tj. dvojruční kladivo pro permoníka (Velikost 3)
+   bude mít zranění 2, zatímco pro trpaslíka (Velikost 6) má zranění 3
+- změní se rychlost
+TODO: Obr by asi měl vážit jako slon (obří síla)
+TODO: Do pravidel pro boj napsat, že zranění je možno vybrat, pouze pokud
+  to dává smysl - kočka dost dobře nemá, jak ublížit slonovi, nehledě na to,
+  jak jí to padne (může mu ale vyrobit nevýhodu).
+
+------------------------------------------------
+
+
+TODO: Nezdolná výdrž pro vlkodlaka
+[done]
+
 TODO: Nemrtví by měli vidět i po tmě (a asi všechny potvory s magickým zrakem)
 [done]
 

@@ -1,4 +1,5 @@
-TODO: Nezdolná výdrž pro vlkodlaka
+TODO: Napsat k lykantropům slabiny (co jim dělá stříbro, co nemůžou regenerovat, co se děje za úplňku).
+TODO: Dovednosti pro lykantropy (krysodlak by měl mít určitě plížení).
 
 Bestiary mark: Roháč obří
 - a přeskočil jsem draky
@@ -6,6 +7,99 @@ Bestiary mark: Roháč obří
 - a nemrtváky
 - a neviděné
 - a skřetí rasy
+
+IDEA: Barbarovi dát něco navíc k nezdolné výdrži
+- možná lehký spánek (hodí se, ale není to moc sexy)
+
+TODO: Zařadit
+  lekvar proměny do kance
+  lekvar proměny do vlka
+  lekvar proměny do krysy
+
+------------------------------------------------
+
+Vlastnosti nestvůr
+-------------------
+
+Obecně:
+- Fyzička je pro tvory, kteří zápasej, rvou se
+- Finesa je pro tvory, kteří střílí (obří dikobraz), případně
+  poskakují kolem a občas něčím zaútočí (štíří ocas, ne nutně celej štír)
+=> Drtivá většina zvířat by měla mít Fyzičku větší než Finesu.
+
+Zvířata obecně by neměla mít vysokou Finesu, a to ani domácí kočka
+- důvod: Finesa se počítá do střelby a do úhybu. Zvířate nestřílejí, takže
+  u nich hraje roli hlavně úhyb. A zvířata prostě nejsou moc dobrá v uhýbání
+  před střelbou, je to pro ně nepřirozený koncept.
+- kočky obecně asi můžou mít větší Finesu než ostatní šelmy (určitě než medvěd).
+  Dejme tomu 3, víc by zvířata mít fakt neměla.
+
+Finesa 1: slon, nosorožec, býk
+Finesa 2: psovité šelmy
+Finesa 3: kočkovité šelmy, myši a krysy, veverky, lasičky
+
+- Ptáci naopak Finesou mít můžou, v uhýbání před střelbou jsou celkem dobří.
+
+Lehkonozí býložravci (laň, gazela)
+- Finesa 4
+
+Hlodavci
+- co hlodavci? Ti se asi taky spíš perou, ale nejsou v tom moc dobří. Zato
+  jsou celkem dobří v uhýbání.
+- měli by mít o 1 nižší Nebezpečnost než šelmy, které je loví.
+  Tj. pokud bude mít kočka Fyzičku 4, krysa by měla mít Finesu 3
+- nízká Fyzička, vysoká Finesa
+
+Hadi
+- škrtiči vysoká Fyzička, ostatní vysoká Finesa
+
+Šelmy
+- Šelmy by měly mít vyšší Nebezpečnost než jejich kořist
+
+IDEA: Většině šelmám dát nejvyšší vlastnost 4, těm nejnebezpečnějším 5.
+- pro čerstvou postavu bude medvěd nad její síly,
+  pro pokročilou bude relativně srovnatelnej protivník
+    (bude mít víc životů, ale pokud bude mít ta postava zbroj, tak ho dá)
+  mistr zvládne porazit medvěda jen s dýkou a beze zbroje
+    (nejspíš těsně, ale zvládne)
+
+Fyzička
+1: 
+2: krysa
+3: 
+4: šelmy (včetně kočky)
+5: 
+6: 
+7: 
+8: 
+9: 
+
+Finesa
+1: slon, nosorožec, býk
+2: pes, vlk
+3: krysa, kočka
+4: laň, gazela
+5: 
+6: 
+7: 
+8: 
+9: 
+
+------------------------------------------------
+
+Vliv velikosti
+---------------
+
+TODO: Udělat z toho kapitolu Tvorba nestvůr a doplnit k tomu povídání
+  a příklady.
+
+IDEA: K lektvaru zmenšování doplnit, že při každém zmenšení klesne zranění
+  zbraní o 1.
+- obecný princip bude, že každé zdvojnásobení velikosti zbraní zvýší zranění o 1
+  (ujistit se, že to tak je u zbraní nestvůr).
+
+TODO: Pokud povolím záporné hodnoty zranění, tak je povolit i u výbušného
+  a zápalného projektilu (ať hráči neexploitují zaokrouhlovací chyby).
 
 ------------------------------------------------
 
@@ -40,49 +134,6 @@ TODO: Připravit mapy dungeonů k online hraní
 Catnip
   https://cs.wikipedia.org/wiki/%C5%A0anta_ko%C4%8Di%C4%8D%C3%AD
 - možná ho zmínit u Tygrodlaka, Huňáče, nebo tak?
-
-------------------------------------------------
-
-Úvaha o nebezpečnosti malých tvorů
-- kočka v zásadě nemusí mít nízké hodnoty vlastností, může být reálný problém
-  ji trefit (a ona naopak poměrně snadno poškrábe člověka). Měla by ale mít
-  hodně nízké zranění
-- dává taky smysl, že trefit kuší kočku je o dost těžší než trefit tygra
-- možná, že by malí tvorové mohli mít zápornou útočnost?
-  Pak by se asi mezi sebou kočkovaly dost dlouho, než by si něco udělaly,
-  ale to možná až tolik nevadí.
-- možná by mohla mít nevýhodu kvůli dosahu (která se proti srovnatelně velkým
-  tvorům nepočítá - jenže to by pak obři a podobně museli mít výhodu
-  a byla by asi pruda ji neustále započítávat).
-  - tohle určitě nebrat, hodnoty vlastností musejí platit tak, jak jsou. Pokud
-    má být tygr snáze zasažitelný lukem než kočka, má mít nižží Finesu (což je
-    ok, může útočit Fyzičkou).
-Při změně velikosti:
-- změní se životy
-- zůstávají hodnoty vlastností
-- změní se Síla
-  - za každé 3 body změny Velikosti je +1 ke zranění
-  - za každé zvýšení Velikosti o 3 (tj. zdvojnásobení ve všech rozměrech)
-    je +1 ke zranění:
-    - permoník (Velikost 3) má -1
-    - člověk (Velikost 6) má 0,
-    - poloobr (Velikost 9) má +1
-    - obr (Velikost 12) má +2
- - Zranění zbraní se mění stejně, tj. dvojruční kladivo pro permoníka (Velikost 3)
-   bude mít zranění 2, zatímco pro trpaslíka (Velikost 6) má zranění 3
-TODO: Obr by asi měl vážit jako slon (obří síla)
-TODO: Do pravidel pro boj napsat, že zranění je možno vybrat, pouze pokud
-  to dává smysl - kočka dost dobře nemá, jak ublížit slonovi, nehledě na to,
-  jak jí to padne (může mu ale vyrobit nevýhodu).
-
-
-IDEA: K lektvaru zmenšování doplnit, že při každém zmenšení klesne zranění
-  zbraní o 1.
-- obecný princip bude, že každé zdvojnásobení velikosti zbraní zvýší zranění o 1
-  (ujistit se, že to tak je u zbraní nestvůr).
-
-TODO: Pokud povolím záporné hodnoty zranění, tak je povolit i u výbušného
-  a zápalného projektilu (ať hráči neexploitují zaokrouhlovací chyby).
 
 -----------------------------------------
 
@@ -288,13 +339,21 @@ TODO: Zvážit, že by v modulu se settingem defaultního světa
   božstva
 - pravidla by zůstala DrD compatible
 
-Stopy
-------
+Stopy (Stopování)
+-----------------
 
 👣Stopy, které může najít každý
   (•) Stopy, které najde jen někdo se základy stopování
   (••) To, co zjistí jen někdo s pokročilým stopováním
   (•••) To, co zjistí jen někdo s mistrovským stopováním
+
+- stáří
+- kdo je zanechal
+- kolik jich bylo
+- co přesně tu dělal
+- obtížnost terénu
+  Možná podle obtížnosti terénu a stupně dovednosti určit, kolik detailů
+  stopař najde?
 
 Zámky
 ------
@@ -823,6 +882,28 @@ Dracak
 InDesign TODO
 --------------
 
+• Vyzkoušet reusování textu, buď přes library, nebo přes snippet
+  - reusovat jdou jen objekty, ne kusy textu, ale to by nemělo vadit,
+    prostě to bude anchornutej objekt s textem.
+  - vyzkoušet to můžu třeba na schopnosti "vodní tvor".
+    Blbý teda je, že v jejím popisu asi budu chtít měnit jméno potvory
+    (Anakonda je vodní tvor. Ve vodě má výhodu proti suchozemským tvorům.)
+    Takže to je možná celý zbytečný.
+- indesign library na to asi nebude dobrej nástroj, protože ta údajně neobsahuje
+  objekty (asi se odkazuje na původní výskyt? I když, to by možná šlo, měl bych
+  zdrojovej file + library)
+  - Linked graphics will link back to their original source. Keep in mind if the
+    original source is deleted or moved the link within the Library item will be
+    broken.
+- Using the collector tools, you create a link between the objects, meaning when
+  one updates, so do all other instances.
+  - to by asi šlo. Tj. už první instanci bych vložil jako anchored object
+    a pak ho duplikoval...
+  - tohle by navíc mohlo znamenat, že nebudu potřebovat externí file, což je plus
+  - a možnost zeditovat libovolnej výskyt by byla super convenient
+
+
+
 • Vyzkoušet, co se stane, když vytvořím dokument z templatu a pak ten template
   poedituju (jestli má smysl styly definovat v templatu).
   - ono teda asi stejně dává smysl víc templatů (pro pravidla nejspíš vůbec
@@ -879,6 +960,7 @@ TODO: Znovu zvážit kurzívu na přímou řeč v textech pro PJe.
   Takže Fyzička, Finesa, Zbroj, Zranění.
 - Vlastnost nebo vlastnost?
   - vlastnost, pouze ve vzorcích Vlastnost: (Vlastnost + k6)
+=> Rozhodně s malym (vlastnost, velikost).
 
 - Zdůraznění definovaného pojmu boldem (např. první výskyt slov Fyzička, Finesa a Duše)?
 
@@ -1074,6 +1156,16 @@ TODO: K čemu je vlastně property "smysly"
 
 Bestiář:
 ---------
+
+TODO: Formule ke goblinskejm kouzlům
+- rozhodnout, jestli používají řeč kouzel - ale po novu asi jo.
+
+TODO: Draky rozdělit na Mladý drak a Dospělý drak
+- Barvy draků a druhy dechu rozepsat v hlavním hesle,
+  damage dechu pak napsat ve formátu:
+    Dech: 8 + k6 proti Finese, zranění 8kz, druh podle barvy (viz).
+
+TODO: Přidat všem vodním a obojživelným tvorům schopnost "vodní tvor".
 
 Zvážit používání danger textu: ⚠
 (minimálně u nejnebezpečnějších potvor)
@@ -1387,6 +1479,14 @@ TODO: Ostražitost a plížení asi přejmenovat na Plížení
   by logicky ostražitost maxovali, protože by to byla jedna z nejužitečnějších
   dovedností, a tím by se efektivně ochuzovali o herní obsah.
 => Dovednost s názvem ostražitost je v týhle hře fakt špatnej nápad.
+
+IDEA: Na překonávání výrobků (otevírání zámků, únik z pout a pod.) jsou potřeba
+  odpovídající nástroje - na otevření mistrovského zámku jsou potřeba mistrovské
+  paklíče
+
+IDEA: Jednou z okolností, která může hýbat s obtížností (s potřebným stupněm
+  dovednosti) je potřeba udělat to nenápadně (třeba uniknout z pout, když tě
+  někdo sleduje).
 
 ------------------------------------------
 
