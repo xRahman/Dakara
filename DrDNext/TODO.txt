@@ -1,5 +1,13 @@
-TODO: Napsat k lykantropům slabiny (co jim dělá stříbro, co nemůžou regenerovat, co se děje za úplňku).
-TODO: Dovednosti pro lykantropy (krysodlak by měl mít určitě plížení).
+Obecné TODO: Projít nejdřív nahrubo celej bestiář,
+  rozházet potvory do správnejch hesel a udělat základ sazby
+- ať pak můžu např. projít celej bestiář a zkontrolovat, že jsou
+  všude výpočty zranění.
+KONTRAIDEA: Když budu každou změnu dělat na celym bestiáři, budu nutně dělat
+  spoustu zbytečný práce, protože design se v průběhu vyvíjí. Tj. lepší je,
+  dělat změny jen od daný chvíle dál a až úplně na konci projít celej
+  bestiář a srovnat to na stejnej standard.
+(I tak je ale asi dobrej nápad, udělat nejdřív všechno na hrubo a až pak se
+ nípat v detailech)
 
 Bestiary mark: Roháč obří
 - a přeskočil jsem draky
@@ -15,6 +23,19 @@ TODO: Zařadit
   lekvar proměny do kance
   lekvar proměny do vlka
   lekvar proměny do krysy
+  lekvar proměny do medvěda
+  lekvar proměny do tygra
+
+------------------------------------------------
+
+Dovednosti:
+------------
+
+V pravidlech schválně nejsou dovednosti pro:
+  boj, řešení šifer a hádanek, TODO
+
+IDEA: Skok by mohla bejt samostatná dovednost (nebo atletika?)
+- některý zvířata by měly víc než tři tečky
 
 ------------------------------------------------
 
@@ -62,12 +83,13 @@ IDEA: Většině šelmám dát nejvyšší vlastnost 4, těm nejnebezpečnějš�
     (bude mít víc životů, ale pokud bude mít ta postava zbroj, tak ho dá)
   mistr zvládne porazit medvěda jen s dýkou a beze zbroje
     (nejspíš těsně, ale zvládne)
+- u medvědů přece jen zvažuju Fyzičku 5.
 
 Fyzička
 1: 
-2: krysa
+2: krysa, jedovatí hadi
 3: 
-4: šelmy (včetně kočky)
+4: šelmy (včetně kočky), draví ptáci, škrtiči
 5: 
 6: 
 7: 
@@ -75,10 +97,10 @@ Fyzička
 9: 
 
 Finesa
-1: slon, nosorožec, býk
+1: slon, nosorožec, býk, medvěd
 2: pes, vlk
 3: krysa, kočka
-4: laň, gazela
+4: jedovatí hadi, laň, gazela
 5: 
 6: 
 7: 
@@ -110,6 +132,9 @@ TODO: Pokud povolím záporné hodnoty zranění, tak je povolit i u výbušnéh
 
 Tross:
 -------
+
+TODO: K poustevníkovi připsat, že občas vídá gobliní jezdce na vlcích,
+ a že je z Blosel
 
 TODO: Vytáhnout z textu vládcova syna a jeho doprovod, rozhodnout, co se s nima
   stalo a někam je umístit
@@ -330,8 +355,21 @@ Jiné poznámky:
 
 ----------------------------------------------------
 
-Moduly
+Moduly:
 =======
+
+Nestvůrník:
+------------
+IDEA: A4 PDFko bez barev se statama potvor, počítadly životů a nejspíš i lootem
+  k vytištění (aby si PJ nepsal do modulu a nemusel mít poznámky stranou).
+- Potvory pod kódy místností, aby se v tom dobře hledalo.
+  - spíš jim dát samostatný kódy (podobně jako dveřím), aby se dobře odkazovalo
+    na různý wandering monsters.
+- uvažoval jsem o tom v Zatopeném dole, tak to tam můžu rovnou vyzkoušet
+- mohl by bejt rovnou k ukázkovýmu dobrodružství v pravidlech, ale tam je
+  otázka, jak si ho PJ vytiskne (stáhne dpfko z webu?)
+- možná tam dát i poklady (beztak tam musí bejt loot potvor), aby si PJ
+  mohl odškrtávat, co už je vylootovaný?
 
 TODO: Zvážit, že by v modulu se settingem defaultního světa
  byla další povolání (kněz, druid).
@@ -347,6 +385,7 @@ Stopy (Stopování)
   (••) To, co zjistí jen někdo s pokročilým stopováním
   (•••) To, co zjistí jen někdo s mistrovským stopováním
 
+
 - stáří
 - kdo je zanechal
 - kolik jich bylo
@@ -354,6 +393,17 @@ Stopy (Stopování)
 - obtížnost terénu
   Možná podle obtížnosti terénu a stupně dovednosti určit, kolik detailů
   stopař najde?
+
+Základ obtížnosti stopování je podle terénu
+(•) louka, les
+(••)
+(•••) hory
+- nebo se na tohle možná úplně vykašlat
+
+(•) čerstvé stopy (pod hodinu)
+(••) několik hodin
+(•••) několik dní
+
 
 Zámky
 ------
@@ -410,6 +460,25 @@ http://www.myschwerk.webzdarma.cz/cenik.html
 
 
 ----------------------------------------------------
+
+Povolání:
+=========
+
+Hraničář:
+----------
+
+Zvířecí společník:
+- zvířecí společník leveluje s tebou
+  Na základních úrovních můžeš mít jen mládě, které má všechny vlastnosti
+  o 1 nižší oproti hodnotám v bestiáři (nejméně 1). Na poročilých úrovních
+  má tvůj společník hodnoty z bestiáře. Na mistrovských úrovních se z něj
+  stane ozvláště nebezpečný jedinec svého druhu, který má vlastnosti o 1
+  vyšší.
+- pokud budou mít potvory v základu hlavní vastnost 4, tak tahle pravidla
+  zajistí, že hraničářův pet bude mít stejnou hodnotu hlavní vlastnosti jako
+  hraničář. Což je možná až moc OP...
+
+
 
 Do kapitoly Boj:
 -----------------
@@ -570,9 +639,14 @@ protože kroll je mnohem větší.
   Silou postav se v průběhu hry nemusíte příliš zatěžovat - nemá vliv na
 zranění v boji ani na žádnou jinou veličinu, berte ji ale v úvahu, když
 budete zvažovat, co postava dokáže - kroll určitě zvedne hobita, obráceně
-to půjde mnohem hůř. 
+to půjde mnohem hůř.
+
+
+Síla:
+------
 
 Nadlidská síla
+/* Medvědí síla */
   Některé schopnosti, kouzla a podobně dávají nadlidskou sílu. Postava má
 pak sílu zhruba jako poloobr - je tedy mnohem silnější než všechny ostatní
 postavy, hobit s nadlidskou silou nejen že zvedne krolla, ale dokáže ho odhodit
@@ -809,7 +883,7 @@ Tj. takhle:
 - kouzlení (jen kouzelník)
 
 
-Povolání by mohla dostávat extra body do určitech dovedností
+Povolání by mohla dostávat extra body do určitejch dovedností
   (válečník třeba do libovolnejch bojovejch)
   - hmm, to by možná řešilo i problém silovýho boje. Mohl by si ho dát kdokoliv,
     ale válečník by na něj měl body zdarma.
@@ -938,8 +1012,12 @@ SVG fonts:
 
 ------------------------------
 
-Sazba
+Sazba:
 ------
+
+IDEA: Block of properties předělat tak, že před nima bude mezera 0
+- první property by byla single, další by byly block
+- umožňilo by to dělat víc bloků za sebou
 
 TODO: Zamyslet se nad stylem pro nestvůry - asi by to měly bejt klikatelný odkazy, a tudíž zvýrazněný.
 
@@ -1157,6 +1235,109 @@ TODO: K čemu je vlastně property "smysly"
 Bestiář:
 ---------
 
+IDEA: Levelování nestvůr
+- vlastnosti v bestiáři jsou pro průměrného jedince
+- mládě má všechny vlastnosti o 1 nižší (ale nejméně 1)
+- občas se vyskytne obzvláště nebezpečný jedinec (u vlků to bývá vůdce smečky),
+  který má všechny vlastnosti o 1 vyšší
+TODO: Spolu s tím zrušit "mladého draka", respektive možná
+  navěsit počet schopností na to, jestli je mladý, běžný nebo starý
+
+
+IDEA: Přesunout společný schopnosti lykantropů pod heslo Lykantropové
+  (regenerace je zrovna důležitá i v boji, ale léčení ne)
+  - u léčení bych musel dát výjimku k vlkodlakovi...
+
+TODO: Opice
+
+
+TODO: Podnebí (v celym bestiáři)
+- možná nakonec ne, ono je to trochu redundantní s prostředím. Když napíšu
+  "smíšené nebo jehličnaté lesy", tak je jasný, že to není tropickej deštnej
+  prales...
+    A je taky fakt, že je těch zeměpisnejch informací možná už přes míru.
+
+TODO: Napsat k lykantropům slabiny (co jim dělá stříbro, co nemůžou regenerovat,
+  co se děje za úplňku).
+TODO: Dovednosti pro lykantropy (krysodlak by měl mít určitě plížení).
+
+IDEA: Šplh nepsat do rychlosti, ale jako property (dovednost)
+- možná je to blbej nápad, člověk rozhodně nešplhá jako moucha
+  (ale to je spíš schopnost)
+- asi je to přece jen dobrej nápad, protože o tom půjde uvažovat jako
+  o dovednosti a porovnávat to s tím, jak vylezou postavy
+
+
+TODO: Sjednotit zápis rychlosti:
+
+"jako člověk" znamená ve všem jako člověk (i plavání a šplh)
+
+Běh
+  jako pomalá chůze
+  jako rychlá chůze /* Možná spíš nerozlišovat rychlou a pomalou, prostě chůze */
+  jako člověk
+  jako medvěd (u medvědů je: běhá rychleji než člověk ale pomaleji než kůň)
+  jako kůň
+
+
+Plavání
+  plave pomaleji než člověk
+  plave jako člověk
+  plave rychleji než člověk
+  plave rychlostí běhu
+  plave rychlostí koňského trysku
+
+Let
+  létá jako pomalá chůze
+  létá jako rychlá chůze
+  létá rychlostí běhu
+  létá rychlostí medvědího běhu
+  létá rychlostí koňského trysku
+
+Šplhání
+  šplhá rychleji než člověk
+
+
+člověk: kolem 30 km/h (rekord je 37 km/h, ale sprinteři jsou mimoňové)
+medvěd: kolem 50 km/h
+kůň: kolem 70 km/h
+
+vlk - jako kůň
+
+
+TODO: Sjednotit popis fyzický síly
+- možná by to nemělo bejt zapsaný jako schopnost, ale součást úvodního
+  property blocku, jak je Rychlost, Smysly a tak.
+- otázka je, jak to pojmenovávat. Zatím se držím termínů "nadlidská" a "obří",
+  ale ty moc nefungujou pro malou sílu. Takže možná spíš:
+    "jako myš"
+    "jako permoník"
+    "jako člověk"
+    "jako kůň"
+    "jako slon"
+  Alternativně:
+    "jako myš"
+    "jako permoník"
+    "jako člověk"
+    "jako medvěd"
+    "jako obr"
+=> Udělám to trochu jinak.
+  - Nemá smysl psát k obrovi, že má obří sílu, to vyplývá z jeho velikosti.
+    Takže buď dám do property "Síla" jen bonus ke zranění, nebo ani to ne
+    (půjde vyčíst z výpočtu zranění).
+  - Budu dávat schopnost k nestvůrám, který mají sílu neodpovídající jejich
+    velikosti. V property "síla" to může bejt zapsaný takhle:
+      Síla: +2 (+1 za velikost, +1 za Nadlidskou sílu)
+  
+IDEA: Pokud budu psát bonus za sílu do výpočtu zranění, nemusím ho psát
+  do property Síla:
+
+
+TODO: Sjednotit popis plížení a skrývání
+- možná to taky hodit do property blocku (goblin šaman to tak má)
+TODO: Místo "Skrývání" mít property "Plížení", ať za ní rovnou můžu
+  psát tečky dovednosti jako u šplhání a plavání.
+
 TODO: Formule ke goblinskejm kouzlům
 - rozhodnout, jestli používají řeč kouzel - ale po novu asi jo.
 
@@ -1297,6 +1478,8 @@ správně použitá ta druhá
 TODO: Možná líp rozhodit obra a poloobra
 
 TODO: Mořský potvory by asi měly bejt ještě větší než slon
+
+Pozn: Největší lední medvěd vážil tunu a když se postavil na zadní, měřil 3.4 metru
 
 
 Boj v temnotě

@@ -1,3 +1,6 @@
+TODO: Mamut do tabulky velikostí
+[done]
+
 ------------------------------------------------
 
 Vliv velikosti
