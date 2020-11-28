@@ -1,0 +1,10 @@
+IDEA: 1 dungeon a kus okolí. Zázemí v nedalekém městě
+
+Okolí rozdělit na 2 oblasti (2 tabulky s encountery)
+- okolí rozdělíme na dva oblasti, abychom dali význam hráčské volbě. Pokud bychom totiž měli jen jednu tabulku, na tom, kudy se hráči rozhodnou jít, by nezáleželo.
+K oblastem musí být hinty (nejspíš ve městě)
+- pokud by hráči o oblastech nemohli nic zjistit, měli by sice volbu, kudy k dungeonu přjít, ale nebyla by jim moc platná, protože by se neměli na základě čeho rozhodnout
+
+2 vstupy do podzemí
+- opět kvůli možnosti volby
+- zde už informace předem nejsou - nebo možná signalizace nebezpečí mrtvejma goblinama či tak něco?
