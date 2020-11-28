@@ -1,3 +1,63 @@
+TODO: Přidat layer do mapy dolu, aby nebyl vidět nadchod
+[done]
+
+TODO: Mamba má dobrý zrak (a obecně všichni denní hadi, projít je).
+- zmije je taky denní had
+[done]
+
+TODO: Zvážit ještě, jak moc jsou obří varianty větší oproti obyčejnejm.
+- teď jsou 2x větší ve všech rozměrech, tj. 8x těžší (velikost +3)
+- mohly by bejt 4x vetší ve všech rozměrech (tj. jako obr proti člověku),
+  pak by byly 64x těžší, což je +6 velikost
+[kašlat na to, osmitunová anakonda by byla už moc přepíčená]
+
+IDEA: Přesunout společný schopnosti lykantropů pod heslo Lykantropové
+  (regenerace je zrovna důležitá i v boji, ale léčení ne)
+  - u léčení bych musel dát výjimku k vlkodlakovi...
+[přesunul jsem, co dávalo smysl]
+
+TODO: U všech hadů zohlednit, že jsou studenokrevní.
+[done]
+
+TODO: Od všech hadů zrušit "Příklady použití ve hře", budou jen v obecném
+  hesle Zvířata.
+[done]
+
+TODO: Ještě jednou přehodnotit zranění hadích zubů - spíš bych jim dal 1
+- zuby u hadů nejsou primární zbraň, slouží buď k uštknutí kořisti
+  nebo k jejímu zachycení, aby ji had mohl obtočit a škrtit.
+TODO: U všech hadů to změnit
+[done]
+
+TODO: Podnebí (v celym bestiáři)
+- možná nakonec ne, ono je to trochu redundantní s prostředím. Když napíšu
+  "smíšené nebo jehličnaté lesy", tak je jasný, že to není tropickej deštnej
+  prales...
+    A je taky fakt, že je těch zeměpisnejch informací možná už přes míru.
+[na podnebí kašlat]
+Pro jistotu si sem ale odložím, co už bylo napsaný:
+Chřestýš
+  Podnebí: subtropické, mírné
+Kanec
+  Podnebí: subtropické, mírné, subpolární
+Krysa
+  Podnebí: tropické, subtropické, mírné
+Krysodlak
+  Podnebí: tropické, subtropické, mírné
+Baribal
+  Podnebí: mírné
+Brtník
+  Podnebí: mírné
+Grizzly
+  Podnebí: mírné, subpolární
+Kodiak
+  Podnebí: subpolární
+Lední medvěd
+  Podnebí: polární
+Tygr
+  Podnebí: tropické, subtropické, mírné, subpolární
+[done]
+
 TODO: Mamut do tabulky velikostí
 [done]
 

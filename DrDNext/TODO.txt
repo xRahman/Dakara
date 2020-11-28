@@ -1,3 +1,20 @@
+TODO: Stopy, zvuky, pachy a světlo do 13. šachty stříbrného dolu v Trossu
+
+TODO: Kouzlení pod vodou
+  (asi jo, ale chce to zmínit u vodního dechu a předmětů umožňujících
+   dýchání pod vodou).
+
+TODO: Promyslet prostředky na léčení oslepení, napsat to k příslušnejm jedům
+- zatím je tam hraničářův hojivý dotyk a léčivý lektvar. Byla by lepší extra
+  schopnost?
+
+TODO: Žádné řeky (prostředí se spoustou podzemních řek a tunelů, hlubokých jam
+  s vodou na dně a tak. Dvě civilizace - jedna na povrchu, ta chytá dešťovou
+  vodu, případně ji vytahuje z hlubokých "studní", druhá v podzemí, kam proniká
+  světlo jen úzkými hlubokými průhledy)
+
+TODO: vznik nemrtvých, lykantropů, upírů v default světě
+
 Obecné TODO: Projít nejdřív nahrubo celej bestiář,
   rozházet potvory do správnejch hesel a udělat základ sazby
 - ať pak můžu např. projít celej bestiář a zkontrolovat, že jsou
@@ -30,6 +47,18 @@ TODO: Zařadit
 
 Dovednosti:
 ------------
+
+ÚVAHA: Pořád se vracím k omezení stupně dovedností
+- u kouzelníka by se dalo říct, že potřebuje znalost Řeči kouzel na stejném
+  nebo vyšším stupni než koulo - pak by to fungovalo stejně na svitky i na
+  kouzla naučená při levelupu.
+- dává smysl, aby zloděj začátečník zvládal jen začátečnické zámky.
+- obecně to líp podporuje ideu, že se postavy něco učej postupně
+- umožnilo by to dát míň skillpointů do začátku
+- asi by pak bylo zbytečný zdražení mistrovského stupně
+Nesedí to u "obecných" dovedností, jako jsou řemesla nebo znalost jazyků.
+- šlo by jim dát výjimku, ale tím zesložitím pravidla :\
+
 
 V pravidlech schválně nejsou dovednosti pro:
   boj, řešení šifer a hádanek, TODO
@@ -358,6 +387,15 @@ Jiné poznámky:
 Moduly:
 =======
 
+Co by mělo bejt v každé místnosti:
+🚪+🔒
+👣
+🔊
+♨
+⬤
+◐
+💡
+
 Nestvůrník:
 ------------
 IDEA: A4 PDFko bez barev se statama potvor, počítadly životů a nejspíš i lootem
@@ -377,7 +415,7 @@ TODO: Zvážit, že by v modulu se settingem defaultního světa
   božstva
 - pravidla by zůstala DrD compatible
 
-Stopy (Stopování)
+Stopy: (Stopování:)
 -----------------
 
 👣Stopy, které může najít každý
@@ -477,11 +515,43 @@ Zvířecí společník:
 - pokud budou mít potvory v základu hlavní vastnost 4, tak tahle pravidla
   zajistí, že hraničářův pet bude mít stejnou hodnotu hlavní vlastnosti jako
   hraničář. Což je možná až moc OP...
+TODO: Můžeš si vybrat libovolně velké zvíře obřích variant. Mysli při tom ale na to, že podstatná část hry se bude odehrávat
+  v úzkých podzemních tunelech a nezřídka se budete spouštět do hlubokých šachet
+  nebo šplhat na příkré stěny, takže pokud si vybereš slona nebo nějaké jiné obří
+  zvíře, budeš ho často muset nechávat venku, případně budeš složitě vymýšlet,
+  jak ho dostat dál. Nejužitečněější bojoví společníci jsou tedy třeba pes nebo
+  rys, protože jsou dost velcí, aby byli nebezpeční, ale vejdou se všude tam, co
+  ty, a zvládneš je případně vzít do náruče nebo na záda. Malá zvířata, jako
+  třeba kočka, krysa nebo veverka, ti sice moc nepomohou v boji, zato jsou to
+  ale výborní zvědi. Draví ptáci, jako třeba sokol nebo orel, jsou zdaleka
+  nejlepší pomocníci na putování divočinou, protože dokáží létat a díky skvělému
+  zraku mají perfektní přehled, co se na zemi pod nimi děje, aniž by se sami
+  museli vystavit nebezpečí.
+
 
 
 
 Do kapitoly Boj:
 -----------------
+
+TODO: Až si boj v Dračáku trochu zažijete, zkuste "počítat potichu" a rovnou
+   popisovat výsledek.
+ PJ při popisu: "Ork má na sobě těžkou zbroj."
+ PJ: Já mám 9.
+ Hráč: "Zaseknu mu sekeru hluboko do ramene, takže levou ruku má úplně
+   nepoužitelnou. Má to za 4."
+   - hráč si sám potichu spočítal přesah, určil, že má dva úspěchy, a jelikož
+     PJ zmínil, že má ork těžkou zbroj, hráč rovnou spočítal zranění.
+ // Boj díky tomu bude méně připomínat cvičení z matematiky.
+
+TODO: Zrevidovat pravidla pro otravu. Zmije má například zranění -2,
+  přitom ale dává smysl, že kůži propíchne a jed vstříkne.
+- když má cíl zbroj, zásah musí bejt aspoň za 0?
+Nebo možná:
+  - buď musíš fakt zranit, nebo obejít zbroj. To je u cíle beze zbroje
+    implicitní, u cíle se zbrojí to stojí 1 úspěch (tj. 1 na obejití zbroje,
+    1 na uštknutí).
+=> Varianta s obcházením zbroje (pokud ji má a nekryje mu celý tělo) dává smysl.
 
 Boj v šeru a po tmě
 ...................
@@ -1015,6 +1085,9 @@ SVG fonts:
 Sazba:
 ------
 
+IDEA: Styl "property rules" dát hned za předchozí, bez odsazení
+- snížil jsem ho na 1mm, to bude asi ok.
+
 IDEA: Block of properties předělat tak, že před nima bude mezera 0
 - první property by byla single, další by byly block
 - umožňilo by to dělat víc bloků za sebou
@@ -1235,6 +1308,29 @@ TODO: K čemu je vlastně property "smysly"
 Bestiář:
 ---------
 
+TODO: U všech zvířat uvést, že jsou to zvířata.
+
+Chřestýš, Kobra, Mamba černá, Zmije
+Anakonda, Hroznýš
+
+TODO: (není vidět pomocí infravidění) dávat do závorky.
+- u hadů done
+
+TODO: Projít všechny jedy, vzor je u kobry (tabulka úspěchů, první je zranění).
+TODO: Ke všem jedům napsat, jestli účinkují při požití
+TODO: Všechny jedy vypsat do ceníku (a většinu označit jako vzácné).
+
+TODO: Tepelná detekce hadů funguje jen na kontaktní vzdálenost
+- to asi napsat do kapitoly o smyslech nestvůr?
+- nebo přece jen radši k potvorám ve tvaru "detekce tepla na kontaktní vzdálenost"
+  - jo, to bude asi lepší.
+
+TODO: Čím se léčí trvalé oslepnutí z kobřího jedu
+- léčivým lektvarem?
+- ono to tam je, tak to jen použít.
+
+
+
 IDEA: Levelování nestvůr
 - vlastnosti v bestiáři jsou pro průměrného jedince
 - mládě má všechny vlastnosti o 1 nižší (ale nejméně 1)
@@ -1244,18 +1340,8 @@ TODO: Spolu s tím zrušit "mladého draka", respektive možná
   navěsit počet schopností na to, jestli je mladý, běžný nebo starý
 
 
-IDEA: Přesunout společný schopnosti lykantropů pod heslo Lykantropové
-  (regenerace je zrovna důležitá i v boji, ale léčení ne)
-  - u léčení bych musel dát výjimku k vlkodlakovi...
-
 TODO: Opice
 
-
-TODO: Podnebí (v celym bestiáři)
-- možná nakonec ne, ono je to trochu redundantní s prostředím. Když napíšu
-  "smíšené nebo jehličnaté lesy", tak je jasný, že to není tropickej deštnej
-  prales...
-    A je taky fakt, že je těch zeměpisnejch informací možná už přes míru.
 
 TODO: Napsat k lykantropům slabiny (co jim dělá stříbro, co nemůžou regenerovat,
   co se děje za úplňku).
