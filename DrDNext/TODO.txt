@@ -1,3 +1,6 @@
+TODO: Výhleově zkusit koupit náplň do gumovatelného pera a vyzkoušet
+  Fog of War na čistě papírové mapě
+
 TODO: Kouzlení pod vodou
   (asi jo, ale chce to zmínit u vodního dechu a předmětů umožňujících
    dýchání pod vodou).
