@@ -22,7 +22,10 @@ Ještě je otázka, jak udělat návraty do dungeonů v jinejch modulech
 - zkopírovat dungeon do novýho modulu?
 - udělat to volitelný, tj. že by reference mohly vést jak zvenku do tohohle
   sandboxu, tak z tohohle sandboxu ven?
-
+JO JO JO JO JO!
+- tohle určitě používat, rozsekám si tím práci na menší, samostatně hratelný
+  celky (nic mi nebrání je případně pozdějš spojit do velkýho modulu)
+- otázka je, co s mapou, ale ta asi taky půjde složit z menších
 
 
 Rituální místo (prastarej chrám s pentragramem, tak něco), kde se provádí různý rituály
