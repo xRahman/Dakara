@@ -1,5 +1,3 @@
-TODO: Stopy, zvuky, pachy a světlo do 13. šachty stříbrného dolu v Trossu
-
 TODO: Kouzlení pod vodou
   (asi jo, ale chce to zmínit u vodního dechu a předmětů umožňujících
    dýchání pod vodou).
@@ -218,8 +216,18 @@ TODO: mistrovské plížení vs mistrovské plížení (obecně stejnej level do
 
 TODO: Hůlka temnoty účinkuje, dokud ji máš v ruce.
 
+Kouzla ze svitků a hůlek:
+--------------------------
 IDEA: Všechna kouzla na svitcích a v grimoárech jsou na jedno použití,
   pouze naučená jdou sesílat opakovaně.
+- teď jsem o tom přemýšlel nezávisle a líbí se mi, že kdokoliv si může připravit
+  jedno kouzlo z hůlky a kdokoliv umí Řeč kouzel, si může připravit jedno kouzlo
+  ze svitků nebo grimoárů.
+  - dá to možnost kouzlit i nekouzelníkům, dá to význam dovednosti Řeč kouzel
+    pro nekouzelníky, budou pak mít smysl svitky i pro kouzelníka (1 spell slot navíc)
+  - Otázka: Může si kouzelník ze svitku a hůlky připravit kouzlo, který umí, tj.
+    aby ho pak mohl seslat dvakrát, nebo dokonce třikrát za sebou?
+
 
 TODO: Lykantropové jsou spojeni s mocí Měsíce. Za úplňku se mění, i když
   nechtějí. Nemohou regenerovat zranění stříbrem, protože stříbro je také
@@ -1308,6 +1316,10 @@ TODO: K čemu je vlastně property "smysly"
 Bestiář:
 ---------
 
+TODO: Doplnit do hesla Lykantropové seznam lykantropů v pravidlech.
+
+TODO: Undeadi nejdou fearnout
+
 TODO: U všech zvířat uvést, že jsou to zvířata.
 
 Chřestýš, Kobra, Mamba černá, Zmije
@@ -1811,8 +1823,6 @@ centurie (setnina, 100 mužů)
 jízda:
 
 
-
-TODO: Undeadi nejdou fearnout
 
 TODO: Ceny oblečení do ceníku (asi jsem je tam nedal, protože je postavy dostanou automaticky s živobytím? Každopádně jsou potřeba).
 - aha, v ceníku jsou, jen v jiný kapitole (to asi není dobře, když jsem to ani já nemohl najít.
