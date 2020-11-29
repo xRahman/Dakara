@@ -1,3 +1,30 @@
+ÚVAHA: Proč dungeony neprozkoumal někdo před postavama? Proč na ně všechny čekají?
+- standardní přístup je, že je někdo prozkoumal, a buď je zabydlel (goblini),
+  nebo tam třeba vychcípal. Určitě by minimálně části dungeonů měl bejt přístupný
+  a prozkoumaný.
+- vstupy do určitých částí vyžadují klíče (nebo ještě líp kouzla!), ke kterejm
+  se de dostat postupně - tj. další klíče (otevírací kouzla) nejdou najít bez
+  prvního
+  - tohle by sedělo k nápadu, že se dungeny neprozkoumávaj na první průchod,
+    ale postavy v nich najdou oblasti, který zvládnou otevřít až později
+    (co metoda krumpáč? Ta asi nebude fungovat, pokud to bude zajištěný kouzlama)
+Nejlíp zní to zkombinovat - velký části dungeonů už jsou vylootovaný (samozřejmě
+  s tím, že po předchozích dobrodruzích tam mohl zůstat loot a že nové obyvatele
+  taky může jít olootovat), ale ty nejzajímavější části dungeonů jsou zamčený.
+
+
+IDEA (zapojování okolních sandboxů)
+- udělat další sandboxy fakt jako pluginy, tj. dát do nich nezapojený odkazy
+  zvenku (NPCčka, mapa s pokladem, kouzelnej klíč...), který PJ může umístit
+  do svýho obsahu - plus tam dát defaultní umístění v jinejch modulech (můžou
+  tam vést odkazy z různejch modulů).
+Ještě je otázka, jak udělat návraty do dungeonů v jinejch modulech
+- zkopírovat dungeon do novýho modulu?
+- udělat to volitelný, tj. že by reference mohly vést jak zvenku do tohohle
+  sandboxu, tak z tohohle sandboxu ven?
+
+
+
 Rituální místo (prastarej chrám s pentragramem, tak něco), kde se provádí různý rituály
  - očarovávání předmětů, sumonění démonů, obnova rozlámanýho artefaktu atd.
 
