@@ -1,0 +1,13 @@
+IDEA: Shardům říkat "timelines"
+
+IDEA: Neimplementovat to jako MMO, ale jako tabletop RPG.
+- základní mód hry bude, že si skupina přátel založí společnou hru, která
+  bude fungovat stejně jako u stolu (předměty jsou unikátní, prozkoumané
+  lokace zůstanou prozkoumané). Intuitivní je taky možnost přidat se do
+  rozehrané hry s novou postavou, stejně jako by se hráč přidal do rozehraného
+  tabletop RPGčka.
+- je na hráčích, kolik spoluhráčů si pozvou. Když budou chtít hrát "West Marches"
+  mód s 20 hráči, klidně můžou.
+- volitelně může jít naportovat si postavu do jiné timeline (nejspíš s tím,
+  že duplicitní předměty se zkonvertují na zlaťáky, nebo tak něco - přednost
+  mají postavy založené v dané timeline, tj. těm předmět zůstane).

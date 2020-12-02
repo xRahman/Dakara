@@ -128,3 +128,11 @@ TODO: Víc alternativ mistrů, ideálně aspoň dva od každý classy v hlavním
 Stříbrné hory
 - stříbrný smrk?
 - stříbrné doly?
+
+
+
+IDEA: A4rky položené vedle sebe, spíš asi landscape. První bude na břehu moře,
+  na jih od ní (nebo možná na sever, každopádně přes širší stranu) bude moře
+  s tutoriálovým ostrovem v pravidlech.
+- průchody pod horama (podzemím) do vedlejší mapy
+- portály na přesuny uvnitř mapy a do sousedních map
