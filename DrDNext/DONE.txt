@@ -1,3 +1,10 @@
+TODO: Pohrát si se sazbou tabulek
+  https://alistapart.com/article/web-typography-tables/
+[done]  
+
+TODO: Doplnit do hesla Lykantropové seznam lykantropů v pravidlech.
+[done]
+
 TODO: Stopy, zvuky, pachy a světlo do 13. šachty stříbrného dolu v Trossu
 [done]
 

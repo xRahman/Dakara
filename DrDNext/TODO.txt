@@ -1,3 +1,12 @@
+
+TODO: V pravidlech prezentovat jen jeden herní styl, plus někam dát kapitolu o tom,
+  že není jedinej možnej.
+  (a uvést důvod, proč pravidla nepokrývají různé možnosti - protože tím stanovuje
+   kánon, na který se pak dá odkazovat - hrajeme stylem popsaným v pravidlech,
+   ale všichni společně se radíme, co by mohla postava na scéně udělat, i když tam
+   naše postavy nejsou).
+
+
 TODO: Výhleově zkusit koupit náplň do gumovatelného pera a vyzkoušet
   Fog of War na čistě papírové mapě
 
@@ -806,6 +815,14 @@ IDEA: Text o pachu dávat jiným řezem (asi kurzívou) než text o zápachu.
 Do Vedení hry:
 ---------------
 
+TODO: Někam dát něco v tomhle smyslu:
+  I mimo boj si představovat, že každý hráč má svůj tah. Nejdřív se všechny tahy
+  zahlásí a až potom se vyhodnocují. To znamená například, že pokud by např. Zurgur
+  řekl. "Jdu dál chodbou a nahlídnu za roh, co vidím?" Tak bych já jako Sudí neříkal
+  "Za rohem vidíš světýlko",* ale řekl bych: "Dobře, takže Zurgur jde dopředu chodbou
+  a nahlíží za roh. Co dělají mezitím ostatní?" A teprve když se ujistíš, že každý
+  dostal slovo nebo příležitost něco dělat, začneš akce v logickém pořadí vyhodnocovat.
+
 Úvod k Vedení hry:
   Následující kapitola obsahuje spoustu rad a postupů, které ti nejspíš
 začnou dávat smysl až poté, co si vedení hry vyzkoušíš. Přesně tak jsou
@@ -1096,6 +1113,9 @@ SVG fonts:
 Sazba:
 ------
 
+TODO: Nepoužívat bullets, když nejde o seznam (vymyslet jinej typografickej trik, jak
+  zvýraznit blok textu).
+
 IDEA: Styl "property rules" dát hned za předchozí, bez odsazení
 - snížil jsem ho na 1mm, to bude asi ok.
 
@@ -1319,11 +1339,11 @@ TODO: K čemu je vlastně property "smysly"
 Bestiář:
 ---------
 
-TODO: Doplnit do hesla Lykantropové seznam lykantropů v pravidlech.
-
 TODO: Undeadi nejdou fearnout
 
 TODO: U všech zvířat uvést, že jsou to zvířata.
+
+TODO: U hadů zrušit podnadpisy Jedovatí hadi a Škrtiči
 
 Chřestýš, Kobra, Mamba černá, Zmije
 Anakonda, Hroznýš
