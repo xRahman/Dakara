@@ -52,10 +52,6 @@ So we are looking one or more spaces followed by the whole word “made”.
 However, we don’t want to apply the “blue” character style to the entire phrase “USA made”, only to “made”. So we need to wrap the \<USA\> string in parentheses with ?<= at the front. (?<=) is called a “positive lookbehind.” In this case, it tells InDesign that when it finds an occurrence of “made”, it should “look behind” and see if it is preceded by “USA”. If it is preceded by “USA”, then consider it a match, but don’t include “USA” in the match.
 
 
-Favorite GREP Expressions You Can Use
---------------------------------------
-https://creativepro.com/favorite-grep-expressions-you-can-use/
-
 ----------------------------------------------------------
 
 Used grep expressions
