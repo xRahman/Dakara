@@ -10,3 +10,73 @@ Everything from start excluded the colon:
 ^[^:]+
 
 // Find the beginning of a paragraph, followed by anything, that is not a colon, one or multiple times, followed by a colon (first case) or not (second case)
+
+
+Range of special unicode characters (unicode icons and emoticons):
+[\x{2600}-\x{10FFFF}]
+
+
+Format a specific word followed or preceded by something:
+----------------------------------------------------------
+
+https://creativepro.com/formatting-important-phrases-with-grep/
+
+Expression 1:
+\<USA\>\s+(?=\<made\>)
+
+USA will match the word “USA”. GREP expressions are case-sensitive by default, so it will only match “USA” in all caps.
+
+Adding \< and \> around “USA” tells InDesign to match only a whole word. Probably not really necessary in this case, since I can’t think of any English words that begin or end in all-caps “USA”. But if we were dealing with different words, this would be important.
+
+\s is shorthand for a “whitespace” character. This matches any type of space. Regular spaces, non-breaking spaces, em spaces, en spaces, etc.
+
+The + means “one or more” so we are looking for “USA” followed by one or more spaces followed by “made”.
+
+However, we don’t want to apply the “red” character style to the entire phrase “USA made”, only to “USA”. So we need to wrap the \<made\> string in parentheses with ?= at the front. (?=) is called a “positive lookahead”. In this case, it tells InDesign that when it finds an occurrence of “USA”, it should “look ahead” and see if it is followed by “made”. If it is followed by “made”, then consider it a match, but don’t include “made” in the match.
+
+Expression 2:
+(?<=\<USA\>)\s+\<made\>
+
+This expression is much like expression 1, but the opposite.
+
+\s is shorthand for a “whitespace” character. This matches any type of space. Regular spaces, non-breaking spaces, em spaces, en spaces, etc.
+
+The + means “one or more”, so we are looking for one or more spaces.
+
+made will match the word “made”, but only when all lowercase.
+
+Adding \< and \> around “made” tells InDesign to match only a whole word.
+
+So we are looking one or more spaces followed by the whole word “made”.
+
+However, we don’t want to apply the “blue” character style to the entire phrase “USA made”, only to “made”. So we need to wrap the \<USA\> string in parentheses with ?<= at the front. (?<=) is called a “positive lookbehind.” In this case, it tells InDesign that when it finds an occurrence of “made”, it should “look behind” and see if it is preceded by “USA”. If it is preceded by “USA”, then consider it a match, but don’t include “USA” in the match.
+
+
+Favorite GREP Expressions You Can Use
+--------------------------------------
+https://creativepro.com/favorite-grep-expressions-you-can-use/
+
+----------------------------------------------------------
+
+Used grep expressions
+======================
+
+Color only the value of an attribute (Fyzička 4):
+(?<=\<Fyzička\>)\s+(\d+|–)
+(?<=\<Finesa\>)\s+(\d+|–)
+(?<=\<Duše\>)\s+(\d+|–)¨
+
+
+Color all words stariting with prefix "Fyzičk"
+-----------------------------------------------
+\<Fyzičk\w+\>
+\<Fines\w+\>
+\<Duš\w+\>
+
+Important: Dědění grep stylu funguje pouze v případě, že child style nemá
+svoje grep styly. To je do určitý míry výhoda, protože můžu obecně obarvovat
+atributy a v řádku s atributy u potvor je neobarvovat. Taky to ale znamená,
+že ve stylu Single Property jsou pravidla pro obarvování atributů zopakovaná.
+- ve stylu "Example Dialogue" záměrně obarvování není, v přímý řeči je to
+  lepší neobarvený (taky by šlo v přímý řeči používat vlastnosti s malým
+  písmenem, ty se neobarvujou)

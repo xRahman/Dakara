@@ -58,3 +58,8 @@ https://indesignsecrets.com/turning-on-the-preference-for-text-wrap-only-affects
 Hyperlink automation
 ---------------------
 https://indesignsecrets.com/assigning-hyperlinks-automatically-to-skus-and-other-text-with-a-script.php
+
+
+Creating Multiple Indexes in InDesign
+--------------------------------------
+https://creativepro.com/creating-multiple-indexes-in-indesign/
