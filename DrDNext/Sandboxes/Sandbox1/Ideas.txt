@@ -28,6 +28,24 @@ JO JO JO JO JO!
 - otázka je, co s mapou, ale ta asi taky půjde složit z menších
 
 
+Prostředí
+----------
+
+Rozhraní úrodné, záplavové oblasti a pouště
+
+Delta řeky
+
+Ostrovy porostlé džunglí, ve které se skrývají ruiny
+
+Cedrový les
+
+
+
+Lokace
+-------
+
+Ruiny zaváté pískem (původně tamtudy tekla řeka, ale změnila koryto)
+
 Rituální místo (prastarej chrám s pentragramem, tak něco), kde se provádí různý rituály
  - očarovávání předmětů, sumonění démonů, obnova rozlámanýho artefaktu atd.
 
@@ -131,7 +149,7 @@ Stříbrné hory
 
 
 
-IDEA: A4rky položené vedle sebe, spíš asi landscape. První bude na břehu moře,
+IDEA: A4ky položené vedle sebe, spíš asi landscape. První bude na břehu moře,
   na jih od ní (nebo možná na sever, každopádně přes širší stranu) bude moře
   s tutoriálovým ostrovem v pravidlech.
 - průchody pod horama (podzemím) do vedlejší mapy

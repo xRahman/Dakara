@@ -1,4 +1,4 @@
-IDEA: 1 dungeon a kus okolí. Zázemí v nedalekém městě
+IDEA: 1 dungeon a kus okolí. Zázemí v nedalekém městě (tak nakonec spíš na lodi)
 
 Okolí rozdělit na 2 oblasti (2 tabulky s encountery)
 - okolí rozdělíme na dva oblasti, abychom dali význam hráčské volbě. Pokud bychom totiž měli jen jednu tabulku, na tom, kudy se hráči rozhodnou jít, by nezáleželo.
@@ -8,3 +8,21 @@ K oblastem musí být hinty (nejspíš ve městě)
 2 vstupy do podzemí
 - opět kvůli možnosti volby
 - zde už informace předem nejsou - nebo možná signalizace nebezpečí mrtvejma goblinama či tak něco?
+
+
+
+IDEA: takovej menší Isle of Tortage
+- postavy společně stroskotají
+  (hmm, to asi blbej příklad do pravidel)
+  - takže spíš připlují lodí.
+
+- postavy si koupily lodní lístky, kapitán jim ale neřekl, že se po cestě chce stavit na jednom z odlehlých ostrovů pro poklad, ke kterýmu má mapu.
+ - když půjdou námořníci do džungle a dungeonu sami, pochcípají tam. Zbyde tak
+   akorát námořníků, aby dokázali doplout do přístavu
+TODO: Staty a equip všech námořníků (drobnosti, co mají u sebe), ale ne nutně
+  všechna jména
+- Určitě kapitán, první důstojník, quartermaster (provianťák?)
+
+na lodi bude:
+- kapitánova truhla
+  (mapa)
