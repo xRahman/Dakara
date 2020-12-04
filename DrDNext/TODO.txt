@@ -1120,6 +1120,9 @@ SVG fonts:
 Sazba:
 ------
 
+TODO: "Suroviny:" asi měly styl "Property Bullets Header", aby mohl bejt spojenej
+  s následujícím odstavcem
+
 TODO: Nepoužívat bullets, když nejde o seznam (vymyslet jinej typografickej trik, jak
   zvýraznit blok textu).
 
@@ -1345,6 +1348,11 @@ TODO: K čemu je vlastně property "smysly"
 
 Bestiář:
 ---------
+
+TODO: Problém se zápisem šplhání - na rozdíl od plavání 0 teček neznamená,
+  že postava neumí šplhat
+- to je asi fuk. Z proškrtnutý hodnoty je jasný, že to žádnej skvělej šplhač není,
+  to asi stačí.
 
 TODO: Regenerace 1 žt za kolo je možná moc slabá, potvory umírají rychle.
 
