@@ -1,3 +1,22 @@
+TODO: Zrevidovat vlastnosti lykantropů.
+- asi by měli mít nejvyšší vlastnost 5 (jako zvlášť nebezpečné zvíře).
+Otázka je, co s kancodlakem (kanec má Fyzičku 3)
+- asi ve zvířecí podobě taky 5? Nebo jako zvlášť nebezpečnej kanec 4?
+  Asi spíš dává smysl vztahovat to k vlastnostem zvířecí formy, aby to bylo
+  konzistentní a dalo se to dobře odhadovat. Takže 4. A v lidské formě tudíž
+  taky 4.
+TODO: Ještě zvážit, jestli jim v lidské podobě nedat staty o 1 menší, aby se
+  proměnou opravdu zvedla jejich nebezpečnost.
+  - jo, udělat to tak.
+TODO: Pro lykantropy platí variace nebezpečnosti stejně jako pro zvířata,
+  tj. vůdce vlkodlačí smečky může mít Fyzičku 6
+  - napsat to do hesla Lykantropové.
+[done]
+
+TODO: Možná zrušit pohlavní dimorfismus zvířat?
+- nebo ho nějak šikovnějš zapsat - neduplikovat abilities, jen dát do závorky variantu?
+[done]
+
 TODO: Pohrát si se sazbou tabulek
   https://alistapart.com/article/web-typography-tables/
 [done]  

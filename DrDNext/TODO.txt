@@ -1,3 +1,7 @@
+TODO: Do kdy působí Hůlka temnoty?
+- určitě přestane, když ji postava pustí z ruky
+- asi by dávalo smysl "po dobu soustředění"
+
 
 TODO: V pravidlech prezentovat jen jeden herní styl, plus někam dát kapitolu o tom,
   že není jedinej možnej.
@@ -48,10 +52,10 @@ IDEA: Barbarovi dát něco navíc k nezdolné výdrži
 
 TODO: Zařadit
   lekvar proměny do kance
-  lekvar proměny do vlka
   lekvar proměny do krysy
   lekvar proměny do medvěda
   lekvar proměny do tygra
+  lekvar proměny do vlka
 
 ------------------------------------------------
 
@@ -72,6 +76,9 @@ Nesedí to u "obecných" dovedností, jako jsou řemesla nebo znalost jazyků.
 
 V pravidlech schválně nejsou dovednosti pro:
   boj, řešení šifer a hádanek, TODO
+  smlouvání (z části ze stejných důvodů, smlouvat by měli hráči, a navíc protože
+    smlouvání není až tak zajímavý, takže prakticky by to znamenalo slevu na všechny
+    nákupy, což by přidalo spoustu účetnictví).
 
 IDEA: Skok by mohla bejt samostatná dovednost (nebo atletika?)
 - některý zvířata by měly víc než tři tečky
@@ -126,7 +133,7 @@ IDEA: Většině šelmám dát nejvyšší vlastnost 4, těm nejnebezpečnějš�
 
 Fyzička
 1: 
-2: krysa, jedovatí hadi
+2: krysa, dikobraz, jedovatí hadi
 3: 
 4: šelmy (včetně kočky), draví ptáci, škrtiči
 5: 
@@ -138,7 +145,7 @@ Fyzička
 Finesa
 1: slon, nosorožec, býk, medvěd
 2: pes, vlk
-3: krysa, kočka
+3: krysa, dikobraz, kočka (tygr, lev, puma)
 4: jedovatí hadi, laň, gazela
 5: 
 6: 
@@ -1338,6 +1345,11 @@ TODO: K čemu je vlastně property "smysly"
 
 Bestiář:
 ---------
+
+TODO: Regenerace 1 žt za kolo je možná moc slabá, potvory umírají rychle.
+
+TODO: Žraloka hodit mezi zvířata, obřího mořskýho koníka asi taky
+  - krakena a vodního hada ne
 
 TODO: Undeadi nejdou fearnout
 
