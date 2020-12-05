@@ -1,3 +1,8 @@
+TODO: Zrušit neviděné. Je to komplikovaná nestvůra a je zajímavá spíš pro PJe
+  než pro hráče.
+- actually, jak si je znova pročítám, tak se mi celkem líběj.
+[won't do]
+
 TODO: Zrevidovat vlastnosti lykantropů.
 - asi by měli mít nejvyšší vlastnost 5 (jako zvlášť nebezpečné zvíře).
 Otázka je, co s kancodlakem (kanec má Fyzičku 3)

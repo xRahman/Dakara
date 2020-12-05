@@ -1,3 +1,6 @@
+TODO: Skřetí dryják nepatří mezi "Výrobky ze vzácných surovin"
+
+
 TODO: Do kdy působí Hůlka temnoty?
 - určitě přestane, když ji postava pustí z ruky
 - asi by dávalo smysl "po dobu soustředění"
@@ -561,6 +564,29 @@ TODO: Můžeš si vybrat libovolně velké zvíře obřích variant. Mysli při 
 Do kapitoly Boj:
 -----------------
 
+IDEA: Nezraňující úmysly je třeba explicitně hlásit (Chci ho srazit na zem. Chci
+  mu vyrazit zbraň z ruky). Když to hráč neudělá, záměr se považuje za zraňující
+  a znamená to, že první úspěch půjde na udělení zranění a hráč to už nebude moci
+  změnit.
+- tohle by mohlo zpřehlednit pravidla, protože vážný zranění a podobně bude pak
+  v kapitolce o zraňujícím záměru.
+  - hmm, to možná není dobře, protože třeba kouzlem beranidlo určitě můžu někoho
+    srazit na zem a vážně zranit.
+Možná by bylo lepší formulovat to tak, že před hodem se povinně hlásí, co chci udělat
+  za první úspěch (zranit ho, srazit ho na zem atd.), a efekt dalších úspěchů se doplňuje
+  po hodu (bylo to vážný zranění, při pádu se praštil do hlavy atd.).
+
+IDEA: Explicitní pravidlo, že beranidlo prvním úspěchem sráží nebo odhazuje a až
+  případným druhým může zranit. Blesky naopak prvním zraňujou (i když ne nezbytně,
+   určitě například půjde bleskem zasáhnout amulet na krku).
+- pokud zavedu pravidlo o povinnosti deklarovat nezraňující záměr, tak bych
+  tam tohle mohl zmínit.
+=> Asi na to kašlat, je to zbytečný zesložitění.
+
+TODO: Vážný zranění končetiny by asi nemělo automaticky způsobovat pád,
+  případně puštění zbraně, protože se pak těžko vymýšlí, co se třetím úspěchem.
+
+
 TODO: Až si boj v Dračáku trochu zažijete, zkuste "počítat potichu" a rovnou
    popisovat výsledek.
  PJ při popisu: "Ork má na sobě těžkou zbroj."
@@ -1119,6 +1145,19 @@ SVG fonts:
 
 Sazba:
 ------
+
+TODO: Přece jen zvážit separátní styl na úspěchy, aby se víceřádkové popisy
+  efektů zarovnávaly do bloku.
+
+TODO: V efektech úspěchů by asi bylo lepší psát trvání rovnou do účinků
+  (místo extra property "Trvání účinků"):
+• strach na několik minut
+- přehlednější to přece jen asi bude s extra propertou
+
+TODO: Styly "bullet" a "property bullet" se liší jen odsazením prvního odstavce,
+  chtělo by to je sloučit.
+- a když už v tom budu, tak bych se taky mohl zamyslet nad sloučením odsazení
+  property stylů a bullet stylů (jestli je to vůbec dobrej nápad).
 
 TODO: "Suroviny:" asi měly styl "Property Bullets Header", aby mohl bejt spojenej
   s následujícím odstavcem
