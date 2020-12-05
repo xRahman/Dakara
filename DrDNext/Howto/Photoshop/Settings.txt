@@ -1,0 +1,4 @@
+﻿Disable Flick Panning
+---------------------------
+
+Preferences -> Tools: Uncheck "Enable Flick Panning"
