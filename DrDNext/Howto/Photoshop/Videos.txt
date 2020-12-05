@@ -1,3 +1,37 @@
 ﻿Photoshop for Beginners | FREE COURSE
 https://www.youtube.com/watch?v=IyR_uYsRdPs
 187 min
+
+1. Introduction
+ 0:00 1.1 Welcome to the Course
+ 1:50 1.2 Getting Started
+2. Layers
+ 3:10 2.1 How Photoshop Layers Work
+ 12:06 2.2 Combining Multiple Images
+3. Color and Adjustment Layers
+ 20:40 3.1 Tone Adjustment With Levels
+ 25:17 3.2 Color Adjustment
+ 29:21 3.3 Hue Adjustments
+4. Text
+ 37:42 4.1 How to Work With Type
+ 49:37 4.2 Warped Type and Type on a Path
+5. Layer Styles
+ 1:07:17 5.1 Layer Styles and Effects
+6. Cropping and Resizing
+ 1:24:46 6.1 How to Crop
+ 1:32:08 6.2 Resizing and Resolution
+7. Selections and Masking
+ 1:41:49 7.1 Rectangle and Elliptical Marquee Tool
+ 1:47:58 7.2 Clipping Masks
+ 1:52:27 7.3 Quick Selection Tool
+ 2:00:18 7.4 Layer Masks
+ 2:06:25 7.5 Select and Mask
+8. Smart Objects
+ 2:18:38 8.1 Understanding Photoshop Smart Objects
+9. Transform & Warp
+ 2:30:09 9.1 Transforming and Warping Layers
+10. Retouching
+ 2:37:58 10.1 Retouching With the Photoshop Healing Brush
+ 2:45:55 10.2 Content-Aware Scale
+11. Exporting
+ 2:54:11 11.1 Exporting Images
