@@ -1,0 +1,6 @@
+﻿Disable resetting of pencil/paintbrush tools:
+-----------------------------------------------
+
+Ensure "New Art Has Basic Appearance" is unchecked in the Appearance Panel hamburger menu.
+
+https://community.adobe.com/t5/illustrator/paintbrush-tool-keeps-switching-argh/td-p/9023105?page=1
