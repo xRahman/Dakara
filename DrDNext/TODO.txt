@@ -1,3 +1,6 @@
+TODO: Životy jsou fakt zranění, který jde následně ošetřit a léčit.
+
+
 TODO: Skřetí dryják nepatří mezi "Výrobky ze vzácných surovin"
 
 
@@ -88,7 +91,7 @@ IDEA: Skok by mohla bejt samostatná dovednost (nebo atletika?)
 
 ------------------------------------------------
 
-Vlastnosti nestvůr
+Vlastnosti nestvůr:
 -------------------
 
 Obecně:
@@ -138,7 +141,7 @@ Fyzička
 1: 
 2: krysa, dikobraz, jedovatí hadi
 3: 
-4: šelmy (včetně kočky), draví ptáci, škrtiči
+4: šelmy (včetně kočky), draví ptáci, škrtiči, krokodýl, varan
 5: 
 6: 
 7: 
@@ -146,7 +149,7 @@ Fyzička
 9: 
 
 Finesa
-1: slon, nosorožec, býk, medvěd
+1: slon, nosorožec, býk, medvěd, krokodýl, varan
 2: pes, vlk
 3: krysa, dikobraz, kočka (tygr, lev, puma)
 4: jedovatí hadi, laň, gazela
@@ -1387,6 +1390,10 @@ TODO: K čemu je vlastně property "smysly"
 
 Bestiář:
 ---------
+
+TODO: Bazilišek by možná mohl vypadat jako reálnej bazilišek:
+  https://cs.wikipedia.org/wiki/Bazili%C5%A1ek_zelen%C3%BD
+
 
 TODO: Problém se zápisem šplhání - na rozdíl od plavání 0 teček neznamená,
   že postava neumí šplhat
