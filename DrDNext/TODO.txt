@@ -1,3 +1,19 @@
+TODO: Ještě jednou zvážit výpočet životů.
+  Poté, co přestala měnit Fyzička s velikostí, mají malé šelmy nepřirozeně hodně
+  životů.
+  - takže nejspíš přece jen přejdu k tomu, že životy = velikost.
+  - Bude to chtít přepracovat tabulku velikosti (asi bude víc stupňů)
+    - při té příležitosti by bonus za sílu mohl růst na střídačku s bonusem ke zranění
+      velkých zbraní
+    - a možná by fakt velcí tvorové měli mít výrazně víc životů
+      (ale to možná zařídí samotná konverze)
+Spíš to vidím tak, že s velikostí se přece jen budou muset měnit vlastnosti. Takhle se mi
+  může relativně snadno stát, třeba že rys přepere tygra (dobře mu to padne, dostane ho
+  do nevýhody a pak už se tygr poveze).
+- problém je, že mi pak při změně kategorie velikosti skokově vzroste Fyzička, zranění
+  ze síly a současně bonus za velikost zbraní.
+
+
 TODO: Životy jsou fakt zranění, který jde následně ošetřit a léčit.
 
 
@@ -140,8 +156,8 @@ IDEA: Většině šelmám dát nejvyšší vlastnost 4, těm nejnebezpečnějš�
 Fyzička
 1: 
 2: krysa, dikobraz, jedovatí hadi
-3: 
-4: šelmy (včetně kočky), draví ptáci, škrtiči, krokodýl, varan
+3: jezdecká zvířata
+4: šelmy (včetně kočky a lasice), draví ptáci, škrtiči, krokodýl, varan
 5: 
 6: 
 7: 
@@ -149,9 +165,9 @@ Fyzička
 9: 
 
 Finesa
-1: slon, nosorožec, býk, medvěd, krokodýl, varan
+1: slon, nosorožec, býk, medvěd, krokodýl, varan, kůň
 2: pes, vlk
-3: krysa, dikobraz, kočka (tygr, lev, puma)
+3: krysa, dikobraz, kočka (tygr, lev, puma), lasice
 4: jedovatí hadi, laň, gazela
 5: 
 6: 
@@ -1390,6 +1406,59 @@ TODO: K čemu je vlastně property "smysly"
 
 Bestiář:
 ---------
+
+Zvířata:
++chřestýš (obří, obyčejný)
++kobra (obří, obyčejná)
++mamba (obří, obyčejná)
++zmije (obří, obyčejná)
++anakonda (obří, obyčejná)
++hroznýš (obří, obyčejný)
++dikobraz (obří, obyčejný)
++krysa (hejno krys, krysa obří, krysa obyčejná)
++varan (obří, obyčejný)
++kočka
++lev
++levhart
++puma
++rys
++tygr
+kůň (jezdecký, nákladní, obří, válečný)
+mezek
+mula
+osel
+poník
+velbloud
+aligátor
+krokodýl
+baribal
+brtník
+grizzly
+kodiak
+lední medvěd
+netopýr (hejno netopýrů, netopýr obří, netopýr obyčejný)
+gorila (obří, obyčejná)
+kočkodan
+orangutan (obří, obyčejný)
+pavián
+šimpanz
++lasice
+liška
+pes (lovecký, ovčácký)
+vlk (obyčejný, lítý)
+sokol
+orel (obří, obyčejný)
+pták noh
+hroch
+nosorožec
+slon
+bizon
+skot
+
+TODO: Používat buď "džungle" nebo "deštný prales" nebo "tropický prales"
+ (jen jedno z toho).
+ - nejspíš džungle, zní to míň učeně a víc to voní dobrodružstvím
+
 
 TODO: Bazilišek by možná mohl vypadat jako reálnej bazilišek:
   https://cs.wikipedia.org/wiki/Bazili%C5%A1ek_zelen%C3%BD
