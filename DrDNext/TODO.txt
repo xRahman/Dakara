@@ -926,6 +926,10 @@ TODO: Útok na imunního protivníka (např na ohnivého hada stvořeného kouzl
 
 Kouzla:
 
+TODO: Kouzla, která nemají property "útok", se nedají použít na obranu ohrožením
+  protivníka. Pokud se kouzelník musí ve stejném kole bránit, hází si Fyzičkou nebo
+  Finesou podle toho, jeslti má těžkou zbroj.
+
 IDEA: S výjimkou duševních kouzel je efekt kouzla vždycky něco fyzickýho - kouzlem
   stvořenej oheň hoří a pálí jako normální oheň a pokud kouzlo neříká jinak, dá se
   jako normální oheň uhasit.
@@ -1164,6 +1168,26 @@ SVG fonts:
 
 Sazba:
 ------
+
+ÚVAHA - co potřebuju:
+- možnost více bloků za sebou
+    Property
+    Next Property
+
+    Property Paragraph
+
+    Rules
+    Description
+
+- indentované property, opět s možností více bloků za sebou
+    Property with Indent
+    Next Property with Indent
+
+    Indented Property Paragraph
+
+    Indented Rules
+    Indented Description
+
 
 TODO: Přece jen zvážit separátní styl na úspěchy, aby se víceřádkové popisy
   efektů zarovnávaly do bloku.
@@ -1407,6 +1431,13 @@ TODO: K čemu je vlastně property "smysly"
 Bestiář:
 ---------
 
+TODO: Potřebuju kolonku pro generickej popis, kterej se nevejde do jinejch kolonek.
+  Třeba "Osli jsou velmi silní, unesou víc, než sami váží."
+- asi jako Body Text.
+  Ale kam s ním? Za jinou property to moc nejde, pak to bude vypadat, že to k ní patří.
+TODO: Atributy asi přece jen dát do sekce "Boj" (za property Boj, před zbroj).
+  Viz heslo Osel.
+
 Zvířata:
 +chřestýš (obří, obyčejný)
 +kobra (obří, obyčejná)
@@ -1423,13 +1454,13 @@ Zvířata:
 +puma
 +rys
 +tygr
-kůň (jezdecký, nákladní, obří, válečný)
-mezek
-mula
-osel
-poník
-velbloud
-aligátor
++kůň (jezdecký, nákladní, obří, válečný)
++mezek
++mula
++osel
++poník
++velbloud
++aligátor
 krokodýl
 baribal
 brtník
