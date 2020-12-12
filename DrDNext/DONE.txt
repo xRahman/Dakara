@@ -1,3 +1,82 @@
+IDEA: Že by vlčí mor působil pouze na vlkodlaky?
+  - asi jo
+[done]
+
+TODO: Formule ke goblinskejm kouzlům
+- rozhodnout, jestli používají řeč kouzel - ale po novu asi jo.
+DONE: Ano, používají.
+[done]
+
+Síla:
+``````
+TODO: Sjednotit popis fyzický síly
+- možná by to nemělo bejt zapsaný jako schopnost, ale součást úvodního
+  property blocku, jak je Rychlost, Smysly a tak.
+- otázka je, jak to pojmenovávat. Zatím se držím termínů "nadlidská" a "obří",
+  ale ty moc nefungujou pro malou sílu. Takže možná spíš:
+    "jako myš"
+    "jako permoník"
+    "jako člověk"
+    "jako kůň"
+    "jako slon"
+  Alternativně:
+    "jako myš"
+    "jako permoník"
+    "jako člověk"
+    "jako medvěd"
+    "jako obr"
+=> Udělám to trochu jinak.
+  - Nemá smysl psát k obrovi, že má obří sílu, to vyplývá z jeho velikosti.
+    Takže buď dám do property "Síla" jen bonus ke zranění, nebo ani to ne
+    (půjde vyčíst z výpočtu zranění).
+  - Budu dávat schopnost k nestvůrám, který mají sílu neodpovídající jejich
+    velikosti. V property "síla" to může bejt zapsaný takhle:
+      Síla: +2 (+1 za velikost, +1 za Nadlidskou sílu)
+IDEA: Pokud budu psát bonus za sílu do výpočtu zranění, nemusím ho psát
+  do property Síla:
+DONE: Hodnota síly na stejný stupnici jako velikost - když mám tvora, kterej
+  je nezvykle silnej vzhledem ke svojí velikosti, tak mu dám sílu větší než
+  velikost.
+[done]
+
+TODO: Problém se zápisem šplhání - na rozdíl od plavání 0 teček neznamená,
+  že postava neumí šplhat
+DONE: to je asi fuk. Z proškrtnutý hodnoty je jasný, že to žádnej skvělej šplhač není,
+  to asi stačí.
+[done]
+
+TODO: Důkladná revize stop - zmínit konkrétní stopy, které zvíře může zanechat
+  (otisky tlap, trus, chomáče srsti).
+- je to fakt tak dobrej nápad? Ale jo, je. Jsou to detaily navíc, který se dají
+  psát jak do modulů, tak popisovat hráči hraničáře. Details are good.
+DONE: Není to dobrej nápad, protože bych skoro ke všem tvorům psal "trus, srst".
+  Tohle je lepší napsat k dovednosti stopování (leda bych chtěl uvádět barvu
+    srsti, velikost trusu a tak, což nechci - ve hře bych hráči řekl "našel jsi
+    netopýří trus", nepopisoval bych, jak vypadá.
+[done]
+
+TODO: Možná přece jen rozhodit medvědy do samostatnejch hesel.
+- sloučení dává smysl u komba Anakonda obyčejná/obří, nebo u různejch
+  druhů mravenců, ale zrovna ti medvědi jsou na stejný úrovni jako
+  aligátor a krokodýl - teď jsem chtěl Baribala hledat pod heslem "Baribal".
+[done]
+
+IDEA: Kouzelník je full caster, může se naučit libovolný kouzlo
+  a má 2 kouzla na úroveň. Šaman by byl šemi-caster, mohl by se
+  určit jen některá kouzla, měl by 1 kouzlo na úroveň a k tomu
+  nějaký další schopnosti (moc to nevychází, ostatní mají 1 schopnost
+  na úroveň, takže by je asi musel dostávat každou druhou úroveň.
+TODO:
+- Zvážit, jestli by gobliní a skřetí šamani měli sesílat kouzla
+- Pokud ano, asi bych měl udělat seznam NPC kouzel a odkazovat na něj,
+  nepsat je přímo k nim.
+DONE: Ano, skřeti opravdu sesílají kouzla. Na rozdíl od kouzelníka se je neučí ze svitků,
+  neumí totiž číst a neznají Řeč kouzel. Kouzla se učí od starších šamanů, v postatě jako
+  báseň v cizím jazyce.
+  - jelikož šamanská kouzla nejsou na svitcích, kouzelník se je nemůže naučit ze svitků.
+    Může ale přesvědčit nějakého šamana, aby ho skřetí kouzlo naučil.
+[done]
+
 TODO: Zrušit neviděné. Je to komplikovaná nestvůra a je zajímavá spíš pro PJe
   než pro hráče.
 - actually, jak si je znova pročítám, tak se mi celkem líběj.
