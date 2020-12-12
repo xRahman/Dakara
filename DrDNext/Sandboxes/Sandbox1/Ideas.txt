@@ -1,3 +1,17 @@
+IDEA: Žraločí zátoka (Shark Bay)
+  - je ve tvaru žraločí ploutve
+  - možná by se víc hodil název odvozenej od fantasy tvora, třeba Krakenova zátoka
+    (chapadlovitý pobřeží by bylo cool, ale zní to divně)
+  - asi by to šlo i jako název modulu
+
+IDEA: Pojmenovávat modely geograficky, tj. podle oblastí (to ostatně dělá i Tross)
+
+IDEA: Floating island
+- jen jeden, to stačí.
+  Co na něm bude? Ruiny dávnýho města? Spící drak?
+    Rozhodně je to super tajemství a cíl pro hráče se tam dostat - celou dobu ho
+  uvidí nad hlavama.
+
 ÚVAHA: Proč dungeony neprozkoumal někdo před postavama? Proč na ně všechny čekají?
 - standardní přístup je, že je někdo prozkoumal, a buď je zabydlel (goblini),
   nebo tam třeba vychcípal. Určitě by minimálně části dungeonů měl bejt přístupný
