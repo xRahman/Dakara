@@ -1,39 +1,10 @@
-v1:
-           velikost  Životy  Fyzička  Zranění  Za sílu  Za velikost
-Lasička       0        2      2 (-2)    -1       -1        -2
-Kuna          1        3      2 (-2)     0       -1        -1
-Kočka         2        5      3 (-1)     0       -1        -1
-Liška         3        6      3 (-1)     0       -1        -1
-Rys           4        7      3 (-1)     1       +0        -1
-Vlk  (hobit)  5        9      4 (+0)     2       +0        +0
-Puma (člověk) 6       10      4 (+0)     2       +0        +0
-Tygr (kroll)  7       11      4 (+0)     2       +0        +0
-Grizzly       8       13      5 (+1)     3       +1        +0
-Kodiak        9       14      5 (+1)     4       +1        +1
-
-
-v2:
-           velikost  Životy  Fyzička   Za sílu  Za velikost  Celkem
-Lasička       0        2      1 (-3)       -2        -2        -4
-Kuna          1        3      2 (-2)       -2        -2        -4
-Kočka         2        5      2 (-2)       -1        -2        -3
-Liška         3        6      3 (-1)       -1        -1        -2
-Rys           4        7      3 (+0)       -1        -1        -2
-Vlk  (hobit)  5        9      4 (+0)       +0        -1        -1
-Puma (člověk) 6       10      4 (+0)       +0        +0        +0
-Tygr (kroll)  7       11      4 (+0)       +0        +0        +0
-Grizzly       8       13      5 (+1)       +1        +0        +1
-Kodiak        9       14      5 (+1)       +1        +1        +2
-krokodýl     10       ??      5 (+1)       +1        +1        +2
-Mladý drak   11       ??      6 (+2)       +2        +1        +3
-Dospělý drak 12       ??      6 (+2)       +2        +2        +4
-
-
+Vliv velikosti:
+----------------
 v3 (ideál, ale +1 síla pro krolly a barbary):
            velikost  Životy  Fyzička   Za sílu  Za velikost  Celkem
-Lasička       0        2      2 (-3)       -2        -2        -4
+Lasička       0        2      2 (-2)       -2        -2        -4
 Kuna          1        3      2 (-2)       -1        -2        -3
-Kočka         2        5      3 (-2)       -1        -2        -3
+Kočka         2        5      3 (-1)       -1        -2        -3
 Liška         3        6      3 (-1)       -1        -1        -2
 Rys           4        7      3 (-1)       +0        -1        -1
 Vlk  (hobit)  5        9      4 (+0)       +0        -1        -1
@@ -46,20 +17,8 @@ Mladý drak   11       17      6 (+2)       +2        +1        +3
 Dospělý drak 12       18      6 (+2)       +2        +2        +4
 
 
-TODO: Ještě jednou zvážit výpočet životů.
-  Poté, co přestala měnit Fyzička s velikostí, mají malé šelmy nepřirozeně hodně
-  životů.
-  - takže nejspíš přece jen přejdu k tomu, že životy = velikost.
-  - Bude to chtít přepracovat tabulku velikosti (asi bude víc stupňů)
-    - při té příležitosti by bonus za sílu mohl růst na střídačku s bonusem ke zranění
-      velkých zbraní
-    - a možná by fakt velcí tvorové měli mít výrazně víc životů
-      (ale to možná zařídí samotná konverze)
-Spíš to vidím tak, že s velikostí se přece jen budou muset měnit vlastnosti. Takhle se mi
-  může relativně snadno stát, třeba že rys přepere tygra (dobře mu to padne, dostane ho
-  do nevýhody a pak už se tygr poveze).
-- problém je, že mi pak při změně kategorie velikosti skokově vzroste Fyzička, zranění
-  ze síly a současně bonus za velikost zbraní.
+TODO: Asi nakonec zatabulkovat a očíslovat i rychlost, přirovnání pořád
+  dost pokulhávaj
 
 
 TODO: Životy jsou fakt zranění, který jde následně ošetřit a léčit.
@@ -160,6 +119,12 @@ Dovednosti:
 Nesedí to u "obecných" dovedností, jako jsou řemesla nebo znalost jazyků.
 - šlo by jim dát výjimku, ale tím zesložitím pravidla :\
 
+Kouzelník a Řeč kouzel:
+````````````````````````
+Nemusí ji znát, kouzla se může učit ústně přímo od mistra
+  (kouzelník se od gobliního šamana liší v principu jen tím, od koho se kouzla učí)
+- tj nemusím řešit, jestli ji dát kouzelníkovi automaticky, aby vůbec mohl kouzlit
+
 
 V pravidlech schválně nejsou dovednosti pro:
   boj, řešení šifer a hádanek, TODO
@@ -225,8 +190,9 @@ IDEA: Většině šelmám dát nejvyšší vlastnost 4, těm nejnebezpečnějš�
 Fyzička
 1: 
 2: krysa, dikobraz, jedovatí hadi
-3: jezdecká zvířata
-4: šelmy (včetně kočky a lasice), draví ptáci, škrtiči, krokodýl, varan
+3: jezdecká zvířata, malé opice
+4: šelmy (včetně kočky a lasice), draví ptáci, škrtiči, krokodýl, varan,
+   lidoopi
 5: 
 6: 
 7: 
@@ -235,8 +201,8 @@ Fyzička
 
 Finesa
 1: slon, nosorožec, býk, medvěd, krokodýl, varan, kůň
-2: pes, vlk
-3: krysa, dikobraz, kočka (tygr, lev, puma), lasice
+2: pes, vlk, liška, lidoopi
+3: krysa, dikobraz, kočka (tygr, lev, puma), lasice, malé opice
 4: jedovatí hadi, laň, gazela
 5: 
 6: 
@@ -1500,6 +1466,13 @@ TODO: K čemu je vlastně property "smysly"
 Bestiář:
 ---------
 
+IDEA: Prostředí a chování dát přece jen na začátek, protože
+  to tak mají hesla s více variantama potvory (obyčejná/obří apod.)
+- A dát to dokonce i před property block (ze stejnejch důvodů).
+
+TODO: V celém bestiáři přepočítat zranění a zapsat ho ve tvaru:
+  (zuby býložravců 1, za sílu –1, za velikost –1)
+
 TODO: Dvouhlavý pes -> Pes dvouhlavý
 
 TODO: U levharta zrušit podnadpisy. Puma je asi má taky.
@@ -1547,12 +1520,12 @@ Zvířata:
 +lední medvěd
 +netopýr (hejno netopýrů, netopýr obří, netopýr obyčejný)
 +gorila (obří, obyčejná)
-kočkodan
-orangutan (obří, obyčejný)
-pavián
-šimpanz
++kočkodan
++orangutan (obří, obyčejný)
++pavián
++šimpanz
 +lasice
-liška
++liška
 pes (lovecký, ovčácký)
 vlk (obyčejný, lítý)
 sokol
@@ -1566,7 +1539,10 @@ skot
 
 TODO:
 Kuna (velikost 2)
+- kašlat na ni
+Veverka (rychlost 2)
 
+TODO: Předělat všechny rychlosti na čísla.
 
 TODO: Používat buď "džungle" nebo "deštný prales" nebo "tropický prales"
  (jen jedno z toho).
@@ -1666,7 +1642,13 @@ Let
 medvěd: kolem 50 km/h
 kůň: kolem 70 km/h
 
-vlk - jako kůň
+vlk - jako kůň (ve skutečnosti jako medvěd)
+
+IDEA: Rozdělit to po 10 km/h,
+Člověk - 4
+Pes, vlk, liška, medvěd - 5
+Kůň - 7
+
 
 
 TODO: Sjednotit popis plížení a skrývání
