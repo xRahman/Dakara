@@ -1204,6 +1204,20 @@ SVG fonts:
 Sazba:
 ------
 
+TODO: Vybrat hezčí font pro nadpisy
+Tranaj pro
+Tolkien
+Tekton pro
+Tahoma
+Sylfaen
+Lithos Pro
+Javanese text
+Ebrima
++Constantia
++Comic Sans MS
+Charlemagne Std (jen bold a caps)
+
+
 ÚVAHA - co potřebuju:
 - možnost více bloků za sebou
     Property

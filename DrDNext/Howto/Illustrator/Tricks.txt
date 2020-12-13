@@ -1,0 +1,6 @@
+﻿Gradient inside a rectangle
+-----------------------------
+
+You can place a scaled copy of the rectangle in the middle with different color and make a blend (Object -> Blend -> Make)
+
+https://graphicdesign.stackexchange.com/questions/120738/rectangle-with-gradient-around-entirety-of-shape-illustrator

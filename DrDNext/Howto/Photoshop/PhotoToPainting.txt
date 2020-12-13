@@ -1,0 +1,17 @@
+• Duplicate layer 2 times
+• Invert colors
+• Apply "Minimum" fileter with "Radius 2.0", "Preserve: Roundness"
+• Set Blending mode to "Difference"
+• Merge with base image
+• Do not remove artifacts (they actually cancel with those from next step)
+• Blend with base image using "Hard Mix" mode with opacity 100% and Fill 75%
+• Now remove any remaining artifacts using Healing Brush
+• Now we need to aplly 'Color to Alpha' which doesn't exist in Photoshop.
+  So instead we do this:
+    • Right click the layer you want to add transparency to, pick the "Blending
+      Options..." (If unable to pick 'Blending options' ensure that the layer is
+      unlocked)
+    • Locate the scale under the "This layer:" that is under the "Blend if" box.
+    • Pres and hold 'Alt' and drag the left half of right 'knob' under
+      "This Layer" slider all the way to the left.
+
