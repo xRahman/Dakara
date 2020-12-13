@@ -4,7 +4,16 @@ IDEA: Žraločí zátoka (Shark Bay)
     (chapadlovitý pobřeží by bylo cool, ale zní to divně)
   - asi by to šlo i jako název modulu
 
-IDEA: Pojmenovávat modely geograficky, tj. podle oblastí (to ostatně dělá i Tross)
+IDEA: Pojmenovávat moduly geograficky, tj. podle oblastí (to ostatně dělá i Tross)
+  "Žraločí zátoka"
+
+IDEA: Delta velká řeky, která přitéká z náhorní plošiny mohutným vodopádem
+ - nad vodopádem je úplně jiná krajina než pod ním
+ - pod vodopádem je staré město
+ - v celém zlomu mezi náhorní plošinou a nížinou jsou vchody do jeskyní a tunelů.
+   Pod plošinou jsou podzemní řeky a tunely
+ - plošinu dát asi na sever, protože to na mapě bude vypadat nejlíp
+  (rozhodně ne na jih)
 
 IDEA: Floating island
 - jen jeden, to stačí.
