@@ -1630,6 +1630,9 @@ IDEA: Šplh nepsat do rychlosti, ale jako property (dovednost)
   o dovednosti a porovnávat to s tím, jak vylezou postavy
 
 
+Rychlost:
+`````````
+
 TODO: Sjednotit zápis rychlosti:
 
 "jako člověk" znamená ve všem jako člověk (i plavání a šplh)
@@ -1659,6 +1662,8 @@ Let
 Šplhání
   šplhá rychleji než člověk
 
+
+http://www.savci.upol.cz/teorie/rychlost.htm
 
 člověk: kolem 30 km/h (rekord je 37 km/h, ale sprinteři jsou mimoňové)
 medvěd: kolem 50 km/h
