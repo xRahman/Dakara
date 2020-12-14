@@ -1,3 +1,48 @@
+Úvahy o fomátování teček:
+
+[color=#9b4f00]Rychlost:[/color] •
+[color=#9b4f00]Rychlost:[/color] ••
+[color=#9b4f00]Rychlost:[/color] •••
+[color=#9b4f00]Rychlost:[/color] ••••
+[color=#9b4f00]Rychlost:[/color] •••••
+[color=#9b4f00]Rychlost:[/color] ••• •••
+[color=#9b4f00]Rychlost:[/color] •••• •••
+[color=#9b4f00]Rychlost:[/color] •••• ••••
+[color=#9b4f00]Rychlost:[/color] ••• ••• •••
+[color=#9b4f00]Rychlost:[/color] ••••• •••••
+[color=#9b4f00]Rychlost:[/color] ••••• ••••• •
+[color=#9b4f00]Rychlost:[/color] ••••• ••••• ••
+
+
+[color=#9b4f00]Rychlost:[/color] •
+[color=#9b4f00]Rychlost:[/color] ••
+[color=#9b4f00]Rychlost:[/color] •••
+[color=#9b4f00]Rychlost:[/color] ••••
+[color=#9b4f00]Rychlost:[/color] •••••
+[color=#9b4f00]Rychlost:[/color] ••••• •
+[color=#9b4f00]Rychlost:[/color] ••••• ••
+[color=#9b4f00]Rychlost:[/color] ••••• •••
+[color=#9b4f00]Rychlost:[/color] ••••• ••••
+[color=#9b4f00]Rychlost:[/color] ••••• •••••
+[color=#9b4f00]Rychlost:[/color] ••••• ••••• •
+[color=#9b4f00]Rychlost:[/color] ••••• ••••• ••
+
+[color=#9b4f00]Rychlost:[/color] •
+[color=#9b4f00]Rychlost:[/color] ••
+[color=#9b4f00]Rychlost:[/color] •••
+[color=#9b4f00]Rychlost:[/color] ••••
+[color=#9b4f00]Rychlost:[/color] ⬤
+[color=#9b4f00]Rychlost:[/color] ⬤ •
+[color=#9b4f00]Rychlost:[/color] ⬤ ••
+[color=#9b4f00]Rychlost:[/color] ⬤ •••
+[color=#9b4f00]Rychlost:[/color] ⬤ ••••
+[color=#9b4f00]Rychlost:[/color] ⬤ ⬤
+[color=#9b4f00]Rychlost:[/color] ⬤ ⬤ •
+[color=#9b4f00]Rychlost:[/color] ⬤ ⬤ ••
+
+TODO: Opice
+[done]
+
 TODO: Ještě jednou zvážit výpočet životů.
   Poté, co přestala měnit Fyzička s velikostí, mají malé šelmy nepřirozeně hodně
   životů.

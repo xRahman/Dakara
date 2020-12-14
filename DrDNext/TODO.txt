@@ -1,3 +1,5 @@
+
+
 Vliv velikosti:
 ----------------
 v3 (ideál, ale +1 síla pro krolly a barbary):
@@ -107,6 +109,10 @@ Omezení kouzel:
 
 Dovednosti:
 ------------
+
+IDEA: Zrušit kapitolu o používání dovedností a napsat to rovnou k příslušným
+  dovednostem. Nebo možná ne zrušit (někde budou muset bejt vysvětlený situační výhody),
+  ale aspoň částečně to tam přesunout
 
 ÚVAHA: Pořád se vracím k omezení stupně dovedností
 - u kouzelníka by se dalo říct, že potřebuje znalost Řeči kouzel na stejném
@@ -1480,6 +1486,8 @@ TODO: K čemu je vlastně property "smysly"
 Bestiář:
 ---------
 
+TODO: U plížení vodních tvorů psát asi spíš ve vodě •••, ne "ve vodě výhoda".
+
 IDEA: Prostředí a chování dát přece jen na začátek, protože
   to tak mají hesla s více variantama potvory (obyčejná/obří apod.)
 - A dát to dokonce i před property block (ze stejnejch důvodů).
@@ -1556,6 +1564,8 @@ Kuna (velikost 2)
 - kašlat na ni
 Veverka (rychlost 2)
 
+Lamie
+
 TODO: Předělat všechny rychlosti na čísla.
 
 TODO: Používat buď "džungle" nebo "deštný prales" nebo "tropický prales"
@@ -1607,8 +1617,6 @@ IDEA: Levelování nestvůr
 TODO: Spolu s tím zrušit "mladého draka", respektive možná
   navěsit počet schopností na to, jestli je mladý, běžný nebo starý
 
-
-TODO: Opice
 
 
 TODO: Napsat k lykantropům slabiny (co jim dělá stříbro, co nemůžou regenerovat,
