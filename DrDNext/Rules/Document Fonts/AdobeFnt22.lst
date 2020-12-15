@@ -119,3 +119,95 @@ NameArray:0,Mac,4,Cambria Bold Italic
 NameArray:0,Win,1,Cambria
 %EndFont
 
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Constantia
+FamilyName:Constantia
+StyleName:Regular
+FullName:Constantia
+MenuName:Constantia
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Brutus\Dakara\DrDNext\Rules\Document fonts\constan.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:448376
+FileModTime:1575709717
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Constantia
+NameArray:0,Win,1,Constantia
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Constantia-Bold
+FamilyName:Constantia
+StyleName:Bold
+FullName:Constantia Bold
+MenuName:Constantia
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Brutus\Dakara\DrDNext\Rules\Document fonts\constanb.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:451824
+FileModTime:1575709717
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Constantia Bold
+NameArray:0,Win,1,Constantia
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Constantia-Italic
+FamilyName:Constantia
+StyleName:Italic
+FullName:Constantia Italic
+MenuName:Constantia
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Brutus\Dakara\DrDNext\Rules\Document fonts\constani.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:448748
+FileModTime:1575709717
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Constantia Italic
+NameArray:0,Win,1,Constantia
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Constantia-BoldItalic
+FamilyName:Constantia
+StyleName:Bold Italic
+FullName:Constantia Bold Italic
+MenuName:Constantia
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Brutus\Dakara\DrDNext\Rules\Document fonts\constanz.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:455564
+FileModTime:1575709717
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Constantia Bold Italic
+NameArray:0,Win,1,Constantia
+%EndFont
+
