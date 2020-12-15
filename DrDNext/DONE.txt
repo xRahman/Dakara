@@ -1,3 +1,54 @@
+Rychlost:
+`````````
+
+TODO: Sjednotit zápis rychlosti
+  Vzor:
+    Rychlost: na zemi 5, ve vodě 1, ve vzduchu 8
+TODO: Napsat do úvodu k bestiáři, co ty hodnoty znamenaj (desítky km/h)
+
+"jako člověk" znamená ve všem jako člověk (i plavání a šplh)
+
+Běh
+  jako pomalá chůze
+  jako rychlá chůze /* Možná spíš nerozlišovat rychlou a pomalou, prostě chůze */
+  jako člověk
+  jako medvěd (u medvědů je: běhá rychleji než člověk ale pomaleji než kůň)
+  jako kůň
+
+
+Plavání
+  plave pomaleji než člověk
+  plave jako člověk
+  plave rychleji než člověk
+  plave rychlostí běhu
+  plave rychlostí koňského trysku
+
+Let
+  létá jako pomalá chůze
+  létá jako rychlá chůze
+  létá rychlostí běhu
+  létá rychlostí medvědího běhu
+  létá rychlostí koňského trysku
+
+Šplhání
+  šplhá rychleji než člověk
+
+
+http://www.savci.upol.cz/teorie/rychlost.htm
+
+člověk: kolem 30 km/h (rekord je 37 km/h, ale sprinteři jsou mimoňové)
+medvěd: kolem 50 km/h
+kůň: kolem 70 km/h
+
+vlk - jako kůň (ve skutečnosti jako medvěd)
+
+IDEA: Rozdělit to po 10 km/h,
+Člověk - 4
+Pes, vlk, liška, medvěd - 5
+Kůň - 7
+
+
+
 Úvahy o fomátování teček:
 
 [color=#9b4f00]Rychlost:[/color] •
