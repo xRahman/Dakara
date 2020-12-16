@@ -1,5 +1,3 @@
-
-
 Vliv velikosti:
 ----------------
 v3 (ideál, ale +1 síla pro krolly a barbary):
@@ -14,9 +12,34 @@ Puma (člověk) 6       10      4 (+0)       +0        +0        +0
 Tygr (kroll)  7       11      4 (+0)       +1        +0        +1
 Grizzly       8       13      5 (+1)       +1        +0        +1
 Kodiak        9       14      5 (+1)       +1        +1        +2
-krokodýl     10       15      5 (+1)       +2        +1        +3
+Krokodýl     10       15      5 (+1)       +2        +1        +3
 Mladý drak   11       17      6 (+2)       +2        +1        +3
 Dospělý drak 12       18      6 (+2)       +2        +2        +4
+
+
+Přirozené zbraně
+  Člověk (beze zbraně):				  0
+  zuby býložravců:						  1
+  zobák a spáry nedravých ptáků	1
+  paroží										    1
+  hadí zuby									    1
+  zobák a spáry dravých ptáků	  2
+  zuby a drápy šelem					  2
+  páráky a klektáky						  2
+  kopyta										    2
+  dikobrazí ostny							  2
+  rohy											    2
+  ocas ještěrů a krokodýlů		  2
+  škrcení hadím tělem					  3
+  nosorožcův roh, sloní kly		  3
+  zuby ještěrů a krokodýlů		  3
+  zuby šavlozubého tygra			  3
+
+Modifikátory
+  Improvizovaná zbraň:			   –1
+  Primitivní zbraň:					   –1
+  Pařáty nemrtvých					   +1 (jako boj dvěma zbraněmi)
+  Dvojručně:								   +1
 
 
 TODO: Asi nakonec zatabulkovat a očíslovat i rychlost, přirovnání pořád
@@ -208,7 +231,7 @@ Fyzička
 Finesa
 1: slon, nosorožec, býk, medvěd, krokodýl, varan, kůň
 2: pes, vlk, liška, lidoopi
-3: krysa, dikobraz, kočka (tygr, lev, puma), lasice, malé opice
+3: krysa, dikobraz, kočka (tygr, lev, puma), lasice, malé opice, draví ptáci
 4: jedovatí hadi, laň, gazela
 5: 
 6: 
@@ -1486,6 +1509,8 @@ TODO: K čemu je vlastně property "smysly"
 Bestiář:
 ---------
 
+TODO: Ke všem lítacím zvířatům přidat kolonku Létání.
+
 TODO: Výpočet zranění dát všude do poznámky
 
 TODO: Zvážit, jestli ke zvířatům psát schopnosti jako Nezdolná výdrž
@@ -1557,8 +1582,8 @@ Zvířata:
 +liška
 +pes (honicí, ovčácký, tažný, válečný)
 +vlk (obyčejný, lítý)
-sokol
-orel (obří, obyčejný)
++sokol
++orel (obří, obyčejný)
 pták noh
 hroch
 nosorožec
