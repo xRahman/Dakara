@@ -1486,6 +1486,10 @@ TODO: K čemu je vlastně property "smysly"
 Bestiář:
 ---------
 
+TODO: Zvážit, jestli ke zvířatům psát schopnosti jako Nezdolná výdrž
+- úplně se mi nelíbí potřeba všechno explicitně otagovat, v pohodě by to
+  stačilo napsat do textu.
+
 TODO: U plížení vodních tvorů psát asi spíš ve vodě •••, ne "ve vodě výhoda".
 
 IDEA: Prostředí a chování dát přece jen na začátek, protože
