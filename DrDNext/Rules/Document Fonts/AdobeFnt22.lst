@@ -3,6 +3,29 @@
 
 %BeginFont
 Handler:DirectoryHandler
+FontType:TrueType
+FontName:DarkArtsBB
+FamilyName:DarkArts BB
+StyleName:Regular
+FullName:DarkArts BB
+MenuName:DarkArts BB
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Brutus\Dakara\DrDNext\Rules\Document fonts\DarkartsBb-joM.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:37764
+FileModTime:1578064182
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,DarkArts BB
+NameArray:0,Win,1,DarkArts BB
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
 FontType:Type1
 FontName:EmojiOneColor
 FamilyName:EmojiOne
