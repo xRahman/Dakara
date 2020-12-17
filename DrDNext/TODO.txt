@@ -1,3 +1,8 @@
+TODO: Ošetřování zranění dá +stupeň na hod proti jedu.
+- pak už neléčí způsobené zranění
+
+TODO: Tajný dveře v 19
+
 Vliv velikosti:
 ----------------
 v3 (ideál, ale +1 síla pro krolly a barbary):
@@ -15,6 +20,12 @@ Kodiak        9       14      5 (+1)       +1        +1        +2
 Krokodýl     10       15      5 (+1)       +2        +1        +3
 Mladý drak   11       17      6 (+2)       +2        +1        +3
 Dospělý drak 12       18      6 (+2)       +2        +2        +4
+             13       18      6 (+2)       +3        +2        +5
+             14       18      7 (+3)       +3        +2        +5
+             15       18      7 (+3)       +3        +3        +6
+             16       18      7 (+3)       +4        +3        +7
+             17       18      8 (+4)       +4        +3        +7
+             18       18      8 (+4)       +4        +4        +8                                       
 
 
 Přirozené zbraně
@@ -1584,7 +1595,7 @@ Zvířata:
 +vlk (obyčejný, lítý)
 +sokol
 +orel (obří, obyčejný)
-pták noh
++pták noh
 hroch
 nosorožec
 slon
@@ -1597,6 +1608,11 @@ Kuna (velikost 2)
 Veverka (rychlost 2)
 
 Lamie
+
+TODO: "Stopy orla" je triviální informace, o trochu lepší je "stopy malého dravého ptáka".
+  PJ to snado může zpřesnit, že je to sokol.
+- možná by to šlo navázat na stupeň dovednosti stopování. Mistr přesně určí, co je to
+  za zvíře, pokročilý jen přibližně.
 
 TODO: Předělat všechny rychlosti na čísla.
 
@@ -1638,8 +1654,6 @@ TODO: Tepelná detekce hadů funguje jen na kontaktní vzdálenost
 TODO: Čím se léčí trvalé oslepnutí z kobřího jedu
 - léčivým lektvarem?
 - ono to tam je, tak to jen použít.
-
-
 
 IDEA: Levelování nestvůr
 - vlastnosti v bestiáři jsou pro průměrného jedince
