@@ -1,3 +1,5 @@
+TODO: Kapitoly: Boj, Průzkum podzemí, Putování
+
 TODO: Ošetřování zranění dá +stupeň na hod proti jedu.
 - pak už neléčí způsobené zranění
 
@@ -1596,9 +1598,9 @@ Zvířata:
 +sokol
 +orel (obří, obyčejný)
 +pták noh
-hroch
-nosorožec
-slon
++hroch
++nosorožec
++slon
 bizon
 skot
 
