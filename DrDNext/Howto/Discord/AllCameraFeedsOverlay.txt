@@ -1,0 +1,3 @@
+- ve voice channelu zmačknout "Pop Out" (vpravo dole)
+- kliknout na "Pin" (tím se vyrobí nový okno always on top)
+- minimalizovat, přepnout do druhýho discord okna, tam kliknout na text channel
