@@ -5,6 +5,28 @@ TODO: Ošetřování zranění dá +stupeň na hod proti jedu.
 
 TODO: Tajný dveře v 19
 
+Velikost
+--------
+0 – (pod 1kg) myš, krysa, potkan, lasice, křeček, veverka, netopýr
+1 – (1.5 kg) havran, sokol, kuna
+2 – (3 kg) kočka
+3 – (7 kg) liška, šakal, permoník, orel, sup
+4 – (15 kg) rys, bobr
+5 – (30 kg) kudůk, hobit, šimpanz, hyena, vlk
+6 – (60 kg) člověk, elf, barbar, trpaslík, velký pes, puma, levhart, orangutan
+7 – (125 kg) kroll, medvěd, jelen, tygr, lev, gorila
+8 – (250 kg) osel, mula, poník, grizzly, aligátor
+9 – (500 kg) kůň, los, zlobr (3 metry výšky)
+10 – (1 tuna) buvol, bizon, krokodýl
+11 – (2 tuny) hroch, nosorožec, mladý drak
+12 – (4 tuny) slon, dospělý drak, obr (6 metrů výšky)
+13 – (8 tun) kosatka, mamut
+14 – (16 tun) kraken
+15 – (32 tun) kerporkak
+16 – (64 tun) vorvaň
+17 – (128 tun) plejtvák obrovský
+18 – (256 tun) leviatan
+
 Vliv velikosti:
 ----------------
 v3 (ideál, ale +1 síla pro krolly a barbary):
@@ -1601,8 +1623,8 @@ Zvířata:
 +hroch
 +nosorožec
 +slon
-bizon
-skot
++bizon
++skot
 
 TODO:
 Kuna (velikost 2)
