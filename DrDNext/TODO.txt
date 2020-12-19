@@ -1,3 +1,51 @@
++aligátor
++anakonda (obří, obyčejná)
++bizon
+.dikobraz (obří, obyčejný)
+.dobytek
+.gorila (obří, obyčejná)
+.hroch
++hroznýš (obří, obyčejný)
+.chřestýš (obří, obyčejný)
+.kobra (obří, obyčejná)
+.kočka
+.kočkodan
+.krokodýl
+krysa (hejno krys, krysa obří, krysa obyčejná)
+kůň (jezdecký, nákladní, obří, válečný)
+lasice
+lev
+levhart
+liška
+mamba (obří, obyčejná)
+medvěd baribal
+medvěd brtník
+medvěd grizzly
+.medvěd kodiak
+medvěd lední
+mezek
+mula
+netopýr (hejno netopýrů, netopýr obří, netopýr obyčejný)
+.nosorožec
+orangutan (obří, obyčejný)
+.orel (obří, obyčejný)
+osel
+pavián
+.pes (honicí, ovčácký, tažný, válečný)
+poník
+.pták noh
+puma
+rys
+.slon
+.sokol
+šimpanz
+tygr
+varan (obří, obyčejný)
+velbloud
+.vlk (obyčejný, lítý)
+zmije (obří, obyčejná)
+
+
 TODO: Kapitoly: Boj, Průzkum podzemí, Putování
 
 TODO: Ošetřování zranění dá +stupeň na hod proti jedu.
@@ -253,7 +301,7 @@ IDEA: Většině šelmám dát nejvyšší vlastnost 4, těm nejnebezpečnějš�
 
 Fyzička
 1: 
-2: krysa, dikobraz, jedovatí hadi
+2: hlodavci (krysa, dikobraz), jedovatí hadi
 3: jezdecká zvířata, malé opice
 4: šelmy (včetně kočky a lasice), draví ptáci, škrtiči, krokodýl, varan,
    lidoopi
@@ -264,7 +312,7 @@ Fyzička
 9: 
 
 Finesa
-1: slon, nosorožec, býk, medvěd, krokodýl, varan, kůň
+1: slon, nosorožec, býk, medvěd, krokodýl, varan, kůň, škrtiči
 2: pes, vlk, liška, lidoopi
 3: krysa, dikobraz, kočka (tygr, lev, puma), lasice, malé opice, draví ptáci
 4: jedovatí hadi, laň, gazela
@@ -1540,9 +1588,11 @@ TODO: K čemu je vlastně property "smysly"
     skvělý sluch
     skvělý hmat celým tělem
 
-
 Bestiář:
 ---------
+
+TODO: Zvážit, jestli rozepisovat triviální popisy (Vzhled: Vlk.).
+- ve hře bych určitě řekl "vlk", nesnažil bych se ho popisovat jinak.
 
 TODO: Ke všem lítacím zvířatům přidat kolonku Létání.
 
@@ -1579,52 +1629,52 @@ TODO: Atributy asi přece jen dát do sekce "Boj" (za property Boj, před zbroj)
   Viz heslo Osel.
 
 Zvířata:
-+chřestýš (obří, obyčejný)
-+kobra (obří, obyčejná)
-+mamba (obří, obyčejná)
-+zmije (obří, obyčejná)
-+anakonda (obří, obyčejná)
-+hroznýš (obří, obyčejný)
-+dikobraz (obří, obyčejný)
-+krysa (hejno krys, krysa obří, krysa obyčejná)
-+varan (obří, obyčejný)
-+kočka
-+lev
-+levhart
-+puma
-+rys
-+tygr
-+kůň (jezdecký, nákladní, obří, válečný)
-+mezek
-+mula
-+osel
-+poník
-+velbloud
-+aligátor
-+krokodýl
-+baribal
-+brtník
-+grizzly
-+kodiak
-+lední medvěd
-+netopýr (hejno netopýrů, netopýr obří, netopýr obyčejný)
-+gorila (obří, obyčejná)
-+kočkodan
-+orangutan (obří, obyčejný)
-+pavián
-+šimpanz
-+lasice
-+liška
-+pes (honicí, ovčácký, tažný, válečný)
-+vlk (obyčejný, lítý)
-+sokol
-+orel (obří, obyčejný)
-+pták noh
-+hroch
-+nosorožec
-+slon
-+bizon
-+skot
+chřestýš (obří, obyčejný)
+kobra (obří, obyčejná)
+mamba (obří, obyčejná)
+zmije (obří, obyčejná)
+anakonda (obří, obyčejná)
+hroznýš (obří, obyčejný)
+dikobraz (obří, obyčejný)
+krysa (hejno krys, krysa obří, krysa obyčejná)
+varan (obří, obyčejný)
+kočka
+lev
+levhart
+puma
+rys
+tygr
+kůň (jezdecký, nákladní, obří, válečný)
+mezek
+mula
+osel
+poník
+velbloud
+aligátor
+krokodýl
+baribal
+brtník
+grizzly
+kodiak
+lední medvěd
+netopýr (hejno netopýrů, netopýr obří, netopýr obyčejný)
+gorila (obří, obyčejná)
+kočkodan
+orangutan (obří, obyčejný)
+pavián
+šimpanz
+lasice
+liška
+pes (honicí, ovčácký, tažný, válečný)
+vlk (obyčejný, lítý)
+sokol
+orel (obří, obyčejný)
+pták noh
+hroch
+nosorožec
+slon
+bizon
+dobytek
 
 TODO:
 Kuna (velikost 2)
