@@ -1,3 +1,11 @@
+TODO: Zrušit obří varianty jedovatých hadů
+[done]
+
+TODO: Zvážit, jestli rozepisovat triviální popisy (Vzhled: Vlk.).
+- ve hře bych určitě řekl "vlk", nesnažil bych se ho popisovat jinak.
+DONE: Ne, protože při hře je lepší použít jméno zvířete.
+[done]
+
 TODO: Zrušit sexuální dimorfismus
 - herně to nic nepřináší, jen to znepřehledňuje bestiář
 - PJ si to může snadno nasimulovat sám, když po tom bude toužit

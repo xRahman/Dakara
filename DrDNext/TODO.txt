@@ -1,13 +1,13 @@
 +aligátor
 +anakonda (obří, obyčejná)
 +bizon
-.dikobraz (obří, obyčejný)
-.dobytek
-.gorila (obří, obyčejná)
-.hroch
++dikobraz (obří, obyčejný)
++dobytek
++gorila (obří, obyčejná)
++hroch
 +hroznýš (obří, obyčejný)
-.chřestýš (obří, obyčejný)
-.kobra (obří, obyčejná)
++chřestýš
++kobra
 .kočka
 .kočkodan
 .krokodýl
@@ -17,7 +17,7 @@ lasice
 lev
 levhart
 liška
-mamba (obří, obyčejná)
++mamba
 medvěd baribal
 medvěd brtník
 medvěd grizzly
@@ -43,7 +43,7 @@ tygr
 varan (obří, obyčejný)
 velbloud
 .vlk (obyčejný, lítý)
-zmije (obří, obyčejná)
++zmije
 
 
 TODO: Kapitoly: Boj, Průzkum podzemí, Putování
@@ -109,6 +109,7 @@ Přirozené zbraně
   zobák a spáry dravých ptáků	  2
   zuby a drápy šelem					  2
   páráky a klektáky						  2
+  hroší zuby                    2
   kopyta										    2
   dikobrazí ostny							  2
   rohy											    2
@@ -124,6 +125,94 @@ Modifikátory
   Pařáty nemrtvých					   +1 (jako boj dvěma zbraněmi)
   Dvojručně:								   +1
 
+
+------------------------------------------------
+
+Ceník:
+-------
+
+TODO: Do ceníku zámky
+
+TODO: V ceníku by měly bejt všechny ceny, tj. i zbraní, magických předmětů,
+  surovin a podobně. Prostě když něco má v pravidlech uvedenou cenu, tak to
+  jde najít v ceníku.
+
+
+------------------------------------------------
+
+Vlastnosti nestvůr:
+-------------------
+
+Obecně:
+- Fyzička je pro tvory, kteří zápasej, rvou se
+- Finesa je pro tvory, kteří střílí (obří dikobraz), případně
+  poskakují kolem a občas něčím zaútočí (štíří ocas, ne nutně celej štír)
+=> Drtivá většina zvířat by měla mít Fyzičku větší než Finesu.
+
+Zvířata obecně by neměla mít vysokou Finesu, a to ani domácí kočka
+- důvod: Finesa se počítá do střelby a do úhybu. Zvířate nestřílejí, takže
+  u nich hraje roli hlavně úhyb. A zvířata prostě nejsou moc dobrá v uhýbání
+  před střelbou, je to pro ně nepřirozený koncept.
+- kočky obecně asi můžou mít větší Finesu než ostatní šelmy (určitě než medvěd).
+  Dejme tomu 3, víc by zvířata mít fakt neměla.
+
+Finesa 1: slon, nosorožec, býk
+Finesa 2: psovité šelmy
+Finesa 3: kočkovité šelmy, myši a krysy, veverky, lasičky
+
+- Ptáci naopak Finesou mít můžou, v uhýbání před střelbou jsou celkem dobří.
+
+Lehkonozí býložravci (laň, gazela)
+- Finesa 4
+
+Hlodavci
+- co hlodavci? Ti se asi taky spíš perou, ale nejsou v tom moc dobří. Zato
+  jsou celkem dobří v uhýbání.
+- měli by mít o 1 nižší Nebezpečnost než šelmy, které je loví.
+  Tj. pokud bude mít kočka Fyzičku 4, krysa by měla mít Finesu 3
+- nízká Fyzička, vysoká Finesa
+
+Hadi
+- škrtiči vysoká Fyzička, ostatní vysoká Finesa
+Chřestýšovi dám asi Finesu 5, viz:
+  https://safarisafricana.com/most-dangerous-animals-africa/
+- a možná i mambě
+
+Šelmy
+- Šelmy by měly mít vyšší Nebezpečnost než jejich kořist
+
+IDEA: Většině šelmám dát nejvyšší vlastnost 4, těm nejnebezpečnějším 5.
+- pro čerstvou postavu bude medvěd nad její síly,
+  pro pokročilou bude relativně srovnatelnej protivník
+    (bude mít víc životů, ale pokud bude mít ta postava zbroj, tak ho dá)
+  mistr zvládne porazit medvěda jen s dýkou a beze zbroje
+    (nejspíš těsně, ale zvládne)
+- u medvědů přece jen zvažuju Fyzičku 5.
+
+Fyzička
+1: 
+2: hlodavci (krysa, dikobraz), jedovatí hadi
+3: jezdecká zvířata, malé opice
+4: šelmy (včetně kočky a lasice), draví ptáci, škrtiči, krokodýl, varan,
+   lidoopi
+5: 
+6: 
+7: 
+8: 
+9: 
+
+Finesa
+1: slon, nosorožec, býk, medvěd, krokodýl, varan, kůň, škrtiči
+2: pes, vlk, liška, lidoopi
+3: krysa, dikobraz, kočka (tygr, lev, puma), lasice, malé opice, draví ptáci
+4: pomalejší jedovatí hadi (zmije, kobra), laň, gazela
+5: mangusta, rychlejší jedovatí hadi (chřestýš, mamba)
+6: 
+7: 
+8: 
+9: 
+
+-------------------
 
 TODO: Asi nakonec zatabulkovat a očíslovat i rychlost, přirovnání pořád
   dost pokulhávaj
@@ -196,6 +285,28 @@ TODO: Zařadit
 
 ------------------------------------------------
 
+Alchymista:
+-----------
+
+TODO: "kvintesenci" přejmenovat na "kouzelnou esenci"
+
+TODO: Zamyslet se nad tím, z jakých orgánů alchymista těží kvintesenci,
+  jestli by to šlo sjednotit a jestli to má nějaký zajímavý dopady
+- u huňáčů jsou to játra
+- u gargoyly je to kamenné srdce, protože to zní dobře
+- pokud by to u lykantropů a jinejch tvaroměnců byl třeba mozek, mohl by to
+  bejt důvod, proč rozbití nebo useknutí hlavy nezregenerujou.
+
+------------------------------------------------
+
+Jedy:
+------
+
+TODO: Zvážit, že by měly jedy nižší sílu a vyšší zranění, aby prakticky automaticky
+  nezískávaly tři úspěchy
+
+------------------------------------------------
+
 Kouzla:
 ========
 
@@ -251,76 +362,6 @@ IDEA: Skok by mohla bejt samostatná dovednost (nebo atletika?)
 TODO: Ke stopování napsat, že to není jen o šlápotách, ale třeba i o trusu,
   vypadané srsti a podobně.
 
-------------------------------------------------
-
-Vlastnosti nestvůr:
--------------------
-
-Obecně:
-- Fyzička je pro tvory, kteří zápasej, rvou se
-- Finesa je pro tvory, kteří střílí (obří dikobraz), případně
-  poskakují kolem a občas něčím zaútočí (štíří ocas, ne nutně celej štír)
-=> Drtivá většina zvířat by měla mít Fyzičku větší než Finesu.
-
-Zvířata obecně by neměla mít vysokou Finesu, a to ani domácí kočka
-- důvod: Finesa se počítá do střelby a do úhybu. Zvířate nestřílejí, takže
-  u nich hraje roli hlavně úhyb. A zvířata prostě nejsou moc dobrá v uhýbání
-  před střelbou, je to pro ně nepřirozený koncept.
-- kočky obecně asi můžou mít větší Finesu než ostatní šelmy (určitě než medvěd).
-  Dejme tomu 3, víc by zvířata mít fakt neměla.
-
-Finesa 1: slon, nosorožec, býk
-Finesa 2: psovité šelmy
-Finesa 3: kočkovité šelmy, myši a krysy, veverky, lasičky
-
-- Ptáci naopak Finesou mít můžou, v uhýbání před střelbou jsou celkem dobří.
-
-Lehkonozí býložravci (laň, gazela)
-- Finesa 4
-
-Hlodavci
-- co hlodavci? Ti se asi taky spíš perou, ale nejsou v tom moc dobří. Zato
-  jsou celkem dobří v uhýbání.
-- měli by mít o 1 nižší Nebezpečnost než šelmy, které je loví.
-  Tj. pokud bude mít kočka Fyzičku 4, krysa by měla mít Finesu 3
-- nízká Fyzička, vysoká Finesa
-
-Hadi
-- škrtiči vysoká Fyzička, ostatní vysoká Finesa
-
-Šelmy
-- Šelmy by měly mít vyšší Nebezpečnost než jejich kořist
-
-IDEA: Většině šelmám dát nejvyšší vlastnost 4, těm nejnebezpečnějším 5.
-- pro čerstvou postavu bude medvěd nad její síly,
-  pro pokročilou bude relativně srovnatelnej protivník
-    (bude mít víc životů, ale pokud bude mít ta postava zbroj, tak ho dá)
-  mistr zvládne porazit medvěda jen s dýkou a beze zbroje
-    (nejspíš těsně, ale zvládne)
-- u medvědů přece jen zvažuju Fyzičku 5.
-
-Fyzička
-1: 
-2: hlodavci (krysa, dikobraz), jedovatí hadi
-3: jezdecká zvířata, malé opice
-4: šelmy (včetně kočky a lasice), draví ptáci, škrtiči, krokodýl, varan,
-   lidoopi
-5: 
-6: 
-7: 
-8: 
-9: 
-
-Finesa
-1: slon, nosorožec, býk, medvěd, krokodýl, varan, kůň, škrtiči
-2: pes, vlk, liška, lidoopi
-3: krysa, dikobraz, kočka (tygr, lev, puma), lasice, malé opice, draví ptáci
-4: jedovatí hadi, laň, gazela
-5: 
-6: 
-7: 
-8: 
-9: 
 
 ------------------------------------------------
 
@@ -421,12 +462,6 @@ TODO: Lykantropové jsou spojeni s mocí Měsíce. Za úplňku se mění, i kdy�
   nechtějí. Nemohou regenerovat zranění stříbrem, protože stříbro je také
   spřízněné s Měsícem (měsíční kov).
 
-TODO: Zamyslet se nad tím, z jakých orgánů alchymista těží kvintesenci,
-  jestli by to šlo sjednotit a jestli to má nějaký zajímavý dopady
-- u huňáčů jsou to játra
-- u gargoyly je to kamenné srdce, protože to zní dobře
-- pokud by to u lykantropů a jinejch tvaroměnců byl třeba mozek, mohl by to
-  bejt důvod, proč rozbití nebo useknutí hlavy nezregenerujou.
 
 TODO: U všech kouzlících potvor uvést:
   Všechna si musí připravovat stejně jako kouzelník.
@@ -476,8 +511,6 @@ IDEA: Infravidění přejmenovat na "vidění tepla"
 - ultrasluch přejmenovat na "vidění zvukem"?
   Nebo "echolokaci", ale to zní stejně blbě (i když, možná přece jen o fous líp).
 
-
-TODO: Do ceníku zámky
 
 TODO: Dát do pravidel magické předměty (jsou v jinym souboru)
 
@@ -1591,8 +1624,9 @@ TODO: K čemu je vlastně property "smysly"
 Bestiář:
 ---------
 
-TODO: Zvážit, jestli rozepisovat triviální popisy (Vzhled: Vlk.).
-- ve hře bych určitě řekl "vlk", nesnažil bych se ho popisovat jinak.
+TODO: Počet dávek jedu psát k jedu, ne k útoku
+  (protože jed může jít aplikovat různými útoky)
+Hmm, tak ne, nakonec budu jed psát do property
 
 TODO: Ke všem lítacím zvířatům přidat kolonku Létání.
 
@@ -1752,6 +1786,9 @@ IDEA: Šplh nepsat do rychlosti, ale jako property (dovednost)
 
 Rychlost:
 `````````
+
+Rychlost hadů:
+  https://safarisafricana.com/fastest-snakes-in-the-world/
 
 TODO: Sjednotit zápis rychlosti
   Vzor:
