@@ -11,7 +11,7 @@
 .kočka
 .kočkodan
 .krokodýl
-krysa (hejno krys, krysa obří, krysa obyčejná)
+.krysa (hejno krys, krysa obří, krysa obyčejná)
 kůň (jezdecký, nákladní, obří, válečný)
 lasice
 lev
