@@ -14,9 +14,9 @@
 +krokodýl
 +krysa (hejno krys, krysa obří, krysa obyčejná)
 +kůň (jezdecký, nákladní, obří, válečný)
-.lasice
-lev
-levhart
++lasice
++lev
++levhart
 liška
 +mamba
 medvěd baribal
