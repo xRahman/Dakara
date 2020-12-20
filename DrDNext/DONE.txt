@@ -1,3 +1,16 @@
+TODO: Oživlý strom -> Strom oživlý
+[done]
+TODO: Dvouhlavý pes -> Pes dvouhlavý
+[done]
+
+TODO: Zkontrolovat, že mají všichni vodní tvorové schopnost "Vodní tvor".
+[done]
+
+TODO: Počet dávek jedu psát k jedu, ne k útoku
+  (protože jed může jít aplikovat různými útoky)
+DONE: Hmm, tak ne, nakonec budu jed psát do property
+[done]
+
 TODO: Zrušit obří varianty jedovatých hadů
 [done]
 

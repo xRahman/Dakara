@@ -8,12 +8,13 @@
 +hroznýš (obří, obyčejný)
 +chřestýš
 +kobra
-.kočka
-.kočkodan
-.krokodýl
-.krysa (hejno krys, krysa obří, krysa obyčejná)
-kůň (jezdecký, nákladní, obří, válečný)
-lasice
++kanec
++kočka
++kočkodan
++krokodýl
++krysa (hejno krys, krysa obří, krysa obyčejná)
++kůň (jezdecký, nákladní, obří, válečný)
+.lasice
 lev
 levhart
 liška
@@ -126,20 +127,6 @@ Modifikátory
   Dvojručně:								   +1
 
 
-------------------------------------------------
-
-Ceník:
--------
-
-TODO: Do ceníku zámky
-
-TODO: V ceníku by měly bejt všechny ceny, tj. i zbraní, magických předmětů,
-  surovin a podobně. Prostě když něco má v pravidlech uvedenou cenu, tak to
-  jde najít v ceníku.
-
-
-------------------------------------------------
-
 Vlastnosti nestvůr:
 -------------------
 
@@ -192,7 +179,7 @@ IDEA: Většině šelmám dát nejvyšší vlastnost 4, těm nejnebezpečnějš�
 Fyzička
 1: 
 2: hlodavci (krysa, dikobraz), jedovatí hadi
-3: jezdecká zvířata, malé opice
+3: jezdecká zvířata, malé opice, kanec
 4: šelmy (včetně kočky a lasice), draví ptáci, škrtiči, krokodýl, varan,
    lidoopi
 5: 
@@ -202,17 +189,29 @@ Fyzička
 9: 
 
 Finesa
-1: slon, nosorožec, býk, medvěd, krokodýl, varan, kůň, škrtiči
+1: slon, nosorožec, býk, kanec, medvěd, krokodýl, varan, kůň, škrtiči
 2: pes, vlk, liška, lidoopi
-3: krysa, dikobraz, kočka (tygr, lev, puma), lasice, malé opice, draví ptáci
-4: pomalejší jedovatí hadi (zmije, kobra), laň, gazela
+3: krysa, dikobraz, kočka (tygr, lev, puma), malé opice, draví ptáci
+4: pomalejší jedovatí hadi (zmije, kobra), laň, gazela, lasice
 5: mangusta, rychlejší jedovatí hadi (chřestýš, mamba)
 6: 
 7: 
 8: 
 9: 
 
--------------------
+
+------------------------------------------------
+
+Ceník:
+-------
+
+TODO: Do ceníku zámky
+
+TODO: V ceníku by měly bejt všechny ceny, tj. i zbraní, magických předmětů,
+  surovin a podobně. Prostě když něco má v pravidlech uvedenou cenu, tak to
+  jde najít v ceníku.
+
+------------------------------------------------
 
 TODO: Asi nakonec zatabulkovat a očíslovat i rychlost, přirovnání pořád
   dost pokulhávaj
@@ -1624,10 +1623,6 @@ TODO: K čemu je vlastně property "smysly"
 Bestiář:
 ---------
 
-TODO: Počet dávek jedu psát k jedu, ne k útoku
-  (protože jed může jít aplikovat různými útoky)
-Hmm, tak ne, nakonec budu jed psát do property
-
 TODO: Ke všem lítacím zvířatům přidat kolonku Létání.
 
 TODO: Výpočet zranění dát všude do poznámky
@@ -1646,7 +1641,6 @@ IDEA: Prostředí a chování dát přece jen na začátek, protože
 TODO: V celém bestiáři přepočítat zranění a zapsat ho ve tvaru:
   (zuby býložravců 1, za sílu –1, za velikost –1)
 
-TODO: Dvouhlavý pes -> Pes dvouhlavý
 
 TODO: U levharta zrušit podnadpisy. Puma je asi má taky.
 
