@@ -24,9 +24,9 @@
 +medvěd grizzly
 +medvěd kodiak
 +medvěd lední
-.mezek
-.mula
-netopýr (netopýr obří, netopýr obyčejný)
++mezek
++mula
++netopýr (netopýr obří, netopýr obyčejný)
 .nosorožec
 orangutan (obří, obyčejný)
 .orel (obří, obyčejný)
@@ -178,7 +178,7 @@ IDEA: Většině šelmám dát nejvyšší vlastnost 4, těm nejnebezpečnějš�
 
 Fyzička
 1: 
-2: hlodavci (krysa, dikobraz), jedovatí hadi
+2: hlodavci (krysa, dikobraz), jedovatí hadi, netopýr
 3: jezdecká zvířata, malé opice, kanec
 4: šelmy (včetně kočky a lasice), draví ptáci, škrtiči, krokodýl, varan,
    lidoopi
@@ -191,7 +191,7 @@ Fyzička
 Finesa
 1: slon, nosorožec, býk, kanec, medvěd, krokodýl, varan, kůň, škrtiči
 2: pes, vlk, liška, lidoopi
-3: krysa, dikobraz, kočka (tygr, lev, puma), malé opice, draví ptáci
+3: krysa, dikobraz, kočka (tygr, lev, puma), malé opice, draví ptáci, netopýr
 4: pomalejší jedovatí hadi (zmije, kobra), laň, gazela, lasice
 5: mangusta, rychlejší jedovatí hadi (chřestýš, mamba)
 6: 
