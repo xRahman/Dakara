@@ -17,16 +17,16 @@
 +lasice
 +lev
 +levhart
-liška
++liška
 +mamba
-medvěd baribal
-medvěd brtník
-medvěd grizzly
-.medvěd kodiak
-medvěd lední
-mezek
-mula
-netopýr (hejno netopýrů, netopýr obří, netopýr obyčejný)
++medvěd baribal
++medvěd brtník
++medvěd grizzly
++medvěd kodiak
++medvěd lední
+.mezek
+.mula
+netopýr (netopýr obří, netopýr obyčejný)
 .nosorožec
 orangutan (obří, obyčejný)
 .orel (obří, obyčejný)
