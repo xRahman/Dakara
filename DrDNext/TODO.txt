@@ -27,22 +27,22 @@
 +mezek
 +mula
 +netopýr (netopýr obří, netopýr obyčejný)
-.nosorožec
-orangutan (obří, obyčejný)
-.orel (obří, obyčejný)
-osel
-pavián
++nosorožec
++orangutan (obří, obyčejný)
++orel (obří, obyčejný)
++osel
+.pavián
 .pes (honicí, ovčácký, tažný, válečný)
-poník
+.poník
 .pták noh
-puma
-rys
+.puma
+.rys
 .slon
 .sokol
-šimpanz
-tygr
-varan (obří, obyčejný)
-velbloud
+.šimpanz
+.tygr
+.varan (obří, obyčejný)
+.velbloud
 .vlk (obyčejný, lítý)
 +zmije
 
