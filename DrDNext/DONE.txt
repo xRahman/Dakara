@@ -1,3 +1,18 @@
+(hlodavec 2, za velikost –)
+(jedovatý had 2, za velikost –)
+(netopýr 2, za velikost –)
+(jezdecké zvíře 3, za velikost –)
+(tur 3, za velikost +1)
+(opice 3, za velikost –)
+(prase 3, za velikost –)
+(šelma 4, za velikost –)
+(dravý pták 4, za velikost –)
+(škrtič 4, za velikost +1)
+(krokodýl 4, za velikost +1)
+(ještěr 4, za velikost –)
+(lidoop 4, za velikost –)
+
+
 TODO: Oživlý strom -> Strom oživlý
 [done]
 TODO: Dvouhlavý pes -> Pes dvouhlavý

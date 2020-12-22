@@ -182,7 +182,7 @@ IDEA: Většině šelmám dát nejvyšší vlastnost 4, těm nejnebezpečnějš�
 Fyzička
 1: 
 2: hlodavci (krysa, dikobraz), jedovatí hadi, netopýr
-3: jezdecká zvířata, malé opice, kanec
+3: jezdecká zvířata, tuři, malé opice, kanec
 4: šelmy (včetně kočky a lasice), draví ptáci, škrtiči, krokodýl, varan,
    lidoopi
 5: 
@@ -1692,10 +1692,10 @@ kodiak
 lední medvěd
 netopýr (hejno netopýrů, netopýr obří, netopýr obyčejný)
 gorila (obří, obyčejná)
-kočkodan
 orangutan (obří, obyčejný)
-pavián
 šimpanz
+kočkodan
+pavián
 lasice
 liška
 pes (honicí, ovčácký, tažný, válečný)
