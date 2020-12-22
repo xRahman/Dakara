@@ -31,17 +31,20 @@
 +orangutan (obří, obyčejný)
 +orel (obří, obyčejný)
 +osel
-.pavián
-.pes (honicí, ovčácký, tažný, válečný)
-.poník
-.pták noh
-.puma
-.rys
-.slon
-.sokol
-.šimpanz
-.tygr
-.varan (obří, obyčejný)
++pavián
++pes honicí
++pes ovčácký
++pes tažný
++pes válečný
++poník
++pták noh
++puma
++rys
++slon
++sokol
++šimpanz
++tygr
++varan (obří, obyčejný)
 .velbloud
 .vlk (obyčejný, lítý)
 +zmije
@@ -63,8 +66,8 @@ Velikost
 4 – (15 kg) rys, bobr
 5 – (30 kg) kudůk, hobit, šimpanz, hyena, vlk
 6 – (60 kg) člověk, elf, barbar, trpaslík, velký pes, puma, levhart, orangutan
-7 – (125 kg) kroll, medvěd, jelen, tygr, lev, gorila
-8 – (250 kg) osel, mula, poník, grizzly, aligátor
+7 – (125 kg) kroll, medvěd, jelen, lev, gorila
+8 – (250 kg) osel, mula, poník, tygr, grizzly, aligátor
 9 – (500 kg) kůň, los, zlobr (3 metry výšky)
 10 – (1 tuna) buvol, bizon, krokodýl
 11 – (2 tuny) hroch, nosorožec, mladý drak
@@ -87,7 +90,7 @@ Liška         3        6      3 (-1)       -1        -1        -2
 Rys           4        7      3 (-1)       +0        -1        -1
 Vlk  (hobit)  5        9      4 (+0)       +0        -1        -1
 Puma (člověk) 6       10      4 (+0)       +0        +0        +0
-Tygr (kroll)  7       11      4 (+0)       +1        +0        +1
+Lev  (kroll)  7       11      4 (+0)       +1        +0        +1
 Grizzly       8       13      5 (+1)       +1        +0        +1
 Kodiak        9       14      5 (+1)       +1        +1        +2
 Krokodýl     10       15      5 (+1)       +2        +1        +3
@@ -1622,6 +1625,8 @@ TODO: K čemu je vlastně property "smysly"
 
 Bestiář:
 ---------
+
+IDEA: Do poznámky k Fyzičce psát, jak je spočítaná.
 
 TODO: Ke všem lítacím zvířatům přidat kolonku Létání.
 
