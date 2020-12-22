@@ -1,3 +1,7 @@
+TODO: Začneme tím, co na ostrově žije (zvířata)
+- Měl bys mít představu, jaká zvířata mohou postavy potkat, případně najít jejich stopy
+- následně je můžeš dát do tabulky náhodných setkání. Hráči díky tomu budou mít pocit, že je svět živý
+
 IDEA: 1 dungeon a kus okolí. Zázemí v nedalekém městě (tak nakonec spíš na lodi)
 
 Okolí rozdělit na 2 oblasti (2 tabulky s encountery)

@@ -1,3 +1,177 @@
++Aligátor
++Anakonda
+Bazilišek
++Bizon
+Bludička
+.Brouk ohnivec
+Cizí postavy
+.Červ obří
+Démoni hmotní
+Démoni nehmotní
+Diblík
++Dikobraz
++Dobytek
+Drak
+.Dryáda
+Duch
+Fext
+Gargoyla
+Ghůl
+Goblin
++Gorila
+Gryf
+Had mořský, obří
+Harpyje
++Hroch
++Hroznýš
+Hmyz
+Hnus plíživý
+Huňáč modrý
+Huňáč zelený
+Hydra
++Chřestýš
+.Jednorožec
+.Kancodlak
++Kanec
+Keř dravý
++Kobra
++Kočka
++Kočkodan
+Koník mořský, obří
+Kostěj nesmrtelný
+Kostlivec
+Krab obří
++Krokodýl
+Kraken
++Krysa
+.Krysodlak
+Křižák obří
++Kůň
++Lasice
++Lev
++Levhart
++Liška
+Lykantropové
++Mamba černá
+Mantikora
+Medůza
++Medvěd baribal
++Medvěd brtník
++Medvěd grizzly
++Medvěd kodiak
++Medvěd lední
+.Medvědodlak
++Mezek
+Mořští tvorové
+Mravenec obří
+Moucha zlodějka
++Mula
+Mumie
+Nemrtví
++Netopýr
+Netvor bahenní
+Neviděný
+Nezmar
++Nosorožec
+Obr
+Ogloj-chorchoj
++Orangutan
++Orel
++Osel
+Panna mořská
++Pavián
+Pavouci
+Pavoučnatka
+Pán zkázy
+Pegas
+Permoník
+Pes dvouhlavý
++Pes honicí
++Pes ovčácký
++Pes tažný
++Pes válečný
++Ploštice obří
+Poletucha
++Poník
+Přízrak
++Pták Noh
++Puma
+Roháč obří
++Rys
+Řasnatka
+Sarkon
+Skřet
+Skřetí rasy
+Sklípkan obří
+Skvrna barevná
+Slizovec
++Slon
+Socha oživlá
++Sokol
+Spektra
+Strom oživlý
++Šimpanz
+Štír obří
++Tygr
+.Tygrodlak
+Upír
++Varan
+Vážka obří
++Velbloud
++Vlk
++Vlk lítý
+.Vlkodlak
+Všežrout odporný
+Vzluha
+Wyverna
+Zlobr jeskynní
+Zlobr skalní
++Zmije
+Zombie
+Zvířata
+Žralok
+
+
+.Brouk ohnivec
+.Červ obří
+Mravenec obří
+Roháč obří
+Štír obří
+Vážka obří
+
+Křižák obří
+Pavoučnatka?
+
+Had mořský, obří
+Koník mořský, obří
+Krab obří
+Kraken
+Žralok
+
+
+Huňáč modrý
+Huňáč zelený
+
+Keř dravý
+
+Strom oživlý
+
+Bazilišek
+Ogloj-chorchoj
+
+Bludička
+
+Moucha zlodějka?
+Netvor bahenní?
+Panna mořská?
+Pes dvouhlavý?
+Řasnatka?
+Všežrout odporný?
+
+
+
+
+
 +aligátor
 +anakonda (obří, obyčejná)
 +bizon
