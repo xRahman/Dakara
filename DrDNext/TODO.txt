@@ -45,8 +45,8 @@
 +šimpanz
 +tygr
 +varan (obří, obyčejný)
-.velbloud
-.vlk (obyčejný, lítý)
++velbloud
++vlk (obyčejný, lítý)
 +zmije
 
 
