@@ -63,7 +63,7 @@ Medůza
 .Medvědodlak
 +Mezek
 Mořští tvorové
-Mravenec obří
+.Mravenec obří
 Moucha zlodějka
 +Mula
 Mumie
@@ -96,7 +96,7 @@ Poletucha
 Přízrak
 +Pták Noh
 +Puma
-Roháč obří
+.Roháč obří
 +Rys
 Řasnatka
 Sarkon
@@ -111,12 +111,12 @@ Socha oživlá
 Spektra
 Strom oživlý
 +Šimpanz
-Štír obří
+.Štír obří
 +Tygr
 .Tygrodlak
 Upír
 +Varan
-Vážka obří
+.Vážka obří
 +Velbloud
 +Vlk
 +Vlk lítý
@@ -134,13 +134,14 @@ Zvířata
 
 .Brouk ohnivec
 .Červ obří
-Mravenec obří
-Roháč obří
-Štír obří
-Vážka obří
+.Mravenec obří
+.Roháč obří
+.Štír obří
+.Vážka obří
 
 Křižák obří
-Pavoučnatka?
+Sklípkan obří
+Pavoučnatka? (wolf spider)
 
 Had mořský, obří
 Koník mořský, obří
@@ -480,6 +481,16 @@ Jedy:
 
 TODO: Zvážit, že by měly jedy nižší sílu a vyšší zranění, aby prakticky automaticky
   nezískávaly tři úspěchy
+
+------------------------------------------------
+
+Šamani
+-------
+
+V bestiáři zmiňuju, že šamani mohou používat zvířata jako zvědy stejně jako hraničář.
+- chci to tak opravdu?
+- nejspíš by to znamenalo, že šaman bude něco mezi kouzelníkem a hraničářem
+
 
 ------------------------------------------------
 

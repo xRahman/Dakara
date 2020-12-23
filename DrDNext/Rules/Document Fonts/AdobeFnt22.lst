@@ -26,6 +26,29 @@ NameArray:0,Win,1,DarkArts BB
 
 %BeginFont
 Handler:DirectoryHandler
+FontType:TrueType
+FontName:EmojiOneColorSVGinOT
+FamilyName:EmojiOne Color
+StyleName:Regular
+FullName:EmojiOne Color SVGinOT
+MenuName:EmojiOne Color
+StyleBits:0
+WritingScript:Emoji
+OutlineFileName:C:\Brutus\Dakara\DrDNext\Rules\Document fonts\EmojiOneColor-SVGinOT.ttf
+DataFormat:sfntData
+hasSVG:yes
+VariableFontType:NonVariableFont
+FileLength:6193636
+FileModTime:1593029466
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,EmojiOne Color SVGinOT
+NameArray:0,Win,1,EmojiOne Color
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
 FontType:Type1
 FontName:EmojiOneColor
 FamilyName:EmojiOne
