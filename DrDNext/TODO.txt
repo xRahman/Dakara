@@ -3,9 +3,9 @@
 Bazilišek
 +Bizon
 Bludička
-.Brouk ohnivec
++Brouk ohnivec
 Cizí postavy
-.Červ obří
++Červ obří
 Démoni hmotní
 Démoni nehmotní
 Diblík
@@ -63,7 +63,7 @@ Medůza
 .Medvědodlak
 +Mezek
 Mořští tvorové
-.Mravenec obří
++Mravenec obří
 Moucha zlodějka
 +Mula
 Mumie
@@ -96,7 +96,7 @@ Poletucha
 Přízrak
 +Pták Noh
 +Puma
-.Roháč obří
++Roháč obří
 +Rys
 Řasnatka
 Sarkon
@@ -111,12 +111,12 @@ Socha oživlá
 Spektra
 Strom oživlý
 +Šimpanz
-.Štír obří
++Štír obří
 +Tygr
 .Tygrodlak
 Upír
 +Varan
-.Vážka obří
++Vážka obří
 +Velbloud
 +Vlk
 +Vlk lítý
@@ -132,12 +132,13 @@ Zvířata
 Žralok
 
 
-.Brouk ohnivec
-.Červ obří
-.Mravenec obří
-.Roháč obří
-.Štír obří
-.Vážka obří
++Brouk ohnivec
++Červ obří
++Mravenec obří
++Ploštice obří
++Roháč obří
++Štír obří
++Vážka obří
 
 Křižák obří
 Sklípkan obří
@@ -293,6 +294,7 @@ Přirozené zbraně
   dikobrazí ostny							  2
   rohy											    2
   ocas ještěrů a krokodýlů		  2
+  hmyzí kusadla							    2
   škrcení hadím tělem					  3
   nosorožcův roh, sloní kly		  3
   zuby ještěrů a krokodýlů		  3
@@ -357,7 +359,7 @@ IDEA: Většině šelmám dát nejvyšší vlastnost 4, těm nejnebezpečnějš�
 Fyzička
 1: 
 2: hlodavci (krysa, dikobraz), jedovatí hadi, netopýr
-3: jezdecká zvířata, tuři, malé opice, kanec
+3: jezdecká zvířata, tuři, malé opice, kanec, brouk, červ
 4: šelmy (včetně kočky a lasice), draví ptáci, škrtiči, krokodýl, varan,
    lidoopi
 5: 
@@ -367,8 +369,8 @@ Fyzička
 9: 
 
 Finesa
-1: slon, nosorožec, býk, kanec, medvěd, krokodýl, varan, kůň, škrtiči
-2: pes, vlk, liška, lidoopi
+1: slon, nosorožec, býk, kanec, medvěd, krokodýl, varan, kůň, škrtiči, červ
+2: pes, vlk, liška, lidoopi, brouk
 3: krysa, dikobraz, kočka (tygr, lev, puma), malé opice, draví ptáci, netopýr
 4: pomalejší jedovatí hadi (zmije, kobra), laň, gazela, lasice
 5: mangusta, rychlejší jedovatí hadi (chřestýš, mamba)
@@ -377,6 +379,11 @@ Finesa
 8: 
 9: 
 
+
+------------------------------------------------
+
+TODO: Zvětšit počet základních úrovní
+(nejspíš 1-4 základní, 5-9 pokročilé, 10+ mistrovské?
 
 ------------------------------------------------
 
@@ -575,6 +582,9 @@ TODO: Pokud povolím záporné hodnoty zranění, tak je povolit i u výbušnéh
 
 Tross:
 -------
+
+TODO: Chaotitový orb by měl bejt zelenej (obrázek)
+- karta "Chaotitový orb" by měla mít fialovej rámeček
 
 TODO: K poustevníkovi připsat, že občas vídá gobliní jezdce na vlcích,
  a že je z Blosel
@@ -1293,6 +1303,8 @@ TODO: Útok na imunního protivníka (např na ohnivého hada stvořeného kouzl
 
 Kouzla:
 
+TODO: Ke kouzlu "Přines" doplnit, že předmět musí jít zvednout jednou rukou.
+
 TODO: Kouzla, která nemají property "útok", se nedají použít na obranu ohrožením
   protivníka. Pokud se kouzelník musí ve stejném kole bránit, hází si Fyzičkou nebo
   Finesou podle toho, jeslti má těžkou zbroj.
@@ -1810,6 +1822,8 @@ TODO: K čemu je vlastně property "smysly"
 
 Bestiář:
 ---------
+
+TODO: Do celýho bestiáře přidat zvuky
 
 IDEA: Do poznámky k Fyzičce psát, jak je spočítaná.
 
