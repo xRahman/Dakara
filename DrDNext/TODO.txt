@@ -45,7 +45,7 @@ Krab obří
 Kraken
 +Krysa
 .Krysodlak
-Křižák obří
+.Křižák obří
 +Kůň
 +Lasice
 +Lev
@@ -81,7 +81,7 @@ Ogloj-chorchoj
 Panna mořská
 +Pavián
 Pavouci
-Pavoučnatka
+.Pavoučnatka
 Pán zkázy
 Pegas
 Permoník
@@ -102,7 +102,7 @@ Přízrak
 Sarkon
 Skřet
 Skřetí rasy
-Sklípkan obří
+.Sklípkan obří
 Skvrna barevná
 Slizovec
 +Slon
@@ -132,17 +132,10 @@ Zvířata
 Žralok
 
 
-+Brouk ohnivec
-+Červ obří
-+Mravenec obří
-+Ploštice obří
-+Roháč obří
-+Štír obří
-+Vážka obří
 
-Křižák obří
-Sklípkan obří
-Pavoučnatka? (wolf spider)
+.Křižák obří
+.Sklípkan obří
+.Pavoučnatka
 
 Had mořský, obří
 Koník mořský, obří
@@ -224,6 +217,14 @@ Všežrout odporný?
 +velbloud
 +vlk (obyčejný, lítý)
 +zmije
+
++Brouk ohnivec
++Červ obří
++Mravenec obří
++Ploštice obří
++Roháč obří
++Štír obří
++Vážka obří
 
 
 TODO: Kapitoly: Boj, Průzkum podzemí, Putování
@@ -489,6 +490,10 @@ Jedy:
 TODO: Zvážit, že by měly jedy nižší sílu a vyšší zranění, aby prakticky automaticky
   nezískávaly tři úspěchy
 
+TODO: Specifické účinky zraňujících jedů se léčí, jako by to byla
+  vážná zranění (zmizí, když je postava celkem zraněna za méně než 3 životy).
+- napsat to do kapitoly o jedech
+
 ------------------------------------------------
 
 Šamani
@@ -503,6 +508,13 @@ V bestiáři zmiňuju, že šamani mohou používat zvířata jako zvědy stejn�
 
 Kouzla:
 ========
+
+Metamorfóza:
+`````````````
+
+IDEA: Změna tvaru je vždycky bez výbavy
+- iluze umí zamaskovat i výbavu, ale jde jen o změnu vizuálu
+
 
 Skřetí a gobliní šamani:
 ------------------------
@@ -1548,42 +1560,13 @@ SVG fonts:
 Sazba:
 ------
 
-TODO: Vybrat hezčí font pro nadpisy
-Tranaj pro
-Tolkien
-Tekton pro
-Tahoma
-Sylfaen
-Lithos Pro
-Javanese text
-Ebrima
-+Constantia
-+Comic Sans MS
-Charlemagne Std (jen bold a caps)
-
-
-ÚVAHA - co potřebuju:
-- možnost více bloků za sebou
-    Property
-    Next Property
-
-    Property Paragraph
-
-    Rules
-    Description
-
-- indentované property, opět s možností více bloků za sebou
-    Property with Indent
-    Next Property with Indent
-
-    Indented Property Paragraph
-
-    Indented Rules
-    Indented Description
-
-
+TODO: Styly na successy, který budou mít správně odsazenej víceřádkovej text
+  (a mohly by automaticky obarvovat bullety přes grep styl)
 TODO: Přece jen zvážit separátní styl na úspěchy, aby se víceřádkové popisy
   efektů zarovnávaly do bloku.
+
+TODO: Zvážit u různých nezávislých účinků psát na začátku "+" (+ Nevolnost)
+- asi jo, je to pak jasnější
 
 TODO: V efektech úspěchů by asi bylo lepší psát trvání rovnou do účinků
   (místo extra property "Trvání účinků"):
@@ -1791,6 +1774,7 @@ IDEA: V kapitole s popisem výbavy (co jsou těžký zbraně atd.) bude rovnou
     Ceník bude úplně mimo - samostatná kapitola - a nebude se z něj vybírat
   startovní výbava.
 
+
 ----------------------------------------------------
 
 Magenergie
@@ -1822,6 +1806,7 @@ TODO: K čemu je vlastně property "smysly"
 
 Bestiář:
 ---------
+
 
 TODO: Do celýho bestiáře přidat zvuky
 
@@ -1980,10 +1965,17 @@ IDEA: Šplh nepsat do rychlosti, ale jako property (dovednost)
   (ale to je spíš schopnost)
 - asi je to přece jen dobrej nápad, protože o tom půjde uvažovat jako
   o dovednosti a porovnávat to s tím, jak vylezou postavy
+IDEA: Dalo by se zrychlovat/zpomalovat o počet úspěchů, tj. až o 30 km/h
 
 
 Rychlost:
 `````````
+
+IDEA: Lineární zrychlení a zpomalení místo exponenciálního
+  zrychlený člověk bude mít rychlost 4, zpomalený 2
+- výhoda je, že mi rychlost neporoste do nesmyslnejch hodnot
+- nevýhoda je, že ty efekty nebudou moc účinný. Zpomalil jsme vlka?
+  Pořád mu neuteču. Zrychlil jsem se? Ani teď mu neuteču...
 
 Rychlost hadů:
   https://safarisafricana.com/fastest-snakes-in-the-world/

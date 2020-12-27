@@ -1,3 +1,51 @@
+IDEA: Psát property jedů v pořadí, v jakym se použijou, tj.
+  Latence:
+  Příznaky:
+  ☠ 16 + k6 jedem proti Fyzičce, zranění 0
+  •	  Zranění
+  ••	+ Rozmazané vidění (nevýhoda)
+  •••	+ Úplná paralýza
+  Trvání účinků:
+[done]
+
+TODO: Zvážit vyhození specifických účinků z příznaků jedů
+- dávalo by to větší smysl. Příznaky se objevují v době latence,
+  specifické účinky podle úspěchů
+DONE: Jo, udělat to tak.
+[done]
+
+ÚVAHA - co potřebuju:
+- možnost více bloků za sebou
+    Property
+    Next Property
+    Property Paragraph
+    Rules
+    Description
+- indentované property, opět s možností více bloků za sebou
+    Property with Indent
+    Next Property with Indent
+    Indented Property Paragraph
+    Indented Rules
+    Indented Description
+[done]
+
+TODO: Vybrat hezčí font pro nadpisy
+Tranaj pro
+Tolkien
+Tekton pro
+Tahoma
+Sylfaen
+Lithos Pro
+Javanese text
+Ebrima
++Constantia [vítěž]
++Comic Sans MS
+Charlemagne Std (jen bold a caps)
+[done]
+
+TODO: Text za úspěchama začínat vždycky velkým písmenem (vypadá to líp)
+[done]
+
 TODO: Oživlý strom -> Strom oživlý
 [done]
 TODO: Dvouhlavý pes -> Pes dvouhlavý
