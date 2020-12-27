@@ -37,15 +37,15 @@ Keř dravý
 +Kobra
 +Kočka
 +Kočkodan
-Koník mořský, obří
+.Koník mořský, obří
 Kostěj nesmrtelný
 Kostlivec
 Krab obří
 +Krokodýl
-Kraken
+.Kraken
 +Krysa
 .Krysodlak
-.Křižák obří
++Křižák obří
 +Kůň
 +Lasice
 +Lev
@@ -81,7 +81,7 @@ Ogloj-chorchoj
 Panna mořská
 +Pavián
 Pavouci
-.Pavoučnatka
++Pavoučnatka
 Pán zkázy
 Pegas
 Permoník
@@ -133,14 +133,14 @@ Zvířata
 
 
 
-.Křižák obří
++Křižák obří
 .Sklípkan obří
-.Pavoučnatka
++Pavoučnatka
 
-Had mořský, obří
-Koník mořský, obří
+.Had mořský, obří
+.Koník mořský, obří
 Krab obří
-Kraken
+.Kraken
 Žralok
 
 
@@ -1255,6 +1255,14 @@ IDEA: Text o pachu dávat jiným řezem (asi kurzívou) než text o zápachu.
 
 Do Vedení hry:
 ---------------
+
+TODO: Nedělej z komára velblouda
+- Zbytečně to hráčům nekomplikuj a nenech je dumat nad něčím triviálním
+
+Nenech hráče vymýšlet detaily
+  Hráč: "Mohli bychom postavit žebřík."
+  PJ: "Jasně to nebude problém. Sekeru máte a ve vedlejší místnosti je hromada dřeva.
+    Jak ho chcete udělat dlouhej?"
 
 TODO: Někam dát něco v tomhle smyslu:
   I mimo boj si představovat, že každý hráč má svůj tah. Nejdřív se všechny tahy
