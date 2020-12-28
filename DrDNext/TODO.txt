@@ -1,3 +1,104 @@
+Bazilišek
+Bludička
+Cizí postavy
+Démoni hmotní
+Démoni nehmotní
+Diblík
+Drak
+.Dryáda
+Duch
+Fext
+Gargoyla
+Ghůl
+Goblin
+Gryf
+Harpyje
+Hmyz
+Hnus plíživý
+.Huňáč modrý
+.Huňáč zelený
+Hydra
+.Jednorožec
+.Kancodlak
+.Keř dravý
+.Koník mořský, obří
+Kostěj nesmrtelný
+Kostlivec
+.Krab obří
+.Kraken
+.Krysodlak
+Lykantropové
+Mantikora
+Medůza
+.Medvědodlak
+Mořští tvorové
+Moucha zlodějka
+Mumie
+Nemrtví
+Netvor bahenní
+Neviděný
+Nezmar
+Obr
+Ogloj-chorchoj
+Panna mořská
+Pán zkázy
+Pegas
+Permoník
+Pes dvouhlavý
+Poletucha
+Přízrak
+Řasnatka
+Sarkon
+Skřet
+Skřetí rasy
+Skvrna barevná
+Slizovec
+Socha oživlá
+Spektra
+.Strom oživlý
+.Tygrodlak
+Upír
+.Vlkodlak
+Všežrout odporný
+Vzluha
+Wyverna
+Zlobr jeskynní
+Zlobr skalní
+Zombie
+.Žralok
+
+Celkem: 132 hesel. 64 done, 68 to go
+
+
+
++Had mořský, obří
+.Koník mořský, obří
+.Krab obří
+.Kraken
+.Žralok
+
+
+.Huňáč modrý
+.Huňáč zelený
+
+.Keř dravý
+
+.Strom oživlý
+
+Bazilišek
+Ogloj-chorchoj
+
+Bludička
+
+Moucha zlodějka?
+Netvor bahenní?
+Panna mořská?
+Pes dvouhlavý?
+Řasnatka?
+Všežrout odporný?
+
+
+
 +Aligátor
 +Anakonda
 Bazilišek
@@ -20,14 +121,14 @@ Ghůl
 Goblin
 +Gorila
 Gryf
-Had mořský, obří
++Had mořský, obří
 Harpyje
 +Hroch
 +Hroznýš
 Hmyz
 Hnus plíživý
-Huňáč modrý
-Huňáč zelený
+.Huňáč modrý
+.Huňáč zelený
 Hydra
 +Chřestýš
 .Jednorožec
@@ -40,7 +141,7 @@ Keř dravý
 .Koník mořský, obří
 Kostěj nesmrtelný
 Kostlivec
-Krab obří
+.Krab obří
 +Krokodýl
 .Kraken
 +Krysa
@@ -80,7 +181,7 @@ Ogloj-chorchoj
 +Osel
 Panna mořská
 +Pavián
-Pavouci
++Pavouci
 +Pavoučnatka
 Pán zkázy
 Pegas
@@ -102,7 +203,7 @@ Přízrak
 Sarkon
 Skřet
 Skřetí rasy
-.Sklípkan obří
++Sklípkan obří
 Skvrna barevná
 Slizovec
 +Slon
@@ -128,40 +229,8 @@ Zlobr jeskynní
 Zlobr skalní
 +Zmije
 Zombie
-Zvířata
-Žralok
-
-
-
-+Křižák obří
-.Sklípkan obří
-+Pavoučnatka
-
-.Had mořský, obří
-.Koník mořský, obří
-Krab obří
-.Kraken
-Žralok
-
-
-Huňáč modrý
-Huňáč zelený
-
-Keř dravý
-
-Strom oživlý
-
-Bazilišek
-Ogloj-chorchoj
-
-Bludička
-
-Moucha zlodějka?
-Netvor bahenní?
-Panna mořská?
-Pes dvouhlavý?
-Řasnatka?
-Všežrout odporný?
++Zvířata
+.Žralok
 
 
 
@@ -273,12 +342,12 @@ Kodiak        9       14      5 (+1)       +1        +1        +2
 Krokodýl     10       15      5 (+1)       +2        +1        +3
 Mladý drak   11       17      6 (+2)       +2        +1        +3
 Dospělý drak 12       18      6 (+2)       +2        +2        +4
-             13       18      6 (+2)       +3        +2        +5
-             14       18      7 (+3)       +3        +2        +5
-             15       18      7 (+3)       +3        +3        +6
-             16       18      7 (+3)       +4        +3        +7
-             17       18      8 (+4)       +4        +3        +7
-             18       18      8 (+4)       +4        +4        +8                                       
+             13       19      6 (+2)       +3        +2        +5
+             14       21      7 (+3)       +3        +2        +5
+             15       22      7 (+3)       +3        +3        +6
+             16       23      7 (+3)       +4        +3        +7
+             17       25      8 (+4)       +4        +3        +7
+             18       26      8 (+4)       +4        +4        +8                                       
 
 
 Přirozené zbraně
@@ -1567,6 +1636,8 @@ SVG fonts:
 
 Sazba:
 ------
+
+TODO: Pořešit sazbu u Duševního úderu
 
 TODO: Styly na successy, který budou mít správně odsazenej víceřádkovej text
   (a mohly by automaticky obarvovat bullety přes grep styl)
