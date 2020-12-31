@@ -68,7 +68,7 @@ Opravy obrázků:
 - posunout tuňáka u žraloka [done]
 - jinej šimpanz - done, ale je moc fotkovitej [done]
 - strom ze sklípkanovy hlavy [done]
-- roháč obří (měřítko)
+- roháč obří (měřítko) [done]
 - lepší fotka poníka
 - mravenec obří - problém s měřítkem
 - dryáda - čistší obrázek (bez sharpeningu) [done]
