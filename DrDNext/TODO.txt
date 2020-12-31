@@ -66,12 +66,12 @@ Celkem: 132 hesel. 69 done, 63 to go
 
 Opravy obrázků:
 - posunout tuňáka u žraloka [done]
-- jinej šimpanz - done, ale je moc fotkovitej
-- strom ze sklípkanovy hlavy
+- jinej šimpanz - done, ale je moc fotkovitej [done]
+- strom ze sklípkanovy hlavy [done]
 - roháč obří (měřítko)
 - lepší fotka poníka
 - mravenec obří - problém s měřítkem
-- dryáda - čistší obrázek (bez sharpeningu)
+- dryáda - čistší obrázek (bez sharpeningu) [done]
 - štír obří (měřítko)
 
 Pták Noh - spíš nelítavej?

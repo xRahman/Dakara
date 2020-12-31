@@ -74,6 +74,13 @@ Final Touches
 - nakonec dát Filters -> Enhance -> Antialias (většinou to nic moc neudělá, ale proč ne)
 
 
+How to make it more painting-like
+----------------------------------
+- duplicate the layer with HSV blend mode
+- change it's blend mode to "Dodge"
+- repeat as necessary or change it's opacity
+
+
 Export
 -------
 
