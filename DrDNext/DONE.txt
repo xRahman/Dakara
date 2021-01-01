@@ -1,3 +1,10 @@
+Opravy obrázků:
+- posunout tuňáka u žraloka [done]
+- jinej šimpanz - done, ale je moc fotkovitej [done]
+- strom ze sklípkanovy hlavy [done]
+- lepší fotka poníka [done]
+- dryáda - čistší obrázek (bez sharpeningu) [done]
+
 IDEA: Psát property jedů v pořadí, v jakym se použijou, tj.
   Latence:
   Příznaky:

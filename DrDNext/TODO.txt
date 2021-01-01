@@ -65,14 +65,9 @@ Zombie
 Celkem: 132 hesel. 69 done, 63 to go
 
 Opravy obrázků:
-- posunout tuňáka u žraloka [done]
-- jinej šimpanz - done, ale je moc fotkovitej [done]
-- strom ze sklípkanovy hlavy [done]
-- roháč obří (měřítko) [done]
-- lepší fotka poníka
+- roháč obří (měřítko) [trochu vylepšeno]
 - mravenec obří - problém s měřítkem
-- dryáda - čistší obrázek (bez sharpeningu) [done]
-- štír obří (měřítko)
+- štír obří (měřítko) [done]
 
 Pták Noh - spíš nelítavej?
 https://www.google.com/search?q=terror+birds&sxsrf=ALeKk03Ow0pVm456HvQv40oul--wuEJl5A:1609352057815&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiptuXNp_btAhUECxoKHYIUCjQQ_AUoAXoECBQQAw&biw=1829&bih=780
