@@ -4,6 +4,9 @@ Opravy obrázků:
 - strom ze sklípkanovy hlavy [done]
 - lepší fotka poníka [done]
 - dryáda - čistší obrázek (bez sharpeningu) [done]
+- štír obří (měřítko) [done]
+- mravenec obří - problém s měřítkem [done]
+- roháč obří (měřítko) [done]
 
 IDEA: Psát property jedů v pořadí, v jakym se použijou, tj.
   Latence:

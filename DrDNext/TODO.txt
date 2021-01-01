@@ -64,14 +64,12 @@ Zombie
 
 Celkem: 132 hesel. 69 done, 63 to go
 
-Opravy obrázků:
-- roháč obří (měřítko) [trochu vylepšeno]
-- mravenec obří - problém s měřítkem
-- štír obří (měřítko) [done]
-
 Pták Noh - spíš nelítavej?
 https://www.google.com/search?q=terror+birds&sxsrf=ALeKk03Ow0pVm456HvQv40oul--wuEJl5A:1609352057815&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiptuXNp_btAhUECxoKHYIUCjQQ_AUoAXoECBQQAw&biw=1829&bih=780
 - ee, nelétavej je Pták Moa
+- i když, možná přece jen jo - jako obří orel funguje obří orel, tj. asi je lepší
+  mít jinej druh potvory.
+TODO: Revize textu a hodnot u Ptáka Noha
 
 +Had mořský, obří
 +Koník mořský, obří
@@ -91,7 +89,7 @@ https://www.google.com/search?q=terror+birds&sxsrf=ALeKk03Ow0pVm456HvQv40oul--wu
 .Bazilišek
 Ogloj-chorchoj
 
-Bludička
+.Bludička
 
 Moucha zlodějka?
 Netvor bahenní?
@@ -103,9 +101,9 @@ Všežrout odporný?
 
 +Aligátor
 +Anakonda
-Bazilišek
+.Bazilišek
 +Bizon
-Bludička
+.Bludička
 +Brouk ohnivec
 Cizí postavy
 +Červ obří
