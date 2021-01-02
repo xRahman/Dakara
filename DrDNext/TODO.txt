@@ -1,5 +1,4 @@
 .Bazilišek
-Bludička
 Cizí postavy
 Démoni hmotní
 Démoni nehmotní
@@ -36,7 +35,6 @@ Neviděný
 Nezmar
 Obr
 Ogloj-chorchoj
-.Panna mořská
 Pán zkázy
 Pegas
 Permoník
@@ -62,14 +60,16 @@ Zlobr jeskynní
 Zlobr skalní
 Zombie
 
-Celkem: 132 hesel. 69 done, 63 to go
+Celkem: 132 hesel. 71 done, 61 to go
 
 Pták Noh - spíš nelítavej?
 https://www.google.com/search?q=terror+birds&sxsrf=ALeKk03Ow0pVm456HvQv40oul--wuEJl5A:1609352057815&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiptuXNp_btAhUECxoKHYIUCjQQ_AUoAXoECBQQAw&biw=1829&bih=780
 - ee, nelétavej je Pták Moa
 - i když, možná přece jen jo - jako obří orel funguje obří orel, tj. asi je lepší
   mít jinej druh potvory.
-TODO: Revize textu a hodnot u Ptáka Noha
+
+TODO: Děsivý pták
+- děsupták, hrůzopták, pták Děs, pták Hrůzňák, hrůzňák, Hrozivák
 
 +Had mořský, obří
 +Koník mořský, obří
@@ -77,7 +77,8 @@ TODO: Revize textu a hodnot u Ptáka Noha
 +Kraken
 +Žralok
 
-.Panna mořská
++Panna mořská
+  TODO: Perlové náušnice a náhrdelníky
 
 
 .Huňáč modrý
@@ -89,7 +90,7 @@ TODO: Revize textu a hodnot u Ptáka Noha
 .Bazilišek
 Ogloj-chorchoj
 
-.Bludička
++Bludička
 
 Moucha zlodějka?
 Netvor bahenní?
@@ -103,7 +104,7 @@ Všežrout odporný?
 +Anakonda
 .Bazilišek
 +Bizon
-.Bludička
++Bludička
 +Brouk ohnivec
 Cizí postavy
 +Červ obří
@@ -179,7 +180,7 @@ Ogloj-chorchoj
 +Orangutan
 +Orel
 +Osel
-Panna mořská
++Panna mořská
 +Pavián
 +Pavouci
 +Pavoučnatka
@@ -449,6 +450,28 @@ Finesa
 8: 
 9: 
 
+------------------------------------------------
+
+Loot
+-----
+
+TODO: Zkompilovat ho ze souboru Loot.odt a dát do pravidel.
+
+------------------------------------------------
+
+Boj pod vodou
+--------------
+
+TODO: Pod vodou se nedá mluvit (a tedy ani sesílat kouzla?), a to ani
+  s kouzlem nebo předmětem na dýchání pod vodou.
+- bude to sice opruz pro kouzelníky, ale herně je to asi zajímavější, než aby
+  to bylo "stejný jako na suchu, jen lehce namodralý".
+  - střílet se pod vodou taky nedá, takže kouzelníci nejsou jediní biti
+    (byť teda jim to zařízne všechny schopnosti)
+  - pořád budou účinkovat dlouhotrvající kouzla, která kouzelník může
+    sesalt na vzduchu.
+- pod vodou půjde komunikovat jen posunky (a telepaticky)
+- dává pak smysl, že mořské panny komunikují telepaticky
 
 ------------------------------------------------
 
