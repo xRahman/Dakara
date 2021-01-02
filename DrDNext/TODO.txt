@@ -92,6 +92,11 @@ Pes dvouhlavý?
 Řasnatka?
 Všežrout odporný?
 
+TODO: Zmenšit zbytečně velký obrázky
+
+Opravy obrázků:
+----------------
+ploštice (měřítko velikosti)
 
 
 +Aligátor
@@ -1904,11 +1909,8 @@ TODO: K čemu je vlastně property "smysly"
 Bestiář:
 ---------
 
-TODO: Udělat lehké zbroje ze zvláštních materiálů zajímavější
-- zbroj ze žraločí kůže má proti seku 2, 20 zl
-- zbroj z kůže obřího varana (proti drcení 2), 24 zl
-- zbroj z kůže wyverny (proti bodu 2), 28 zl
-- zbroj z kůže baziliška (proti žíravině 2), 24 zl
+TODO: Vzhled není věta, takže pryč s velkým písmenem a tečkou
+
 
 lehká koňská zbroj
 těžká koňská zbroj

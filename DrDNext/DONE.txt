@@ -1,3 +1,10 @@
+TODO: Udělat lehké zbroje ze zvláštních materiálů zajímavější
+- zbroj ze žraločí kůže má proti seku 2, 20 zl
+- zbroj z kůže obřího varana (proti drcení 2), 24 zl
+- zbroj z kůže wyverny (proti bodu 2), 28 zl
+- zbroj z kůže baziliška (proti žíravině 2), 24 zl
+[done]
+
 Pták Noh - spíš nelítavej?
 https://www.google.com/search?q=terror+birds&sxsrf=ALeKk03Ow0pVm456HvQv40oul--wuEJl5A:1609352057815&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiptuXNp_btAhUECxoKHYIUCjQQ_AUoAXoECBQQAw&biw=1829&bih=780
 - ee, nelétavej je Pták Moa
