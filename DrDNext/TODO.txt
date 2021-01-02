@@ -60,16 +60,10 @@ Zlobr jeskynní
 Zlobr skalní
 Zombie
 
-Celkem: 132 hesel. 71 done, 61 to go
+Celkem: 133 hesel. 72 done, 61 to go
 
-Pták Noh - spíš nelítavej?
-https://www.google.com/search?q=terror+birds&sxsrf=ALeKk03Ow0pVm456HvQv40oul--wuEJl5A:1609352057815&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiptuXNp_btAhUECxoKHYIUCjQQ_AUoAXoECBQQAw&biw=1829&bih=780
-- ee, nelétavej je Pták Moa
-- i když, možná přece jen jo - jako obří orel funguje obří orel, tj. asi je lepší
-  mít jinej druh potvory.
 
-TODO: Děsivý pták
-- děsupták, hrůzopták, pták Děs, pták Hrůzňák, hrůzňák, Hrozivák
++Pták hrozivák
 
 +Had mořský, obří
 +Koník mořský, obří
@@ -196,6 +190,7 @@ Pes dvouhlavý
 Poletucha
 +Poník
 Přízrak
++Pták hrozivák
 +Pták Noh
 +Puma
 +Roháč obří
