@@ -1,3 +1,6 @@
+TODO: Vzhled není věta, takže pryč s velkým písmenem a tečkou
+[done]
+
 TODO: Udělat lehké zbroje ze zvláštních materiálů zajímavější
 - zbroj ze žraločí kůže má proti seku 2, 20 zl
 - zbroj z kůže obřího varana (proti drcení 2), 24 zl

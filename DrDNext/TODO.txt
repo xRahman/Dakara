@@ -14,12 +14,9 @@ Gryf
 Harpyje
 Hmyz
 Hnus plíživý
-.Huňáč modrý
-.Huňáč zelený
 Hydra
 .Jednorožec
 .Kancodlak
-.Keř dravý
 Kostěj nesmrtelný
 Kostlivec
 .Krysodlak
@@ -60,7 +57,7 @@ Zlobr jeskynní
 Zlobr skalní
 Zombie
 
-Celkem: 133 hesel. 72 done, 61 to go
+Celkem: 133 hesel. 75 done, 58 to go
 
 
 +Pták hrozivák
@@ -75,10 +72,10 @@ Celkem: 133 hesel. 72 done, 61 to go
   TODO: Perlové náušnice a náhrdelníky
 
 
-.Huňáč modrý
-.Huňáč zelený
++Huňáč modrý
++Huňáč zelený
 
-.Keř dravý
++Keř dravý
 .Strom oživlý
 
 .Bazilišek
@@ -127,14 +124,14 @@ Harpyje
 +Hroznýš
 Hmyz
 Hnus plíživý
-.Huňáč modrý
-.Huňáč zelený
++Huňáč modrý
++Huňáč zelený
 Hydra
 +Chřestýš
 .Jednorožec
 .Kancodlak
 +Kanec
-Keř dravý
++Keř dravý
 +Kobra
 +Kočka
 +Kočkodan
@@ -483,6 +480,9 @@ TODO: Zvětšit počet základních úrovní
 Ceník:
 -------
 
+lehká koňská zbroj
+těžká koňská zbroj
+
 TODO: Do ceníku zámky
 
 TODO: V ceníku by měly bejt všechny ceny, tj. i zbraní, magických předmětů,
@@ -606,6 +606,13 @@ Metamorfóza:
 
 IDEA: Změna tvaru je vždycky bez výbavy
 - iluze umí zamaskovat i výbavu, ale jde jen o změnu vizuálu
+
+TODO: Sjednodit pravidla pro proměny a napsat je na jedno místo
+  (nebo aspoň všude stejně)
+- nemění se Duše
+- mění se smysly a ostatní rasové schopnosti
+- nemění se kouzla, schopnosti a dovednosti, ale je možné je používat,
+  jen pokud to nová podoba umožňuje
 
 
 Skřetí a gobliní šamani:
@@ -1657,6 +1664,14 @@ SVG fonts:
 
 ------------------------------
 
+Unicode font (ikonky):
+-----------------------
+
+TODO: Vyrobit vlastní unicode font a pohrát si s vizuálem ikonek
+TODO: Přidat do něj ikonku "magic wand" a použít ji místo "scrollu" pro útoky kouzlem
+  v bestiáři
+
+
 Sazba:
 ------
 
@@ -1909,11 +1924,9 @@ TODO: K čemu je vlastně property "smysly"
 Bestiář:
 ---------
 
-TODO: Vzhled není věta, takže pryč s velkým písmenem a tečkou
+IDEA: Kouzla na stvoření oživlých stromů, dravých keřů a podobně vyžadují magickou
+  esenci (která pak jde vytěžit z kořenů).
 
-
-lehká koňská zbroj
-těžká koňská zbroj
 
 TODO: Jak bojují nestvůry (do vedení hry?)
 - když to dává smysl, nestvůry mohou bez postihu ohrozit několik cílů současně. Každá hlava
