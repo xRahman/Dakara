@@ -1,0 +1,12 @@
+Stav projektu "Dračák podle staré školy" po Gameconu 2020, který se nekonal
+----------------------------------------------------------------------------
+
+Stav projektu po Gameconu 2018 je [url=https://rpgforum.cz/forum/viewtopic.php?f=286&t=13676&start=420#p538789]tady[/url], po Gameconu 2019 url=https://rpgforum.cz/forum/viewtopic.php?f=286&t=15126&start=1155#p564052]tady[/url].
+
+Na jaře 2020 byla hotová alfa veze - tím myslím stav, kdy byla hra obsahově kompletní. V průběhu její tvorby jsem nashromáždil spoustu připomínek a poznatků z testování, které teď bylo třeba zapracovat a výsledek zahladit do podoby publikovatelné testovatelné beteverze.
+
+Pak přišlo velký špatný. Epidemie covidu mě sice naštěstí nezasáhla, ale přišly jiné zdravotní problémy, které mě na půl roku prakticky úplně vyřadily, což u projektu s jediným autorem znamená kompletní stop stav. Jelikož jsem nebyl schopen dělat nic jiného, začal jsem alespoň pomalinku pracovat na obrázcích a časem i na nové sazbě. Tím se sice zpomaluje práce na textu hry, ale to, že to začíná vypadat koukatelně, je výborná motivace, takže to asi nebyla špatná volba. Ke konci roku jsem pomalu začal fungovat trochu víc a pomalu jsem se pustil do práce na betaverzi. Začal jsem bestiářem, protože na složitější text jsem ještě neměl sílu. Pomalu se to lepší, takže s trochou štěstí snad betaverzi v dohledné době dotáhnu, termíny ale raději slibovat nebudu.
+
+Pokud tento text čtete v lednu roku 2021, nejspíš se ptáte, k čemu bude další DrD-like hra. Ptáte se ovšem špatné osoby. Vývojovou diskusi Dračáku podle staré školy na RPG fóru jsem založil 18. 10. 2018. V té době Dračí hlídka neexistovala, téměř nikdo netušil, že existuje něco jako Forbidden Lands a projekt Jeskyně a draci byl prakticky mrtvý. Dávalo tedy perfektní smysl se do DrD-like hry pustit, přestože jsem původně měl trochu méně ambiciózní plány. Hru jsem celou dobu vyvíjel veřejně, takže bylo známo, na čem pracuju a v jakém to je stavu. Ale tak uvidíme, třeba bude nakonec konkurence zdravá a prospěšná.
+
+Zpětně si samozřejmě říkám, že jsem asi měl jít stejnou cestou jako Dračí hlídka a napsat nejdřív jen pravidla pro začátečníky. Neudělal jsem to, protože jsem nechtěl přijít o možnost ladit hru celou najednou, a protože jsem v trochu jiné situaci - nemám zástup hráčů dopředu natěšených na to, co vytvořím, budu o ně teprve muset bojovat. A první dojem jde udělat jen jednou. Teď už je to každopádně jedno, obsah je připravený pro všechny úrovně a dělit to zpětně na PPZ/PPP/PPE nedává smysl.
