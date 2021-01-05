@@ -1,5 +1,4 @@
-.Bazilišek
-Cizí postavy
+.Cizí postavy
 Démoni hmotní
 Démoni nehmotní
 Diblík
@@ -14,6 +13,7 @@ Gryf
 Harpyje
 Hmyz
 Hnus plíživý
+Hvozd
 Hydra
 .Jednorožec
 .Kancodlak
@@ -46,7 +46,6 @@ Skvrna barevná
 Slizovec
 Socha oživlá
 Spektra
-.Strom oživlý
 .Tygrodlak
 Upír
 .Vlkodlak
@@ -57,7 +56,7 @@ Zlobr jeskynní
 Zlobr skalní
 Zombie
 
-Celkem: 133 hesel. 75 done, 58 to go
+Celkem: 133 hesel. 76 done, 57 to go
 
 
 +Pták hrozivák
@@ -76,9 +75,9 @@ Celkem: 133 hesel. 75 done, 58 to go
 +Huňáč zelený
 
 +Keř dravý
-.Strom oživlý
++Strom oživlý
 
-.Bazilišek
++Bazilišek
 Ogloj-chorchoj
 
 +Bludička
@@ -98,11 +97,11 @@ ploštice (měřítko velikosti)
 
 +Aligátor
 +Anakonda
-.Bazilišek
++Bazilišek
 +Bizon
 +Bludička
 +Brouk ohnivec
-Cizí postavy
+.Cizí postavy
 +Červ obří
 Démoni hmotní
 Démoni nehmotní
@@ -126,6 +125,7 @@ Hmyz
 Hnus plíživý
 +Huňáč modrý
 +Huňáč zelený
+Hvozd
 Hydra
 +Chřestýš
 .Jednorožec
@@ -208,7 +208,7 @@ Slizovec
 Socha oživlá
 +Sokol
 Spektra
-Strom oživlý
++Strom oživlý
 +Šimpanz
 +Štír obří
 +Tygr
@@ -1923,6 +1923,15 @@ TODO: K čemu je vlastně property "smysly"
 
 Bestiář:
 ---------
+
+Životy
+```````
+
+Oživený tvor
+Oživení tvorové (nemrtvý, oživlý strom, oživlá socha) nemají zranitelné vnitřní orgány,
+jejichž zásah by je mohl vyřadit. Mají díky tomu o X životů víc než stejně velcí živí
+tvorové.
+
 
 IDEA: Kouzla na stvoření oživlých stromů, dravých keřů a podobně vyžadují magickou
   esenci (která pak jde vytěžit z kořenů).
