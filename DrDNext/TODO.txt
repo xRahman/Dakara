@@ -1,4 +1,3 @@
-.Cizí postavy
 Démoni hmotní
 Démoni nehmotní
 Diblík
@@ -47,7 +46,7 @@ Slizovec
 Socha oživlá
 Spektra
 .Tygrodlak
-Upír
+.Upír
 .Vlkodlak
 Všežrout odporný
 Vzluha
@@ -56,7 +55,7 @@ Zlobr jeskynní
 Zlobr skalní
 Zombie
 
-Celkem: 133 hesel. 76 done, 57 to go
+Celkem: 133 hesel. 77 done, 56 to go
 
 
 +Pták hrozivák
@@ -101,7 +100,7 @@ ploštice (měřítko velikosti)
 +Bizon
 +Bludička
 +Brouk ohnivec
-.Cizí postavy
++Cizí postavy
 +Červ obří
 Démoni hmotní
 Démoni nehmotní
@@ -213,7 +212,7 @@ Spektra
 +Štír obří
 +Tygr
 .Tygrodlak
-Upír
+.Upír
 +Varan
 +Vážka obří
 +Velbloud
@@ -449,6 +448,17 @@ Finesa
 
 ------------------------------------------------
 
+Rysy:
+-----
+
+Marnivý
+Skromný
+Obětavý
+Vřelý
+Asociální
+
+------------------------------------------------
+
 Loot
 -----
 
@@ -473,7 +483,8 @@ TODO: Pod vodou se nedá mluvit (a tedy ani sesílat kouzla?), a to ani
 ------------------------------------------------
 
 TODO: Zvětšit počet základních úrovní
-(nejspíš 1-4 základní, 5-9 pokročilé, 10+ mistrovské?
+(nejspíš 1-4 základní, 5-9 pokročilé, 10+ mistrovské?)
+ - 1-5 základní, 6-11 pokročilé, 12+ mistrovské
 
 ------------------------------------------------
 
@@ -631,6 +642,10 @@ Omezení kouzel:
 
 Dovednosti:
 ------------
+
+TODO: Až budu mít jasno, jak udělám jazyky, zohlednit to ve vzorových CPčkách
+TODO: Až budu mít jasno o systému pro alokaci dovedností, zohlednit to u vzorových CPček
+  s povoláním
 
 IDEA: Zrušit kapitolu o používání dovedností a napsat to rovnou k příslušným
   dovednostem. Nebo možná ne zrušit (někde budou muset bejt vysvětlený situační výhody),
@@ -1923,6 +1938,43 @@ TODO: K čemu je vlastně property "smysly"
 
 Bestiář:
 ---------
+
+TODO: Až budou finální raciálky, updatnout to v popisu NPCček v bestiáři
+  (mělo by to bejt správně, ale radši to zkontrolovat)
+
+
+Démoni:
+```````
+IDEA: Nižší a vyšší démoni. Nižší nemají jména a nemohou se zhmotnit. Posedávat můžou všichni démoni.
+TODO: Přidat k démonům schopnost „posednutí“ a napsat k ní efekty (boost statů a tak).
+TODO: Příklady jmen k jednotlivým druhům démonů.
+
+Názvy "nižší" a "vyšší" démoni (lesser and greater) moc nesedí, protože diblík moc
+  nezní jako vyšší démon.
+Jak pojmenovat dračákový astrální démony?
+- určitě by mělo zůstat "démon alkoholu", čili by to měli být "nějací démoni"
+- zárodky/larvy (to zní blbě)
+- obecní/unikátní
+- pojmenovaní/nepojmenovaní
+- prvního/druhého/třetího stupně
+- nižší/vyšší/démoničtí páni (jako je třeba pán zkázy)
+- lesser demon / greater demon / demon lord
+Inspirace:
+  https://symposion0.webnode.cz/demonologie/
+
+nižší / střední / vyšší (lesser / common / greater)
+
+IDEA: zhoubní démoni, zlomyslní démoni
+
+neinteligentní/inteligentní
+
+• zhoubní démoni chtějí být přivoláni a chtějí škodit
+
+zhoubní/inteligentní
+- to zní dobře, ale co je potom dvouhlavý pes? Bestiální démon? Zvířecí démon?
+
+
+
 
 Životy
 ```````

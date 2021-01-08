@@ -191,3 +191,6 @@ IDEA: A4ky položené vedle sebe, spíš asi landscape. První bude na břehu mo
   s tutoriálovým ostrovem v pravidlech.
 - průchody pod horama (podzemím) do vedlejší mapy
 - portály na přesuny uvnitř mapy a do sousedních map
+
+
+IDEA: Jden z vyšších démonů má nevyřízené účty s čarodějem, který se ho neúspěšně pokusil ovládnout. Může buď posednout některou z postav, nebo jim třeba podstrčit "padělaný" rituál, kterým ho přivolají, místo aby banishnuli jiného démona.
