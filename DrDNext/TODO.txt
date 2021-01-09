@@ -53,7 +53,7 @@ Vzluha
 Wyverna
 Zlobr jeskynní
 Zlobr skalní
-Zombie
+.Zombie
 
 Celkem: 133 hesel. 77 done, 56 to go
 
@@ -225,7 +225,7 @@ Wyverna
 Zlobr jeskynní
 Zlobr skalní
 +Zmije
-Zombie
+.Zombie
 +Zvířata
 .Žralok
 
