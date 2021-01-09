@@ -1080,6 +1080,10 @@ TODO: Můžeš si vybrat libovolně velké zvíře obřích variant. Mysli při 
   zraku mají perfektní přehled, co se na zemi pod nimi děje, aniž by se sami
   museli vystavit nebezpečí.
 
+Kouzelník:
+----------
+
+TODO: Do seznamů kouzel přidat zaklínací formule.
 
 
 
@@ -1324,47 +1328,6 @@ V relativně drsný hře, kde může dojít k vyřazení postav, za to, aby hrá
 - tohle musím napsat nějak líp, ale tuhle myšlenku je určitě potřeba hráčům předat.
 
 Taky to určitě chce něco říct o tom, že hráči by měli bejt připraveni chvíli jen pasivně sledovat (a pokud možno si to užít). To teda bude peklo nějak vhodně formulovat.
-
-Do úvodu k Bestiáři:
----------------------
-
-Žádná nestvůra nemůže v jednom kole víckrát zaútočit na stejný cíl. Pokud má vypsaných více schopností či druhů útoků, může v jednom kole ohrozit více cílů, pokud to dává smysl - rudý drak může například jednu postavu kousnout a současně se po druhé ohnat ocasem, nemůže ale dost dobře v jednom kole kousat a chrlit oheň.
-
-Nestvůry jako třeba oživlé sochy, které mají dobrodružné povolání, mají vypsané konkrétní schopnosti a kouzla, abys je nemusel vymýšlet sám. Pokud chceš, můžeš si ho ale samozřejmě upravit.
-
-
-Hodnoty vlastností u nestvůr pokud možno neměň. Hráči mají určitá očekávání, jak jsou asi nestvůry silné, a podle toho se rozhodují, jestli se s nimi pustí do boje a případně za jakých okolností. Kdybys dal do hry například obří krysu s útokem jako má drak, přestalo by to fungovat.
-- měnit schopnosti za jiné je ale ok, ne všechny nestvůry musí nutně být stejné a předvidatelné. 
-
-Struktura hesel:
-- struktura se řídí použitím při hře. Vlastnosti, útoky a schopnosti jsou
-  hned na začátku hesla, abys je snadno našel, a pohromadě, abys při boji
-  nemusel příliš listovat.
-
-Pachy
-¨¨¨¨¨¨
-*Pach* cítí jen hobit, pes, nebo jiný tvor s čichem citlivějším než člověk.
-*Zápach* cítí všichni.
-
-Psát explicitně k potvorám, co cítí hobit a co pes?
-- hobit by měl poznat obecnou kategorii (had, hmyz atd.)
-- Pokud tvor vydává pach, pes vždycky pozná, o jakého tvora se jedná
-Určitě má smysl uvádět zápach, kterej cítěj všichni, dál co cítí hobit,
-  a nakonec jestli tvor vůbec vydává nějakej pach. Asi nemá smysl uvádět
-  kolonku pro psa, protože to je vždy "Pach tvora XY".
-Takže:
-- buď tam je "Nemá pach"
-- nebo "co pozná hobit" + případnej zápach
-
-Psát do bestiáře "(Hobit cítí):" je divný.
-
-=> Asi se budu držet toho, že ZÁPACH cití všichni, pach jen hobit nebo pes.
-  A pes navíc přesně pozná, o jakýho tvora se jedná, pokud už se s ním někdy
-  setkal (má vůbec smysl rozlišovat hobití a psí čich? Spíš asi ne)
-
-IDEA: Text o pachu dávat jiným řezem (asi kurzívou) než text o zápachu.
-- stejně to dělat i u ostatních informací - zjevné stopy normální řezem,
-  stopy pro stopaře kurzívou.
 
 
 Do Vedení hry:
@@ -1922,6 +1885,57 @@ Asi by to mělo bejt co nejvíc intuitivní - pokud u něčeho dává smysl, že
 
 Úvod k bestiáři
 ----------------
+
+Pokud není uvedeno jinak, nestvůry kouzlí stejně jako kouzelník. Každé kouzlo si tedy
+  před dalším použitím musí připravit, při seslání musí nahlas vyslovit zaklínací
+  formuli a tak dále.
+
+
+Žádná nestvůra nemůže v jednom kole víckrát zaútočit na stejný cíl. Pokud má vypsaných
+  více schopností či druhů útoků, může v jednom kole ohrozit více cílů, pokud to dává
+  smysl - rudý drak může například jednu postavu kousnout a současně se po druhé ohnat
+  ocasem, nemůže ale dost dobře v jednom kole kousat a chrlit oheň.
+
+Nestvůry jako třeba oživlé sochy, které mají dobrodružné povolání, mají vypsané konkrétní
+  schopnosti a kouzla, abys je nemusel vymýšlet sám. Pokud chceš, můžeš si ho ale
+  samozřejmě upravit.
+
+Hodnoty vlastností u nestvůr pokud možno neměň. Hráči mají určitá očekávání, jak jsou asi
+  nestvůry silné, a podle toho se rozhodují, jestli se s nimi pustí do boje a případně za
+  jakých okolností. Kdybys dal do hry například obří krysu s útokem jako má drak, přestalo
+  by to fungovat.
+- měnit schopnosti za jiné je ale ok, ne všechny nestvůry musí nutně být stejné
+  a předvidatelné. 
+
+Struktura hesel:
+- struktura se řídí použitím při hře. Vlastnosti, útoky a schopnosti jsou
+  hned na začátku hesla, abys je snadno našel, a pohromadě, abys při boji
+  nemusel příliš listovat.
+
+Pachy
+¨¨¨¨¨¨
+*Pach* cítí jen hobit, pes, nebo jiný tvor s čichem citlivějším než člověk.
+*Zápach* cítí všichni.
+
+Psát explicitně k potvorám, co cítí hobit a co pes?
+- hobit by měl poznat obecnou kategorii (had, hmyz atd.)
+- Pokud tvor vydává pach, pes vždycky pozná, o jakého tvora se jedná
+Určitě má smysl uvádět zápach, kterej cítěj všichni, dál co cítí hobit,
+  a nakonec jestli tvor vůbec vydává nějakej pach. Asi nemá smysl uvádět
+  kolonku pro psa, protože to je vždy "Pach tvora XY".
+Takže:
+- buď tam je "Nemá pach"
+- nebo "co pozná hobit" + případnej zápach
+
+Psát do bestiáře "(Hobit cítí):" je divný.
+
+=> Asi se budu držet toho, že ZÁPACH cití všichni, pach jen hobit nebo pes.
+  A pes navíc přesně pozná, o jakýho tvora se jedná, pokud už se s ním někdy
+  setkal (má vůbec smysl rozlišovat hobití a psí čich? Spíš asi ne)
+
+IDEA: Text o pachu dávat jiným řezem (asi kurzívou) než text o zápachu.
+- stejně to dělat i u ostatních informací - zjevné stopy normální řezem,
+  stopy pro stopaře kurzívou.
 
 
 TODO: Vysvětlit, že "dobrý zrak/sluch/čich" znamená "dobrý jako člověk"
