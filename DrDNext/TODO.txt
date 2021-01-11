@@ -17,14 +17,14 @@ Hydra
 .Jednorožec
 .Kancodlak
 Kostěj nesmrtelný
-Kostlivec
+.Kostlivec
 .Krysodlak
 Lykantropové
 Mantikora
 Medůza
 .Medvědodlak
 Moucha zlodějka
-Mumie
+.Mumie
 Nemrtví
 Netvor bahenní
 Neviděný
@@ -136,7 +136,7 @@ Hydra
 +Kočkodan
 +Koník mořský, obří
 Kostěj nesmrtelný
-Kostlivec
+.Kostlivec
 +Krab obří
 +Krokodýl
 +Kraken
@@ -163,7 +163,7 @@ Medůza
 +Mravenec obří
 Moucha zlodějka
 +Mula
-Mumie
+.Mumie
 Nemrtví
 +Netopýr
 Netvor bahenní
@@ -353,6 +353,7 @@ Přirozené zbraně
   zobák a spáry nedravých ptáků	1
   paroží										    1
   hadí zuby									    1
+  pařáty nemrtvých              1
   zobák a spáry dravých ptáků	  2
   zuby a drápy šelem					  2
   páráky a klektáky						  2
