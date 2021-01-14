@@ -1,3 +1,4 @@
+
 Démoni hmotní
 Démoni nehmotní
 Diblík
@@ -1094,6 +1095,18 @@ TODO: Do seznamů kouzel přidat zaklínací formule.
 
 Do kapitoly Boj:
 -----------------
+
+IDEA: Přece jen se vrátit k tomu, že vážný zranění je automatickej side effect
+  velký rány - to, že jde dát zásah za hodně životů, kterej není vážnej, je divný,
+  a ještě divnější je, že hráč je motivovanej vybírat možnosti jako "obejdu zbroj",
+  který zvednou zranění místo toho, aby bylo vážný.
+- zvednout ale práh na ránu za 6 a víc, a to jak při zásahu, tak pro léčení
+  (když se vyléčím pod 6 životů, zbavím se vážných zranění).
+- vážný zranění samo o sobě jen vyřazuje končetinu. Dodatečný efekty jako
+  "vážný zranění tě srazilo na zem" se budou kupovat za úspěchy.
+
+TODO: Blesky (a vůbec kouzla proti Fyzičce) nemají postih za vzdálenost.
+- cíl si ale hází Fyzičkou, i když je nehybnej
 
 IDEA: Nezraňující úmysly je třeba explicitně hlásit (Chci ho srazit na zem. Chci
   mu vyrazit zbraň z ruky). Když to hráč neudělá, záměr se považuje za zraňující
