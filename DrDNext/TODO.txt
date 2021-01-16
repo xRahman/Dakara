@@ -1,6 +1,5 @@
 
 Démoni hmotní
-Démoni nehmotní
 Diblík
 Drak
 .Dryáda
@@ -56,7 +55,7 @@ Zlobr jeskynní
 Zlobr skalní
 .Zombie
 
-Celkem: 133 hesel. 77 done, 56 to go
+Celkem: 132 hesel. 77 done, 55 to go
 
 
 +Pták hrozivák
@@ -448,6 +447,22 @@ Finesa
 8: 
 9: 
 
+
+------------------------------------------------
+-mark-
+
+TODO: Příklad se stvořením předmětu s démonem.
+TODO: příklad s kultem přesunout k pánovi zkázy
+TODO: Efekt posednutí u diblíka a pána zkázy
+- oba umožňují sesílat kouzla
+- diblík našeptává
+- pán zkázy plně ovládne
+TODO: Přivolávač vyvolá mocného, inteligentního démona a uzavře s ním smlouvu.
+- co může démon chtít?
+  Být uctíván?
+  Užívat si (sexuální orgie)
+
+
 ------------------------------------------------
 
 Hraničář nějak nesedne do džungoidně-pouštního settingu. Možná ho nazvat lovec?
@@ -648,6 +663,24 @@ Omezení kouzel:
 
 Dovednosti:
 ------------
+
+TODO: Dovednost Vymítání démonů
+Pokud si vezmeš tuto dovednost, přečti si v bestiáři heslo démoni a popisy démonů,
+kteří jsou tam uvedeni.
+•   Umíš provést rituál na vymítání zhoubných démonů
+••  Umíš provést rituál na vymítání a zahánění bestiálních démonů
+••• Umíš provést rituál na vymítání a zahánění inteligentních démonů
+Cons:
+- dovednost nepůjde vždycky použít (v dobrodružství musí být démoni)
+- když bude v dobrodružství vymítací rituál (což být musí), hráč v zásadě utratil
+  body zbytečně
+- když bude vymítací rituál v dobrodružství vyžadovat suroviny a postava s dovedností
+  to zvládne bez nich, tak se tím hráči připraví o content (shánění těch surovin).
+  Leda by suroviny byly nějak standardizovaný - což asi není špatnej nápad, přidá
+  to texturu.
+
+Co si o tom myslíte? Přijde vám vhodný mít ve hře dovenost, která bude použitelná jen
+při určitym obsahu dobrodružství?
 
 TODO: Až budu mít jasno, jak udělám jazyky, zohlednit to ve vzorových CPčkách
 TODO: Až budu mít jasno o systému pro alokaci dovedností, zohlednit to u vzorových CPček
@@ -1970,6 +2003,9 @@ TODO: K čemu je vlastně property "smysly"
 
 Bestiář:
 ---------
+
+IDEA: Sukuba
+- uzavírá smlouvy, propůjčuje schopnosti výměnou za sexuální orgie
 
 TODO: Až budou finální raciálky, updatnout to v popisu NPCček v bestiáři
   (mělo by to bejt správně, ale radši to zkontrolovat)
