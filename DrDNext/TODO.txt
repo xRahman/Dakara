@@ -1,8 +1,3 @@
-https://sketchfab.com/3d-models/demon-dog-animations-184413e2950843159be1a503e8da55ee
-
-
-Démoni hmotní
-Diblík
 Drak
 .Dryáda
 Duch
@@ -33,10 +28,8 @@ Neviděný
 Nezmar
 Obr
 Ogloj-chorchoj
-Pán zkázy
 Pegas
 Permoník
-Pes dvouhlavý
 Poletucha
 Přízrak
 Řasnatka
@@ -57,7 +50,7 @@ Zlobr jeskynní
 Zlobr skalní
 .Zombie
 
-Celkem: 132 hesel. 77 done, 55 to go
+Celkem: 132 hesel. 81 done, 51 to go
 
 
 +Pták hrozivák
@@ -104,9 +97,8 @@ ploštice (měřítko velikosti)
 +Brouk ohnivec
 +Cizí postavy
 +Červ obří
-Démoni hmotní
-Démoni nehmotní
-Diblík
++Démoni
++Diblík
 +Dikobraz
 +Dobytek
 Drak
@@ -181,10 +173,10 @@ Ogloj-chorchoj
 +Pavián
 +Pavouci
 +Pavoučnatka
-Pán zkázy
++Pán zkázy
 Pegas
 Permoník
-Pes dvouhlavý
++Pes dvouhlavý
 +Pes honicí
 +Pes ovčácký
 +Pes tažný
@@ -210,6 +202,7 @@ Socha oživlá
 +Sokol
 Spektra
 +Strom oživlý
++Sukuba
 +Šimpanz
 +Štír obří
 +Tygr
@@ -2005,6 +1998,8 @@ TODO: K čemu je vlastně property "smysly"
 
 Bestiář:
 ---------
+
+https://sketchfab.com/3d-models/demon-dog-animations-184413e2950843159be1a503e8da55ee
 
 IDEA: Sukuba
 - uzavírá smlouvy, propůjčuje schopnosti výměnou za sexuální orgie
