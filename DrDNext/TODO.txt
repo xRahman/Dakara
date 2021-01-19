@@ -362,6 +362,8 @@ Přirozené zbraně
   nosorožcův roh, sloní kly		  3
   zuby ještěrů a krokodýlů		  3
   zuby šavlozubého tygra			  3
+  Žraločí zuby								  3
+  Dračí zuby a drápy						3
 
 Modifikátory
   Improvizovaná zbraň:			   –1
