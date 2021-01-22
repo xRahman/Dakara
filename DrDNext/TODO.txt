@@ -448,6 +448,9 @@ Finesa
 ------------------------------------------------
 -mark-
 
+TODO: Ke všem povoláním napsat, kolik schopností/kouzel získají při přestupu
+  (Ant to tam hledal)
+
 TODO: Příklad se stvořením předmětu s démonem.
 TODO: příklad s kultem přesunout k pánovi zkázy
 TODO: Efekt posednutí u diblíka a pána zkázy
@@ -718,6 +721,8 @@ IDEA: Skok by mohla bejt samostatná dovednost (nebo atletika?)
 TODO: Ke stopování napsat, že to není jen o šlápotách, ale třeba i o trusu,
   vypadané srsti a podobně.
 
+TODO: V Heslu "Draci" u dračí řeči je napsané, že to je samostatná dovednost.
+  Pokud jazyky nebudou samostatný dovednosti, je třeba to opravit.
 
 ------------------------------------------------
 
