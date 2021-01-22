@@ -1,4 +1,3 @@
-Drak
 .Dryáda
 Duch
 Fext
@@ -50,7 +49,7 @@ Zlobr jeskynní
 Zlobr skalní
 .Zombie
 
-Celkem: 132 hesel. 81 done, 51 to go
+Celkem: 137 hesel. 87 done, 50 to go
 
 
 +Pták hrozivák
@@ -101,7 +100,12 @@ ploštice (měřítko velikosti)
 +Diblík
 +Dikobraz
 +Dobytek
-Drak
++Drak
++Drak bílý
++Drak černý
++Drak modrý
++Drak rudý
++Drak zelený
 .Dryáda
 Duch
 Fext
@@ -287,6 +291,8 @@ Zlobr skalní
 +Štír obří
 +Vážka obří
 
+TODO: V DrD se zhoubným démonům říká "démoni posedlosti"
+- je to lepší? Možná jo...
 
 TODO: Kapitoly: Boj, Průzkum podzemí, Putování
 
