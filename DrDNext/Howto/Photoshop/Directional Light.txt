@@ -1,0 +1,5 @@
+• Add a new layer
+• Fill it with Black
+• Set it's transparency to "Color Dodge"
+• Select some light color (that will be your light)
+• Gently draw with a brush around the side of the object you wish to be lit

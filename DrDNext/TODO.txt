@@ -1,7 +1,5 @@
-.Dryáda
-Duch
+-Duch
 Fext
-Gargoyla
 Ghůl
 Goblin
 Gryf
@@ -30,7 +28,7 @@ Ogloj-chorchoj
 Pegas
 Permoník
 Poletucha
-Přízrak
+.Přízrak
 Řasnatka
 Sarkon
 Skřet
@@ -49,7 +47,7 @@ Zlobr jeskynní
 Zlobr skalní
 .Zombie
 
-Celkem: 137 hesel. 87 done, 50 to go
+Celkem: 137 hesel. 89 done, 48 to go
 
 
 +Pták hrozivák
@@ -106,10 +104,10 @@ ploštice (měřítko velikosti)
 +Drak modrý
 +Drak rudý
 +Drak zelený
-.Dryáda
++Dryáda
 Duch
 Fext
-Gargoyla
++Gargoyla
 Ghůl
 Goblin
 +Gorila
