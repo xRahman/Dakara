@@ -1,8 +1,8 @@
 -Duch
-Fext
-Ghůl
+.Fext
+.Ghůl
 Goblin
-Gryf
+.Gryf
 Harpyje
 Hmyz
 Hnus plíživý
@@ -36,7 +36,7 @@ Skřetí rasy
 Skvrna barevná
 Slizovec
 Socha oživlá
-Spektra
+.Spektra
 .Tygrodlak
 .Upír
 .Vlkodlak
@@ -105,13 +105,12 @@ ploštice (měřítko velikosti)
 +Drak rudý
 +Drak zelený
 +Dryáda
-Duch
-Fext
+.Fext
 +Gargoyla
-Ghůl
+.Ghůl
 Goblin
 +Gorila
-Gryf
+.Gryf
 +Had mořský, obří
 Harpyje
 +Hroch
