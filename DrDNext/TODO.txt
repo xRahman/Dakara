@@ -1,27 +1,25 @@
--Duch
 .Fext
 .Ghůl
 Goblin
 .Gryf
-Harpyje
-Hmyz
+.Harpyje
+.Hmyz
 Hnus plíživý
 Hvozd
-Hydra
+.Hydra
 .Jednorožec
 .Kancodlak
-Kostěj nesmrtelný
 .Kostlivec
 .Krysodlak
-Lykantropové
+.Lykantropové
 Mantikora
 Medůza
 .Medvědodlak
 Moucha zlodějka
 .Mumie
-Nemrtví
+.Nemrtví
 Netvor bahenní
-Neviděný
+.Neviděný
 Nezmar
 Obr
 Ogloj-chorchoj
@@ -47,37 +45,8 @@ Zlobr jeskynní
 Zlobr skalní
 .Zombie
 
-Celkem: 137 hesel. 89 done, 48 to go
+Celkem: 137 hesel. 89 done, 46 to go
 
-
-+Pták hrozivák
-
-+Had mořský, obří
-+Koník mořský, obří
-+Krab obří
-+Kraken
-+Žralok
-
-+Panna mořská
-  TODO: Perlové náušnice a náhrdelníky
-
-
-+Huňáč modrý
-+Huňáč zelený
-
-+Keř dravý
-+Strom oživlý
-
-+Bazilišek
-Ogloj-chorchoj
-
-+Bludička
-
-Moucha zlodějka?
-Netvor bahenní?
-Pes dvouhlavý?
-Řasnatka?
-Všežrout odporný?
 
 TODO: Zmenšit zbytečně velký obrázky
 
@@ -112,7 +81,7 @@ Goblin
 +Gorila
 .Gryf
 +Had mořský, obří
-Harpyje
+.Harpyje
 +Hroch
 +Hroznýš
 Hmyz
@@ -130,7 +99,6 @@ Hydra
 +Kočka
 +Kočkodan
 +Koník mořský, obří
-Kostěj nesmrtelný
 .Kostlivec
 +Krab obří
 +Krokodýl
