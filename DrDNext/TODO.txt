@@ -1,18 +1,17 @@
 .Fext
 .Ghůl
 Goblin
-.Gryf
 .Harpyje
 .Hmyz
 Hnus plíživý
-Hvozd
+.Hvozd
 .Hydra
 .Jednorožec
 .Kancodlak
 .Kostlivec
 .Krysodlak
 .Lykantropové
-Mantikora
+.Mantikora
 Medůza
 .Medvědodlak
 Moucha zlodějka
@@ -21,9 +20,7 @@ Moucha zlodějka
 Netvor bahenní
 .Neviděný
 Nezmar
-Obr
 Ogloj-chorchoj
-Pegas
 Permoník
 Poletucha
 .Přízrak
@@ -34,18 +31,20 @@ Skřetí rasy
 Skvrna barevná
 Slizovec
 Socha oživlá
+Socha strážce, kamenná
+Socha kouzelnice, křišťálová
+Socha lva, železná
 .Spektra
 .Tygrodlak
 .Upír
 .Vlkodlak
 Všežrout odporný
 Vzluha
-Wyverna
 Zlobr jeskynní
 Zlobr skalní
 .Zombie
 
-Celkem: 137 hesel. 89 done, 46 to go
+Celkem: 140 hesel. 95 done, 45 to go
 
 
 TODO: Zmenšit zbytečně velký obrázky
@@ -79,7 +78,7 @@ ploštice (měřítko velikosti)
 .Ghůl
 Goblin
 +Gorila
-.Gryf
++Gryf
 +Had mořský, obří
 .Harpyje
 +Hroch
@@ -133,7 +132,7 @@ Netvor bahenní
 Neviděný
 Nezmar
 +Nosorožec
-Obr
++Obr
 Ogloj-chorchoj
 +Orangutan
 +Orel
@@ -143,7 +142,7 @@ Ogloj-chorchoj
 +Pavouci
 +Pavoučnatka
 +Pán zkázy
-Pegas
++Pegas
 Permoník
 +Pes dvouhlavý
 +Pes honicí
@@ -185,7 +184,7 @@ Spektra
 .Vlkodlak
 Všežrout odporný
 Vzluha
-Wyverna
++Wyverna
 Zlobr jeskynní
 Zlobr skalní
 +Zmije
@@ -193,71 +192,6 @@ Zlobr skalní
 +Zvířata
 .Žralok
 
-
-
-
-
-+aligátor
-+anakonda (obří, obyčejná)
-+bizon
-+dikobraz (obří, obyčejný)
-+dobytek
-+gorila (obří, obyčejná)
-+hroch
-+hroznýš (obří, obyčejný)
-+chřestýš
-+kobra
-+kanec
-+kočka
-+kočkodan
-+krokodýl
-+krysa (hejno krys, krysa obří, krysa obyčejná)
-+kůň (jezdecký, nákladní, obří, válečný)
-+lasice
-+lev
-+levhart
-+liška
-+mamba
-+medvěd baribal
-+medvěd brtník
-+medvěd grizzly
-+medvěd kodiak
-+medvěd lední
-+mezek
-+mula
-+netopýr (netopýr obří, netopýr obyčejný)
-+nosorožec
-+orangutan (obří, obyčejný)
-+orel (obří, obyčejný)
-+osel
-+pavián
-+pes honicí
-+pes ovčácký
-+pes tažný
-+pes válečný
-+poník
-+pták noh
-+puma
-+rys
-+slon
-+sokol
-+šimpanz
-+tygr
-+varan (obří, obyčejný)
-+velbloud
-+vlk (obyčejný, lítý)
-+zmije
-
-+Brouk ohnivec
-+Červ obří
-+Mravenec obří
-+Ploštice obří
-+Roháč obří
-+Štír obří
-+Vážka obří
-
-TODO: V DrD se zhoubným démonům říká "démoni posedlosti"
-- je to lepší? Možná jo...
 
 TODO: Kapitoly: Boj, Průzkum podzemí, Putování
 

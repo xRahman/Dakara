@@ -1,3 +1,8 @@
+TODO: V DrD se zhoubným démonům říká "démoni posedlosti"
+- je to lepší? Možná jo...
+DONE: Není to lepší, posedávat můžou všichni démoni.
+[done]
+
 TODO: Vzhled není věta, takže pryč s velkým písmenem a tečkou
 [done]
 
