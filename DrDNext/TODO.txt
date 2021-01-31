@@ -12,7 +12,7 @@ Hnus plíživý
 .Krysodlak
 .Lykantropové
 .Mantikora
-Medůza
+.Medůza
 .Medvědodlak
 Moucha zlodějka
 .Mumie
@@ -113,7 +113,7 @@ Hydra
 Lykantropové
 +Mamba černá
 Mantikora
-Medůza
+.Medůza
 +Medvěd baribal
 +Medvěd brtník
 +Medvěd grizzly
