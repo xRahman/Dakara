@@ -1,17 +1,12 @@
 .Fext
 .Ghůl
 Goblin
-.Harpyje
-.Hmyz
 Hnus plíživý
-.Hvozd
-.Hydra
 .Jednorožec
 .Kancodlak
 .Kostlivec
 .Krysodlak
 .Lykantropové
-.Mantikora
 .Medůza
 .Medvědodlak
 Moucha zlodějka
@@ -32,7 +27,7 @@ Skvrna barevná
 Slizovec
 Socha oživlá
 Socha strážce, kamenná
-Socha kouzelnice, křišťálová
+.Socha kouzelnice, křišťálová
 Socha lva, železná
 .Spektra
 .Tygrodlak
@@ -44,7 +39,7 @@ Zlobr jeskynní
 Zlobr skalní
 .Zombie
 
-Celkem: 140 hesel. 95 done, 45 to go
+Celkem: 140 hesel. 100 done, 40 to go
 
 
 TODO: Zmenšit zbytečně velký obrázky
@@ -80,15 +75,15 @@ Goblin
 +Gorila
 +Gryf
 +Had mořský, obří
-.Harpyje
++Harpyje
 +Hroch
 +Hroznýš
 Hmyz
 Hnus plíživý
 +Huňáč modrý
 +Huňáč zelený
-Hvozd
-Hydra
++Hvozd
++Hydra
 +Chřestýš
 .Jednorožec
 .Kancodlak
@@ -112,7 +107,7 @@ Hydra
 +Liška
 Lykantropové
 +Mamba černá
-Mantikora
++Mantikora
 .Medůza
 +Medvěd baribal
 +Medvěd brtník
