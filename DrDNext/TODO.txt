@@ -31,12 +31,12 @@ Všežrout odporný
 Vzluha
 Zlobr jeskynní
 Zlobr skalní
-.Zombie
 
-Celkem: 140 hesel. 106 done, 34 to go
+Celkem: 140 hesel. 107 done, 33 to go
+
+TODO: Čerstvě stvořený upír musí vraždit.
 
 TODO: Posunout wyvernu, aby byla líp vidět
-
 
 TODO: Zmenšit zbytečně velký obrázky
 
@@ -179,7 +179,7 @@ Vzluha
 Zlobr jeskynní
 Zlobr skalní
 +Zmije
-.Zombie
++Zombie
 +Zvířata
 .Žralok
 
@@ -448,10 +448,6 @@ TODO: Výhleově zkusit koupit náplň do gumovatelného pera a vyzkoušet
 TODO: Kouzlení pod vodou
   (asi jo, ale chce to zmínit u vodního dechu a předmětů umožňujících
    dýchání pod vodou).
-
-TODO: Promyslet prostředky na léčení oslepení, napsat to k příslušnejm jedům
-- zatím je tam hraničářův hojivý dotyk a léčivý lektvar. Byla by lepší extra
-  schopnost?
 
 TODO: Žádné řeky (prostředí se spoustou podzemních řek a tunelů, hlubokých jam
   s vodou na dně a tak. Dvě civilizace - jedna na povrchu, ta chytá dešťovou
@@ -951,12 +947,28 @@ Zámky
 
 ----------------------------------------------------
 
-Léčení
+Léčení:
 -------
+
+TODO: Promyslet prostředky na léčení oslepení, napsat to k příslušnejm jedům
+- zatím je tam hraničářův hojivý dotyk a léčivý lektvar. Byla by lepší extra
+  schopnost?
 
 IDEA: Zvažuju, že by pro léčení vážnejch zranění platila stejná hranice jako pro jejich získávání,
   tj. zmizela by už při dvou nedoléčenejch životech (aby zranění mohlo bejt vážný, musí bejt alespoň
   za tři životy)
+
+TODO: Duševní zranění by se asi přece jen mělo léčit jinak než fyzický
+- možná se celý vyléčí přes noc? Co dlouhotrvající duševní následky?
+- pokud by se léčilo dlouho, byly by asi potřeba schopnosti a prostředky
+  ne jeho rychlejší léčbu.
+IDEA: (Duše) životů za noc.
+  Kdo by mohl léčit duševní zranění?
+  - kněz, kterej neexistuje
+  - alchymista lektvarem
+  Možností, jak přijít k duševnímu zranění, ve hře až tak moc není, takže možná
+  tolik nevadí, když se bude léčit pomalu.
+TODO: Pak to připsat k nemrtvým.
 
 ----------------------------------------------------
 

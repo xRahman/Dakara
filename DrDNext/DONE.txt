@@ -1,3 +1,6 @@
+TODO: poladit obrázek zombie (světlo, noise reduction)
+[done]
+
 TODO: V DrD se zhoubným démonům říká "démoni posedlosti"
 - je to lepší? Možná jo...
 DONE: Není to lepší, posedávat můžou všichni démoni.
