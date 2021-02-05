@@ -3,12 +3,8 @@
 Goblin
 Hnus plíživý
 .Jednorožec
-.Kancodlak
 .Kostlivec
-.Krysodlak
-.Lykantropové
 .Medůza
-.Medvědodlak
 Moucha zlodějka
 .Mumie
 .Nemrtví
@@ -30,16 +26,16 @@ Socha strážce, kamenná
 .Socha kouzelnice, křišťálová
 Socha lva, železná
 .Spektra
-.Tygrodlak
 .Upír
-.Vlkodlak
 Všežrout odporný
 Vzluha
 Zlobr jeskynní
 Zlobr skalní
 .Zombie
 
-Celkem: 140 hesel. 100 done, 40 to go
+Celkem: 140 hesel. 106 done, 34 to go
+
+TODO: Posunout wyvernu, aby byla líp vidět
 
 
 TODO: Zmenšit zbytečně velký obrázky
@@ -86,7 +82,7 @@ Hnus plíživý
 +Hydra
 +Chřestýš
 .Jednorožec
-.Kancodlak
++Kancodlak
 +Kanec
 +Keř dravý
 +Kobra
@@ -98,14 +94,14 @@ Hnus plíživý
 +Krokodýl
 +Kraken
 +Krysa
-.Krysodlak
++Krysodlak
 +Křižák obří
 +Kůň
 +Lasice
 +Lev
 +Levhart
 +Liška
-Lykantropové
++Lykantropové
 +Mamba černá
 +Mantikora
 .Medůza
@@ -114,7 +110,7 @@ Lykantropové
 +Medvěd grizzly
 +Medvěd kodiak
 +Medvěd lední
-.Medvědodlak
++Medvědodlak
 +Mezek
 +Mořští tvorové
 +Mravenec obří
@@ -169,14 +165,14 @@ Spektra
 +Šimpanz
 +Štír obří
 +Tygr
-.Tygrodlak
++Tygrodlak
 .Upír
 +Varan
 +Vážka obří
 +Velbloud
 +Vlk
 +Vlk lítý
-.Vlkodlak
++Vlkodlak
 Všežrout odporný
 Vzluha
 +Wyverna
@@ -563,6 +559,14 @@ Omezení kouzel:
 
 Dovednosti:
 ------------
+
+IDEA: Šplhání změnit na Horolezectví (původní idea "Šplhání s pomůckami")
+  (možná ještě "lezectví")
+- základ šplhání bude od Fyzičky nebo Finesy
+  - Fyzička: Šplh po laně bez přírazu, udržet se pod stropem apod.
+  - Finesa: Vyběhnout po stěně, vyskákat mezi stěnami domu
+  - Horolezectví: slaňování, zatloukání skob, šplhání po ledovci s patřičnou výbavou,
+    překonávání převislých stěn, stavba lanových mostů
 
 TODO: Dovednost Vymítání démonů
 Pokud si vezmeš tuto dovednost, přečti si v bestiáři heslo démoni a popisy démonů,
