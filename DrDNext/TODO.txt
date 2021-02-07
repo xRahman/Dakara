@@ -344,6 +344,9 @@ Finesa
 ------------------------------------------------
 -mark-
 
+TODO: Seznamy všech schopností u povolání dát k sobě (základní, pokročilé i mistrovské)
+- na vyšších úrovních se vybírá z víc seznamů, tak ať není třeba listovat
+
 TODO: Ke všem povoláním napsat, kolik schopností/kouzel získají při přestupu
   (Ant to tam hledal)
 
@@ -564,6 +567,12 @@ IDEA: Šplhání změnit na Horolezectví (původní idea "Šplhání s pomůcka
   - Horolezectví: slaňování, zatloukání skob, šplhání po ledovci s patřičnou výbavou,
     překonávání převislých stěn, stavba lanových mostů
 
+IDEA: Na plížení aplikovat stejnou kůru jako na šplhání
+- základ plížení je od Finesy
+- k tomu je dovednost Maskování (kamufláž)
+  (pod ní by mělo patřit i maskování pachů)
+
+
 TODO: Dovednost Vymítání démonů
 Pokud si vezmeš tuto dovednost, přečti si v bestiáři heslo démoni a popisy démonů,
 kteří jsou tam uvedeni.
@@ -624,6 +633,195 @@ TODO: Ke stopování napsat, že to není jen o šlápotách, ale třeba i o tru
 TODO: V Heslu "Draci" u dračí řeči je napsané, že to je samostatná dovednost.
   Pokud jazyky nebudou samostatný dovednosti, je třeba to opravit.
 
+
+Revoluce v dovednostech:
+------------------------
+
+Vybírání kapes
+- duplicitní s rychlýma rukama.
+  Možná rychlé ruce posunout na základní schopnost a vybírání kapes zrušit
+
+Válečník
+  Čtení a psaní
+  Důstojnický výcvik
+  Etiketa
+  Lezectví
+  Lov a stopování
+  Mořeplavba
+  Ošetřování zranění
+  Orientace a přežití v divočině
+  Plavání a potápění
+  Rodina soudobých jazyků (lidské/elfské/trpaslické/krollí/hobití)
+  Skřetí jazyky
+
+Hraničář
+  Bylinkářství a léčení
+  Čtení a psaní
+  Etiketa
+  Lezectví
+  Líčení a odstraňování pastí
+  Lov a stopování
+  Maskování
+  Orientace a přežití v divočině
+  Ošetřování zranění
+  Plavání a potápění
+  Rodina soudobých jazyků (lidské/elfské/trpaslické/krollí/hobití)
+  Skřetí jazyky
+
+Kouzelník
+  Bylinkářství a léčení
+  Čtení a psaní
+  Etiketa
+  Orientace a přežití v divočině
+  Ošetřování zranění
+  Plavání a potápění
+  Řeč kouzel
+  Rodina soudobých jazyků (lidské/elfské/trpaslické/krollí/hobití)
+  Staré jazyky
+  Učenost
+
+Alchymista
+  Bylinkářství a léčení
+  Čtení a psaní
+  Etiketa
+  Orientace a přežití v divočině
+  Ošetřování zranění
+  Plavání a potápění
+  Rodina soudobých jazyků (lidské/elfské/trpaslické/krollí/hobití)
+  Staré jazyky
+  Učenost
+  Znalost magických surovin
+
+Zloděj
+  Čtení a psaní
+  Etiketa
+  Lezectví
+  Líčení a odstraňování pastí
+  Maskování
+  Mořeplavba
+  Odezírání ze rtů
+  Orientace a přežití v divočině
+  Ošetřování zranění
+  Otevírání zámků
+  Padělatelství
+  Plavání a potápění
+  Převleky a přetvářka
+  Rodina soudobých jazyků (lidské/elfské/trpaslické/krollí/hobití)
+  Vybírání kapes
+  Znalost podsvětí a černého trhu
+
+Čistě z atributu:
+  Šplhání
+  Jezdectví
+
+Obecné
+  Umím/neumím:
+    Plavání
+    Potápění
+    Čtení a psaní
+    -Důstojnický výcvik a válčení (vojenská teorie? strategie?)
+    Etiketa vyšší společnosti
+    -Falešná hra
+    Orientace a přežití v divočině
+    Jazyky
+    -Vozatajství
+    Učenost?
+    
+  Nerozhodnuto:
+    Bylinkářství a léčení
+    Ošetřování zranění
+
+  Zrušeno:
+    Břichomluvectví (zloděj na to má schopnost)
+    Únik z pout (zloděj na to má schopnost)
+    Vozatajství
+
+Znalost alchymistických surovin
+- PJ ti vždy řekne, zda z něčeho jde vytěžit kouzelná esence
+- Znáš postupy zpracování vzácných surovin (umíš z nich něco vyrobit)
+
+IDEA: Stupně psát zvlášť, tj. v seznamu by byly základy vaření / pokročilé vaření / mistrovské vaření
+
+Fluffové dovednosti
+  Falešná hra
+  Řemesla
+  Vaření
+  Umělecká dovednost
+
+IDEA: Seznam dovedností a schopností přece jen rozdělovat u všech povolání,
+ čistě kvůli přehlednosti.
+- zapsané to bude takhle:
+    Dovednosti:
+      Otevírání zámků
+    Ostatní schopnosti:
+      Probodnutí ze zálohy
+
+Jazyky:
+--------
+
+Řeč kouzel
+- určitě samostatně
+- hodilo by se zachovat ideu, že základní/pokročilý/mistrovský stupeň
+  odemyká základní/pokročilá/mistrovská kouzla ze svitků.
+  - tj. byly by to celkem tři dovednosti:
+      základy řeči kouzel
+      pokročilá řeč kouzel
+      mistrovská řeč kouzel
+  (nebo se na to vykašlat a povolit seslat libovolný kouzlo - omezení by bylo jen
+   na naučení)
+Staré jazyky
+- znáš většinu starých jazyků ve vašem světě. Některé obzvláště obskurní znát nemusíš
+Skřetí jazyky
+- goblinština a orkština, nebo obecně skřetí jazyky používané ve vašem světě
+
+Co soudobé jazyky?
+- postava bez jazykové dovednosti zná jen svou rodnou a obecnou řeč
+  (rodná řeč znamená jeden konkrétní jazyk, ne celou skupinu)
+- asi je zabalit do jazykových skupin, což defaultně bude nejspíš podle ras
+  - lidské jazyky (včetně barbarských)
+  - elfské jazyky
+  - trpaslické jazyky
+  - krollí jazyky
+  - hobití jazyky (mají separátní jazyk? Jestli jo, mluví jím i kudůci).
+- neznáš úplně všechny jazyky z dané skupiny, jen ty používané v oblasti, kde budete hrát.
+  Nový jazyk ze stejné skupiny ale pochytíš velmi rychle.
+
+TODO: Zvážit, jestli by alcháči a kouzelníci neměli platit za dovednost 2 recepty nebo
+  kouzla, tj. že by si při přestupu mohli vzít buď 2 recepty/kouzla, nebo 1 dovednost.
+
+
+Zvažuju následující změny u dovedností:
+
+• Šplhání nebude dovednost, bude čistě od Finesy, případně Fyzičky (šplhání bez přírazu a podobný silový výkony). Místo něj bude dovednost Lezectví, což bude zahrnovat použití různejch šplhacích pomůcek - zatloukání skob, stavění provazovejch mostů, slaňování, horolezectví a podobně
+
+• Plížení taky bude od Finesy, místo něj bude dovednost Maskování.
+
+• U všech dovedností zmízí stupně (základní, pokročilý, mistrovský). Místo toho se u dovedností, kde to dává smysl, bude brát ohled na hodnocení příslušné vlastnosti - K otevření nejdrsnějšího zámku bude například kromě dovednosti otevírání zámků potřeba Finesa 5. Díky tomu ve hře stále bude zlepšování dovedností (vlastnosti se zvyšují), ale bude to celkově jednodušší.
+
+• Z dovedností se stanou základní schopnosti povolání. Tj. třeba u zloděje bude otevírání zámků v seznamu schopností, ze kterých vybírá na prvních pěti úrovních. Válečník, hraničář a zloděj si tedy budou moci při přestupu vzít jednu schopnost nebo dovednost, alchymista a kouzelník si budou moci vzít dovednost místo receptu nebo kouzla.
+
+• Na první úrovni se bude vybírat víc schopností a dovedností.
+
+Válečník si na 1. úrovni vybírá 6 schopností nebo dovedností a při každém přestupu jednu schopnost nebo dovednost.
+Hraničář si na 1. úrovni vybírá 6 schopností nebo dovedností a při každém přestupu jednu schopnost nebo dovednost.
+Kouzelník si na 1. úrovni vybírá 10 kouzel nebo dovedností a při každém přestupu jedno kouzlo nebo dovednost.
+Alchymista si na 1. úrovni vybírá 10 receptů nebo dovedností a při každém přestupu jeden recept nebo dovednost.
+Zloděj si na 1. úrovni vybírá 6 schopností nebo dovedností a při každém přestupu jednu schopnost nebo dovednost.
+
+
+Kouzelník
+  původně:  4 kouzla  na 1. úrovni + 2 na 2., celkem 6
+  nově:     10 na první + 4 na 2-5.
+Kouzelník si na 1. úrovni vybírá 10 kouzel nebo dovedností a při každém přestupu jedno kouzlo nebo dovednost.
+
+
+ZVÁŽIT: Dát kouzelníkům a alchymistům stejnou progresi jako ostatní, tj. jen
+  1 kouzlo/recept za úroveň. Plus zvýšit výběr na první úrovni.
+Jo.
+
+TODO: To, že si kouzelník může připravit jedno extra kouzlo libovolné úrovně,
+  napsat do popisu Řeči kouzel.
+
 ------------------------------------------------
 
 Vliv velikosti
@@ -649,6 +847,12 @@ TODO: Pokud povolím záporné hodnoty zranění, tak je povolit i u výbušnéh
 
 Tross:
 -------
+
+TODO: Doplnit informace k Hardenské pevnosti
+- odkud vychází kouř
+- jak vypadají střechy
+TODO: Upravit mapu Hardenské pevnosti, aby hráči neviděli rozložení kostlivců
+  (přesunout je do secrets)
 
 TODO: Chaotitový orb by měl bejt zelenej (obrázek)
 - karta "Chaotitový orb" by měla mít fialovej rámeček
