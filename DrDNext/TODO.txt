@@ -1,6 +1,6 @@
 .Fext
 .Ghůl
-Goblin
+.Goblin
 Hnus plíživý
 .Jednorožec
 .Kostlivec
@@ -12,13 +12,12 @@ Netvor bahenní
 .Neviděný
 Nezmar
 Ogloj-chorchoj
+.Ork
 Permoník
 Poletucha
 .Přízrak
 Řasnatka
-Sarkon
-Skřet
-Skřetí rasy
+?Skřetí rasy (spíš to asi rozhodit k orkům a skřetům, uvidíme)
 Skvrna barevná
 Slizovec
 Socha oživlá
@@ -32,7 +31,7 @@ Vzluha
 Zlobr jeskynní
 Zlobr skalní
 
-Celkem: 140 hesel. 107 done, 33 to go
+Celkem: 137 hesel. 107 done, 32 to go (17 obrázků)
 
 TODO: Čerstvě stvořený upír musí vraždit.
 
@@ -52,7 +51,7 @@ ploštice (měřítko velikosti)
 +Bludička
 +Brouk ohnivec
 +Cizí postavy
-+Červ obří
++Červ obří 
 +Démoni
 +Diblík
 +Dikobraz
@@ -126,6 +125,7 @@ Nezmar
 +Obr
 Ogloj-chorchoj
 +Orangutan
+.Ork
 +Orel
 +Osel
 +Panna mořská
@@ -150,9 +150,7 @@ Přízrak
 +Roháč obří
 +Rys
 Řasnatka
-Sarkon
-Skřet
-Skřetí rasy
+?Skřetí rasy (spíš to asi rozhodit k orkům a skřetům, uvidíme)
 +Sklípkan obří
 Skvrna barevná
 Slizovec
