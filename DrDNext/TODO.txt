@@ -3,7 +3,6 @@
 .Goblin
 Hnus plíživý
 .Jednorožec
-.Kostlivec
 .Medůza
 Moucha zlodějka
 .Mumie
@@ -31,7 +30,7 @@ Vzluha
 Zlobr jeskynní
 Zlobr skalní
 
-Celkem: 137 hesel. 107 done, 32 to go (17 obrázků)
+Celkem: 137 hesel. 108 done, 31 to go (17 obrázků)
 
 TODO: Čerstvě stvořený upír musí vraždit.
 
@@ -88,7 +87,7 @@ Hnus plíživý
 +Kočka
 +Kočkodan
 +Koník mořský, obří
-.Kostlivec
++Kostlivec
 +Krab obří
 +Krokodýl
 +Kraken
@@ -2788,3 +2787,45 @@ TODO: Dát všechny jedy do ceníku
 TODO: Zrevidovat ceny nemovitostí
 
 -----------------------------------------
+
+Rozklad mrtvoly:
+--------------------
+
+Zhruba po pěti minutách od skonání začíná dekompozice, tedy rozklad, kdy dojde k přeměně
+organických látek na látky anorganické, jako je voda, oxid uhličitý a soli. Buňky trpí
+nedostatkem kyslíku, hromadí se v nich odpadní produkty a v těle začínají pracovat trávicí
+enzymy.
+
+Svaly ochabnou a krev se začíná vlivem gravitace přelévat do nejnižších částí těla, kde
+vytváří tmavofialové skvrny. Jakmile se kůže zcela odkrví, tělo se zbarví do běla. To vše
+během první zhruba půl hodiny po smrti.
+
+Po jedné až třech hodinách od úmrtí svaly ztuhnou. V tu chvíli není lehké s lidským tělem
+pohnout, pokožka navíc chladne a do jednoho dne se kůže začíná scvrkávat a stahovat.
+Enzymy totiž postupně tráví celé tělo a tento jev se projeví právě tak, že se na kůži
+vytvoří puchýře a kůže popraská.
+
+Tento proces funguje několik dní bez vnějšího zásahu. Dále však záleží na tom, co se
+s tělem jako takovým stane. Pokud je zpopelněno, je proměněno v popel a prach. Mnohem
+zajímavější je ale uložení těla do země. V tu chvíli už v něm naplno probíhají dva různé
+procesy.
+
+První je závislý na tom, jestli se k tělu dostaly mouchy. Pokud ano, s největší
+pravděpodobností do něj nakladly vajíčka, ze kterých se líhnou larvy. Ty začínají odumřelé části těla pojídat, ale nejsou na to samy. Lidské tělo je totiž hojně okupováno mikroorganismy, konkrétně bakteriemi, které nám za života velmi pomáhají, po smrti se ale v těle začnou nekontrolovatelně množit. Rozklad tak probíhá jak zevnitř, tak z vnějšku.
+
+Mikroorganismy se živí převážně volně přítomnými cukry a aminokyselinami. Pojídají orgány
+a měkké tkáně uvnitř našeho těla, které je zvenčí ohlodáváno larvami mušek. Ty se následně
+zakuklí a promění v dospělé mouchy, které do těla opět nakladou vajíčka. Celý tento proces
+se opakuje, dokud se mají larvy čím živit. Proběhne zhruba čtyřikrát.
+
+Pokud není tělo uloženo v rakvi nebo není pohřbeno vůbec, nastávají další fáze rozkladu.
+Tlející ostatky přilákají další zástupce hmyzu, například mravence, kteří nakladou další
+vajíčka. Larvy se poté živí proteiny a tuky. Následně se objeví první predátoři, kteří se
+živí právě larvami hmyzu. Objeví se pavouci, ptáci a posléze i větší masožravci.
+
+V případě lidského těla, které je pohřbeno, ale k této fázi většinou nedochází
+a mikroorganismy v našem těle si vystačí sami, spolu s případnými larvami. Ty na lidském
+těla pracují zhruba rok, než dojde k rozpadu kůže a měkkých částí. Do dvou let dojde
+k rozkladu chrupavek, obličeje a břišní dutina je zcela otevřena. Postupně ale dál
+funguje proces rozkladu, který končí zhruba po deseti letech. Z těla už nezůstalo nic,
+co by mohly jakékoliv organismy zpracovat, a zůstávají pouze kosti.
