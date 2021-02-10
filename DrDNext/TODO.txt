@@ -1,5 +1,4 @@
 .Fext
-.Ghůl
 .Goblin
 Hnus plíživý
 .Jednorožec
@@ -30,11 +29,10 @@ Vzluha
 Zlobr jeskynní
 Zlobr skalní
 
-Celkem: 137 hesel. 108 done, 31 to go (17 obrázků)
+Celkem: 137 hesel. 107 done, 30 to go (17 obrázků)
 
 TODO: Čerstvě stvořený upír musí vraždit.
 
-TODO: Posunout wyvernu, aby byla líp vidět
 
 TODO: Zmenšit zbytečně velký obrázky
 
@@ -555,6 +553,9 @@ Omezení kouzel:
 
 Dovednosti:
 ------------
+
+TODO: Zvážit "oceňování", "znalost cenností" nebo tak něco
+- zloděj by se dozvídal ceny rovnou, ostatní postavy by je zjistily až u obchodníka
 
 IDEA: Šplhání změnit na Horolezectví (původní idea "Šplhání s pomůckami")
   (možná ještě "lezectví")

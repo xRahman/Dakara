@@ -1,3 +1,6 @@
+TODO: Posunout wyvernu, aby byla líp vidět
+[done]
+
 TODO: poladit obrázek zombie (světlo, noise reduction)
 [done]
 
