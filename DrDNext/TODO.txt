@@ -1,7 +1,7 @@
 
 IDEA: Ohnivá kouzla - za úspěch mohou zapálit
 
-TODO: Kouzlo světlo bez soustředění jako svíčka, se soustředěním  se dá vyhulit
+TODO: Kouzlo světlo bez soustředění jako svíčka, se soustředěním se dá ohulit
 
 
 Válečník a hraničář: 6 na 1. úrovni, +1 za úroveň
@@ -30,7 +30,7 @@ Netvor bahenní
 Nezmar
 Ogloj-chorchoj
 .Ork
-Permoník
+.Permoník
 Poletucha
 .Přízrak
 Řasnatka
@@ -48,7 +48,7 @@ Vzluha
 Zlobr jeskynní
 Zlobr skalní
 
-Celkem: 137 hesel. 107 done, 30 to go (17 obrázků)
+Celkem: 137 hesel. 107 done, 30 to go (16 obrázků)
 
 TODO: Čerstvě stvořený upír musí vraždit.
 
@@ -59,6 +59,7 @@ Opravy obrázků:
 ----------------
 ploštice (měřítko velikosti)
 
+TODO: Hraničářce přidat pumu
 
 +Aligátor
 +Anakonda
