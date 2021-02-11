@@ -1,3 +1,7 @@
+TODO: Seznamy všech schopností u povolání dát k sobě (základní, pokročilé i mistrovské)
+- na vyšších úrovních se vybírá z víc seznamů, tak ať není třeba listovat
+[done]
+
 TODO: Posunout wyvernu, aby byla líp vidět
 [done]
 

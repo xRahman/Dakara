@@ -1,3 +1,22 @@
+
+IDEA: Ohnivá kouzla - za úspěch mohou zapálit
+
+TODO: Kouzlo světlo bez soustředění jako svíčka, se soustředěním  se dá vyhulit
+
+
+Válečník a hraničář: 6 na 1. úrovni, +1 za úroveň
+Zloděj: 8 na 1. úrovni, +1 za úroveň
+- možná bude stačit 6 + 1/úroveň
+Kouzelník a alchymista: 8 na 1. úrovni, +2 za úroveň
+
+TODO: Do fluffových přidat obchod
+
+TODO: Kamufláž místo Maskování
+
+TODO: Mořeplavbu do obecných
+
+TODO: Rychlé ruce přesunout do základních a zrušit Vybírání kapes
+
 .Fext
 .Goblin
 Hnus plíživý
@@ -339,11 +358,14 @@ Finesa
 ------------------------------------------------
 -mark-
 
-TODO: Seznamy všech schopností u povolání dát k sobě (základní, pokročilé i mistrovské)
-- na vyšších úrovních se vybírá z víc seznamů, tak ať není třeba listovat
-
 TODO: Ke všem povoláním napsat, kolik schopností/kouzel získají při přestupu
   (Ant to tam hledal)
+TODO: Ke všem povoláním taky dát seznam obecných dovedností, ze kterých se jedna vybírá.
+
+IDEA: Stručnej popis, co dovednosti dělaj, dát k povoláním (i když budou duplicitní).
+  detailní pravidla nedávat do kapitoly dovednosti, ale do konkrétních kapitol o danym
+  topicu. Takže třeba plížení bude popsaný někde v kapitole Průzkum.
+  - do popisu dovedností v povoláních dát na příslušná pravidla odkazy
 
 TODO: Příklad se stvořením předmětu s démonem.
 TODO: příklad s kultem přesunout k pánovi zkázy
@@ -356,6 +378,32 @@ TODO: Přivolávač vyvolá mocného, inteligentního démona a uzavře s ním s
   Být uctíván?
   Užívat si (sexuální orgie)
 
+
+Discord TODO
+-------------
+
+TODO: Změnit si nick
+TODO: Založit discord server "Dračák podle staré školy"
+- vyzkoušet, že jde přejmenovat (měl by)
+TODO: Vyzkoušet podkategorie
+  https://support.discord.com/hc/en-us/articles/115001580171-Channel-Categories-101
+TODO: Přesunout tam obrázky, linknout to na Kostku/RPG fórum
+
+
+File Storage TODO
+------------------
+
+TODO: Vyzkoušet linkování adresářů
+TODO: Vyzkoušet git na google drive, z domova i z práce
+  https://medium.com/@techstreams/git-google-drive-simple-git-host-3a84db4fc1fd
+  https://krishnakumart.medium.com/using-git-with-google-drive-fb3db6116014
+TODO: Pokud obojí zafunguje, pořídit Google One
+  https://www.timesprime.com/categories/fashion-lifestyle/google-one
+
+
+Tross TODO
+-----------
+TODO: V hardenské tvrzi označit dveře do 20 jako masivní
 
 ------------------------------------------------
 
