@@ -1,0 +1,26 @@
+1) Create a directory to contain drive cache and a mount point:
+
+D:\GoogleDrive
+D:\GoogleDrive\Cache
+D:\GoogleDrive\Drive
+
+
+2) Set mount point in registry:
+
+HKEY_CURRENT_USER\SOFTWARE\Google\DriveFS
+Name: DefaultMountPoint
+Value (string): D:\GoogleDrive\Drive
+
+
+3) Change chace directory to D:\GoogleDrive\Cache in Google Drive App preferences. This will also restart the app and activate the mount point.
+
+
+4) Mount directory D:\GoogleDrive\Drive as drive G:
+ (I used https://www.portablefreeware.com/index.php?id=1005)
+
+
+
+/*
+  More options to set in registry:
+  https://www.digitalcitizen.life/set-up-add-google-drive-file-explorer/
+*/
